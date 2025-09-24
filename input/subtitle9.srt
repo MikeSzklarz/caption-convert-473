@@ -1,0 +1,5256 @@
+1
+00:00:01,560 --> 00:00:06,600
+is that address one eight. Let's go over to address one eight.
+
+2
+00:00:10,980 --> 00:00:11,940
+That's this number.
+
+3
+00:00:12,660 --> 00:00:14,060
+And he may say we're number 16.
+
+4
+00:00:15,000 --> 00:00:18,160
+That is the number 16 because this is a minor.
+
+5
+00:00:19,400 --> 00:00:21,020
+So that number becomes
+
+6
+00:00:21,020 --> 00:00:26,040
+one zero and exit decimal is zero zero zero one.
+
+7
+00:00:26,560 --> 00:00:29,220
+This becomes four bits, zero zero zero zero.
+
+8
+00:00:29,360 --> 00:00:34,240
+So this is one, two, four, 16 columns.
+
+9
+00:00:34,780 --> 00:00:38,100
+There it is right there. So the values of stuff are not over here.
+
+10
+00:00:38,400 --> 00:00:42,580
+The value itself is actually physically encoded inside the instruction.
+
+11
+00:00:43,260 --> 00:00:43,920
+That's all it is.
+
+12
+00:00:44,780 --> 00:00:46,340
+We'll look over more on that next time.
+
+13
+00:00:46,900 --> 00:00:47,620
+How are you, David?
+
+14
+00:03:54,200 --> 00:03:55,240
+All right.
+
+15
+00:03:58,560 --> 00:03:58,980
+OK.
+
+16
+00:04:12,500 --> 00:04:29,330
+OK, so how about the thing that was due last week about the
+
+17
+00:04:29,330 --> 00:04:32,510
+matrix vector multiplication.
+
+18
+00:04:34,030 --> 00:04:35,710
+How did that turn out?
+
+19
+00:04:36,730 --> 00:04:37,290
+Did it work out?
+
+20
+00:04:39,070 --> 00:04:42,630
+Who's got a report that they're willing to use as an example?
+
+21
+00:04:42,930 --> 00:04:43,070
+Anybody?
+
+22
+00:04:49,650 --> 00:04:51,210
+Anybody feel really good about what they did?
+
+23
+00:04:53,970 --> 00:04:55,270
+I mean, you don't have an answer.
+
+24
+00:04:55,550 --> 00:04:57,150
+That's fine. I'm just asking.
+
+25
+00:05:00,700 --> 00:05:00,900
+All right.
+
+26
+00:05:01,680 --> 00:05:02,720
+Well, let's just keep on going.
+
+27
+00:05:02,900 --> 00:05:06,900
+That sounds like nobody has felt good enough about it to show.
+
+28
+00:05:07,940 --> 00:05:14,480
+So let's take the program.
+
+29
+00:05:14,700 --> 00:05:15,720
+Let's see.
+
+30
+00:05:48,860 --> 00:05:50,680
+Oh, that's on the other computer.
+
+31
+00:05:52,120 --> 00:05:52,760
+That's all right.
+
+32
+00:05:52,940 --> 00:05:57,500
+Let's go in here and download it directly from here.
+
+33
+00:06:06,720 --> 00:06:08,800
+Class undo to my sins.
+
+34
+00:06:09,660 --> 00:06:10,200
+OK.
+
+35
+00:06:15,180 --> 00:06:15,920
+OK.
+
+36
+00:06:17,520 --> 00:06:18,200
+This one here.
+
+37
+00:06:20,900 --> 00:06:21,740
+Let's go in here.
+
+38
+00:06:22,040 --> 00:06:24,380
+We'll download this.
+
+39
+00:06:25,900 --> 00:06:30,100
+Then that also referred to a set of files that were located in here.
+
+40
+00:06:30,240 --> 00:06:36,620
+That was a matrix that was up.
+
+41
+00:07:18,620 --> 00:07:18,960
+OK.
+
+42
+00:07:19,100 --> 00:07:21,040
+Have I not done this since I was a period in my computer?
+
+43
+00:07:21,860 --> 00:07:22,880
+You have not agreed to it.
+
+44
+00:07:22,940 --> 00:07:24,020
+You must agree to it.
+
+45
+00:07:24,760 --> 00:07:26,460
+Press enter to display the license.
+
+46
+00:07:56,920 --> 00:07:58,480
+I'm a little bit concerned here, honestly.
+
+47
+00:08:00,100 --> 00:08:00,380
+OK.
+
+48
+00:08:18,210 --> 00:08:19,370
+Let's see what the parameters are.
+
+49
+00:08:22,910 --> 00:08:23,350
+All right.
+
+50
+00:08:23,350 --> 00:08:26,850
+So we need to do starting, ending, increment.
+
+51
+00:08:27,610 --> 00:08:27,990
+Starting, ending.
+
+52
+00:08:28,270 --> 00:08:28,450
+OK.
+
+53
+00:08:29,290 --> 00:08:32,890
+So what was kind of the biggest thing that we did?
+
+54
+00:08:33,270 --> 00:08:34,290
+About 40,000?
+
+55
+00:08:35,130 --> 00:08:35,910
+About 40,000?
+
+56
+00:08:36,070 --> 00:08:36,270
+Yes.
+
+57
+00:08:36,910 --> 00:08:38,710
+About 5,000.
+
+58
+00:08:38,710 --> 00:08:39,630
+All right.
+
+59
+00:08:40,110 --> 00:08:41,750
+About 5,000 to 40,000.
+
+60
+00:08:42,110 --> 00:08:47,450
+Let's just do 20,000 to 40,000.
+
+61
+00:08:51,150 --> 00:08:52,230
+Another zero there, I guess.
+
+62
+00:08:53,350 --> 00:08:57,290
+Ingrants of 5,000 from 1 to 12 in increments of 1,
+
+63
+00:08:57,430 --> 00:08:59,610
+because I've got only got 12 cords here.
+
+64
+00:08:59,830 --> 00:09:00,230
+Let's see.
+
+65
+00:09:01,290 --> 00:09:07,010
+Let's let that run and do some stuff.
+
+66
+00:09:07,310 --> 00:09:09,410
+Now, the next thing while that's doing, I want to go over there
+
+67
+00:09:09,410 --> 00:09:10,530
+and look at the code itself.
+
+68
+00:09:10,970 --> 00:09:13,630
+I'm going to go over here, specifically the C program.
+
+69
+00:09:14,550 --> 00:09:14,710
+All right.
+
+70
+00:09:15,790 --> 00:09:36,730
+All right.
+
+71
+00:09:36,750 --> 00:09:37,890
+Let's start looking through this.
+
+72
+00:09:42,690 --> 00:09:45,430
+So I want to start talking a little bit about C
+
+73
+00:09:45,430 --> 00:09:47,970
+and make sure we're all on the same page about this stuff.
+
+74
+00:09:48,450 --> 00:09:50,630
+If there are questions about this stuff that's in this code,
+
+75
+00:09:50,710 --> 00:09:53,190
+I want to make sure that we feel good about it.
+
+76
+00:09:56,400 --> 00:10:03,740
+So when you say struct and then you say open curly braids,
+
+77
+00:10:03,900 --> 00:10:05,740
+closed curly braids, what you're doing
+
+78
+00:10:05,740 --> 00:10:13,740
+is you're defining a thing that can contain other data.
+
+79
+00:10:14,140 --> 00:10:15,760
+So data encapsulation.
+
+80
+00:10:16,000 --> 00:10:20,700
+So like in a programming language like C++ or Python or whatever,
+
+81
+00:10:21,060 --> 00:10:21,860
+you have objects.
+
+82
+00:10:22,760 --> 00:10:24,680
+And in these objects, they would have methods
+
+83
+00:10:24,680 --> 00:10:25,740
+and they would have data values.
+
+84
+00:10:26,140 --> 00:10:28,500
+But then see, that's not how it works.
+
+85
+00:10:28,820 --> 00:10:31,700
+You just have function calls and then you have structs
+
+86
+00:10:31,700 --> 00:10:33,180
+to hold data together that's related.
+
+87
+00:10:34,660 --> 00:10:37,880
+So it looks like that what we've got here is a struct
+
+88
+00:10:37,880 --> 00:10:40,920
+that will contain, has a couple of data numbers, rows and calls.
+
+89
+00:10:42,920 --> 00:10:45,600
+And it's got this double pointer thing over here,
+
+90
+00:10:45,940 --> 00:10:47,560
+a single pointer thing over here,
+
+91
+00:10:48,320 --> 00:10:52,340
+and then also whatever this is, which looks like a pointer.
+
+92
+00:10:52,980 --> 00:10:55,420
+It's a void pointer, which means we don't know the type of it.
+
+93
+00:10:56,260 --> 00:10:58,340
+And then the name of this thing is called matrix.
+
+94
+00:10:58,760 --> 00:11:02,120
+If you didn't have a typedef, if you didn't typedef something,
+
+95
+00:11:02,620 --> 00:11:04,980
+every single time you wanted to talk about the struct,
+
+96
+00:11:05,160 --> 00:11:07,740
+you'd have to keep saying struct this, struct that, struct this.
+
+97
+00:11:07,760 --> 00:11:10,080
+And this way you can just say matrix.
+
+98
+00:11:10,340 --> 00:11:12,660
+That way you don't have to keep saying struct.
+
+99
+00:11:12,920 --> 00:11:13,860
+So you can type it up anything.
+
+100
+00:11:14,120 --> 00:11:16,900
+You can say, I want to type it up in integer to smiley face.
+
+101
+00:11:17,640 --> 00:11:20,140
+And then you can just say smiley face x equals 5.
+
+102
+00:11:20,220 --> 00:11:22,540
+And that would mean index equals 5.
+
+103
+00:11:22,780 --> 00:11:26,660
+So typedef just means literally like alias this thing to that thing.
+
+104
+00:11:27,120 --> 00:11:27,840
+This is what that means.
+
+105
+00:11:29,680 --> 00:11:35,160
+Now, the way that this 2D memory is allocated,
+
+106
+00:11:35,400 --> 00:11:37,720
+does anybody actually look at how this worked in here?
+
+107
+00:11:38,640 --> 00:11:41,140
+Probably not, right? You didn't need to, right, to do it.
+
+108
+00:11:42,240 --> 00:11:45,900
+But we certainly probably would benefit from understanding
+
+109
+00:11:45,900 --> 00:11:47,640
+what's really going on in this program.
+
+110
+00:11:47,680 --> 00:11:49,660
+Because what about if this thing hadn't worked?
+
+111
+00:11:50,300 --> 00:11:53,840
+We had to, like, say, and ask Chats, you need to help us do something.
+
+112
+00:11:53,960 --> 00:11:55,540
+We've got this solution that didn't work.
+
+113
+00:11:56,060 --> 00:11:56,880
+We need to, like, debug it.
+
+114
+00:11:56,920 --> 00:11:59,840
+So I want us to make sure that we actually understand really what's going on here
+
+115
+00:11:59,840 --> 00:12:01,660
+because that's, that's what matters.
+
+116
+00:12:02,480 --> 00:12:05,880
+But clearly there's some kind of thing that's going to be a container
+
+117
+00:12:05,880 --> 00:12:07,620
+to contain matrices.
+
+118
+00:12:08,480 --> 00:12:12,520
+But now certainly there's nothing in here.
+
+119
+00:12:12,640 --> 00:12:15,480
+So this thing by itself hasn't actually allocated any matrix
+
+120
+00:12:15,480 --> 00:12:18,600
+because you don't know what the number of rows and columns are
+
+121
+00:12:18,600 --> 00:12:20,800
+until you open the file, right?
+
+122
+00:12:21,540 --> 00:12:23,360
+Like, the matrices are going to multiply together.
+
+123
+00:12:23,580 --> 00:12:25,320
+Say, like, matrix A times vector B.
+
+124
+00:12:26,400 --> 00:12:28,120
+I don't know what their sizes are,
+
+125
+00:12:28,200 --> 00:12:31,520
+and I have to compile this program and then run it, right?
+
+126
+00:12:31,800 --> 00:12:37,580
+But you get in C, if you don't know what something is at compile time,
+
+127
+00:12:38,440 --> 00:12:41,240
+that means you have to figure it out at runtime, right?
+
+128
+00:12:41,840 --> 00:12:46,440
+Well, normally when you allocate memory, like, if you use a static array,
+
+129
+00:12:46,600 --> 00:12:49,240
+like, make a bigger array that's 5,000 by 5,000,
+
+130
+00:12:49,820 --> 00:12:52,900
+well, you could do that at compile time if you wanted to.
+
+131
+00:12:53,660 --> 00:12:55,840
+But then what about if your matrix was 10,000 by 10,000?
+
+132
+00:12:55,940 --> 00:12:56,660
+It would be big enough.
+
+133
+00:12:57,100 --> 00:13:01,240
+So there is no great way to dynamically allocate something
+
+134
+00:13:01,240 --> 00:13:08,580
+with a regular array nomenclature at compile time in C, unfortunately.
+
+135
+00:13:09,740 --> 00:13:13,220
+That's why this is all being done dynamically when you execute it.
+
+136
+00:13:13,600 --> 00:13:17,600
+So when it opens that matrix file and it reads the metadata out of it,
+
+137
+00:13:17,820 --> 00:13:18,740
+the rows and columns,
+
+138
+00:13:19,140 --> 00:13:25,220
+at that point it will then go allocate storage space and memory for that file, right?
+
+139
+00:13:25,460 --> 00:13:27,100
+Because that's how this is happening, right?
+
+140
+00:13:27,780 --> 00:13:31,380
+Our matrices, when they were created, you know,
+
+141
+00:13:31,540 --> 00:13:37,560
+if this was like 1, 2, 3, 4, 5, 6, what's actually in the file,
+
+142
+00:13:37,720 --> 00:13:40,560
+if you thought about the file that's out there on the file system
+
+143
+00:13:40,560 --> 00:13:44,480
+as a linear array of words, then it would be the number of rows
+
+144
+00:13:44,480 --> 00:13:47,980
+followed by the number of columns, then followed by the data.
+
+145
+00:13:51,100 --> 00:13:54,200
+So when you got to read that first thing, read that second thing,
+
+146
+00:13:54,240 --> 00:13:55,800
+now you know the number of rows and columns,
+
+147
+00:13:55,800 --> 00:13:57,880
+then you can allocate the memory for it, all right?
+
+148
+00:13:58,020 --> 00:13:59,600
+So that's kind of what's happening.
+
+149
+00:13:59,920 --> 00:14:00,880
+So let's go take a look here.
+
+150
+00:14:00,940 --> 00:14:04,700
+We've got a section that talks about, you know,
+
+151
+00:14:04,880 --> 00:14:07,800
+giving us a usage statement.
+
+152
+00:14:08,960 --> 00:14:10,420
+What is all of this stuff here?
+
+153
+00:14:10,540 --> 00:14:14,400
+Wow, it's got some stuff that checks to see whether overflow is taking place.
+
+154
+00:14:14,920 --> 00:14:19,520
+Because in standard in C, if you just go and multiply and add things together,
+
+155
+00:14:19,820 --> 00:14:21,680
+overflow can happen and just keep right on going.
+
+156
+00:14:21,920 --> 00:14:22,900
+I mean, it doesn't check.
+
+157
+00:14:22,960 --> 00:14:24,800
+It doesn't check to see if everything's okay or not.
+
+158
+00:14:24,840 --> 00:14:27,540
+Even though the computer could be checking and it's not doing that,
+
+159
+00:14:27,880 --> 00:14:32,080
+because it's kind of saying that check typically takes a little extra time
+
+160
+00:14:32,080 --> 00:14:33,820
+and you guys are supposed to be programming.
+
+161
+00:14:34,040 --> 00:14:36,460
+You wouldn't have asked me to do something that would have caused overflow
+
+162
+00:14:36,460 --> 00:14:38,500
+because you guys know what you're talking about, right?
+
+163
+00:14:38,620 --> 00:14:41,000
+The data, you shouldn't add things that are too big.
+
+164
+00:14:41,140 --> 00:14:42,920
+You shouldn't multiply things that are too big, right?
+
+165
+00:14:43,540 --> 00:14:48,860
+But this thing is then saying, hey, actually, we're going to go figure out
+
+166
+00:14:48,860 --> 00:14:53,280
+whether or not overflow could or occur whenever you're doing this stuff.
+
+167
+00:14:55,280 --> 00:14:59,860
+And if the computer has a built-in thing that will do this sort of stuff
+
+168
+00:14:59,860 --> 00:15:05,240
+and it has a built-in thing to check to see if multiplication's happening here,
+
+169
+00:15:05,660 --> 00:15:08,480
+then it's going to return this multiplication with overflow.
+
+170
+00:15:08,660 --> 00:15:10,640
+Like, in other words, if there's an assembly instruction
+
+171
+00:15:10,640 --> 00:15:14,440
+that actually have something that would set a bit equal to something
+
+172
+00:15:14,440 --> 00:15:17,000
+if overflow's occurring, then I would take my numbers
+
+173
+00:15:17,000 --> 00:15:19,220
+and I wanted to be multiplying together and do it.
+
+174
+00:15:20,760 --> 00:15:22,660
+Obviously, there's some stuff going on with that.
+
+175
+00:15:22,800 --> 00:15:23,540
+I don't know about that.
+
+176
+00:15:23,840 --> 00:15:26,680
+These are helpers to try to ensure whether overflow occurred or not.
+
+177
+00:15:26,960 --> 00:15:29,180
+Now, I don't expect you to know.
+
+178
+00:15:30,140 --> 00:15:31,420
+I don't expect you to replicate this.
+
+179
+00:15:31,520 --> 00:15:32,440
+I don't expect you to know that.
+
+180
+00:15:32,960 --> 00:15:35,200
+I'm saying that just that's what it's there for.
+
+181
+00:15:35,440 --> 00:15:38,540
+It's checking our architectural dependencies and library dependencies.
+
+182
+00:15:38,820 --> 00:15:41,300
+Like, hey, if this thing's capable of dealing with this,
+
+183
+00:15:41,340 --> 00:15:42,780
+we should take overflow to a count.
+
+184
+00:15:43,080 --> 00:15:45,680
+But if we don't, if we can't do that, then we're not going to do it.
+
+185
+00:15:45,760 --> 00:15:48,620
+We're just going to do regular multiplies and adds and stuff.
+
+186
+00:15:51,100 --> 00:15:55,300
+Alright, because the range of multiplication just involves multiplication and addition, right?
+
+187
+00:15:55,580 --> 00:15:59,760
+So it's got two helper strips to see whether or not overflow took place with respect to add,
+
+188
+00:16:00,060 --> 00:16:04,540
+whether overflow took place with respect to multiply.
+
+189
+00:16:05,740 --> 00:16:13,060
+Now, this thing is the thing that apparently allocates a 2D matrix.
+
+190
+00:16:15,400 --> 00:16:18,260
+And it says, do it using one malloc.
+
+191
+00:16:21,610 --> 00:16:26,270
+Now, I, you know, normally like in the class 207,
+
+192
+00:16:26,710 --> 00:16:27,990
+does anybody think 207 here?
+
+193
+00:16:28,690 --> 00:16:31,550
+That's the C or C++ programming-only class.
+
+194
+00:16:31,770 --> 00:16:32,470
+Like, where did it do that?
+
+195
+00:16:32,610 --> 00:16:33,270
+Nobody took that, right?
+
+196
+00:16:33,270 --> 00:16:34,470
+It's not a true revisit for this class.
+
+197
+00:16:36,090 --> 00:16:39,290
+You would typically go over the three main ways to allocate a matrix.
+
+198
+00:16:39,490 --> 00:16:42,390
+So I want us to do that using chat GPT
+
+199
+00:16:42,390 --> 00:16:47,150
+so we can compare and contrast the different ways of doing 2D array allocation, okay?
+
+200
+00:16:48,910 --> 00:16:51,790
+So, and then we'll see that one of them is this type.
+
+201
+00:16:53,810 --> 00:16:58,210
+But I would say that this is an important thing that you need to know
+
+202
+00:16:58,210 --> 00:17:01,190
+because this comes up all the time in straight C, okay?
+
+203
+00:17:01,770 --> 00:17:03,850
+Because if you want to do something that's multidimensional,
+
+204
+00:17:04,130 --> 00:17:07,490
+it doesn't have multidimensional available to you.
+
+205
+00:17:07,590 --> 00:17:10,750
+So you've got to be able to fade it with this stuff here, okay?
+
+206
+00:17:11,570 --> 00:17:14,150
+So, let's go over to chat GPT.
+
+207
+00:17:16,170 --> 00:17:17,570
+All right.
+
+208
+00:17:17,570 --> 00:17:21,410
+You know, straight ANZC.
+
+209
+00:17:21,830 --> 00:17:25,590
+So that's, you know, what about international standard ANZC.
+
+210
+00:17:25,970 --> 00:17:32,910
+So let's say, God, I'm not spelling this horrible.
+
+211
+00:17:33,390 --> 00:17:37,150
+Let's say C99 standard because that's the standard that we're using, right?
+
+212
+00:17:42,230 --> 00:17:50,400
+Show four ways to declare and initialize
+
+213
+00:17:50,400 --> 00:17:54,480
+or declare a 2D array.
+
+214
+00:17:54,480 --> 00:17:58,350
+Let's see, one, statically.
+
+215
+00:18:00,050 --> 00:18:06,590
+It is known dimensions at compile time.
+
+216
+00:18:08,990 --> 00:18:12,090
+C number two, dynamically.
+
+217
+00:18:14,770 --> 00:18:32,320
+Let's see, using a 1D array, using a 2D allocation with two mallets
+
+218
+00:18:32,320 --> 00:18:37,320
+and a 2D allocation with one mallet.
+
+219
+00:18:43,630 --> 00:18:46,790
+And then let's see, if you put this code inside of a function,
+
+220
+00:18:47,010 --> 00:18:48,610
+it even makes it harder to understand.
+
+221
+00:18:48,890 --> 00:18:51,250
+So, let's do this.
+
+222
+00:18:51,970 --> 00:18:56,530
+Show these three methods
+
+223
+00:18:56,530 --> 00:19:03,510
+directly as if they were in main
+
+224
+00:19:03,510 --> 00:19:12,570
+without being hidden or separated into a function call.
+
+225
+00:19:15,050 --> 00:19:19,450
+Explain it to us like you would a student
+
+226
+00:19:19,450 --> 00:19:23,210
+seeing this for the first time.
+
+227
+00:19:23,210 --> 00:19:25,010
+Let's see what happens.
+
+228
+00:19:32,620 --> 00:19:33,520
+We're going to do it all inside of main.
+
+229
+00:19:33,720 --> 00:19:34,720
+The reason I'm doing it inside of main
+
+230
+00:19:34,720 --> 00:19:37,340
+is because if you put it inside of a function,
+
+231
+00:19:37,340 --> 00:19:40,040
+there's an additional level of indirection with pointers,
+
+232
+00:19:40,300 --> 00:19:41,180
+so there's more stars.
+
+233
+00:19:42,240 --> 00:19:42,800
+Show it this way.
+
+234
+00:19:42,960 --> 00:19:45,460
+First, now we're going to say, now, let's factor those into function calls.
+
+235
+00:19:45,880 --> 00:19:48,160
+And look at that, because that's what the people,
+
+236
+00:19:50,080 --> 00:19:54,720
+the chat GBT did in this original implementation of this thing over there.
+
+237
+00:19:55,000 --> 00:19:57,520
+It's a hard-coded dimension, it's the simplest,
+
+238
+00:19:57,980 --> 00:20:01,160
+but it's totally inflexible because you have to know in a priori
+
+239
+00:20:01,160 --> 00:20:02,540
+how big the matrices are.
+
+240
+00:20:04,300 --> 00:20:08,420
+Dynamically using a flat 1D block and simulating 2D indexing.
+
+241
+00:20:09,120 --> 00:20:12,060
+Dynamically with two allets, so rows and columns.
+
+242
+00:20:16,640 --> 00:20:19,900
+Ooh, so there's actually, so we need to have another way.
+
+243
+00:20:20,140 --> 00:20:22,240
+There's a fourth way I didn't think about right here.
+
+244
+00:20:22,920 --> 00:20:26,100
+And then, with one malloc, everything together.
+
+245
+00:20:26,800 --> 00:20:27,140
+Okay, cool.
+
+246
+00:20:29,240 --> 00:20:30,220
+Let's take a look at this.
+
+247
+00:20:30,460 --> 00:20:32,320
+I want us to look at this, just, I mean, we're really,
+
+248
+00:20:32,500 --> 00:20:33,520
+we're trying to learn here, okay?
+
+249
+00:20:36,340 --> 00:20:38,800
+Old school would be like, I'm going to declare an array A.
+
+250
+00:20:39,260 --> 00:20:41,580
+It's got two dimensions, it's three and four.
+
+251
+00:20:42,720 --> 00:20:43,400
+And there you go.
+
+252
+00:20:44,140 --> 00:20:46,380
+Fill it up with some stuff, print it out.
+
+253
+00:20:46,980 --> 00:20:47,680
+There we go.
+
+254
+00:20:48,200 --> 00:20:50,700
+But the problem is, when you compile it,
+
+255
+00:20:51,260 --> 00:20:53,980
+this is three and four, you had to know that before you started it.
+
+256
+00:20:55,100 --> 00:20:56,840
+Like, you can't do the following.
+
+257
+00:20:58,740 --> 00:21:02,060
+And even if you could, you might find that unless you compile it,
+
+258
+00:21:02,220 --> 00:21:04,640
+you would never be able to factor it into a function call
+
+259
+00:21:04,640 --> 00:21:06,340
+and everything needs to be in a function call.
+
+260
+00:21:06,460 --> 00:21:10,320
+You might come in here and say, let this be X, let this be Y,
+
+261
+00:21:10,440 --> 00:21:12,900
+and I'll scan F, X into here.
+
+262
+00:21:13,400 --> 00:21:14,860
+I'll scan F, I'll make it variable.
+
+263
+00:21:15,460 --> 00:21:16,980
+You might find that that worked.
+
+264
+00:21:20,310 --> 00:21:22,890
+But that's because it's inside a main, it was inside of a function
+
+265
+00:21:22,890 --> 00:21:26,150
+because anything that's inside of a function is allocated on the stack.
+
+266
+00:21:27,270 --> 00:21:29,570
+But when the stack returns, when the function call,
+
+267
+00:21:29,850 --> 00:21:31,150
+everything on the stack has been allocated.
+
+268
+00:21:31,950 --> 00:21:36,150
+What about if you want the matrix to live after the function call?
+
+269
+00:21:36,830 --> 00:21:38,690
+Like, allocate me a matrix, return.
+
+270
+00:21:39,770 --> 00:21:42,710
+If returning means the stack gets popped off, that ain't going to help us, right?
+
+271
+00:21:44,030 --> 00:21:48,310
+So even if you wanted to do what's called a VLA, a variable length array,
+
+272
+00:21:48,730 --> 00:21:53,770
+that only works as long as the lifetime of the function in which it's embedded.
+
+273
+00:21:54,910 --> 00:21:57,890
+And a lot of students get confused over, I wrote my main program and it worked fine.
+
+274
+00:21:58,150 --> 00:22:01,970
+That's right, because main never returned until the program was over.
+
+275
+00:22:02,950 --> 00:22:05,830
+But if it had been inside of a function call,
+
+276
+00:22:06,310 --> 00:22:08,550
+as soon as the function returned, that damn matrix is gone.
+
+277
+00:22:09,050 --> 00:22:10,730
+So you can't do this in general.
+
+278
+00:22:11,090 --> 00:22:13,110
+This is not how to do this.
+
+279
+00:22:14,150 --> 00:22:17,430
+This would only be useful if you knew our priority,
+
+280
+00:22:17,730 --> 00:22:20,830
+that every matrix you're going to deal with is exactly the size,
+
+281
+00:22:21,170 --> 00:22:25,390
+and every matrix you deal with is only going to live in the lifetime
+
+282
+00:22:25,390 --> 00:22:28,690
+of the function within which it is embedded.
+
+283
+00:22:30,490 --> 00:22:32,450
+Because if you did this in a function called food,
+
+284
+00:22:32,950 --> 00:22:34,030
+and then you called food,
+
+285
+00:22:34,910 --> 00:22:36,950
+matrix A would be gone as soon as it returned,
+
+286
+00:22:37,050 --> 00:22:40,170
+because this is an immediate thing inside that stack.
+
+287
+00:22:40,170 --> 00:22:42,050
+It only lives in the scope of that function.
+
+288
+00:22:42,430 --> 00:22:43,290
+Does that make sense?
+
+289
+00:22:44,230 --> 00:22:44,330
+Okay.
+
+290
+00:22:45,830 --> 00:22:48,190
+You access it with two things, I and J,
+
+291
+00:22:48,430 --> 00:22:50,530
+like you would normally think you would do for a 2D array.
+
+292
+00:22:50,650 --> 00:22:52,210
+That's why it's simple, totally easy.
+
+293
+00:22:52,450 --> 00:22:53,090
+Does that make sense?
+
+294
+00:22:54,550 --> 00:22:58,190
+And by the way, I'll share this conversation out with folks.
+
+295
+00:22:59,270 --> 00:23:00,490
+It's good that you're writing.
+
+296
+00:23:00,630 --> 00:23:02,190
+I think it's important to write stuff,
+
+297
+00:23:02,290 --> 00:23:04,050
+because I think that helps you commit stuff to memory.
+
+298
+00:23:04,190 --> 00:23:07,430
+I'll share this, let me just share this conversation.
+
+299
+00:23:07,910 --> 00:23:11,050
+That's why I didn't close the one from 210.
+
+300
+00:23:11,410 --> 00:23:12,990
+I'm going to share that with the folks.
+
+301
+00:23:13,430 --> 00:23:15,450
+I know I can get to it, but I just like having it up there.
+
+302
+00:23:16,750 --> 00:23:17,130
+All right.
+
+303
+00:23:19,460 --> 00:23:20,960
+The compiler knows it beforehand,
+
+304
+00:23:21,260 --> 00:23:22,760
+and all the memory lives on the stack.
+
+305
+00:23:23,180 --> 00:23:25,720
+As I said, it won't help later if it's in a function call,
+
+306
+00:23:25,840 --> 00:23:26,880
+so we might as well screw this.
+
+307
+00:23:26,960 --> 00:23:28,160
+This is not ever useful.
+
+308
+00:23:29,940 --> 00:23:32,300
+Unless the matrix size is non-forehand,
+
+309
+00:23:32,760 --> 00:23:35,420
+and it never changes and only lives inside the function.
+
+310
+00:23:35,760 --> 00:23:38,120
+It's like if you need a tiny little place to play with something.
+
+311
+00:23:38,400 --> 00:23:39,680
+It's just there and gone.
+
+312
+00:23:40,080 --> 00:23:40,540
+Cool, that's cool.
+
+313
+00:23:40,960 --> 00:23:41,940
+But nothing that stays around.
+
+314
+00:23:42,060 --> 00:23:45,000
+Now, one-dimensional with a block.
+
+315
+00:23:45,460 --> 00:23:45,800
+OK, cool.
+
+316
+00:23:46,020 --> 00:23:48,540
+So before now, we just had standard IOs
+
+317
+00:23:48,540 --> 00:23:49,300
+so we could do prints.
+
+318
+00:23:50,020 --> 00:23:53,300
+Now we've got standard IOs, and we have standard lib.
+
+319
+00:23:53,840 --> 00:23:56,800
+Because malloc, the functionality for memory allocation,
+
+320
+00:23:57,060 --> 00:23:58,600
+is inside standard lib.
+
+321
+00:23:58,740 --> 00:24:00,100
+That's why I'd have to include it.
+
+322
+00:24:03,320 --> 00:24:05,780
+So now here, we're like, OK, cool.
+
+323
+00:24:06,380 --> 00:24:09,220
+Rows equals 3, columns equals to 4.
+
+324
+00:24:10,020 --> 00:24:11,420
+And they did it this way.
+
+325
+00:24:11,760 --> 00:24:13,340
+You might say, well, that's hard-coded, too.
+
+326
+00:24:14,340 --> 00:24:14,980
+That's true.
+
+327
+00:24:15,220 --> 00:24:18,640
+But you could also have just done rv of a to i.
+
+328
+00:24:19,140 --> 00:24:21,000
+Rv of a to i of rv.
+
+329
+00:24:21,060 --> 00:24:21,980
+That would work here, too.
+
+330
+00:24:22,600 --> 00:24:23,440
+But it is right.
+
+331
+00:24:23,540 --> 00:24:25,240
+This doesn't prove anything, because this is also
+
+332
+00:24:25,240 --> 00:24:26,240
+hard-coded in here.
+
+333
+00:24:26,520 --> 00:24:28,900
+You know, if you made a compiler call to do this,
+
+334
+00:24:29,660 --> 00:24:32,840
+it might not even allocate a variable of memory to call rows.
+
+335
+00:24:33,040 --> 00:24:33,900
+Because look at this.
+
+336
+00:24:34,620 --> 00:24:36,180
+The rows never change.
+
+337
+00:24:36,680 --> 00:24:38,660
+Literally, that 3 could be inside of an instruction.
+
+338
+00:24:38,960 --> 00:24:41,080
+It might even optimize out those variables.
+
+339
+00:24:41,240 --> 00:24:43,480
+If you really want to make sure that it stops working,
+
+340
+00:24:44,600 --> 00:24:46,400
+you would pass it through the argument list
+
+341
+00:24:46,400 --> 00:24:48,060
+and grab it dynamically.
+
+342
+00:24:48,220 --> 00:24:52,660
+That way, you know that it has to be working dynamically,
+
+343
+00:24:52,660 --> 00:24:55,160
+because it couldn't have done it in compile time.
+
+344
+00:24:55,260 --> 00:24:55,720
+Does that make sense?
+
+345
+00:24:57,220 --> 00:24:58,020
+You know, a weird thing.
+
+346
+00:24:58,180 --> 00:25:00,040
+Like, if you compile this into assembly code,
+
+347
+00:25:00,160 --> 00:25:03,700
+you might be like, there's not even
+
+348
+00:25:03,700 --> 00:25:06,280
+a place where we did a store word into this memory of 3.
+
+349
+00:25:06,520 --> 00:25:07,380
+Well, because it doesn't need to be.
+
+350
+00:25:08,580 --> 00:25:10,540
+You never change it.
+
+351
+00:25:12,220 --> 00:25:14,660
+Why move stuff to and from memory if it's just 3?
+
+352
+00:25:14,800 --> 00:25:15,480
+It's always the 3.
+
+353
+00:25:15,640 --> 00:25:16,180
+It won't change it.
+
+354
+00:25:16,300 --> 00:25:17,900
+So you need to be careful with stuff like that,
+
+355
+00:25:17,900 --> 00:25:20,020
+if you ever look at assembly code that comes out of this.
+
+356
+00:25:21,100 --> 00:25:24,300
+So it says I want to allocate some space
+
+357
+00:25:24,300 --> 00:25:25,840
+of a certain number of bytes.
+
+358
+00:25:26,400 --> 00:25:28,500
+And this thing says I want to take the number of rows
+
+359
+00:25:28,500 --> 00:25:32,020
+times the number of columns times the size of each one
+
+360
+00:25:32,020 --> 00:25:33,360
+of these elements, and I want it dynamically
+
+361
+00:25:33,360 --> 00:25:34,620
+allocated to be that big.
+
+362
+00:25:35,240 --> 00:25:39,720
+But now, malloc returns a void saw, a pointer to something.
+
+363
+00:25:40,940 --> 00:25:43,480
+But now, in this case, it's not just a something.
+
+364
+00:25:44,780 --> 00:25:47,400
+It's a pointer to a bunch of integers.
+
+365
+00:25:47,600 --> 00:25:49,940
+Because so what this thing does is, like, literally, what
+
+366
+00:25:49,940 --> 00:25:52,360
+just happens in here is the following.
+
+367
+00:25:52,980 --> 00:25:56,720
+On the stack, you've got rows equals 3.
+
+368
+00:25:56,860 --> 00:25:58,980
+You've got calls equals how much?
+
+369
+00:26:00,140 --> 00:26:00,560
+4.
+
+370
+00:26:01,200 --> 00:26:03,360
+You've got, now, b.
+
+371
+00:26:04,040 --> 00:26:08,220
+You've got b equals the return value of the malloc.
+
+372
+00:26:08,320 --> 00:26:09,640
+Malloc returns a pointer.
+
+373
+00:26:10,060 --> 00:26:11,380
+Like, I don't know.
+
+374
+00:26:11,500 --> 00:26:13,000
+This is the stack from 210.
+
+375
+00:26:16,650 --> 00:26:19,570
+If this is address, let's say that this is address a.
+
+376
+00:26:20,150 --> 00:26:21,990
+Let's say this is address 0.
+
+377
+00:26:22,190 --> 00:26:23,150
+This is address 4.
+
+378
+00:26:23,310 --> 00:26:24,210
+This is address 8.
+
+379
+00:26:24,350 --> 00:26:25,410
+And this is address c.
+
+380
+00:26:26,010 --> 00:26:27,110
+And this is rows.
+
+381
+00:26:27,610 --> 00:26:28,430
+This is calls.
+
+382
+00:26:29,330 --> 00:26:30,050
+This is b.
+
+383
+00:26:31,330 --> 00:26:33,610
+And let's say when you dynamically allocate it,
+
+384
+00:26:33,670 --> 00:26:35,050
+of course, that doesn't happen on the stack.
+
+385
+00:26:35,250 --> 00:26:35,930
+That happens on heat.
+
+386
+00:26:36,990 --> 00:26:40,750
+So you say, hey, malloc, go make me some space on the heat.
+
+387
+00:26:41,030 --> 00:26:41,830
+It says, cool.
+
+388
+00:26:42,530 --> 00:26:48,830
+Address 0, x, f, 7, 7, 8 is where these bytes are.
+
+389
+00:26:48,850 --> 00:26:50,110
+How many bytes are there?
+
+390
+00:26:51,750 --> 00:26:54,770
+Rows times columns times the size of each thing.
+
+391
+00:26:54,950 --> 00:26:58,110
+So the size of an integer, let's say, is 4 bytes.
+
+392
+00:26:58,730 --> 00:27:02,850
+That's going to be 3 times 4 times 4.
+
+393
+00:27:03,390 --> 00:27:07,950
+That many bytes, the beginning address of that is f, 7, 7, 8.
+
+394
+00:27:08,710 --> 00:27:23,130
+And therefore now, f, 7, 7, 8 is the address of where that is.
+
+395
+00:27:23,390 --> 00:27:28,430
+Because now that means b is a pointer to the address of the memory that just got malloc.
+
+396
+00:27:32,430 --> 00:27:32,790
+OK?
+
+397
+00:27:32,670 --> 00:27:33,570
+We've got them happening.
+
+398
+00:27:33,750 --> 00:27:35,470
+This is like a review from 210, probably.
+
+399
+00:27:36,410 --> 00:27:37,610
+And then it just says, cool.
+
+400
+00:27:37,770 --> 00:27:39,050
+I want to access this.
+
+401
+00:27:39,230 --> 00:27:40,290
+And what is it doing here?
+
+402
+00:27:41,450 --> 00:27:43,410
+Anybody got any idea what it's doing right here on this line?
+
+403
+00:27:44,990 --> 00:27:48,250
+If not b, what does that mean?
+
+404
+00:27:48,470 --> 00:27:49,290
+Why are they doing that?
+
+405
+00:27:51,830 --> 00:27:54,450
+Making sure that the allocation of b works.
+
+406
+00:27:55,330 --> 00:27:55,890
+OK?
+
+407
+00:27:56,450 --> 00:28:05,570
+Because when you malloc something, if malloc blows out and screws up, it's going to return
+
+408
+00:28:05,570 --> 00:28:06,430
+a null pointer.
+
+409
+00:28:07,610 --> 00:28:10,430
+And null pointer just means the number is 0.
+
+410
+00:28:12,270 --> 00:28:15,470
+There's nothing inherent about any of the values that it means as a pointer.
+
+411
+00:28:16,370 --> 00:28:21,250
+Pointers and numbers are literally the same thing, like the pointer a and the number a
+
+412
+00:28:21,270 --> 00:28:25,310
+are the exact same thing depending on how we use it.
+
+413
+00:28:26,170 --> 00:28:29,130
+So when it screws up, it returns to 0.
+
+414
+00:28:29,830 --> 00:28:31,390
+So 0 happens over here.
+
+415
+00:28:31,730 --> 00:28:33,550
+If it were to screw up into the 0 here.
+
+416
+00:28:34,190 --> 00:28:40,910
+And if you say, if not 0, so when you say not 0, the complement of 0 is a 1.
+
+417
+00:28:41,310 --> 00:28:44,470
+So if true, end early.
+
+418
+00:28:45,370 --> 00:28:48,970
+Else we know that if it gets past this, the mount must have been OK.
+
+419
+00:28:49,850 --> 00:28:51,370
+That's what's happening here.
+
+420
+00:28:52,450 --> 00:28:57,870
+And then after that, what happens is it goes and sticks to stuff in memory.
+
+421
+00:28:58,030 --> 00:29:02,810
+But what's happening is it takes i times columns plus j.
+
+422
+00:29:02,910 --> 00:29:06,030
+We already discussed this in this class, I believe, when I'm out of this, right?
+
+423
+00:29:07,610 --> 00:29:12,350
+So this is this way, the one malloc with the 1d malloc.
+
+424
+00:29:12,990 --> 00:29:14,710
+Let's move on to the next one.
+
+425
+00:29:18,430 --> 00:29:19,130
+The memory is contiguous.
+
+426
+00:29:19,610 --> 00:29:20,350
+That's important.
+
+427
+00:29:21,170 --> 00:29:23,790
+What's important about the memory being continuous?
+
+428
+00:29:24,710 --> 00:29:26,510
+It says, because it's for performance, why?
+
+429
+00:29:27,650 --> 00:29:32,550
+Why would it matter if the data for this matrix was next to each other in memory?
+
+430
+00:29:37,260 --> 00:29:37,840
+That's true.
+
+431
+00:29:38,040 --> 00:29:38,720
+Why would that matter?
+
+432
+00:29:40,760 --> 00:29:41,720
+Let's say you didn't have to search.
+
+433
+00:29:41,880 --> 00:29:42,820
+You knew exactly where they were.
+
+434
+00:29:42,940 --> 00:29:44,000
+Why would you not want to do that?
+
+435
+00:29:46,100 --> 00:29:47,660
+That is true, but that's not the reason.
+
+436
+00:29:50,140 --> 00:30:03,040
+It has to do with caching because the way hashing works in the computer is that this is a,
+
+437
+00:30:04,100 --> 00:30:12,200
+let's suppose that this were equal to, I don't know, let's just say this was 40, 96 bytes.
+
+438
+00:30:12,740 --> 00:30:14,200
+I know it's not, but let's say it was.
+
+439
+00:30:14,860 --> 00:30:19,140
+And let's say every block in cache was 20, 48 blocks.
+
+440
+00:30:20,000 --> 00:30:26,920
+So the very first time you tried to read this memory, if it's in cache,
+
+441
+00:30:27,160 --> 00:30:30,380
+or if it's in cache, this is RAM.
+
+442
+00:30:31,560 --> 00:30:33,460
+That's where this thing is.
+
+443
+00:30:34,420 --> 00:30:36,600
+Cache is located right next to the processor.
+
+444
+00:30:37,020 --> 00:30:40,100
+This is way across on the motherboard when there's such a motherboard where RAM is.
+
+445
+00:30:40,660 --> 00:30:42,200
+You had asked for this block.
+
+446
+00:30:43,620 --> 00:30:50,720
+CPU says only an address 0x7FF8.
+
+447
+00:30:51,180 --> 00:30:52,160
+It comes over here.
+
+448
+00:30:53,000 --> 00:30:56,600
+There's a thing in here that's checked to see whether that address is in here in cache.
+
+449
+00:30:57,160 --> 00:30:59,420
+It has a miss, so there's a cache miss.
+
+450
+00:31:00,180 --> 00:31:01,460
+It says, damn it, it's not in here.
+
+451
+00:31:01,560 --> 00:31:02,140
+It's over there.
+
+452
+00:31:03,080 --> 00:31:07,180
+So then it goes and grabs this block of that.
+
+453
+00:31:07,180 --> 00:31:09,460
+It takes that block and puts it right there.
+
+454
+00:31:11,180 --> 00:31:15,800
+So if this is called B, I've got like one half of B is up here,
+
+455
+00:31:16,000 --> 00:31:17,740
+and one half of B is still over there.
+
+456
+00:31:17,780 --> 00:31:19,300
+So this is the first half of B.
+
+457
+00:31:20,480 --> 00:31:25,580
+So in that loop, the very first time you access it,
+
+458
+00:31:28,730 --> 00:31:32,530
+I is 0, J is 0, 0 times this is 0 plus 0.
+
+459
+00:31:32,590 --> 00:31:34,570
+We asked for B of 0.
+
+460
+00:31:34,770 --> 00:31:38,170
+B of 0 is this very first element.
+
+461
+00:31:38,170 --> 00:31:40,150
+We looked at here to see if it was in here.
+
+462
+00:31:40,270 --> 00:31:40,770
+It was not.
+
+463
+00:31:41,210 --> 00:31:43,130
+We came over to the main memory, the architecture,
+
+464
+00:31:43,370 --> 00:31:47,230
+grabbed this block and brought it back over here and stuck it there and said,
+
+465
+00:31:47,510 --> 00:31:50,610
+cool now, now that it's in there, I'll give you that first element
+
+466
+00:31:50,610 --> 00:31:52,230
+and you can start doing your work on it.
+
+467
+00:31:52,530 --> 00:31:55,110
+Now, granted, this thing is doing a right to memory, not a read.
+
+468
+00:31:55,630 --> 00:31:57,270
+But let's just not worry about that for a second.
+
+469
+00:31:58,430 --> 00:32:00,250
+Well, the reason is the second, the second location.
+
+470
+00:32:00,990 --> 00:32:07,170
+But the point of it is that took a bunch of time to get it from here to here.
+
+471
+00:32:07,330 --> 00:32:11,670
+If it had already been here, it would have been like, oh, there it is.
+
+472
+00:32:12,770 --> 00:32:15,230
+Now, that loop goes to the very next element.
+
+473
+00:32:16,010 --> 00:32:18,930
+That very next element is this element.
+
+474
+00:32:20,190 --> 00:32:24,990
+So it takes that and adds 1 to it, 1 element.
+
+475
+00:32:25,250 --> 00:32:27,090
+This is the next one in that array.
+
+476
+00:32:27,570 --> 00:32:29,630
+It comes here and it's like, OK, that's not a miss.
+
+477
+00:32:29,730 --> 00:32:30,890
+That's a hit that's right there.
+
+478
+00:32:32,110 --> 00:32:33,770
+And why does it matter to this continuous?
+
+479
+00:32:33,870 --> 00:32:37,390
+Because if you're accessing memory in the order that it's so ordered,
+
+480
+00:32:37,750 --> 00:32:40,730
+then it's going to be brought over in blocks in that same order
+
+481
+00:32:40,730 --> 00:32:44,030
+and you're going to get a lot more cache hits than misses.
+
+482
+00:32:45,550 --> 00:32:48,150
+But now, if I had written this code the other way,
+
+483
+00:32:48,390 --> 00:32:50,870
+like where it wasn't accessing in the row major order,
+
+484
+00:32:51,130 --> 00:32:53,050
+that second element might have been down here.
+
+485
+00:32:54,210 --> 00:32:55,350
+This is like cache miss.
+
+486
+00:32:55,850 --> 00:32:57,130
+Oh, bring this over here.
+
+487
+00:32:57,270 --> 00:32:57,990
+Oh, cache miss.
+
+488
+00:32:58,750 --> 00:33:00,470
+Imagine your cache is only one block wide.
+
+489
+00:33:00,850 --> 00:33:02,710
+It'd be cache miss, cache miss, cache miss,
+
+490
+00:33:02,710 --> 00:33:06,350
+cache miss like that over and over again because you're not accessing it
+
+491
+00:33:06,350 --> 00:33:07,510
+in the order that it's ordered.
+
+492
+00:33:07,710 --> 00:33:10,970
+So if you can, not always possible, right?
+
+493
+00:33:11,350 --> 00:33:14,450
+If the algorithm in an alien order, well, that's just the way it is.
+
+494
+00:33:14,610 --> 00:33:18,810
+But if you can access it in order that it's laid out in memory,
+
+495
+00:33:19,390 --> 00:33:20,550
+then you're going to do what?
+
+496
+00:33:20,930 --> 00:33:23,950
+You're going to really speed it up because the memory hierarchy
+
+497
+00:33:23,950 --> 00:33:29,110
+has been designed to have two features, spatial and temporal locality of reference,
+
+498
+00:33:30,030 --> 00:33:31,130
+spatially closed.
+
+499
+00:33:31,490 --> 00:33:36,090
+So if you can write your algorithm to access things that are next to each other,
+
+500
+00:33:36,630 --> 00:33:39,410
+then it'll benefit from cache, which all computers have
+
+501
+00:33:39,410 --> 00:33:44,510
+because almost all programs have some degree of spatial and temporal locality
+
+502
+00:33:44,510 --> 00:33:47,990
+except for programs that simulate things that are totally random,
+
+503
+00:33:48,930 --> 00:33:51,070
+like a Monte Carlo simulation might have that problem.
+
+504
+00:33:52,970 --> 00:33:55,790
+Well, then maybe that code that exhibits spatial and temporal locality,
+
+505
+00:33:56,030 --> 00:33:58,590
+nine times up to 10, nine times up to 100,
+
+506
+00:33:59,370 --> 00:34:01,370
+they benefit from caching because if they didn't,
+
+507
+00:34:01,650 --> 00:34:03,790
+you'd think people would pay for cache.
+
+508
+00:34:04,290 --> 00:34:06,770
+If it didn't help, someone else would do it.
+
+509
+00:34:07,110 --> 00:34:08,210
+This is the reason why that works.
+
+510
+00:34:08,350 --> 00:34:08,750
+Does that make sense?
+
+511
+00:34:08,870 --> 00:34:10,210
+That's why you want it to be contiguous.
+
+512
+00:34:10,650 --> 00:34:10,970
+You're right.
+
+513
+00:34:11,070 --> 00:34:12,010
+You don't want to be strung out.
+
+514
+00:34:12,110 --> 00:34:13,690
+But the reason you don't want it to be strung out
+
+515
+00:34:13,690 --> 00:34:19,490
+isn't that accessing it over here versus over here takes any different time.
+
+516
+00:34:19,630 --> 00:34:22,910
+It's the second time you access it after it's brought into cache
+
+517
+00:34:22,910 --> 00:34:24,410
+that it's faster that second time.
+
+518
+00:34:24,790 --> 00:34:27,930
+But the very first time it's a miss, it doesn't matter where it is in memory.
+
+519
+00:34:28,670 --> 00:34:32,210
+That's not totally true because in real life,
+
+520
+00:34:32,210 --> 00:34:35,570
+let us say you're on a motherboard that has 16 RAM slots.
+
+521
+00:34:36,690 --> 00:34:40,150
+Those RAM slots have things where they're just not the same amount of time
+
+522
+00:34:40,150 --> 00:34:40,910
+for all of them.
+
+523
+00:34:41,110 --> 00:34:43,110
+So there's some heterogeneity there.
+
+524
+00:34:43,610 --> 00:34:45,890
+You know how RAM stands for random access memory
+
+525
+00:34:45,890 --> 00:34:49,670
+because memory before that couldn't be accessed randomly.
+
+526
+00:34:49,930 --> 00:34:51,810
+It could only be accessed linearly, the RAM,
+
+527
+00:34:52,030 --> 00:34:53,550
+the stuff that was existing before RAM.
+
+528
+00:34:54,010 --> 00:34:55,370
+People were really pumped and like,
+
+529
+00:34:55,390 --> 00:34:57,490
+oh man, RAM is awesome because you can randomly access it.
+
+530
+00:34:57,490 --> 00:34:58,350
+But you still can't.
+
+531
+00:34:59,190 --> 00:35:02,550
+But accessing it randomly ain't near as fast as accessing it linearly.
+
+532
+00:35:02,890 --> 00:35:05,150
+It costs caching and it costs of other stuff.
+
+533
+00:35:08,570 --> 00:35:11,870
+Caching is talked about in detail in the Pacheco text.
+
+534
+00:35:12,530 --> 00:35:16,430
+So please read the part in there that the first couple of chapters
+
+535
+00:35:16,430 --> 00:35:20,450
+have to do with caching because that is the bare minimum
+
+536
+00:35:20,450 --> 00:35:24,050
+that you need to know about computer architecture in this class.
+
+537
+00:35:24,530 --> 00:35:27,650
+You know, you shouldn't ever graduate from college
+
+538
+00:35:27,650 --> 00:35:29,450
+without understanding what caching is
+
+539
+00:35:29,450 --> 00:35:32,290
+and why it is that it actually helps, okay?
+
+540
+00:35:33,650 --> 00:35:36,650
+But simply, you know, so that's what's happening here.
+
+541
+00:35:38,450 --> 00:35:43,510
+Now, with two mallets, a pointer to the rows and one for each row.
+
+542
+00:35:43,670 --> 00:35:44,410
+Now let's do this.
+
+543
+00:35:45,830 --> 00:35:48,670
+This is not what I had in mind, but this is, in fact,
+
+544
+00:35:49,070 --> 00:35:51,670
+this is an intermediate one that's also a possibility.
+
+545
+00:35:51,670 --> 00:35:53,710
+This is probably the absolute worst freaking way
+
+546
+00:35:53,710 --> 00:35:56,050
+that you could possibly do this.
+
+547
+00:35:56,050 --> 00:35:57,970
+It's way worse than the previous way.
+
+548
+00:35:58,590 --> 00:36:00,790
+Because at least the previous way to touch, damn it,
+
+549
+00:36:00,930 --> 00:36:02,190
+is continuous in memory.
+
+550
+00:36:03,110 --> 00:36:04,830
+This thing here, let's look at this.
+
+551
+00:36:05,250 --> 00:36:08,590
+I am going to draw a picture of what happens here to make this clear.
+
+552
+00:36:10,190 --> 00:36:13,410
+And if the web app that does this still works,
+
+553
+00:36:13,550 --> 00:36:16,010
+you can actually take this code, put it in the thing,
+
+554
+00:36:16,150 --> 00:36:18,190
+and it'll draw you a picture of memory with all the pointers
+
+555
+00:36:18,190 --> 00:36:19,210
+to where your beginnings are,
+
+556
+00:36:19,210 --> 00:36:22,770
+and you can see how this sucks, how bad this sucks.
+
+557
+00:36:24,590 --> 00:36:25,430
+All right.
+
+558
+00:36:26,990 --> 00:36:31,950
+Now, I'm going to draw it like the way it's actually laid out,
+
+559
+00:36:31,990 --> 00:36:34,370
+both on the stack for main,
+
+560
+00:36:34,650 --> 00:36:37,550
+as well as the heap for the dynamic memory allocations, okay?
+
+561
+00:36:37,810 --> 00:36:40,330
+And I'm going to draw a stack right over here.
+
+562
+00:36:40,650 --> 00:36:43,670
+So this is the stack for main.
+
+563
+00:36:44,670 --> 00:36:48,030
+So this is the main's stack frame, right?
+
+564
+00:36:49,310 --> 00:36:51,570
+Sometimes it's called activation and record.
+
+565
+00:36:51,570 --> 00:36:53,990
+So this is stuff, variables related to main.
+
+566
+00:36:54,810 --> 00:36:56,010
+And then this is the heap.
+
+567
+00:36:58,840 --> 00:37:03,920
+This is where memory is at where dialects are concerned.
+
+568
+00:37:04,660 --> 00:37:06,200
+Now, really, it's all in RAM,
+
+569
+00:37:06,400 --> 00:37:09,760
+but it's just logically this is one place and that's another place.
+
+570
+00:37:10,680 --> 00:37:12,560
+And hopefully they're not near each other.
+
+571
+00:37:12,940 --> 00:37:13,820
+That's kind of the idea.
+
+572
+00:37:15,240 --> 00:37:15,520
+Okay.
+
+573
+00:37:16,720 --> 00:37:18,940
+Here we go. Let's go write all the variables now.
+
+574
+00:37:20,280 --> 00:37:22,120
+Rose calls C. Awesome.
+
+575
+00:37:25,180 --> 00:37:28,780
+Rose calls C.
+
+576
+00:37:30,900 --> 00:37:33,260
+Now, I'm going to make up some addresses here, okay?
+
+577
+00:37:33,640 --> 00:37:36,460
+Now, really, these addresses can't be like 1, 2, 3.
+
+578
+00:37:37,120 --> 00:37:41,800
+Because each address is probably 32 to 64 bits wide,
+
+579
+00:37:41,960 --> 00:37:43,480
+and so the numbers wouldn't be next to each other.
+
+580
+00:37:43,740 --> 00:37:45,320
+But the purpose of this example,
+
+581
+00:37:45,820 --> 00:37:48,280
+I'm going to use addresses like 10, 11, and 12.
+
+582
+00:37:48,280 --> 00:37:49,900
+Even though it wouldn't be 10, 11, and 12.
+
+583
+00:37:50,040 --> 00:37:56,580
+It might be 10, 8, 10 to 10, 14, 18, 1, C.
+
+584
+00:37:56,680 --> 00:37:57,600
+It might be stuff like that.
+
+585
+00:37:57,740 --> 00:37:58,120
+Like from 210.
+
+586
+00:37:58,380 --> 00:38:00,340
+You remember how the stuff, like, let up, get a go at 1.
+
+587
+00:38:00,380 --> 00:38:01,760
+But I'm going to do that just to make it easy.
+
+588
+00:38:03,060 --> 00:38:06,720
+So I'm going to say that this thing is at address 1,
+
+589
+00:38:07,200 --> 00:38:09,780
+address 2 in memory, and address 3.
+
+590
+00:38:11,120 --> 00:38:12,680
+I don't know what the values are yet.
+
+591
+00:38:13,860 --> 00:38:14,780
+Oh, it's 3 to 4.
+
+592
+00:38:15,020 --> 00:38:15,040
+Okay.
+
+593
+00:38:15,160 --> 00:38:16,560
+So that got allocated to a 3.
+
+594
+00:38:17,000 --> 00:38:18,820
+It just got allocated to a 4.
+
+595
+00:38:19,080 --> 00:38:22,440
+And C got allocated to a single mallet,
+
+596
+00:38:22,980 --> 00:38:26,620
+which was equal to the number of rows this thing had,
+
+597
+00:38:26,700 --> 00:38:29,440
+which is 3, times the size of a pointer.
+
+598
+00:38:30,640 --> 00:38:31,860
+Now, a pointer is 8 bytes.
+
+599
+00:38:32,640 --> 00:38:34,000
+So we're over here.
+
+600
+00:38:35,660 --> 00:38:37,000
+We've allocated that.
+
+601
+00:38:40,370 --> 00:38:40,610
+All right.
+
+602
+00:38:40,690 --> 00:38:46,770
+Now, it was 3 times size of int star.
+
+603
+00:38:46,770 --> 00:38:49,530
+Int star, the size of this star, is 8.
+
+604
+00:38:49,770 --> 00:38:53,370
+It becomes pointers on most computers that are 64 bits.
+
+605
+00:38:54,370 --> 00:38:55,870
+You know, 8 times 8 is 64.
+
+606
+00:38:55,970 --> 00:38:58,430
+64-bit architectures have 64-bit addresses.
+
+607
+00:38:58,990 --> 00:39:06,260
+So 64 times 3 bytes here.
+
+608
+00:39:07,220 --> 00:39:07,240
+Okay.
+
+609
+00:39:07,560 --> 00:39:10,740
+But technically, there's only three elements in here.
+
+610
+00:39:10,840 --> 00:39:12,560
+There's rows elements.
+
+611
+00:39:12,780 --> 00:39:16,500
+But each element of this chunk represents a pointer
+
+612
+00:39:16,500 --> 00:39:17,540
+to other integers.
+
+613
+00:39:20,550 --> 00:39:23,210
+So I'm going to draw the three elements here.
+
+614
+00:39:23,350 --> 00:39:24,290
+It contains three things.
+
+615
+00:39:25,250 --> 00:39:27,730
+But these three things are not integers.
+
+616
+00:39:28,250 --> 00:39:31,510
+These three things are pointers to other integers.
+
+617
+00:39:32,110 --> 00:39:33,830
+So it's going to be a pointer like this.
+
+618
+00:39:34,170 --> 00:39:35,050
+It's going to point somewhere.
+
+619
+00:39:36,050 --> 00:39:37,690
+Yeah.
+
+620
+00:39:39,570 --> 00:39:40,050
+It's going to point somewhere.
+
+621
+00:39:40,310 --> 00:39:42,130
+It's going to point somewhere.
+
+622
+00:39:42,910 --> 00:39:43,230
+Okay.
+
+623
+00:39:44,150 --> 00:39:45,230
+But mallet's that thing.
+
+624
+00:39:46,090 --> 00:39:48,870
+Now, somewhere on the heap is the very beginning
+
+625
+00:39:48,870 --> 00:39:50,410
+of this chunk that it just had.
+
+626
+00:39:51,410 --> 00:39:54,990
+Now, I want to pretend that the very top of this address
+
+627
+00:39:54,990 --> 00:39:57,230
+right there is an address 100.
+
+628
+00:39:57,530 --> 00:40:04,730
+Like, the very first byte in that chunk of 64 times 3 bytes
+
+629
+00:40:04,730 --> 00:40:07,930
+starts at address 100.
+
+630
+00:40:08,350 --> 00:40:09,910
+So literally, if it was in this picture,
+
+631
+00:40:10,010 --> 00:40:11,410
+it would be like way down there at 100.
+
+632
+00:40:11,670 --> 00:40:12,790
+But I'm drawing it over there.
+
+633
+00:40:16,270 --> 00:40:18,490
+So 100 gets returned from here
+
+634
+00:40:18,490 --> 00:40:22,770
+because it's the address of this block it just allocated.
+
+635
+00:40:22,950 --> 00:40:24,730
+It allocated its block at that 100.
+
+636
+00:40:25,250 --> 00:40:27,770
+So this is 100.
+
+637
+00:40:28,550 --> 00:40:30,650
+But because this is a pointer,
+
+638
+00:40:31,290 --> 00:40:35,450
+we're thinking of that like it points right over there.
+
+639
+00:40:37,930 --> 00:40:44,410
+It's a pointer to a pointer to an integer.
+
+640
+00:40:45,170 --> 00:40:45,690
+Check it out.
+
+641
+00:40:46,750 --> 00:40:52,890
+It's a pointer to a pointer to where an integer will be here.
+
+642
+00:40:53,050 --> 00:40:54,350
+But that hasn't been allocated yet.
+
+643
+00:40:54,510 --> 00:40:55,390
+Those are all nulls still.
+
+644
+00:40:56,630 --> 00:41:00,090
+Then we come down here in a for loop
+
+645
+00:41:00,090 --> 00:41:02,290
+from 0 to the number of rows.
+
+646
+00:41:02,870 --> 00:41:08,650
+And we're going to malloc columns times size of n.
+
+647
+00:41:10,150 --> 00:41:13,910
+OK, well, I'm going to draw a matrix here.
+
+648
+00:41:15,170 --> 00:41:16,650
+So it had how many rows and how many columns?
+
+649
+00:41:16,890 --> 00:41:17,190
+Three rows?
+
+650
+00:41:18,910 --> 00:41:19,970
+Four columns?
+
+651
+00:41:21,090 --> 00:41:22,650
+So it's got three of these.
+
+652
+00:41:22,830 --> 00:41:25,030
+It's got four of those.
+
+653
+00:41:25,310 --> 00:41:27,050
+Logically, this thing is named C.
+
+654
+00:41:27,190 --> 00:41:29,390
+So this is some sort of matrix called C.
+
+655
+00:41:29,990 --> 00:41:32,770
+And let's suppose it had the numbers in it.
+
+656
+00:41:33,310 --> 00:41:39,030
+5, 6, 7, 8, 5, 10, 11, 12, 13, 14, 15, 16.
+
+657
+00:41:39,210 --> 00:41:40,930
+Let's say that was the numbers that were in this thing.
+
+658
+00:41:41,110 --> 00:41:46,150
+It's got row 0, 1, 2, and columns 0, 1, 2, 3.
+
+659
+00:41:46,910 --> 00:41:50,390
+This is the way you and I think of it.
+
+660
+00:41:51,750 --> 00:41:54,070
+This is how it's actually being done.
+
+661
+00:41:55,030 --> 00:41:55,630
+So let's take a look.
+
+662
+00:41:56,510 --> 00:42:01,530
+So it allocates a block that's equal to 4 times the size of an n.
+
+663
+00:42:02,110 --> 00:42:05,490
+Now, the size of an integer is 4, because it's 4 bytes.
+
+664
+00:42:06,330 --> 00:42:13,270
+So this thing allocates enough space for 4 things that are integers.
+
+665
+00:42:13,690 --> 00:42:14,350
+Does that make sense?
+
+666
+00:42:14,570 --> 00:42:18,110
+So somewhere else, there's another block,
+
+667
+00:42:18,310 --> 00:42:20,310
+because an alloc goes out here and finds a block.
+
+668
+00:42:20,770 --> 00:42:27,070
+And that block logically holds 4 things.
+
+669
+00:42:30,050 --> 00:42:32,050
+Let's say that this is an address 200.
+
+670
+00:42:33,030 --> 00:42:37,530
+So that means that when it allocates and does the very first row of this,
+
+671
+00:42:37,730 --> 00:42:42,710
+it allocates 100, excuse me, 4 items worth of integers,
+
+672
+00:42:42,830 --> 00:42:46,310
+where each one of those integers is 32 bits, 4 bytes.
+
+673
+00:42:46,610 --> 00:42:51,650
+And it provides the address, and it sticks it in C of 0.
+
+674
+00:42:52,930 --> 00:42:54,450
+Well, wait a minute.
+
+675
+00:42:54,470 --> 00:42:55,770
+Where the hell is C of 0?
+
+676
+00:42:56,130 --> 00:43:01,910
+Well, C of, well, this is of 0 of 1 of 2,
+
+677
+00:43:01,910 --> 00:43:07,490
+because remember when we first did this, it had 3 elements in it.
+
+678
+00:43:08,990 --> 00:43:14,650
+So that location there, 200 comes out of now.
+
+679
+00:43:14,650 --> 00:43:18,770
+So 200 goes to, say, C of 0.
+
+680
+00:43:19,010 --> 00:43:20,470
+So it goes to 200 here.
+
+681
+00:43:21,170 --> 00:43:25,090
+So that means that actually the first element of this points to this.
+
+682
+00:43:27,970 --> 00:43:28,230
+OK?
+
+683
+00:43:29,610 --> 00:43:31,090
+It's two levels of indirection.
+
+684
+00:43:33,430 --> 00:43:34,230
+Then it goes.
+
+685
+00:43:34,910 --> 00:43:36,910
+It checks again, making sure that the amount of work,
+
+686
+00:43:36,990 --> 00:43:39,070
+because if it blew out, it needs to continue.
+
+687
+00:43:39,770 --> 00:43:41,910
+Then it does it for the next one.
+
+688
+00:43:42,250 --> 00:43:44,930
+And then it does it for the next one.
+
+689
+00:43:45,750 --> 00:43:47,290
+One for every row.
+
+690
+00:43:48,010 --> 00:43:49,630
+So it goes and does another malloc.
+
+691
+00:43:49,750 --> 00:43:51,150
+So let's say that malloc happens here.
+
+692
+00:43:51,810 --> 00:43:52,990
+All right?
+
+693
+00:43:53,470 --> 00:43:55,610
+And then let's say the other malloc happens here.
+
+694
+00:43:56,590 --> 00:43:59,890
+Each one of those things has got enough space
+
+695
+00:43:59,890 --> 00:44:02,810
+to hold column numbers of integers.
+
+696
+00:44:03,450 --> 00:44:04,630
+Columns, those equal to 4.
+
+697
+00:44:05,030 --> 00:44:10,090
+So each one of those things have got 4 in it.
+
+698
+00:44:11,850 --> 00:44:16,270
+Let's say that's at address 300 and 400.
+
+699
+00:44:16,690 --> 00:44:19,570
+I'm taking numbers that are far apart to make it easy to look at.
+
+700
+00:44:19,710 --> 00:44:20,750
+But they won't be far apart.
+
+701
+00:44:20,830 --> 00:44:22,650
+They're probably close together, but they might not be.
+
+702
+00:44:22,970 --> 00:44:23,670
+Who knows?
+
+703
+00:44:23,750 --> 00:44:27,510
+Because the operating system is the thing that's actually grabbing those.
+
+704
+00:44:28,770 --> 00:44:28,210
+All right?
+
+705
+00:44:30,290 --> 00:44:41,130
+So C of 1, so C of 1 equals to the return value of that malloc is 300.
+
+706
+00:44:42,970 --> 00:44:44,550
+So that pointer points here.
+
+707
+00:44:47,080 --> 00:44:54,560
+And then the very next one, C of 2, C of 2 is equal to 400.
+
+708
+00:44:56,600 --> 00:44:59,340
+So that one points here.
+
+709
+00:45:01,460 --> 00:45:05,800
+And then it loops over to the array, C of ij.
+
+710
+00:45:05,980 --> 00:45:07,760
+OK, so let's do the very first iteration of that loop.
+
+711
+00:45:08,320 --> 00:45:11,040
+C of ij is equal to something.
+
+712
+00:45:11,280 --> 00:45:12,700
+I don't even give a crap what it's supposed to be.
+
+713
+00:45:12,840 --> 00:45:13,520
+Actually, let's do it.
+
+714
+00:45:13,580 --> 00:45:18,220
+C of ij is 0 times 10 plus something.
+
+715
+00:45:18,340 --> 00:45:19,620
+It's making up stuff really easy.
+
+716
+00:45:19,720 --> 00:45:20,600
+It's just making up something.
+
+717
+00:45:21,900 --> 00:45:22,780
+Let's see what that is.
+
+718
+00:45:23,780 --> 00:45:25,480
+0 plus 0 is 0.
+
+719
+00:45:25,740 --> 00:45:26,380
+OK, so here we go.
+
+720
+00:45:27,560 --> 00:45:32,380
+C of 0 of 0.
+
+721
+00:45:32,580 --> 00:45:33,620
+So that's this one.
+
+722
+00:45:35,060 --> 00:45:35,620
+C of 0.
+
+723
+00:45:36,560 --> 00:45:37,440
+Shit.
+
+724
+00:45:40,720 --> 00:45:41,920
+That goes here.
+
+725
+00:45:45,310 --> 00:45:47,970
+But then remember the way this is 1, 2, 3.
+
+726
+00:45:47,970 --> 00:45:57,100
+This is 1, 2, 3, 3, 0, 1, 2, 3.
+
+727
+00:45:58,500 --> 00:46:00,980
+And I don't even care what it's actually putting in there.
+
+728
+00:46:01,040 --> 00:46:02,760
+Let's imagine that it was putting in the numbers
+
+729
+00:46:02,760 --> 00:46:04,720
+that I sent here, OK?
+
+730
+00:46:06,000 --> 00:46:07,280
+So it would be a 0 here.
+
+731
+00:46:07,620 --> 00:46:19,280
+It would be a 5, 6, 7, 8, 5, 6, 7, 8, 9, 10, 11, 12, and then
+
+732
+00:46:19,280 --> 00:46:20,840
+13, 14, 15, 16.
+
+733
+00:46:24,760 --> 00:46:26,160
+That's how it would be laid out.
+
+734
+00:46:27,420 --> 00:46:34,880
+So when you send something like C of 2, let's say 3,
+
+735
+00:46:35,200 --> 00:46:39,200
+let's say C of 1, 2.
+
+736
+00:46:40,680 --> 00:46:42,140
+Let's find that.
+
+737
+00:46:43,000 --> 00:46:45,660
+Let's say I want to make that equal to smiley face.
+
+738
+00:46:48,260 --> 00:46:50,160
+OK, where is C12 over here?
+
+739
+00:46:50,160 --> 00:46:55,760
+Well, C12 over here is right there, isn't it?
+
+740
+00:46:55,760 --> 00:46:56,460
+You agree with that?
+
+741
+00:46:56,620 --> 00:46:59,260
+It would be a row 1, column 2, that would be a stylus.
+
+742
+00:47:00,060 --> 00:47:01,460
+Where is that over there?
+
+743
+00:47:01,660 --> 00:47:03,380
+Now, we know it's right there, but let's do it.
+
+744
+00:47:03,900 --> 00:47:04,560
+C of 1.
+
+745
+00:47:04,720 --> 00:47:11,300
+So C of 1 and then of 2 means that we follow this
+
+746
+00:47:11,300 --> 00:47:15,840
+and we come down to 2, and then we say that's
+
+747
+00:47:15,840 --> 00:47:17,960
+equal to smiley face there.
+
+748
+00:47:18,400 --> 00:47:20,600
+That is how this one works.
+
+749
+00:47:20,940 --> 00:47:22,300
+Look how many mallocs it is.
+
+750
+00:47:22,880 --> 00:47:26,920
+It's one malloc to hold a pointer for every row,
+
+751
+00:47:27,260 --> 00:47:30,140
+and every one of those rows also have to have a malloc.
+
+752
+00:47:30,260 --> 00:47:33,200
+So for this matrix, how many mallocs are actually done?
+
+753
+00:47:36,340 --> 00:47:45,700
+So the number of mallocs equals 1 plus the number of rows.
+
+754
+00:47:47,080 --> 00:47:51,460
+Because the very first malloc makes a thing to hold
+
+755
+00:47:51,460 --> 00:47:53,280
+the pointers for each row.
+
+756
+00:47:54,300 --> 00:48:00,400
+So there's three rows, so it's going to be 1 plus 3 is 4 mallocs.
+
+757
+00:48:00,620 --> 00:48:01,200
+Does that make sense?
+
+758
+00:48:01,320 --> 00:48:02,220
+That's how this one works.
+
+759
+00:48:13,440 --> 00:48:19,750
+Now, and then now it goes and frees it up.
+
+760
+00:48:21,070 --> 00:48:23,650
+Now, this is not the one I want to go to next.
+
+761
+00:48:25,230 --> 00:48:27,830
+I'm going to ask it to give me the example that's
+
+762
+00:48:27,830 --> 00:48:29,890
+supposed to be between this example and this one.
+
+763
+00:48:30,770 --> 00:48:33,310
+This is the way that you could do it with just one malloc.
+
+764
+00:48:33,470 --> 00:48:35,930
+So we did it with a variable number of mallocs just now.
+
+765
+00:48:36,030 --> 00:48:37,930
+I want to do it with just two mallocs,
+
+766
+00:48:37,930 --> 00:48:41,170
+because you need to do that first before you can understand
+
+767
+00:48:41,170 --> 00:48:42,450
+how the one-with-one malloc works.
+
+768
+00:48:43,430 --> 00:49:17,570
+So, yeah, you're right.
+
+769
+00:49:18,250 --> 00:49:18,610
+I'm right.
+
+770
+00:49:19,010 --> 00:49:20,070
+I asked one.
+
+771
+00:49:20,210 --> 00:49:21,570
+I didn't say 1 plus rows.
+
+772
+00:49:21,730 --> 00:49:22,290
+I said 2.
+
+773
+00:49:36,340 --> 00:49:37,140
+I was about to say that.
+
+774
+00:49:37,200 --> 00:49:37,680
+That ain't right.
+
+775
+00:49:38,220 --> 00:49:40,060
+I'm like, OK, but it can't continue.
+
+776
+00:49:40,560 --> 00:49:41,580
+All right, cool.
+
+777
+00:49:44,660 --> 00:49:45,800
+Have you written down?
+
+778
+00:49:45,980 --> 00:49:47,640
+I mean, can I erase this?
+
+779
+00:49:48,040 --> 00:49:49,320
+If you want to take a picture of it,
+
+780
+00:49:49,320 --> 00:49:50,220
+I mean, if you go ahead and do it,
+
+781
+00:49:50,280 --> 00:49:54,160
+I'm going to erase this, because I'm going to show you this way.
+
+782
+00:49:57,820 --> 00:49:59,380
+I'm going over this because, like,
+
+783
+00:49:59,460 --> 00:50:01,760
+every single program that we write is going to be dealing
+
+784
+00:50:01,760 --> 00:50:02,920
+with data structures.
+
+785
+00:50:03,500 --> 00:50:05,560
+It's probably going to be a lot of it is going to be matrices,
+
+786
+00:50:05,720 --> 00:50:07,720
+so this is going to be in all of the programs,
+
+787
+00:50:07,760 --> 00:50:09,660
+and I don't want it to be a mystery.
+
+788
+00:50:10,260 --> 00:50:13,660
+And plus the quintex look, which has some code that we're going
+
+789
+00:50:13,940 --> 00:50:19,980
+to also use, they do it this way right here in that book,
+
+790
+00:50:20,160 --> 00:50:22,160
+and I don't want you to get freaked out when you see it.
+
+791
+00:50:22,300 --> 00:50:23,760
+Like, what the hell is all of this?
+
+792
+00:50:23,900 --> 00:50:25,820
+And it's like, oh, that's just making this due to your array,
+
+793
+00:50:26,260 --> 00:50:27,780
+but here's why they did it that way,
+
+794
+00:50:27,920 --> 00:50:30,100
+and here's the reason why, and here's how it actually works.
+
+795
+00:50:30,420 --> 00:50:31,240
+I think it's worth seeing.
+
+796
+00:50:32,540 --> 00:50:32,920
+OK.
+
+797
+00:50:34,980 --> 00:50:44,660
+So I guess I could have left C up here,
+
+798
+00:50:44,660 --> 00:50:47,200
+because we're taking the same stuff, but whatever.
+
+799
+00:50:48,920 --> 00:50:50,400
+Let me just do it over again here.
+
+800
+00:50:50,460 --> 00:50:51,440
+I'm going to do it by this way.
+
+801
+00:50:52,020 --> 00:50:52,820
+So I'll draw the stack.
+
+802
+00:50:55,860 --> 00:50:59,560
+I guess this thing's starting to dry out here today.
+
+803
+00:51:00,780 --> 00:51:02,060
+Let's see.
+
+804
+00:51:02,260 --> 00:51:03,200
+What about this one?
+
+805
+00:51:04,600 --> 00:51:04,940
+Oh, yeah.
+
+806
+00:51:05,240 --> 00:51:06,060
+That was solid.
+
+807
+00:51:06,280 --> 00:51:06,840
+That was awesome.
+
+808
+00:51:08,580 --> 00:51:10,540
+Those little tiny things in life, you know.
+
+809
+00:51:12,890 --> 00:51:13,250
+All right.
+
+810
+00:51:13,370 --> 00:51:14,470
+See, now I'm not allowed down.
+
+811
+00:51:15,010 --> 00:51:16,510
+It's not looking good, but this is the stack.
+
+812
+00:51:17,230 --> 00:51:19,870
+What are the variables in it?
+
+813
+00:51:21,410 --> 00:51:24,250
+Rows, calls, and C. Oh, and data.
+
+814
+00:51:28,270 --> 00:51:37,410
+Rows, calls, C, data.
+
+815
+00:51:41,940 --> 00:51:44,700
+That looks like you can identify everything that's on the stack,
+
+816
+00:51:44,840 --> 00:51:46,860
+because it's the variables that are declared in this,
+
+817
+00:51:47,160 --> 00:51:49,900
+between this and the end down there.
+
+818
+00:51:49,900 --> 00:51:52,440
+So it's rows, calls, C, data.
+
+819
+00:51:52,640 --> 00:51:53,300
+That's on the stack.
+
+820
+00:51:53,840 --> 00:51:55,240
+But anything that's been maliqued,
+
+821
+00:51:55,520 --> 00:51:57,500
+the space for this stuff is actually over here on the heap.
+
+822
+00:52:01,330 --> 00:52:01,670
+OK.
+
+823
+00:52:02,010 --> 00:52:02,610
+Let's do this.
+
+824
+00:52:03,050 --> 00:52:03,550
+Three, four.
+
+825
+00:52:07,220 --> 00:52:12,200
+C is equal to maliqued of the number of rows times the number
+
+826
+00:52:12,200 --> 00:52:15,360
+times the space it takes to hold the pointers.
+
+827
+00:52:16,460 --> 00:52:16,660
+All right.
+
+828
+00:52:18,280 --> 00:52:20,880
+This is starting off like the previous one.
+
+829
+00:52:21,580 --> 00:52:22,220
+OK.
+
+830
+00:52:22,380 --> 00:52:26,160
+So it allocates space for some pointers.
+
+831
+00:52:28,300 --> 00:52:30,940
+And it's going to have rows, numbers, and elements,
+
+832
+00:52:31,040 --> 00:52:32,960
+so it's going to have three elements.
+
+833
+00:52:35,200 --> 00:52:35,420
+OK.
+
+834
+00:52:35,840 --> 00:52:39,540
+And the address of that, let's say it's at address 100 in D,
+
+835
+00:52:40,260 --> 00:52:42,560
+that becomes equal to the value of C.
+
+836
+00:52:44,060 --> 00:52:47,380
+So C points over here to here.
+
+837
+00:52:48,960 --> 00:52:50,400
+Then it comes down in here.
+
+838
+00:52:51,460 --> 00:52:53,480
+Now look at how much space that thing now is.
+
+839
+00:52:55,160 --> 00:53:00,300
+Now it allocates enough stuff for rows times column
+
+840
+00:53:00,300 --> 00:53:01,240
+number of integers.
+
+841
+00:53:02,340 --> 00:53:04,340
+So 12 integers.
+
+842
+00:53:05,600 --> 00:53:07,320
+So now four, we did four at a time.
+
+843
+00:53:07,880 --> 00:53:10,020
+One row, next row, next row.
+
+844
+00:53:10,300 --> 00:53:11,220
+But here it says no.
+
+845
+00:53:11,640 --> 00:53:14,120
+I'm going to just allocate all of the space that it wants.
+
+846
+00:53:14,860 --> 00:53:16,160
+So here we go.
+
+847
+00:53:16,160 --> 00:53:17,680
+This one's bigger.
+
+848
+00:53:22,780 --> 00:53:22,960
+All right.
+
+849
+00:53:26,760 --> 00:53:29,380
+I have 12 elements.
+
+850
+00:53:29,640 --> 00:53:29,860
+I don't know.
+
+851
+00:53:29,980 --> 00:53:30,900
+I'm not really counting here.
+
+852
+00:53:31,080 --> 00:53:31,300
+It's all mine.
+
+853
+00:53:31,580 --> 00:53:31,980
+I just did.
+
+854
+00:53:32,260 --> 00:53:39,360
+So row three, four, five, six, seven, eight, nine, ten,
+
+855
+00:53:39,580 --> 00:53:40,040
+eleven.
+
+856
+00:53:41,620 --> 00:53:43,520
+So it's 12, 12 elements, right?
+
+857
+00:53:44,600 --> 00:53:46,740
+That's how many elements are going to be in the matrix.
+
+858
+00:53:48,160 --> 00:53:49,740
+And let's go ahead and do our matrix.
+
+859
+00:53:49,880 --> 00:53:51,160
+Draw it logically over here.
+
+860
+00:53:53,990 --> 00:53:59,750
+And we set five, six, seven, eight, nine, thirteen,
+
+861
+00:53:59,910 --> 00:54:01,630
+fourteen, fifteen, sixteen.
+
+862
+00:54:02,150 --> 00:54:04,530
+The row indices are one, zero, one, two.
+
+863
+00:54:05,050 --> 00:54:06,530
+Zero, one, two, three.
+
+864
+00:54:06,870 --> 00:54:08,650
+And this thing is called C.
+
+865
+00:54:09,570 --> 00:54:11,110
+Get us the logical diagram.
+
+866
+00:54:12,170 --> 00:54:14,410
+All we've done so far is this.
+
+867
+00:54:14,710 --> 00:54:16,510
+But now we're getting ready to map that.
+
+868
+00:54:16,850 --> 00:54:18,830
+This thing's at address, say, 200.
+
+869
+00:54:19,810 --> 00:54:22,330
+And that gets equal to this pointer called data.
+
+870
+00:54:22,990 --> 00:54:24,530
+So that means this is equal to 200.
+
+871
+00:54:24,890 --> 00:54:26,910
+And this thing points here.
+
+872
+00:54:29,350 --> 00:54:29,990
+You see that?
+
+873
+00:54:33,260 --> 00:54:35,080
+Now, check out this for looping right now.
+
+874
+00:54:45,330 --> 00:54:48,630
+I'm glad I did it this way because the Quinn textbook doesn't do it quite this way.
+
+875
+00:54:48,810 --> 00:54:52,070
+And I was worried that it was going to do it more esoteric way.
+
+876
+00:54:52,570 --> 00:54:54,010
+But here we go.
+
+877
+00:54:55,190 --> 00:54:59,390
+So C of zero, the very first time, is equal to the data.
+
+878
+00:54:59,490 --> 00:55:00,030
+But what is that?
+
+879
+00:55:02,170 --> 00:55:03,750
+The data is equal to 200.
+
+880
+00:55:04,330 --> 00:55:05,090
+So this is 200.
+
+881
+00:55:05,750 --> 00:55:10,410
+So C of zero equals 200 plus zero.
+
+882
+00:55:10,850 --> 00:55:12,610
+This is the very first element.
+
+883
+00:55:13,350 --> 00:55:16,550
+So we'll say zero times the number of columns is what?
+
+884
+00:55:16,710 --> 00:55:16,890
+Four?
+
+885
+00:55:17,650 --> 00:55:19,590
+Four, so this whole thing becomes what?
+
+886
+00:55:20,430 --> 00:55:20,730
+200.
+
+887
+00:55:21,310 --> 00:55:21,810
+Okay, here we go.
+
+888
+00:55:28,210 --> 00:55:31,830
+C of zero is equal to 200.
+
+889
+00:55:37,420 --> 00:55:38,100
+Let's go to the next loop.
+
+890
+00:55:38,100 --> 00:55:42,400
+This is one.
+
+891
+00:55:44,550 --> 00:55:45,150
+One.
+
+892
+00:55:47,930 --> 00:55:51,390
+200 plus four is 204.
+
+893
+00:55:53,010 --> 00:55:55,610
+So this is 204.
+
+894
+00:55:57,910 --> 00:56:00,970
+The next time, this is two.
+
+895
+00:56:02,010 --> 00:56:03,050
+This is two.
+
+896
+00:56:03,530 --> 00:56:05,150
+Two times four is eight.
+
+897
+00:56:05,770 --> 00:56:08,930
+Eight plus 200 is 208.
+
+898
+00:56:13,440 --> 00:56:14,480
+This is 208.
+
+899
+00:56:18,100 --> 00:56:23,560
+Okay, but these things are in C.
+
+900
+00:56:23,800 --> 00:56:25,140
+But what is the type of C?
+
+901
+00:56:29,530 --> 00:56:38,150
+The type of C is a pointer to another pointer to an integer.
+
+902
+00:56:40,030 --> 00:56:41,370
+And look at what this is going to be.
+
+903
+00:56:42,990 --> 00:56:49,250
+C is a pointer to a pointer to an integer.
+
+904
+00:56:58,440 --> 00:56:59,760
+Let's check this out.
+
+905
+00:57:00,020 --> 00:57:02,960
+Because really, if that's 200, it's represented as a damn pointer.
+
+906
+00:57:03,360 --> 00:57:13,080
+Because down there, at the bottom, it's going to be like C of zero, zero is equal to five.
+
+907
+00:57:16,060 --> 00:57:23,060
+So C of zero, that points to 200 of zero is five.
+
+908
+00:57:24,660 --> 00:57:26,660
+So that thing is pointing here.
+
+909
+00:57:27,860 --> 00:57:29,520
+But now where is 204 pointing to?
+
+910
+00:57:30,640 --> 00:57:31,620
+Well, that's 200.
+
+911
+00:57:32,880 --> 00:57:34,420
+204 is right there, isn't it?
+
+912
+00:57:34,760 --> 00:57:37,420
+So 204 is pointing here.
+
+913
+00:57:38,420 --> 00:57:40,760
+And what is the next one pointing to?
+
+914
+00:57:41,480 --> 00:57:42,600
+To the wave.
+
+915
+00:57:44,240 --> 00:57:51,660
+And that's because, even though we did one malloc, this represents row zero.
+
+916
+00:57:52,460 --> 00:57:54,880
+This represents row one.
+
+917
+00:57:55,280 --> 00:57:57,040
+And this represents row two.
+
+918
+00:57:57,600 --> 00:58:00,220
+And each one of the rows has its own pointer.
+
+919
+00:58:00,340 --> 00:58:09,620
+This thing, the C here, is called the array of row pointers.
+
+920
+00:58:11,480 --> 00:58:13,560
+Because this doesn't actually contain the data.
+
+921
+00:58:13,740 --> 00:58:17,520
+It contains pointers to where the beginning of all those data's rows are.
+
+922
+00:58:18,260 --> 00:58:18,920
+Does that make sense?
+
+923
+00:58:19,640 --> 00:58:21,180
+How many mallocs did we have to do?
+
+924
+00:58:22,240 --> 00:58:22,640
+Just two.
+
+925
+00:58:23,700 --> 00:58:24,160
+Here's the thing.
+
+926
+00:58:24,220 --> 00:58:27,200
+Every time you call a malloc, that's a system call.
+
+927
+00:58:27,240 --> 00:58:34,910
+I don't know if you discussed it in operating systems, but that takes a long time, relatively speaking.
+
+928
+00:58:37,350 --> 00:58:45,280
+So you could somehow minimize the number of mallocs that you do that is generally better.
+
+929
+00:58:45,560 --> 00:58:46,960
+Now, that ain't always true.
+
+930
+00:58:48,800 --> 00:58:52,700
+But right now, we're just trying to understand, what in the hell does the code do?
+
+931
+00:58:52,940 --> 00:58:53,860
+Does this make sense?
+
+932
+00:58:56,770 --> 00:58:58,990
+And you see why I don't have this inside of a function call.
+
+933
+00:58:59,690 --> 00:59:04,150
+Because then you'd have to be passing a pointer to the pointers to the pointers.
+
+934
+00:59:04,210 --> 00:59:06,390
+You have three stars instead of two.
+
+935
+00:59:07,330 --> 00:59:12,370
+I'm trying to do this first, slowly, so that when we go and move it inside of a function like they did over here,
+
+936
+00:59:12,610 --> 00:59:17,390
+hell, that stuff's also inside of a struct that we understand all these pointers.
+
+937
+00:59:17,710 --> 00:59:21,230
+Because I know everybody gets crazy when there's stars everywhere, and I totally get it.
+
+938
+00:59:21,350 --> 00:59:27,030
+The very first time I saw pointers, I was about to have like a stroke.
+
+939
+00:59:27,030 --> 00:59:28,470
+I didn't understand what was happening.
+
+940
+00:59:28,810 --> 00:59:31,030
+I didn't understand what a reference was.
+
+941
+00:59:31,170 --> 00:59:32,890
+I didn't understand what pointers were.
+
+942
+00:59:33,550 --> 00:59:37,250
+The only programming language I had ever seen prior to C was BASIC,
+
+943
+00:59:37,750 --> 00:59:40,050
+Beginner's All-Purpose Symbolic Instruction Code.
+
+944
+00:59:40,930 --> 00:59:41,970
+And it didn't have pointers.
+
+945
+00:59:42,270 --> 00:59:43,810
+It just had line numbers.
+
+946
+00:59:46,940 --> 00:59:48,000
+At least I don't think it had pointers.
+
+947
+00:59:48,200 --> 00:59:49,360
+It might have, and I just didn't know that.
+
+948
+00:59:50,340 --> 00:59:53,480
+But I was just like blown away when I saw COs, and I didn't know what was going on.
+
+949
+00:59:54,060 --> 00:59:57,800
+You guys had the benefit of having a Python, which means you already know about references.
+
+950
+00:59:57,800 --> 00:59:58,960
+That's what these are.
+
+951
+00:59:59,140 --> 01:00:01,100
+They refer to things.
+
+952
+01:00:02,100 --> 01:00:06,680
+It's just that these references are actually numbers that are actually physically the memory address.
+
+953
+01:00:06,860 --> 01:00:11,660
+Whereas in Python, you can't actually address things directly using your addresses.
+
+954
+01:00:11,820 --> 01:00:13,120
+You can only use their references.
+
+955
+01:00:13,480 --> 01:00:17,980
+C says you can do them both at the same time, which is both very cool,
+
+956
+01:00:18,400 --> 01:00:21,620
+and it's also very destructive if you use it incorrectly.
+
+957
+01:00:22,860 --> 01:00:26,940
+Everybody deal with that example.
+
+958
+01:00:28,100 --> 01:00:29,680
+Let's move on to the last example.
+
+959
+01:00:30,620 --> 01:00:36,090
+The one where it just happens using only one mallet.
+
+960
+01:00:38,540 --> 01:00:40,120
+This one's a good intent.
+
+961
+01:00:50,100 --> 01:00:54,440
+This one certainly probably most people consider the most complicated one of these things to understand,
+
+962
+01:00:55,200 --> 01:00:57,300
+but it also uses the dualist number of mallets.
+
+963
+01:00:59,900 --> 01:01:02,020
+Now, we're going to go through this one somewhat slower.
+
+964
+01:01:03,320 --> 01:01:07,320
+I know you're not already going slow, but that's the only one to discuss this one time.
+
+965
+01:01:07,680 --> 01:01:09,060
+You might have to keep going over that.
+
+966
+01:01:09,220 --> 01:01:11,920
+This is about going over one time, okay?
+
+967
+01:01:13,700 --> 01:01:15,400
+That's why we're going so slow.
+
+968
+01:01:16,860 --> 01:01:17,100
+All right.
+
+969
+01:01:18,380 --> 01:01:22,020
+We've got a stack frame for main.
+
+970
+01:01:24,700 --> 01:01:32,550
+We've got the heap, all right?
+
+971
+01:01:35,760 --> 01:01:37,620
+Let's look at our variables that are in main.
+
+972
+01:01:38,660 --> 01:01:43,100
+Rows, calls, d, data.
+
+973
+01:01:49,080 --> 01:01:49,380
+That's it.
+
+974
+01:01:49,780 --> 01:01:51,320
+Rows, calls, d, and data.
+
+975
+01:01:51,740 --> 01:01:51,960
+Okay.
+
+976
+01:02:05,400 --> 01:02:07,700
+Rows and calls amply are equal to 3 and 4.
+
+977
+01:02:10,360 --> 01:02:10,460
+Okay?
+
+978
+01:02:11,300 --> 01:02:12,300
+Let's keep going.
+
+979
+01:02:17,790 --> 01:02:18,790
+Do this part next.
+
+980
+01:02:21,890 --> 01:02:25,590
+D, and it's declared here, but it doesn't get equal to anything.
+
+981
+01:02:25,730 --> 01:02:26,710
+It's telling us a mallet.
+
+982
+01:02:27,470 --> 01:02:31,590
+So any time you do a mallet, it's going to go over to the heap and find the space.
+
+983
+01:02:38,110 --> 01:02:39,450
+Now, how much space?
+
+984
+01:02:44,640 --> 01:02:47,100
+Rows times the size of an star.
+
+985
+01:02:47,280 --> 01:02:49,160
+Now, rows here is 3.
+
+986
+01:02:50,100 --> 01:02:54,160
+So 3 times the size of an star is 8.
+
+987
+01:02:55,400 --> 01:02:56,120
+Okay.
+
+988
+01:02:56,780 --> 01:03:02,340
+Plus rows times columns times the size of an integer.
+
+989
+01:03:05,200 --> 01:03:08,040
+3 times 4 times 4.
+
+990
+01:03:08,460 --> 01:03:16,660
+So the actual space is the space for 3 pointers and the space for 12 integers.
+
+991
+01:03:17,140 --> 01:03:17,740
+Do you see that?
+
+992
+01:03:18,960 --> 01:03:23,680
+Now, that last way we did it, we had one mallet that had space for 3 pointers,
+
+993
+01:03:24,000 --> 01:03:26,960
+and we had another mallet that had space for 12 integers.
+
+994
+01:03:27,380 --> 01:03:30,780
+Now we have a single mallet with enough space for both of them.
+
+995
+01:03:30,780 --> 01:03:36,400
+See, it's making space for both the row pointers and the data itself
+
+996
+01:03:36,400 --> 01:03:38,980
+inside of a single mallet.
+
+997
+01:03:39,140 --> 01:03:39,580
+Do you see that?
+
+998
+01:03:40,860 --> 01:03:47,900
+So there's going to be some space at the very beginning that represent the 3 row pointers.
+
+999
+01:03:49,140 --> 01:03:52,560
+This is going to be the 3 row pointers.
+
+1000
+01:03:53,860 --> 01:03:58,860
+And the rest of the space inside this is the data.
+
+1001
+01:04:00,840 --> 01:04:01,540
+All right.
+
+1002
+01:04:03,440 --> 01:04:05,840
+And how many elements is that going to have in it?
+
+1003
+01:04:05,900 --> 01:04:10,080
+That's going to have 12 that come right after these 3 elements.
+
+1004
+01:04:10,520 --> 01:04:11,960
+So we'll go ahead and put that in there.
+
+1005
+01:04:21,520 --> 01:04:22,200
+Actually, yeah.
+
+1006
+01:04:22,540 --> 01:04:24,500
+Let me not put the numbers, but let's do so.
+
+1007
+01:04:24,840 --> 01:04:32,360
+1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11.
+
+1008
+01:04:33,720 --> 01:04:35,760
+Let me make sure that actually adds up right.
+
+1009
+01:04:36,100 --> 01:04:41,660
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11.
+
+1010
+01:04:41,900 --> 01:04:47,860
+So 0 through 11 is a total of 12 integer elements.
+
+1011
+01:04:49,480 --> 01:04:53,740
+I'm not going to put the addresses on here yet because that's where this gets a little bit weird.
+
+1012
+01:04:54,900 --> 01:04:59,800
+Let's suppose that the very beginning of this alloc block is 100.
+
+1013
+01:05:00,060 --> 01:05:01,580
+So 100 comes over here into 8.
+
+1014
+01:05:01,720 --> 01:05:02,900
+I can do it 4.
+
+1015
+01:05:03,520 --> 01:05:06,460
+So we're going to say this is address 100.
+
+1016
+01:05:07,220 --> 01:05:08,240
+And that's equal to d.
+
+1017
+01:05:08,500 --> 01:05:09,740
+So that's 100 here.
+
+1018
+01:05:09,940 --> 01:05:12,900
+And this d then points to this location.
+
+1019
+01:05:13,180 --> 01:05:14,500
+That's all that's happened so far.
+
+1020
+01:05:14,620 --> 01:05:15,320
+Are we good on this?
+
+1021
+01:05:32,050 --> 01:05:34,950
+Cook up the row pointers.
+
+1022
+01:05:40,370 --> 01:05:41,670
+God almighty, look at this.
+
+1023
+01:05:44,520 --> 01:05:44,740
+OK.
+
+1024
+01:05:45,640 --> 01:05:46,000
+It's OK.
+
+1025
+01:05:46,180 --> 01:05:47,100
+It's going to be OK.
+
+1026
+01:05:48,480 --> 01:05:51,400
+But actually, I'm going to write on top of this the values
+
+1027
+01:05:51,400 --> 01:05:52,640
+everywhere is on here, OK?
+
+1028
+01:05:53,400 --> 01:05:54,100
+What is d?
+
+1029
+01:05:57,080 --> 01:05:57,780
+100.
+
+1030
+01:06:02,310 --> 01:06:03,390
+Plus, what's rows?
+
+1031
+01:06:05,270 --> 01:06:05,310
+Huh?
+
+1032
+01:06:06,290 --> 01:06:06,650
+3.
+
+1033
+01:06:08,070 --> 01:06:10,230
+Then it says take that and add it.
+
+1034
+01:06:10,850 --> 01:06:11,210
+103.
+
+1035
+01:06:13,890 --> 01:06:15,510
+Now, d is a pointer.
+
+1036
+01:06:15,910 --> 01:06:16,910
+And this is an integer.
+
+1037
+01:06:17,130 --> 01:06:18,550
+But they're really both just integers.
+
+1038
+01:06:19,210 --> 01:06:23,330
+But it's saying, hey, now, but going and cast that to an integer pointer.
+
+1039
+01:06:25,550 --> 01:06:30,230
+That just means the type of this thing should be an integer pointer.
+
+1040
+01:06:31,630 --> 01:06:33,430
+That's not changing the value of it.
+
+1041
+01:06:33,590 --> 01:06:34,370
+It's a damn integer.
+
+1042
+01:06:35,230 --> 01:06:36,490
+Pointers are integers, aren't they?
+
+1043
+01:06:36,850 --> 01:06:38,630
+Doesn't 103 look like an integer?
+
+1044
+01:06:39,890 --> 01:06:43,170
+This is just to make sure that C understands that.
+
+1045
+01:06:43,750 --> 01:06:48,110
+I just took two things that were different types.
+
+1046
+01:06:48,990 --> 01:06:51,570
+This was an int star star.
+
+1047
+01:06:52,870 --> 01:06:54,150
+This was an int.
+
+1048
+01:06:54,410 --> 01:06:55,650
+And I added them together.
+
+1049
+01:06:56,290 --> 01:07:00,910
+And I'm going to convert it to a type that was neither one of the things I started with.
+
+1050
+01:07:01,570 --> 01:07:03,130
+This is an int star star.
+
+1051
+01:07:03,390 --> 01:07:04,110
+This is an int.
+
+1052
+01:07:04,270 --> 01:07:11,470
+And by the way, I'm going to treat it as if it is a single dimensional integer pointer.
+
+1053
+01:07:12,390 --> 01:07:15,510
+But when it's all said and done, use just what?
+
+1054
+01:07:16,970 --> 01:07:17,670
+103.
+
+1055
+01:07:17,630 --> 01:07:22,770
+So data becomes equal to 103.
+
+1056
+01:07:24,770 --> 01:07:25,910
+And it's an integer star.
+
+1057
+01:07:26,170 --> 01:07:27,330
+So where the hell does it point?
+
+1058
+01:07:35,250 --> 01:07:37,730
+Well, what do you guys think?
+
+1059
+01:07:39,330 --> 01:07:42,070
+This was 0, 1, 2.
+
+1060
+01:07:43,790 --> 01:07:50,410
+So this thing comes over here and points to right there.
+
+1061
+01:07:51,610 --> 01:07:58,050
+So the data pointer is pointing to where the data section begins inside this thing.
+
+1062
+01:07:58,110 --> 01:07:59,490
+Does that make sense?
+
+1063
+01:08:04,000 --> 01:08:16,720
+And then they go and say, OK, now, I've got to get my row pointers to point to the right places in here like we did before.
+
+1064
+01:08:17,480 --> 01:08:21,100
+But before, on that last example, we just had a for loop that hooked up the pointers.
+
+1065
+01:08:21,100 --> 01:08:23,000
+All right, that's what's happening here.
+
+1066
+01:08:24,280 --> 01:08:34,140
+d of 0 equals 103 plus 0 times 4.
+
+1067
+01:08:34,960 --> 01:08:51,150
+So d of 103 is equal to, I mean, d of 0 equals 103, right?
+
+1068
+01:08:52,490 --> 01:08:57,910
+So d of 0 equals 103.
+
+1069
+01:08:58,490 --> 01:09:10,010
+That means that that row pointer points to the beginning of row 0, which is at the beginning of the data section of this whole block.
+
+1070
+01:09:11,150 --> 01:09:14,990
+So that means that this points to right here.
+
+1071
+01:09:16,530 --> 01:09:18,210
+Then the loop comes around.
+
+1072
+01:09:18,510 --> 01:09:19,370
+It increments to 1.
+
+1073
+01:09:19,810 --> 01:09:22,250
+So that becomes 1.
+
+1074
+01:09:22,930 --> 01:09:26,930
+So 103 plus, what is this?
+
+1075
+01:09:28,650 --> 01:09:30,030
+4, so that's, what is that?
+
+1076
+01:09:33,480 --> 01:09:34,280
+Now, here's the thing.
+
+1077
+01:09:35,100 --> 01:09:35,680
+Where's 107?
+
+1078
+01:09:36,180 --> 01:09:44,000
+This is 103, 104, 105, 106, 107.
+
+1079
+01:09:48,360 --> 01:10:01,730
+And when we looked at our matrix before, and I don't know, what number did we start with before?
+
+1080
+01:10:03,110 --> 01:10:10,470
+Somebody said 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16.
+
+1081
+01:10:11,190 --> 01:10:15,530
+This first row has 5, 6, 7, 8 in it.
+
+1082
+01:10:16,290 --> 01:10:17,730
+5, 6, 7, 8.
+
+1083
+01:10:22,420 --> 01:10:26,360
+So this first row is pointed to my first index.
+
+1084
+01:10:26,680 --> 01:10:31,900
+The second row, though, points to row 7, the beginning of the second row.
+
+1085
+01:10:32,060 --> 01:10:34,820
+So the second row is going to be 1, 2, 3, 4.
+
+1086
+01:10:36,760 --> 01:10:44,360
+So that's 108, 109, 110, 7, 8, 9, 10, 11.
+
+1087
+01:10:48,650 --> 01:10:52,690
+So when it comes back around here, this becomes a 2.
+
+1088
+01:10:55,380 --> 01:10:57,020
+6 times 4 is 8.
+
+1089
+01:10:57,560 --> 01:10:59,020
+8 plus 3 is 11.
+
+1090
+01:11:00,780 --> 01:11:09,220
+So this becomes 111, and this pointer points here from the last row.
+
+1091
+01:11:10,380 --> 01:11:13,940
+And then the loop beyond that just goes and fills in the matrix with the data.
+
+1092
+01:11:14,180 --> 01:11:16,560
+That's all it does, right?
+
+1093
+01:11:17,480 --> 01:11:19,600
+It just has a double-nested for loop.
+
+1094
+01:11:24,090 --> 01:11:25,170
+Yeah, there it is.
+
+1095
+01:11:25,290 --> 01:11:26,290
+It just fills stuff in.
+
+1096
+01:11:26,470 --> 01:11:30,990
+It just goes and says, loop over every row and every column, put some crap in it.
+
+1097
+01:11:31,110 --> 01:11:31,730
+That's all it says.
+
+1098
+01:11:32,210 --> 01:11:33,230
+It's just making up something.
+
+1099
+01:11:33,390 --> 01:11:37,930
+I'm just saying, let's pretend that what we put in it is 5, 6, 7, 8, 9, 9, 9, 9, 9, 9, 9, 9.
+
+1100
+01:11:37,930 --> 01:11:38,230
+Okay.
+
+1101
+01:11:46,920 --> 01:11:47,700
+Here it is right there.
+
+1102
+01:11:49,320 --> 01:11:57,080
+So when you go and say, I want c of 1, 2, let's actually follow it.
+
+1103
+01:11:57,120 --> 01:12:01,040
+When you say c over here, they call it d.
+
+1104
+01:12:01,500 --> 01:12:05,780
+That's because every time we make a new way, it keeps incrementing like the variable.
+
+1105
+01:12:06,040 --> 01:12:09,000
+Like Wikipedia, like, you know, it's supposed to all be a name.
+
+1106
+01:12:09,240 --> 01:12:12,040
+We couldn't have the matrix call the same thing if it was a name.
+
+1107
+01:12:12,420 --> 01:12:15,220
+So it's called d here.
+
+1108
+01:12:16,160 --> 01:12:19,300
+So we would say d of 1, 2.
+
+1109
+01:12:20,740 --> 01:12:22,820
+So we know that d of 1, 2 is right here.
+
+1110
+01:12:23,240 --> 01:12:24,180
+But where is it over here?
+
+1111
+01:12:24,380 --> 01:12:28,260
+We go d of 1.
+
+1112
+01:12:28,500 --> 01:12:30,220
+Well, a 1 brings you down here.
+
+1113
+01:12:30,940 --> 01:12:34,720
+And then of 2 inside of it is 0, 1, 2.
+
+1114
+01:12:36,500 --> 01:12:37,300
+Do you see that?
+
+1115
+01:12:38,500 --> 01:12:39,440
+That's how this works.
+
+1116
+01:12:41,580 --> 01:12:44,200
+This is often referred to, this section here,
+
+1117
+01:12:44,200 --> 01:12:46,480
+this is often referred to as the payload section.
+
+1118
+01:12:48,400 --> 01:12:50,380
+Because this is the thing that actually is the data.
+
+1119
+01:12:50,740 --> 01:12:52,220
+That is not data up there.
+
+1120
+01:12:53,120 --> 01:12:57,220
+Like if I wanted to save d to a file,
+
+1121
+01:12:58,120 --> 01:13:03,200
+am I going to f right d into a file?
+
+1122
+01:13:04,980 --> 01:13:07,900
+Because d contains this stuff.
+
+1123
+01:13:08,060 --> 01:13:09,340
+That is not the data.
+
+1124
+01:13:09,520 --> 01:13:10,460
+This is the data.
+
+1125
+01:13:10,500 --> 01:13:15,060
+This is just temporarily some pointers that point to the right place
+
+1126
+01:13:15,060 --> 01:13:16,560
+so that I can do that.
+
+1127
+01:13:18,200 --> 01:13:22,600
+So what that's called is we're pre-computing all of the addresses.
+
+1128
+01:13:23,280 --> 01:13:26,340
+Because you're pre-doing that for loop one time.
+
+1129
+01:13:26,600 --> 01:13:29,100
+And that way, every time you use this array after that,
+
+1130
+01:13:29,160 --> 01:13:31,120
+you don't have to do that computation again.
+
+1131
+01:13:32,480 --> 01:13:34,000
+You do unfortunately though.
+
+1132
+01:13:34,440 --> 01:13:35,740
+If you were writing this in MIPSA,
+
+1133
+01:13:36,160 --> 01:13:39,180
+you'd have to be like load address for d.
+
+1134
+01:13:39,320 --> 01:13:41,720
+And then load d of zero.
+
+1135
+01:13:41,800 --> 01:13:45,040
+Then take d of zero, load address, add half of that.
+
+1136
+01:13:45,200 --> 01:13:47,700
+You know, you would be so many MIPSA instructions.
+
+1137
+01:13:50,020 --> 01:13:52,660
+The problem with this is you have to read that location in a minute.
+
+1138
+01:13:52,820 --> 01:13:56,320
+First you have to read this location to get to here.
+
+1139
+01:13:56,540 --> 01:13:59,640
+Then you have to read that location to get to here.
+
+1140
+01:13:59,800 --> 01:14:02,640
+And then you have to read that location to get to there.
+
+1141
+01:14:02,780 --> 01:14:03,820
+That's a bunch of damn reads.
+
+1142
+01:14:05,360 --> 01:14:08,700
+So unfortunately, like doing it this way is nice, clear, and concise.
+
+1143
+01:14:08,700 --> 01:14:11,420
+You might say it's not clear, but it is.
+
+1144
+01:14:11,560 --> 01:14:14,800
+But it certainly involves a lot of reading and writing the memory.
+
+1145
+01:14:15,340 --> 01:14:20,640
+So one might argue that while this is the coolest in terms of number of mallics,
+
+1146
+01:14:20,860 --> 01:14:25,720
+it is not the coolest in terms of numbers of memory transactions.
+
+1147
+01:14:26,700 --> 01:14:28,000
+So which one costs more?
+
+1148
+01:14:30,870 --> 01:14:35,450
+Well, if you're going to only use the array one time,
+
+1149
+01:14:35,470 --> 01:14:40,830
+and you've got a lot of rows, it's probably not a bad idea
+
+1150
+01:14:40,830 --> 01:14:42,330
+to not be mallicking a bunch.
+
+1151
+01:14:43,470 --> 01:14:46,370
+But if you're going to access it lots of times,
+
+1152
+01:14:46,730 --> 01:14:51,650
+one might say, you know what, it's better maybe to not have this in here
+
+1153
+01:14:51,650 --> 01:14:54,790
+because think about that cash example I gave you.
+
+1154
+01:14:55,630 --> 01:14:58,930
+What about if a block represented eight of these things?
+
+1155
+01:15:00,010 --> 01:15:03,530
+It's like one, two, three, four of these things.
+
+1156
+01:15:03,530 --> 01:15:04,750
+I don't know, say four.
+
+1157
+01:15:06,250 --> 01:15:08,210
+Remember, that doesn't make sense because these are eight mites.
+
+1158
+01:15:08,930 --> 01:15:09,770
+Let's say they're the same.
+
+1159
+01:15:10,210 --> 01:15:12,410
+This might be a cash block, this might be a cash block.
+
+1160
+01:15:13,010 --> 01:15:16,950
+So for you to do D of something, it has to grab D, bring that in the cash.
+
+1161
+01:15:17,670 --> 01:15:20,290
+You have to read that thing that has to go here and bring this in the cash.
+
+1162
+01:15:20,490 --> 01:15:21,270
+You see what I'm saying?
+
+1163
+01:15:21,450 --> 01:15:25,070
+And depending on how that cash is going, you could be thrashing cash.
+
+1164
+01:15:25,750 --> 01:15:28,970
+You know how they talk about a 356, the working set of a program?
+
+1165
+01:15:29,550 --> 01:15:32,190
+That's the concept they talk about 356, the working set.
+
+1166
+01:15:32,470 --> 01:15:36,430
+It means your program may be an acetone of instructions and acetone of data,
+
+1167
+01:15:36,490 --> 01:15:40,950
+but any one time, are you actually accessing every instruction in your program one at a time?
+
+1168
+01:15:41,450 --> 01:15:41,650
+No.
+
+1169
+01:15:42,210 --> 01:15:46,170
+Most of your instructions in your program are accessed one after another
+
+1170
+01:15:46,170 --> 01:15:47,290
+because we learned in 210.
+
+1171
+01:15:47,810 --> 01:15:50,110
+That's their own next to each other.
+
+1172
+01:15:50,210 --> 01:15:50,570
+What's that?
+
+1173
+01:15:51,390 --> 01:15:51,910
+Spatial locality.
+
+1174
+01:15:53,610 --> 01:15:56,790
+So programs also exhibit spatial locality,
+
+1175
+01:15:56,790 --> 01:16:01,190
+which means that programs would benefit from cash.
+
+1176
+01:16:02,490 --> 01:16:06,990
+And the question is, is this layout and memory the best thing for memory performance?
+
+1177
+01:16:07,710 --> 01:16:09,770
+I don't know, but you could evaluate it.
+
+1178
+01:16:10,250 --> 01:16:11,530
+You could write it all sideways.
+
+1179
+01:16:12,630 --> 01:16:16,690
+You could make tens of thousands of matrices and programs and invest marks
+
+1180
+01:16:16,690 --> 01:16:19,350
+and you could measure it and you could say experimentally,
+
+1181
+01:16:19,450 --> 01:16:22,010
+well, which one of these is better for my particular scenario?
+
+1182
+01:16:23,270 --> 01:16:24,850
+And then that's what you pick.
+
+1183
+01:16:25,090 --> 01:16:29,030
+But that would be different for different scenarios, different access patterns.
+
+1184
+01:16:29,330 --> 01:16:29,930
+Does that make sense?
+
+1185
+01:16:32,310 --> 01:16:32,610
+Okay.
+
+1186
+01:16:33,690 --> 01:16:40,250
+So when we go and look at this thing here, look at this,
+
+1187
+01:16:40,830 --> 01:16:45,370
+payload number of bytes, the pointers, the numbers of elements,
+
+1188
+01:16:45,690 --> 01:16:47,250
+the address of these things.
+
+1189
+01:16:48,210 --> 01:16:51,210
+So they now look at the total amount of bytes
+
+1190
+01:16:51,210 --> 01:16:55,770
+and then they took the row pointers thing,
+
+1191
+01:16:55,810 --> 01:16:59,430
+had it point to the same place that the block pointed to
+
+1192
+01:16:59,430 --> 01:17:05,330
+and then inside of a single loop so that for every row it took the beginning of this
+
+1193
+01:17:05,330 --> 01:17:07,810
+and added it to this and set it equal to that.
+
+1194
+01:17:07,950 --> 01:17:10,790
+And does that not look like the thing that we just did?
+
+1195
+01:17:13,130 --> 01:17:13,770
+It does.
+
+1196
+01:17:14,790 --> 01:17:17,090
+And you might be like, oh my God, there's a bunch of other stuff.
+
+1197
+01:17:17,330 --> 01:17:17,990
+Yeah, there are.
+
+1198
+01:17:17,990 --> 01:17:18,410
+There are others.
+
+1199
+01:17:20,870 --> 01:17:24,530
+You know, could we go in here and take this code and ask chat GPT,
+
+1200
+01:17:24,750 --> 01:17:26,390
+what is this exactly doing?
+
+1201
+01:17:29,050 --> 01:17:33,630
+You could say, in class we just did this thing and you got all this other stuff.
+
+1202
+01:17:33,950 --> 01:17:35,330
+What is the purpose of that?
+
+1203
+01:17:36,370 --> 01:17:37,510
+You could do that, right?
+
+1204
+01:17:39,310 --> 01:17:43,350
+So I would encourage you to do that.
+
+1205
+01:17:43,350 --> 01:17:45,410
+I would encourage you to look through this code,
+
+1206
+01:17:45,630 --> 01:17:48,030
+and I know you probably haven't because you were working hard
+
+1207
+01:17:48,030 --> 01:17:51,710
+on just trying to get the solutions and stuff and then stop it for the last thing, right?
+
+1208
+01:17:51,890 --> 01:17:53,550
+You probably desperately try to do that.
+
+1209
+01:17:53,590 --> 01:17:56,790
+You probably didn't look through every single file through the line of this, right?
+
+1210
+01:17:57,910 --> 01:17:59,270
+It's okay. I'm just asking.
+
+1211
+01:17:59,450 --> 01:18:01,170
+How many of you know how all these purposes actually work?
+
+1212
+01:18:02,290 --> 01:18:04,990
+We don't know that yet, right? We haven't covered it.
+
+1213
+01:18:05,250 --> 01:18:06,170
+We're going to cover it now.
+
+1214
+01:18:06,430 --> 01:18:07,930
+We've already seen it in operation.
+
+1215
+01:18:08,110 --> 01:18:09,090
+We've seen it work.
+
+1216
+01:18:09,270 --> 01:18:10,830
+We've seen it get answers.
+
+1217
+01:18:10,830 --> 01:18:13,910
+We've seen it get performance metrics, and then we've plotted them.
+
+1218
+01:18:14,330 --> 01:18:16,690
+Well, now let's go back and actually look at the program
+
+1219
+01:18:16,690 --> 01:18:20,730
+and understand exactly what it's doing so that we can then take the next step.
+
+1220
+01:18:20,870 --> 01:18:22,030
+And you know what that stuff's going to be?
+
+1221
+01:18:22,450 --> 01:18:27,850
+It's going to be to say, okay, what could we do to this program to make it faster?
+
+1222
+01:18:28,110 --> 01:18:30,310
+Because right now this is not very fast.
+
+1223
+01:18:30,410 --> 01:18:36,130
+Even if we threw away some of the stuff that we did here, what's the bottleneck?
+
+1224
+01:18:36,430 --> 01:18:39,350
+The bottleneck seemed to be the silo that we were doing.
+
+1225
+01:18:40,450 --> 01:18:44,850
+We can move to the solid state drive on the node and do that.
+
+1226
+01:18:46,490 --> 01:18:49,570
+There's also a bunch of other things about this program
+
+1227
+01:18:49,570 --> 01:18:51,690
+that are not great in the way this is currently written.
+
+1228
+01:18:52,850 --> 01:18:55,730
+How it was written, I asked Chat GPT to give it to me.
+
+1229
+01:18:56,410 --> 01:18:57,770
+I tested. I saw it work.
+
+1230
+01:18:58,230 --> 01:19:00,270
+We measured the performance in here.
+
+1231
+01:19:00,430 --> 01:19:01,850
+So literally, what have y'all done?
+
+1232
+01:19:01,970 --> 01:19:05,930
+Y'all all spent a bunch of time trying to figure out how long it took
+
+1233
+01:19:05,930 --> 01:19:10,490
+and what kinds of speed-ups you could get with Chat GPT's implementation
+
+1234
+01:19:10,490 --> 01:19:13,050
+of matrix vector multiplier.
+
+1235
+01:19:13,910 --> 01:19:15,370
+Because I didn't write that.
+
+1236
+01:19:16,350 --> 01:19:16,870
+That GT did.
+
+1237
+01:19:17,770 --> 01:19:20,950
+Did it do a good job? Because that's one of the questions, right?
+
+1238
+01:19:21,030 --> 01:19:23,170
+Like, how would you get something from Chat GPT?
+
+1239
+01:19:23,750 --> 01:19:24,710
+Do you know if it's okay?
+
+1240
+01:19:25,090 --> 01:19:27,750
+One way is, can you run it and it gets you the answer?
+
+1241
+01:19:28,310 --> 01:19:29,730
+Didn't blow up. That's one answer.
+
+1242
+01:19:30,230 --> 01:19:34,110
+But in parallel computing in this class, it's not just about the answer.
+
+1243
+01:19:35,030 --> 01:19:37,970
+Hell, you don't need to write a parallel program to get the answer.
+
+1244
+01:19:38,170 --> 01:19:39,450
+You could write a regular program.
+
+1245
+01:19:40,090 --> 01:19:41,250
+It's got to be faster.
+
+1246
+01:19:42,230 --> 01:19:45,330
+And you want it to be the fastest it could possibly be.
+
+1247
+01:19:46,170 --> 01:19:50,430
+So now, we have baseline numbers that you've all measured on your own computer.
+
+1248
+01:19:50,870 --> 01:19:52,690
+You've measured it on expanse.
+
+1249
+01:19:53,410 --> 01:19:57,910
+So we know that any changes we make to this by looking through this
+
+1250
+01:19:57,910 --> 01:19:59,750
+and trying to intelligently do something
+
+1251
+01:19:59,810 --> 01:20:04,350
+should at least perform as well as what Chat GPT gave us.
+
+1252
+01:20:04,710 --> 01:20:08,450
+If whatever we do sucks worse than what Chat GPT gave us,
+
+1253
+01:20:08,510 --> 01:20:10,250
+that means we're going in the wrong direction.
+
+1254
+01:20:11,650 --> 01:20:16,890
+If we can't make it any faster, then maybe that means it did a pretty good job.
+
+1255
+01:20:17,750 --> 01:20:20,650
+So we're going to evaluate everything that it did.
+
+1256
+01:20:21,110 --> 01:20:23,130
+We're going to talk about how it worked.
+
+1257
+01:20:23,630 --> 01:20:28,390
+And we're going to talk about the things that at least I perceive as being wrong with it.
+
+1258
+01:20:29,030 --> 01:20:30,410
+And we know that it works.
+
+1259
+01:20:31,450 --> 01:20:33,090
+I mean, you could take every combination.
+
+1260
+01:20:33,450 --> 01:20:33,990
+I've tried it.
+
+1261
+01:20:34,110 --> 01:20:36,730
+But every combination of rows and columns between this and this,
+
+1262
+01:20:36,950 --> 01:20:39,230
+run it sequentially, run it in parallel,
+
+1263
+01:20:39,370 --> 01:20:42,710
+compare the two answers, make sure every answer is actually the same.
+
+1264
+01:20:42,910 --> 01:20:43,190
+It is.
+
+1265
+01:20:43,770 --> 01:20:44,810
+It doesn't crash.
+
+1266
+01:20:45,030 --> 01:20:45,870
+It doesn't do any of these things.
+
+1267
+01:20:45,990 --> 01:20:48,970
+It never over-corrupts a file as far as I can tell.
+
+1268
+01:20:49,590 --> 01:20:50,150
+It seems to be working.
+
+1269
+01:20:50,250 --> 01:20:51,370
+And it speeds up some.
+
+1270
+01:20:52,970 --> 01:20:53,210
+Okay.
+
+1271
+01:20:53,650 --> 01:20:56,170
+But is that the best it could be?
+
+1272
+01:20:56,170 --> 01:20:58,850
+What are the limiting factors of this program the way they are?
+
+1273
+01:20:59,010 --> 01:21:02,950
+Because that is totally not written the way you would want to write this program in real life.
+
+1274
+01:21:04,230 --> 01:21:04,870
+That's what we're going to do.
+
+1275
+01:21:05,010 --> 01:21:06,430
+You see kind of where I'm going here?
+
+1276
+01:21:06,530 --> 01:21:07,350
+That's what we're doing.
+
+1277
+01:21:07,690 --> 01:21:10,050
+Because I know that in real life you're going to be using tools.
+
+1278
+01:21:10,590 --> 01:21:12,590
+You're going to be using what's ever available.
+
+1279
+01:21:13,050 --> 01:21:15,810
+You're going to use the APIs of stuff that you didn't write
+
+1280
+01:21:15,810 --> 01:21:18,430
+because you're going to build the shoulders of the stuff that's already there.
+
+1281
+01:21:18,910 --> 01:21:21,470
+Some of that stuff might be something that came with something that was already built.
+
+1282
+01:21:21,690 --> 01:21:24,550
+Some of it might be built by some sort of a system of tools.
+
+1283
+01:21:25,550 --> 01:21:27,230
+So I see this as two-fold.
+
+1284
+01:21:27,950 --> 01:21:31,870
+Like, this assistive tool didn't help us.
+
+1285
+01:21:33,450 --> 01:21:36,430
+Well, you know, it did give me an answer like in three minutes.
+
+1286
+01:21:38,230 --> 01:21:42,350
+Like, imagine that all you had was, like when I was in college,
+
+1287
+01:21:43,150 --> 01:21:43,890
+you had a textbook.
+
+1288
+01:21:44,510 --> 01:21:45,530
+You didn't show how to do this.
+
+1289
+01:21:46,110 --> 01:21:47,010
+You didn't have the Internet.
+
+1290
+01:21:47,410 --> 01:21:48,510
+You didn't have chat GPT.
+
+1291
+01:21:48,730 --> 01:21:49,310
+You had to write this.
+
+1292
+01:21:49,370 --> 01:21:53,730
+It took me forever to write this program the very first time because I didn't have it.
+
+1293
+01:21:54,230 --> 01:21:54,770
+It was awful.
+
+1294
+01:21:56,770 --> 01:21:59,590
+It took me three minutes to write with a chat GPT or less.
+
+1295
+01:22:00,770 --> 01:22:04,350
+I literally only had to ask two things to be fixed when it gave me the thing I had to do.
+
+1296
+01:22:04,630 --> 01:22:06,650
+There weren't things that needed to be fixed that were wrong.
+
+1297
+01:22:06,770 --> 01:22:08,050
+They were just stuff I just wanted differently.
+
+1298
+01:22:08,250 --> 01:22:10,050
+In fact, it was right the very first time.
+
+1299
+01:22:11,310 --> 01:22:12,830
+So that's what I want us to do, all right?
+
+1300
+01:22:12,890 --> 01:22:13,730
+I'll see you guys later.
+
+1301
+01:22:13,970 --> 01:22:15,890
+See you on Tuesday, excuse me, Thursday.
+
+1302
+01:22:17,270 --> 01:22:21,990
+I will share the thing that started with that chat conversation
+
+1303
+01:22:21,990 --> 01:22:23,210
+that we've been playing with.
+
+1304
+01:22:23,930 --> 01:22:28,170
+And I want you to start looking at just the place where it allocated the memory
+
+1305
+01:22:28,170 --> 01:22:31,870
+and try to map it back to what we just talked about and understand
+
+1306
+01:22:31,870 --> 01:22:35,870
+what memory allocation it does to see what one of these it is
+
+1307
+01:22:35,870 --> 01:22:38,910
+and see that it actually does the same thing that we said today, all right?
+
+1308
+01:22:39,250 --> 01:22:40,990
+See you guys next time.
+
+1309
+01:22:43,780 --> 01:22:44,580
+Yes, sir.
+
+1310
+01:22:44,700 --> 01:22:49,200
+Do you see recent stuff on the accommodations on the last year?
+
+1311
+01:22:50,160 --> 01:22:53,000
+So, yeah, did you do anything?
+
+1312
+01:22:53,380 --> 01:22:55,760
+Did you extend anything or any of the stuff?
+
+1313
+01:22:56,220 --> 01:22:59,180
+Now right now, the thinking comes up in the silence.
+
+1314
+01:22:59,840 --> 01:23:00,380
+Sounds good.
+

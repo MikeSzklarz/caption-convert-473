@@ -1,0 +1,6789 @@
+1
+00:00:02,900 --> 00:00:05,200
+My semester is going to
+be busier than it normally is.
+
+2
+00:00:07,730 --> 00:00:09,430
+Thanks, you too. I'm going in.
+
+3
+00:01:56,390 --> 00:01:56,950
+All right.
+
+4
+00:01:57,370 --> 00:02:49,420
+Just check some stuff here.
+
+5
+00:04:06,840 --> 00:04:08,260
+So by the time we
+said we were going to actually
+
+6
+00:04:08,260 --> 00:04:11,860
+try to log in the
+system, try to code something up,
+
+7
+00:04:12,660 --> 00:04:13,900
+kind of see what's going on.
+
+8
+00:04:18,530 --> 00:04:22,330
+As far as I know, this is being recorded,
+so we could go back and look at it.
+
+9
+00:04:22,430 --> 00:04:24,730
+But I mean, you might want
+to take notes. I don't know.
+
+10
+00:04:24,730 --> 00:04:29,390
+I guess what I'm saying is I'm not
+going to keep going over this or whatever.
+
+11
+00:04:29,750 --> 00:04:32,090
+Whatever you think is necessary.
+
+12
+00:04:33,190 --> 00:04:34,810
+And remember, even though
+we're saying we're recording it,
+
+13
+00:04:34,850 --> 00:04:37,070
+it doesn't mean that it
+goes to the glitch or something.
+
+14
+00:04:37,230 --> 00:04:37,710
+It's not there.
+
+15
+00:04:39,110 --> 00:04:41,230
+So just letting you know.
+
+16
+00:04:42,090 --> 00:04:46,150
+All right.
+
+17
+00:04:48,090 --> 00:04:56,260
+So you probably remember that when
+we were on the Expanse user guide.
+
+18
+00:04:56,820 --> 00:05:58,440
+Let's go to the Expanse user guide here.
+
+19
+00:05:59,820 --> 00:06:01,900
+Remember there's a portal.
+There'll be a web
+
+20
+00:06:01,900 --> 00:06:03,640
+portal where you can
+use the interface, right?
+
+21
+00:06:05,080 --> 00:06:05,740
+It's 12F.
+
+22
+00:06:06,860 --> 00:06:09,400
+The portal is this.
+
+23
+00:06:10,480 --> 00:06:14,340
+And it's literally just, if you
+type it in from a new terminal,
+
+24
+00:06:14,640 --> 00:06:18,640
+it's just portal.expanse.sandview.com.
+
+25
+00:06:21,240 --> 00:06:25,080
+Or you can just go back to the
+guide and do whatever you've got to do.
+
+26
+00:06:25,980 --> 00:06:29,660
+Now, you see how I'm
+at this little thing here?
+
+27
+00:06:31,100 --> 00:06:36,960
+Now, remember the identity that we used
+was step two for creating an account,
+
+28
+00:06:37,080 --> 00:06:42,440
+which was like it's not tied
+to our postal account or anything.
+
+29
+00:06:43,340 --> 00:06:44,960
+Now, I'm not saying you've got to do this.
+
+30
+00:06:46,940 --> 00:06:49,340
+But I find that sometimes
+if I'm like, yeah, man,
+
+31
+00:06:49,420 --> 00:06:52,900
+I just want to continue
+with my access to whatever.
+
+32
+00:06:53,220 --> 00:06:55,180
+Sometimes that works.
+Sometimes it doesn't.
+
+33
+00:06:55,760 --> 00:06:58,380
+And because I log in and
+communicate to a bunch of different stuff,
+
+34
+00:06:58,500 --> 00:07:01,280
+I feel like some of the cookies and
+stuff is shared to get you checked out.
+
+35
+00:07:02,020 --> 00:07:04,600
+So I just say, look,
+I just want to log out.
+
+36
+00:07:04,920 --> 00:07:06,900
+Let's just log out.
+
+37
+00:07:07,780 --> 00:07:10,380
+And I'm going to
+click on the portal again.
+
+38
+00:07:12,800 --> 00:07:15,320
+And then it's going to come and
+ask me to log in the normal way.
+
+39
+00:07:17,860 --> 00:07:20,780
+And I'm like, yeah, well, we've
+got to use our access stack things.
+
+40
+00:07:20,880 --> 00:07:24,140
+We're not doing it through an institution
+or a job or a company or whatever.
+
+41
+00:07:24,500 --> 00:07:26,000
+So we're like, yep,
+we're going to do that.
+
+42
+00:07:28,990 --> 00:07:33,790
+We're going to come and put our
+access ID in it along with our password.
+
+43
+00:07:34,010 --> 00:07:36,710
+And we're going to get
+the two-factor authentication
+
+44
+00:07:36,710 --> 00:07:37,810
+stuff in Duo.
+
+45
+00:07:38,550 --> 00:07:48,000
+That's a little bit concerning.
+
+46
+00:07:48,340 --> 00:07:52,620
+You know, I did all this
+stuff this morning at 6 a.m. here,
+
+47
+00:07:52,680 --> 00:07:55,100
+so just to confirm that
+everything for today would work.
+
+48
+00:07:56,840 --> 00:07:58,640
+And that doesn't seem very good.
+
+49
+00:07:59,660 --> 00:08:02,320
+I'll tell you what, let's see.
+
+50
+00:08:03,800 --> 00:08:05,060
+Let's see if I'm here.
+
+51
+00:08:11,800 --> 00:08:13,760
+I'm curious if my eyes ought to work.
+
+52
+00:08:24,420 --> 00:08:24,740
+Okay.
+
+53
+00:08:26,660 --> 00:08:28,480
+So it's sitting on the computer.
+
+54
+00:08:31,790 --> 00:08:32,410
+We'll do that.
+
+55
+00:08:32,570 --> 00:08:47,920
+All right, so I'm logged in.
+
+56
+00:08:50,020 --> 00:08:57,780
+And let's suppose that you
+had downloaded the zip file
+
+57
+00:08:57,780 --> 00:08:59,340
+that contained the stuff in the class.
+
+58
+00:08:59,640 --> 00:09:05,380
+And you navigated to where the stuff was.
+
+59
+00:09:05,680 --> 00:09:09,140
+So like, for example, I downloaded it.
+
+60
+00:09:09,920 --> 00:09:12,420
+I guess I should have zipped it
+up and gave it to you guys.
+
+61
+00:09:12,920 --> 00:09:18,760
+But I had to download, you know,
+all of the stuff that we had before.
+
+62
+00:09:19,700 --> 00:09:26,040
+And by putting the Moodle, I went ahead
+and got the source files out of there.
+
+63
+00:09:26,180 --> 00:09:28,180
+That was the source files that came in.
+
+64
+00:09:28,380 --> 00:09:31,380
+Plus, you can just get these
+source files right off the internet
+
+65
+00:09:31,380 --> 00:09:35,600
+because the publisher's website has it
+for students to download the source code.
+
+66
+00:09:36,760 --> 00:09:40,560
+And I literally moved this hard
+GZ, so it's a zip file.
+
+67
+00:09:40,660 --> 00:09:45,160
+And I used this mechanism here, the file
+that I used, to push it up there.
+
+68
+00:09:45,600 --> 00:09:46,920
+So I went to, like, the directory.
+
+69
+00:09:51,040 --> 00:09:52,820
+I made a 473 directory.
+
+70
+00:09:55,570 --> 00:09:58,530
+And the directory went up inside of it.
+
+71
+00:09:59,350 --> 00:10:00,450
+I said, upload.
+
+72
+00:10:00,950 --> 00:10:01,810
+I uploaded the thing.
+
+73
+00:10:01,910 --> 00:10:04,890
+I'm obviously not going to do that
+here because of how slow your finger is.
+
+74
+00:10:05,490 --> 00:10:07,610
+And I got it there.
+
+75
+00:10:08,070 --> 00:10:09,970
+I didn't unzip it yet.
+
+76
+00:10:10,130 --> 00:10:10,650
+I did that.
+
+77
+00:10:10,930 --> 00:10:12,230
+I didn't do it with these next setups.
+
+78
+00:10:16,110 --> 00:10:19,470
+So I went and went
+back to the portal here.
+
+79
+00:10:20,230 --> 00:10:21,890
+And we had opened up a shell.
+
+80
+00:10:22,410 --> 00:10:32,170
+I increased the font size so
+we could see a bit here.
+
+81
+00:10:32,930 --> 00:10:35,930
+Also, so that if you're watching the video
+at home later, like, if you need it,
+
+82
+00:10:36,070 --> 00:10:37,750
+you can be more visible, more legible.
+
+83
+00:10:39,390 --> 00:10:41,790
+If I do a print word
+in the directory, look where I'm at.
+
+84
+00:10:41,910 --> 00:10:42,790
+I'm in the home directory.
+
+85
+00:10:43,610 --> 00:10:47,270
+If you do an LS, I'll
+see the, there's the 473 folder blue.
+
+86
+00:10:48,230 --> 00:10:50,830
+So I'm going to go ahead and cd to 473.
+
+87
+00:10:52,010 --> 00:10:55,430
+And there's where I unzipped it before.
+
+88
+00:10:55,530 --> 00:10:57,430
+But I'm going to pretend
+like I haven't done that yet.
+
+89
+00:10:57,870 --> 00:10:58,970
+So I'm going to delete that folder.
+
+90
+00:10:59,850 --> 00:11:03,130
+So I'm going to do an rm bash
+recursively and force the
+
+91
+00:11:03,130 --> 00:11:04,150
+directory to be deleted.
+
+92
+00:11:05,290 --> 00:11:07,670
+And I'm just going
+to remove my folder here.
+
+93
+00:11:09,490 --> 00:11:14,310
+Now, it would be as if I had
+just uploaded that tar.gz
+
+94
+00:11:14,310 --> 00:11:16,310
+file from my desktop
+
+95
+00:11:16,310 --> 00:11:18,950
+that you had gotten
+from the zip talk thing.
+
+96
+00:11:19,170 --> 00:11:23,370
+Or if you had gotten it through the
+code.coast.edu get repo, which
+
+97
+00:11:23,370 --> 00:11:24,170
+has got all the stuff,
+
+98
+00:11:24,530 --> 00:11:26,690
+including the source code.
+
+99
+00:11:26,810 --> 00:11:29,510
+Or if you'd gotten the thing on the
+internet from the public,
+
+100
+00:11:30,090 --> 00:11:31,990
+the Patinko second edition text
+
+101
+00:11:31,990 --> 00:11:35,130
+and gotten that, that's what the two
+means is the
+
+102
+00:11:35,130 --> 00:11:37,210
+introduction of parallel programming
+
+103
+00:11:37,210 --> 00:11:40,570
+and processing or whatever it is
+in addition to for the Patinko text.
+
+104
+00:11:40,830 --> 00:11:41,730
+That's what that is.
+
+105
+00:11:43,010 --> 00:11:44,350
+So then I'm just going to type unzip.
+
+106
+00:12:23,360 --> 00:12:24,180
+So hold on here now.
+
+107
+00:12:24,960 --> 00:12:25,920
+I'm doing wrong.
+
+108
+00:12:26,140 --> 00:12:26,860
+Let's do this.
+
+109
+00:12:29,360 --> 00:12:30,900
+Is this the deal here?
+
+110
+00:12:32,460 --> 00:12:33,500
+I don't know what that is.
+
+111
+00:12:38,530 --> 00:12:41,550
+Just want to make sure there's only one
+thing in my directory to start out with.
+
+112
+00:12:42,410 --> 00:12:43,550
+It's 224 kilobytes.
+
+113
+00:12:43,710 --> 00:12:44,510
+That seems reasonable.
+
+114
+00:12:45,710 --> 00:12:47,950
+But now why is it that I can
+unzip this file I
+
+115
+00:12:47,950 --> 00:12:49,130
+could did just earlier today?
+
+116
+00:12:50,910 --> 00:12:51,310
+Ugh.
+
+117
+00:12:51,390 --> 00:12:51,890
+That's right.
+
+118
+00:12:52,030 --> 00:12:57,620
+I bet it's got an unzip.
+
+119
+00:12:57,940 --> 00:12:59,660
+But I bet there doesn't work with tar.gz.
+
+120
+00:13:00,340 --> 00:13:02,720
+So let's do tar.xvfz.
+
+121
+00:13:09,380 --> 00:13:10,440
+And let's unzip it.
+
+122
+00:13:11,060 --> 00:13:13,720
+We're probably going to see like a bunch
+of crap coming out of here on the screen.
+
+123
+00:13:15,990 --> 00:13:20,030
+Because this thing was
+zipped maybe on my Mac.
+
+124
+00:13:20,870 --> 00:13:23,530
+But it's being unzipped
+on its Linux system.
+
+125
+00:13:23,710 --> 00:13:25,030
+There's probably some file
+that you can use
+
+126
+00:13:25,030 --> 00:13:26,370
+that are not the same because we're using
+
+127
+00:13:26,470 --> 00:13:27,450
+different file systems.
+
+128
+00:13:27,590 --> 00:13:29,530
+This is probably using ext4 over there.
+
+129
+00:13:29,730 --> 00:13:31,450
+This over here is some MacFS file systems.
+
+130
+00:13:31,750 --> 00:13:33,990
+So there's not all of the
+attributes of every
+
+131
+00:13:33,990 --> 00:13:35,210
+file necessarily match.
+
+132
+00:13:35,470 --> 00:13:39,230
+But the important part is that when
+you get there you've got the folder there.
+
+133
+00:13:39,350 --> 00:13:42,410
+So we're going to go over there
+into that folder and look at what's there.
+
+134
+00:13:42,670 --> 00:13:43,410
+And we see that.
+
+135
+00:13:43,890 --> 00:13:45,430
+So it's organized by
+chapter and all of this.
+
+136
+00:13:46,110 --> 00:13:49,270
+And I said we were going
+to start with the MPI stuff today.
+
+137
+00:13:50,230 --> 00:13:52,370
+The MPI parallel programming stuff.
+
+138
+00:13:53,610 --> 00:13:57,970
+So what I plan to do here is go to
+the Hello World program and
+
+139
+00:13:57,970 --> 00:13:59,070
+use the Hello World program
+
+140
+00:13:59,070 --> 00:14:02,590
+to motivate what we're going to do
+in the slides related to learning MPI.
+
+141
+00:14:03,270 --> 00:14:05,390
+But we need to be able to at least
+prove we can run
+
+142
+00:14:05,390 --> 00:14:06,650
+a parallel program here, right?
+
+143
+00:14:08,390 --> 00:14:10,690
+So the MPI stuff is in chapter 3.
+
+144
+00:14:10,930 --> 00:14:12,710
+So we're going to move
+over here to chapter 3.
+
+145
+00:14:14,450 --> 00:14:18,610
+And the Hello World program, as you
+can imagine, is this program right here.
+
+146
+00:14:19,550 --> 00:14:22,410
+So I want to go look at it.
+
+147
+00:14:25,910 --> 00:14:26,030
+Yep.
+
+148
+00:14:26,290 --> 00:14:28,470
+So tellerworld.c uses hello world.
+
+149
+00:14:28,830 --> 00:14:31,450
+It's even got like a little thing
+to say how to compile it here.
+
+150
+00:14:32,810 --> 00:14:36,010
+So MPI CC means the MPI C compiler.
+
+151
+00:14:37,150 --> 00:14:41,270
+Dash G means turn on debugging.
+
+152
+00:14:42,990 --> 00:14:45,430
+Dash W means turn on some warnings.
+
+153
+00:14:45,690 --> 00:14:46,890
+So which warnings in particular?
+
+154
+00:14:48,170 --> 00:14:48,950
+All of the warnings.
+
+155
+00:14:48,950 --> 00:14:50,510
+Now that's not all of the warnings.
+
+156
+00:14:50,750 --> 00:14:52,470
+It's most of the warnings.
+
+157
+00:14:53,750 --> 00:14:56,290
+And it says what standard
+of the C language do
+
+158
+00:14:56,290 --> 00:14:58,370
+you want me to assume
+that this file is in?
+
+159
+00:14:59,410 --> 00:15:03,510
+And this thing says the C99 because, you
+know, there was one
+
+160
+00:15:03,510 --> 00:15:05,290
+before that was C89, right?
+
+161
+00:15:05,990 --> 00:15:08,230
+There's definitely differences
+about how four loops
+
+162
+00:15:08,230 --> 00:15:10,330
+are done and stuff
+between those two versions.
+
+163
+00:15:11,350 --> 00:15:14,650
+Dash O means what is the output file name
+of the binary that
+
+164
+00:15:14,650 --> 00:15:16,690
+we're going to execute here.
+
+165
+00:15:16,690 --> 00:15:19,250
+So I want to call it MPI Hello.
+
+166
+00:15:19,370 --> 00:15:21,450
+So that'll be like, if I was on
+Windows, that'd be like
+
+167
+00:15:21,450 --> 00:15:23,470
+MPI underscore Hello dot exe.
+
+168
+00:15:23,610 --> 00:15:25,470
+But on Linux, of course,
+we don't have to do that.
+
+169
+00:15:26,590 --> 00:15:30,110
+And then finally, the following file,
+which is the Hello World program.
+
+170
+00:15:35,850 --> 00:15:39,030
+So yeah, the contrast and that's not
+particularly great on the board, is it?
+
+171
+00:15:48,260 --> 00:15:51,900
+I wonder if there's another theme
+here that would make it look cooler.
+
+172
+00:15:52,120 --> 00:15:52,560
+Let's see.
+
+173
+00:16:00,600 --> 00:16:01,120
+Is that better?
+
+174
+00:16:02,240 --> 00:16:02,580
+Okay.
+
+175
+00:16:05,680 --> 00:16:08,640
+And it says how we're going
+to execute it, it has this.
+
+176
+00:16:09,920 --> 00:16:12,640
+So now I'm just going to
+follow directions of what it says.
+
+177
+00:16:13,120 --> 00:16:14,900
+It says compile the thing I'm going to do.
+
+178
+00:16:15,020 --> 00:16:17,060
+Now when you're at this
+little terminal on their portal,
+
+179
+00:16:17,580 --> 00:16:19,320
+when you highlight something and
+let go of the mouse,
+
+180
+00:16:19,380 --> 00:16:21,500
+you see how it pops that thing over there?
+
+181
+00:16:21,620 --> 00:16:24,900
+Well, watch the screen when I do like that
+and I let go of the left mouse button.
+
+182
+00:16:25,600 --> 00:16:27,320
+That means it just
+copied that to the clipboard.
+
+183
+00:16:27,540 --> 00:16:29,800
+I don't have to hit
+control C or any of this.
+
+184
+00:16:30,000 --> 00:16:31,120
+It's already in the clipboard.
+
+185
+00:16:32,080 --> 00:16:35,060
+Alright, so I'm going to get
+back out of the file here.
+
+186
+00:16:37,920 --> 00:16:41,600
+And I'm going to try to compile it.
+
+187
+00:16:42,200 --> 00:16:43,240
+See, so I hit control B.
+
+188
+00:16:44,700 --> 00:16:45,540
+I hit enter.
+
+189
+00:16:47,140 --> 00:16:48,420
+And it says there's a problem.
+
+190
+00:16:49,900 --> 00:16:53,100
+It says I have, it
+says so the GNU C compiler
+
+191
+00:16:53,100 --> 00:16:57,340
+says I don't know what you
+mean by standard equals to C99.
+
+192
+00:16:57,620 --> 00:16:59,280
+Did you mean little C99?
+
+193
+00:17:00,860 --> 00:17:01,800
+Yep, we did.
+
+194
+00:17:02,820 --> 00:17:07,339
+You know, when they wrote
+this whatever system he was on
+
+195
+00:17:07,339 --> 00:17:10,260
+had a compiler that assumed that
+the thing was a capital letter.
+
+196
+00:17:10,400 --> 00:17:10,840
+But it's not.
+
+197
+00:17:11,220 --> 00:17:13,640
+For this compiler we're
+using, it's a lowercase letter.
+
+198
+00:17:14,000 --> 00:17:16,500
+So I hit the up arrow and I
+come back over here,
+
+199
+00:17:17,260 --> 00:17:19,079
+change this to little C.
+
+200
+00:17:31,400 --> 00:17:32,800
+Okay, so it came back.
+
+201
+00:17:33,260 --> 00:17:35,020
+And I said why did it
+take so long to compile it?
+
+202
+00:17:35,180 --> 00:17:36,860
+It says hell of a
+world, it shouldn't take very long.
+
+203
+00:17:37,060 --> 00:17:39,640
+I bet if I were
+to run this again, it's fast.
+
+204
+00:17:39,820 --> 00:17:42,800
+Because the pretty first time it has
+to cache up those binaries and pass it.
+
+205
+00:17:42,980 --> 00:17:44,200
+So I have to figure out what's going on.
+
+206
+00:17:45,260 --> 00:17:47,700
+So now, I'm going to do an ls-lar dh.
+
+207
+00:17:49,000 --> 00:17:52,960
+So l for a long list, all
+the attributes r, t means diverse time.
+
+208
+00:17:53,300 --> 00:17:55,780
+And h means to put
+the size of human readable format.
+
+209
+00:17:57,060 --> 00:17:59,800
+I like it in a
+reverse time order because when I
+
+210
+00:17:59,800 --> 00:18:04,240
+just compile it, that binary will
+be the most recently generated file.
+
+211
+00:18:04,740 --> 00:18:06,980
+And if you've got an error
+with a craft ton of stuff in
+
+212
+00:18:06,980 --> 00:18:11,560
+it, you come over here and
+you see right there, look at that.
+
+213
+00:18:12,120 --> 00:18:14,260
+You know, it's down here at
+the bottom so I can see it.
+
+214
+00:18:14,640 --> 00:18:17,680
+So it's about 25 kilobytes
+and it was just generated here.
+
+215
+00:18:17,800 --> 00:18:19,060
+Now you might look at this
+timestamp and say,
+
+216
+00:18:19,420 --> 00:18:20,200
+that doesn't make sense.
+
+217
+00:18:20,340 --> 00:18:22,600
+It's not 8 o'clock in
+the morning, I was 28.
+
+218
+00:18:22,880 --> 00:18:25,420
+But this is on the Pacific
+Coast, the San
+
+219
+00:18:25,420 --> 00:18:26,460
+Diego Sewer Computing Center.
+
+220
+00:18:26,600 --> 00:18:28,420
+So three hours earlier there is here.
+
+221
+00:18:28,860 --> 00:18:30,980
+So one thing about it,
+if you start moving files around,
+
+222
+00:18:31,080 --> 00:18:33,640
+you can get issues where the
+timestamps aren't going to mash up
+
+223
+00:18:33,640 --> 00:18:36,320
+because they're in a different time zone,
+you know, and you can have some issues.
+
+224
+00:18:37,040 --> 00:18:40,360
+Just FYI, if you ever wonder what the
+hell is going on, that can be an issue.
+
+225
+00:18:42,500 --> 00:18:44,920
+Especially if you were
+doing, like, some sort of
+
+226
+00:18:44,920 --> 00:18:48,980
+distributive type make situation
+where it uses access times
+
+227
+00:18:48,980 --> 00:18:52,140
+and modification times to
+understand how the tree works.
+
+228
+00:18:54,480 --> 00:18:55,240
+You shouldn't be doing that.
+
+229
+00:18:55,520 --> 00:18:58,280
+You can do it all on
+this system or all on another system.
+
+230
+00:18:58,280 --> 00:19:01,600
+Because if you compile something
+like a computer, you move
+
+231
+00:19:01,600 --> 00:19:03,520
+parts of those and compile
+things over to the other system,
+
+232
+00:19:03,640 --> 00:19:04,180
+that doesn't work.
+
+233
+00:19:04,340 --> 00:19:06,000
+Because you might have
+the same architecture, the same
+
+234
+00:19:06,000 --> 00:19:08,000
+version of libraries and all
+this other sort of stuff.
+
+235
+00:19:08,100 --> 00:19:10,260
+So do it all
+here, all there, all wherever.
+
+236
+00:19:10,460 --> 00:19:12,380
+Do it all from scratch, wherever it is.
+
+237
+00:19:15,160 --> 00:19:16,480
+Now I'm going to try to
+run it like I would a
+
+238
+00:19:16,480 --> 00:19:19,320
+regular C program without all this
+MPI stuff that I'm talking about.
+
+239
+00:19:19,400 --> 00:19:21,620
+I'm going to go here and
+I'm going to say, alright, MPI, hello.
+
+240
+00:19:23,240 --> 00:19:24,480
+And I'm like, oh my god.
+
+241
+00:19:25,480 --> 00:19:28,240
+I've got a bunch
+of stuff that's popped out.
+
+242
+00:19:29,660 --> 00:19:30,980
+I've got some of this stuff.
+
+243
+00:19:31,260 --> 00:19:32,320
+I'm going to tell all that is.
+
+244
+00:19:32,760 --> 00:19:35,840
+I do see that the print statement
+that was in the file where it says,
+
+245
+00:19:36,060 --> 00:19:38,000
+greetings in the print,
+you know, it's version of
+
+246
+00:19:38,000 --> 00:19:39,980
+hello world to the screen,
+that seemed to come out.
+
+247
+00:19:40,220 --> 00:19:41,300
+And so did a bunch of other crap.
+
+248
+00:19:42,520 --> 00:19:45,660
+Now I remember the other day I said, um,
+
+249
+00:19:47,860 --> 00:19:51,340
+don't, uh, don't run
+stuff on the head, no.
+
+250
+00:19:51,900 --> 00:19:53,960
+That's a hello world part, not a big deal.
+
+251
+00:19:54,820 --> 00:19:55,840
+But we're using MPI.
+
+252
+00:19:57,440 --> 00:19:59,500
+MPI is generally used when you're
+trying to do
+
+253
+00:19:59,500 --> 00:20:00,780
+a high performance computation.
+
+254
+00:20:01,320 --> 00:20:04,140
+MPI is generally used when it's
+going to take a long time.
+
+255
+00:20:04,680 --> 00:20:08,520
+So to prevent people from trying to even
+use, I believe is why they did this.
+
+256
+00:20:08,840 --> 00:20:11,120
+Try to even do stuff
+with MPI on the head node.
+
+257
+00:20:11,440 --> 00:20:13,420
+They're like, you're not going to be
+able to run this on a head node.
+
+258
+00:20:14,820 --> 00:20:18,080
+But it could be that we didn't use
+the command they said to run it with.
+
+259
+00:20:18,180 --> 00:20:18,800
+Let's try that.
+
+260
+00:20:19,020 --> 00:20:21,420
+What about if we said we let it in there.
+
+261
+00:20:21,420 --> 00:20:26,320
+Now remember, we could go back in
+here and look at it like this.
+
+262
+00:20:26,480 --> 00:20:30,040
+We could say, all right, let
+me go back into the program itself.
+
+263
+00:20:33,060 --> 00:20:39,920
+And, and okay.
+
+264
+00:20:41,020 --> 00:20:42,260
+MPI EXDC.
+
+265
+00:20:43,520 --> 00:20:46,200
+That's how I say I
+want to execute the program.
+
+266
+00:20:46,320 --> 00:20:49,580
+I'm just using something called
+MPI run instead of MPI exec.
+
+267
+00:20:49,840 --> 00:20:51,820
+But let's try this thing.
+
+268
+00:20:51,820 --> 00:20:55,640
+So MPI exec dash in
+the number of processes on it.
+
+269
+00:20:55,800 --> 00:20:57,860
+That's why we're doing it parallel.
+
+270
+00:20:58,000 --> 00:21:03,100
+So we're going to kick off the spot
+on processes and try to do the hello.
+
+271
+00:21:03,480 --> 00:21:03,860
+Okay, cool.
+
+272
+00:21:04,020 --> 00:21:04,900
+So let me try that.
+
+273
+00:21:06,880 --> 00:21:08,980
+MPI EX and then I hit tab.
+
+274
+00:21:09,280 --> 00:21:10,060
+You tab complete.
+
+275
+00:21:10,220 --> 00:21:13,520
+Sure enough, that program
+is available on your somewhere.
+
+276
+00:21:13,760 --> 00:21:14,560
+So dash in.
+
+277
+00:21:14,980 --> 00:21:16,120
+Let's just do two processes.
+
+278
+00:21:17,820 --> 00:21:17,880
+Okay.
+
+279
+00:21:19,000 --> 00:21:21,080
+And let's try to run it.
+
+280
+00:21:24,120 --> 00:21:23,680
+MPI hello.
+
+281
+00:21:25,240 --> 00:21:26,440
+And I got some other stuff.
+
+282
+00:21:30,420 --> 00:21:33,920
+So I'm getting this feeling that
+like, I'm either doing something wrong
+
+283
+00:21:33,920 --> 00:21:37,480
+or I shouldn't have been running it
+to begin with on the head node.
+
+284
+00:21:38,260 --> 00:21:43,380
+Let's assume that until I actually get
+on a node other than the head node,
+
+285
+00:21:43,480 --> 00:21:45,080
+we'll start debugging from there.
+
+286
+00:21:45,920 --> 00:21:51,160
+So the question is, how do you
+get from the login server on this
+
+287
+00:21:51,280 --> 00:21:54,420
+to one of what they
+call the back end computational nodes?
+
+288
+00:21:54,640 --> 00:21:55,280
+How do you do that?
+
+289
+00:21:56,220 --> 00:21:56,400
+All right.
+
+290
+00:21:56,520 --> 00:21:59,220
+Well, if you go back
+over to the user guide,
+
+291
+00:21:59,960 --> 00:22:02,400
+it's not everything you need
+to know in this guide.
+
+292
+00:22:02,500 --> 00:22:04,560
+It's a huge guide,
+but everything's in there.
+
+293
+00:22:05,600 --> 00:22:07,860
+Now listen, I hate the shit they've done.
+
+294
+00:22:08,000 --> 00:22:09,600
+You're going to probably have
+got to do them like this.
+
+295
+00:22:09,700 --> 00:22:10,400
+This is obnoxious.
+
+296
+00:22:10,880 --> 00:22:11,020
+God.
+
+297
+00:22:13,600 --> 00:22:16,620
+Let's go back up to the top of here
+and look at what's at
+
+298
+00:22:16,620 --> 00:22:17,560
+the top of this page.
+
+299
+00:22:20,430 --> 00:22:21,230
+Running jobs.
+
+300
+00:22:21,750 --> 00:22:23,150
+That's what we're trying to do.
+
+301
+00:22:23,310 --> 00:22:24,130
+We're trying to run a job.
+
+302
+00:22:24,750 --> 00:22:26,390
+It's not running on the
+head node for some reason,
+
+303
+00:22:26,430 --> 00:22:28,510
+so let me try to run it
+on something that's not a head node.
+
+304
+00:22:29,850 --> 00:22:30,730
+So we get rid of running jobs.
+
+305
+00:22:32,590 --> 00:22:37,510
+And it says, now, running jobs
+on Expanse uses a program called SLURM,
+
+306
+00:22:38,130 --> 00:22:41,170
+simple utility, the English
+utility for user management
+
+307
+00:22:41,170 --> 00:22:42,690
+or whatever, resource management.
+
+308
+00:22:44,790 --> 00:22:47,410
+It says, remember
+that computationally intensive jobs
+
+309
+00:22:47,410 --> 00:22:50,810
+should only run on the compute
+nodes and not on the login nodes.
+
+310
+00:22:51,430 --> 00:22:54,150
+And that could be that we just don't
+have the right modules
+
+311
+00:22:54,150 --> 00:22:55,430
+loaded for doing MPI.
+
+312
+00:22:55,470 --> 00:22:55,930
+I don't know.
+
+313
+00:22:56,030 --> 00:22:59,450
+Let's see what happens if we
+get on one of these backend nodes.
+
+314
+00:23:04,040 --> 00:23:06,640
+Now it says, okay, now, when
+you go to run a job,
+
+315
+00:23:06,720 --> 00:23:08,980
+you've got to tell it, where
+do you want to run it?
+
+316
+00:23:09,160 --> 00:23:13,040
+Because remember, this thing's
+got some GPU nodes.
+
+317
+00:23:14,000 --> 00:23:15,660
+It's got some regular CPU nodes.
+
+318
+00:23:16,100 --> 00:23:18,960
+It's got some 2
+terabyte large memory nodes.
+
+319
+00:23:19,680 --> 00:23:23,660
+And in each one of those classes,
+it has the following types of things.
+
+320
+00:23:23,680 --> 00:23:24,460
+Check it out.
+
+321
+00:23:25,800 --> 00:23:27,640
+We're going to be looking
+for what's called the partition name
+
+322
+00:23:27,640 --> 00:23:29,660
+because when we go to
+try to run this thing,
+
+323
+00:23:29,840 --> 00:23:32,000
+we have to tell them all
+partition we want to run on.
+
+324
+00:23:32,080 --> 00:23:35,260
+That's like, got this big 800 node system
+
+325
+00:23:35,260 --> 00:23:38,700
+to partition our individual little pieces,
+kind of think of it like that.
+
+326
+00:23:40,120 --> 00:23:44,380
+Now, partition name is called compute.
+
+327
+00:23:45,580 --> 00:23:47,800
+You could run a job
+that lasts up to 48 hours.
+
+328
+00:23:51,340 --> 00:23:53,020
+One might be able to do that.
+
+329
+00:23:54,680 --> 00:23:57,880
+You're not going to do that because
+if you did that for very much,
+
+330
+00:23:58,000 --> 00:23:59,560
+like we would run out
+of all of our credits
+
+331
+00:23:59,560 --> 00:24:01,340
+and then nobody would
+be able to run anything.
+
+332
+00:24:02,220 --> 00:24:04,540
+We're talking about order
+of minutes, not hours.
+
+333
+00:24:04,960 --> 00:24:07,660
+You could run 32 nodes.
+
+334
+00:24:08,080 --> 00:24:10,620
+We're just trying to run this
+on one node right now, all right?
+
+335
+00:24:11,720 --> 00:24:14,200
+We could only have 32
+jobs running at the same time.
+
+336
+00:24:14,340 --> 00:24:15,280
+It looks like we're running one job.
+
+337
+00:24:16,980 --> 00:24:18,360
+And it says, and
+this is important right here,
+
+338
+00:24:18,500 --> 00:24:21,240
+exclusive access.
+
+339
+00:24:22,560 --> 00:24:24,460
+So that means when you get one of these,
+
+340
+00:24:24,920 --> 00:24:30,600
+250 gigabyte RAM, 128 core machines,
+
+341
+00:24:32,260 --> 00:24:35,340
+you're going to be the only one
+off when it gives it to you.
+
+342
+00:24:36,240 --> 00:24:37,340
+It won't be anybody else choosing it.
+
+343
+00:24:37,760 --> 00:24:42,150
+Now, let's say you stay
+on it for 30 minutes, right?
+
+344
+00:24:42,470 --> 00:24:45,110
+Because that's the amount of time it
+takes you to debug this thing or whatever.
+
+345
+00:24:45,930 --> 00:24:48,110
+What we're going to do is we're
+going to do it at the command line
+
+346
+00:24:48,110 --> 00:24:48,970
+where we're playing around.
+
+347
+00:24:51,870 --> 00:24:55,330
+But now, you're not using one core.
+
+348
+00:24:56,230 --> 00:24:58,390
+You might only be using it yourself,
+
+349
+00:24:58,590 --> 00:25:00,750
+but because you've asked for
+it to be on this petition,
+
+350
+00:25:00,950 --> 00:25:04,850
+it's giving you 128 cores all at once,
+even if you're only going to use one.
+
+351
+00:25:04,950 --> 00:25:05,910
+But because it's exclusive.
+
+352
+00:25:07,870 --> 00:25:11,850
+So 30 minutes, so in
+other words, a half an hour,
+
+353
+00:25:12,230 --> 00:25:18,110
+and 128 cores is like
+using 64 cores for an hour.
+
+354
+00:25:19,870 --> 00:25:21,770
+32 cores for two hours.
+
+355
+00:25:22,530 --> 00:25:24,310
+And that's how they charge us.
+
+356
+00:25:24,830 --> 00:25:28,530
+They charge us as a
+product of the number of cores
+
+357
+00:25:28,530 --> 00:25:34,010
+multiplied by the number of nodes,
+multiplied by the amount of time.
+
+358
+00:25:37,020 --> 00:25:44,520
+So we would needlessly get
+charged, say, for 64 surface units,
+
+359
+00:25:44,520 --> 00:25:47,260
+which is the number
+of cores times the time,
+
+360
+00:25:48,120 --> 00:25:50,200
+even though you don't
+need all those things.
+
+361
+00:25:50,260 --> 00:25:52,960
+Well, let's keep going.
+
+362
+00:25:53,160 --> 00:25:54,460
+Industry compute nodes.
+
+363
+00:25:54,640 --> 00:25:55,380
+We're not in industry.
+
+364
+00:25:57,020 --> 00:25:59,500
+Shared nodes.
+
+365
+00:26:02,060 --> 00:26:08,380
+Single node jobs that use less than
+128 cores run 48 hours a week.
+
+366
+00:26:09,060 --> 00:26:12,800
+Industry shared.
+
+367
+00:26:14,920 --> 00:26:15,880
+Again, we're not in industry.
+
+368
+00:26:17,300 --> 00:26:17,860
+GDU.
+
+369
+00:26:18,180 --> 00:26:19,380
+We dang sure ain't going to use that.
+
+370
+00:26:20,200 --> 00:26:22,360
+Nothing in here about CUDA
+or any other kind of thing.
+
+371
+00:26:22,860 --> 00:26:25,640
+And this is probably the
+most expensive nodes on the system.
+
+372
+00:26:25,800 --> 00:26:28,240
+The number of surface units
+are a lot for that.
+
+373
+00:26:29,520 --> 00:26:30,480
+Industry node.
+
+374
+00:26:32,140 --> 00:26:33,640
+This, I don't even know what this is.
+
+375
+00:26:33,700 --> 00:26:34,940
+This one wasn't even here the last time.
+
+376
+00:26:35,060 --> 00:26:35,760
+I get less than a plus.
+
+377
+00:26:36,020 --> 00:26:37,020
+This is some new news.
+
+378
+00:26:37,560 --> 00:26:39,780
+Whatever that is, whatever
+kind of GPUs those are.
+
+379
+00:26:42,080 --> 00:26:42,640
+GDU shared.
+
+380
+00:26:42,800 --> 00:26:43,460
+We're not using that.
+
+381
+00:26:43,740 --> 00:26:44,760
+Industry GPU shared.
+
+382
+00:26:44,940 --> 00:26:45,060
+No.
+
+383
+00:26:45,560 --> 00:26:47,920
+Whatever kind of weird
+answer GPUs that is.
+
+384
+00:26:48,460 --> 00:26:49,160
+Shared memory.
+
+385
+00:26:49,340 --> 00:26:49,840
+We're not doing it.
+
+386
+00:26:49,840 --> 00:26:51,260
+Oh, here we go.
+
+387
+00:26:51,260 --> 00:26:52,920
+We're going to be doing it to some bug.
+
+388
+00:26:53,440 --> 00:26:55,420
+We're just playing around right now.
+
+389
+00:26:55,860 --> 00:26:58,840
+So you can run a job for 30 minutes.
+
+390
+00:27:00,020 --> 00:27:03,740
+And it says you
+get shared access to nodes.
+
+391
+00:27:03,960 --> 00:27:07,440
+That's good because I'm only going to
+get charged for what I asked for.
+
+392
+00:27:07,960 --> 00:27:09,640
+I don't need all those cores, right?
+
+393
+00:27:10,220 --> 00:27:10,840
+All right, cool.
+
+394
+00:27:15,320 --> 00:27:17,120
+So, how do you get on one of these nodes?
+
+395
+00:27:19,080 --> 00:27:22,680
+Now, if you're going to want to
+be sitting in a terminal debugging stuff,
+
+396
+00:27:22,840 --> 00:27:25,400
+looking at errors while
+it's happening, trying stuff,
+
+397
+00:27:25,480 --> 00:27:27,340
+you want to be
+what's called an interactive mode.
+
+398
+00:27:29,780 --> 00:27:30,880
+And that's what this thing is.
+
+399
+00:27:32,680 --> 00:27:36,380
+So the command we're going
+to use to request interactive access
+
+400
+00:27:36,380 --> 00:27:39,020
+to one of the
+nodes in that partition debug
+
+401
+00:27:39,020 --> 00:27:42,160
+is we're going to
+use this thing down here.
+
+402
+00:27:44,520 --> 00:27:47,720
+So let's look at all
+the pieces of this thing
+
+403
+00:27:47,720 --> 00:27:49,740
+before we just start
+copying and pasting, okay?
+
+404
+00:27:51,400 --> 00:27:52,260
+It says here,
+
+405
+00:27:55,410 --> 00:27:57,530
+srun means slurm run.
+
+406
+00:27:58,990 --> 00:28:01,010
+If you're using slurm, that's
+what they use to get access.
+
+407
+00:28:01,350 --> 00:28:03,090
+There's no way to
+log into those other nodes
+
+408
+00:28:03,090 --> 00:28:05,130
+except for using things related to slurm.
+
+409
+00:28:06,730 --> 00:28:08,530
+Now, the partition is equal to debug.
+
+410
+00:28:08,690 --> 00:28:09,310
+That's what we want.
+
+411
+00:28:11,070 --> 00:28:14,150
+Don't worry about what this is, okay?
+
+412
+00:28:14,830 --> 00:28:17,790
+Now, the account is equal to
+the project number we're dealing with.
+
+413
+00:28:17,790 --> 00:28:19,530
+Now, what project are we talking about?
+
+414
+00:28:19,890 --> 00:28:24,710
+It's the one that I added you guys
+to when I added you to the allocation.
+
+415
+00:28:26,170 --> 00:28:29,890
+All right, now, let's step back.
+
+416
+00:28:30,030 --> 00:28:33,470
+What about if I didn't
+know, like, I was you.
+
+417
+00:28:33,550 --> 00:28:34,430
+I was sitting in a command line.
+
+418
+00:28:34,530 --> 00:28:36,510
+I have no idea what my project codes are.
+
+419
+00:28:37,030 --> 00:28:38,030
+I don't know what they are.
+
+420
+00:28:38,430 --> 00:28:39,590
+How would you figure that out?
+
+421
+00:28:40,050 --> 00:28:43,050
+I'll come back up here to the
+top and we can look for, let's see,
+
+422
+00:28:49,700 --> 00:28:50,220
+account management.
+
+423
+00:28:50,500 --> 00:28:51,360
+What is this?
+
+424
+00:28:52,600 --> 00:28:54,880
+It's a client managing your account.
+
+425
+00:28:57,460 --> 00:29:01,060
+It says here, now, if I'm on, you know,
+
+426
+00:29:01,280 --> 00:29:04,020
+what kind of modules do
+I typically need to do stuff?
+
+427
+00:29:04,520 --> 00:29:07,940
+It says here that I need to
+load the San Diego Energy Reducing Module,
+
+428
+00:29:08,200 --> 00:29:11,000
+which is kind of like it sets
+up a bunch of stuff in your path
+
+429
+00:29:11,000 --> 00:29:13,020
+that you could do some
+common things that they would do.
+
+430
+00:29:13,780 --> 00:29:15,460
+Now, I don't know if
+that module might already be loaded.
+
+431
+00:29:15,460 --> 00:29:15,980
+I don't know.
+
+432
+00:29:16,040 --> 00:29:18,780
+If something doesn't work, we
+might want to load that module.
+
+433
+00:29:21,310 --> 00:29:29,430
+It says here, if I want to know
+what project that me as a particular user
+
+434
+00:29:29,430 --> 00:29:31,870
+is in, that I need to run this command,
+
+435
+00:29:32,050 --> 00:29:35,170
+expanse client user dash r expanse.
+
+436
+00:29:37,490 --> 00:29:38,430
+All right, so let's just see what happens.
+
+437
+00:29:38,650 --> 00:29:42,350
+If I scroll C and I scroll the B,
+
+438
+00:29:42,350 --> 00:29:46,850
+all right, so now
+my shell is gone already.
+
+439
+00:29:47,930 --> 00:29:49,510
+Somebody go over here
+and ask for another shell.
+
+440
+00:29:53,120 --> 00:29:54,500
+I'm going to scroll B that thing.
+
+441
+00:29:54,860 --> 00:29:57,300
+I'm going to scroll B that over here.
+
+442
+00:29:58,300 --> 00:29:59,020
+It says cool.
+
+443
+00:30:01,920 --> 00:30:07,120
+It says that W Jones is
+currently allowed to be on the system
+
+444
+00:30:07,120 --> 00:30:10,680
+and the project code is CCU 108.
+
+445
+00:30:12,300 --> 00:30:15,340
+We started way back in the
+day and it was CCU 101.
+
+446
+00:30:17,440 --> 00:30:18,680
+Now we're up to 108.
+
+447
+00:30:20,360 --> 00:30:23,440
+All right, so that's
+the account that we need.
+
+448
+00:30:24,060 --> 00:30:24,300
+Okay, cool.
+
+449
+00:30:24,720 --> 00:30:25,960
+So go back over here.
+
+450
+00:30:26,860 --> 00:30:29,140
+Go back to running jobs.
+
+451
+00:30:33,080 --> 00:30:34,120
+Go back down here.
+
+452
+00:30:36,680 --> 00:30:37,140
+It says cool.
+
+453
+00:30:37,460 --> 00:30:39,180
+So the account is CCU 108.
+
+454
+00:30:40,500 --> 00:30:41,720
+How many nodes do we want?
+
+455
+00:30:42,760 --> 00:30:44,780
+The minimum number of
+nodes you ask was one.
+
+456
+00:30:45,440 --> 00:30:48,060
+We don't want any more than
+one right now because we're just playing.
+
+457
+00:30:49,880 --> 00:30:51,420
+Now, how many, what about this?
+
+458
+00:30:51,580 --> 00:30:53,100
+The number of tasks per node.
+
+459
+00:30:54,940 --> 00:30:55,320
+Okay.
+
+460
+00:30:56,500 --> 00:31:00,930
+Now, I want you to kind of think like,
+
+461
+00:31:02,330 --> 00:31:03,870
+we'll get more into this later.
+
+462
+00:31:04,230 --> 00:31:08,310
+But like, if I want to run
+my program and I want to run, say,
+
+463
+00:31:11,390 --> 00:31:13,730
+several different tasks,
+different numbers of
+
+464
+00:31:13,730 --> 00:31:15,090
+threading and all this kind of stuff,
+
+465
+00:31:15,190 --> 00:31:17,150
+there's different parameters that
+we might want to use.
+
+466
+00:31:17,290 --> 00:31:18,410
+And it says it's four here.
+
+467
+00:31:18,570 --> 00:31:19,750
+So let's just ask for that.
+
+468
+00:31:20,190 --> 00:31:21,970
+Mind of memory, we need eight gigabytes.
+
+469
+00:31:22,690 --> 00:31:24,070
+That's actually a lot
+more than we really need.
+
+470
+00:31:25,430 --> 00:31:26,910
+Now, how did that be used if I learn?
+
+471
+00:31:27,110 --> 00:31:28,770
+Well, remember, we're sharing a machine.
+
+472
+00:31:30,250 --> 00:31:31,890
+So it uses this stuff like,
+
+473
+00:31:32,570 --> 00:31:34,590
+if I ask for a bunch of tasks,
+
+474
+00:31:35,170 --> 00:31:37,750
+that is going to limit the
+number of cores to everybody else.
+
+475
+00:31:37,950 --> 00:31:39,790
+So like, they can look and
+see how many cores are left.
+
+476
+00:31:40,010 --> 00:31:40,950
+Oh, he can go here.
+
+477
+00:31:41,350 --> 00:31:42,070
+He can go there.
+
+478
+00:31:42,750 --> 00:31:47,450
+Oh, well, there's only four
+gigabytes of RAM left on here.
+
+479
+00:31:47,550 --> 00:31:48,230
+And they need eight.
+
+480
+00:31:48,230 --> 00:31:49,570
+Well, I can't put him on this node.
+
+481
+00:31:49,690 --> 00:31:50,390
+I'm going to have to put it on the node.
+
+482
+00:31:50,430 --> 00:31:51,110
+That's called scheduling.
+
+483
+00:31:52,410 --> 00:31:55,750
+So Slurm is the scheduler
+to try to schedule different stuff.
+
+484
+00:31:57,150 --> 00:32:00,750
+Dash t means what is the maximum amount
+of time I expect my job to run?
+
+485
+00:32:02,290 --> 00:32:06,130
+Well, for debugging, it only lets
+you run it for 30 minutes.
+
+486
+00:32:06,370 --> 00:32:07,890
+So you can say 30 minutes.
+
+487
+00:32:09,150 --> 00:32:11,170
+And then we would say, I
+don't want to wait at all.
+
+488
+00:32:11,570 --> 00:32:13,650
+I want you to get me
+in there as soon as you can.
+
+489
+00:32:15,010 --> 00:32:17,950
+Dash dash export means
+all of my environment variables,
+
+490
+00:32:17,950 --> 00:32:20,950
+I want you to export them so
+that they're equal over their own access
+
+491
+00:32:20,950 --> 00:32:22,650
+into whatever they are on the head node.
+
+492
+00:32:23,710 --> 00:32:26,590
+And finally, what do I
+want you to run over there?
+
+493
+00:32:26,810 --> 00:32:28,810
+Like, you're telling me to run something.
+
+494
+00:32:28,950 --> 00:32:29,710
+What do you want me to run?
+
+495
+00:32:30,150 --> 00:32:31,470
+I want you to run a terminal.
+
+496
+00:32:32,470 --> 00:32:36,370
+So the batch terminal, so that I
+can be sitting there in the terminal
+
+497
+00:32:36,370 --> 00:32:37,750
+and interact with the system.
+
+498
+00:32:38,030 --> 00:32:38,590
+Does that make sense?
+
+499
+00:32:39,330 --> 00:32:40,050
+Let's try this.
+
+500
+00:32:40,130 --> 00:32:40,930
+Let's just see what happens.
+
+501
+00:32:42,490 --> 00:32:46,990
+I'm going to go up to here, hit Control-C.
+
+502
+00:32:47,830 --> 00:32:49,390
+I'm going to look over here.
+
+503
+00:32:51,330 --> 00:32:54,450
+Control-V, the account is CCU 108.
+
+504
+00:32:55,870 --> 00:32:56,670
+All right, now what's the next?
+
+505
+00:32:57,010 --> 00:32:57,810
+Let's go back over here.
+
+506
+00:33:01,340 --> 00:33:03,400
+Number of nodes is this.
+
+507
+00:33:03,580 --> 00:33:04,460
+Let's just get all that.
+
+508
+00:33:05,780 --> 00:33:07,860
+And you can imagine that you
+want to have yourself a little thing
+
+509
+00:33:07,860 --> 00:33:09,900
+where you can keep track
+of some of these things, right?
+
+510
+00:33:10,020 --> 00:33:11,960
+So you go, OK, I don't
+want to have you digging around.
+
+511
+00:33:11,960 --> 00:33:14,760
+I'll keep a list of
+some common things I typically do.
+
+512
+00:33:16,060 --> 00:33:17,220
+All right, so go over here.
+
+513
+00:33:17,860 --> 00:33:19,400
+Control-V, this thing over there, space.
+
+514
+00:33:20,420 --> 00:33:22,000
+Let's see anything else I want to do.
+
+515
+00:33:22,860 --> 00:33:23,060
+Yep.
+
+516
+00:33:24,380 --> 00:33:28,300
+The memory, runtime, and terminal.
+
+517
+00:33:28,900 --> 00:33:29,080
+Cool.
+
+518
+00:33:29,940 --> 00:33:33,220
+I'm going to go here, put that in there.
+
+519
+00:33:33,920 --> 00:33:34,620
+Let's see what happens.
+
+520
+00:33:38,540 --> 00:33:39,020
+And there we go.
+
+521
+00:33:39,240 --> 00:33:40,140
+Now listen to what it said.
+
+522
+00:33:40,500 --> 00:33:43,360
+It said, all right, so Slurm is
+going to try to run a job.
+
+523
+00:33:43,780 --> 00:33:47,520
+And this job is literally like
+it's an index
+
+524
+00:33:47,520 --> 00:33:48,520
+that just keeps incrementing.
+
+525
+00:33:48,540 --> 00:33:50,300
+Every time somebody
+does something with Slurm,
+
+526
+00:33:50,320 --> 00:33:53,300
+it increments it so that
+everybody's got a unique job ID
+
+527
+00:33:53,300 --> 00:33:54,300
+that they're trying to run.
+
+528
+00:33:55,880 --> 00:33:59,120
+It says, OK, I'm trying to queue my job.
+
+529
+00:33:59,300 --> 00:34:00,500
+What in the hell am I talking about?
+
+530
+00:34:01,020 --> 00:34:02,960
+This one, where you
+said, give me a terminal.
+
+531
+00:34:03,120 --> 00:34:03,700
+That's a job.
+
+532
+00:34:06,950 --> 00:34:07,670
+It's waiting for resources.
+
+533
+00:34:08,990 --> 00:34:09,410
+Oh, cool.
+
+534
+00:34:09,670 --> 00:34:10,970
+Now it's got some resources.
+
+535
+00:34:11,310 --> 00:34:14,910
+And the resources that it
+allocated to my job, OK, cool.
+
+536
+00:34:14,990 --> 00:34:16,870
+I found a machine to run it on.
+
+537
+00:34:16,990 --> 00:34:17,550
+Which machine?
+
+538
+00:34:19,310 --> 00:34:22,470
+This server right here, exp-9-55.
+
+539
+00:34:23,470 --> 00:34:26,030
+If I'd run it again here, I
+might have to get another number to do.
+
+540
+00:34:26,030 --> 00:34:28,150
+That's just a, even where
+it's got 700 nodes or so.
+
+541
+00:34:28,310 --> 00:34:31,950
+It leads to, there's some mapping
+between that name and those node numbers
+
+542
+00:34:31,950 --> 00:34:34,450
+and MAC addresses and
+IP addresses and all that.
+
+543
+00:34:34,550 --> 00:34:37,510
+There's something behind the scenes
+handling all that for us, OK?
+
+544
+00:34:39,010 --> 00:34:43,870
+So now, I'm over there and
+I'm on a completely different node.
+
+545
+00:34:44,670 --> 00:34:48,210
+I'm going to do a framework and directory,
+and I'm still in the home directory here.
+
+546
+00:34:48,350 --> 00:34:50,230
+So I'm going to move over to 473.
+
+547
+00:34:50,950 --> 00:34:54,730
+I'm going to move over to the
+directory with the source code in it.
+
+548
+00:34:58,240 --> 00:35:00,920
+And I'm going to try to MPI-CC my program.
+
+549
+00:35:01,180 --> 00:35:05,980
+So MPI-CC-G for the warnings,
+or excuse me, the debugging,
+
+550
+00:35:06,280 --> 00:35:09,020
+dash W to all, dash
+over to the output file.
+
+551
+00:35:09,560 --> 00:35:11,920
+You can call this anything you
+want, like you can call it crap.
+
+552
+00:35:13,300 --> 00:35:14,760
+And then what I want to compile up,
+
+553
+00:35:14,760 --> 00:35:18,920
+I want to compile
+up the MPI-LO program, right?
+
+554
+00:35:25,570 --> 00:35:28,010
+Then I want to see if that
+file is there now to do an LS.
+
+555
+00:35:28,930 --> 00:35:32,850
+Sure enough, there's
+the binary executable.
+
+556
+00:35:33,070 --> 00:35:34,250
+How can I tell that it's an executable?
+
+557
+00:35:36,250 --> 00:35:38,210
+Well, it's green, number one.
+
+558
+00:35:38,830 --> 00:35:40,210
+But number two, if
+I look at this permissions,
+
+559
+00:35:40,510 --> 00:35:43,390
+everything, you know, so user group world,
+
+560
+00:35:43,710 --> 00:35:45,630
+so everybody got
+execute permissions on this.
+
+561
+00:35:45,770 --> 00:35:46,250
+That's kind of weird.
+
+562
+00:35:47,130 --> 00:35:48,590
+But anyway, let's try to run it.
+
+563
+00:35:54,450 --> 00:35:56,590
+We got something kind of weird here, OK?
+
+564
+00:35:56,770 --> 00:35:58,570
+Well, we'll try to run it
+to what he said in mine.
+
+565
+00:36:02,030 --> 00:36:07,670
+MPI exec dash N2 and the program, right?
+
+566
+00:36:12,200 --> 00:36:13,400
+And then hit ran.
+
+567
+00:36:15,750 --> 00:36:16,430
+Clear the screen.
+
+568
+00:36:17,290 --> 00:36:18,430
+Hit up arrow, run it again.
+
+569
+00:36:19,930 --> 00:36:20,630
+There it is.
+
+570
+00:36:22,250 --> 00:36:24,770
+It executed two copies of my program
+
+571
+00:36:24,770 --> 00:36:28,510
+because I'm asking it
+to generate two processes.
+
+572
+00:36:30,050 --> 00:36:32,750
+And then it kicked them all,
+
+573
+00:36:32,890 --> 00:36:34,110
+going to print some stuff to the screen.
+
+574
+00:36:35,450 --> 00:36:39,290
+What about if I asked
+her to run three processes?
+
+575
+00:36:42,720 --> 00:36:43,700
+What about if I asked for four?
+
+576
+00:36:46,710 --> 00:36:48,070
+All right, now what about
+if I asked for five?
+
+577
+00:36:49,310 --> 00:36:49,710
+Let's see.
+
+578
+00:36:51,770 --> 00:36:54,590
+Oh, why is that?
+
+579
+00:36:55,590 --> 00:36:56,890
+How many tasks did we ask for?
+
+580
+00:36:58,390 --> 00:36:58,730
+Four.
+
+581
+00:36:59,650 --> 00:37:00,530
+There aren't.
+
+582
+00:37:01,310 --> 00:37:03,110
+That's five tasks, not four.
+
+583
+00:37:04,510 --> 00:37:09,730
+So if I needed a
+degree of heroism using MPI
+
+584
+00:37:09,730 --> 00:37:11,410
+that required five things,
+
+585
+00:37:11,550 --> 00:37:14,330
+meaning I want five
+cores to be involved, say,
+
+586
+00:37:14,650 --> 00:37:16,410
+I had to specify that,
+
+587
+00:37:16,530 --> 00:37:18,150
+but you don't want to
+have that to be any bigger
+
+588
+00:37:18,150 --> 00:37:19,450
+than it needs to be.
+
+589
+00:37:19,670 --> 00:37:22,650
+So four is good enough for
+us to be playing around here, right?
+
+590
+00:37:25,800 --> 00:37:28,240
+OK, now another thing you
+can do is you can say,
+
+591
+00:37:29,620 --> 00:37:32,940
+look, just oversubscribe the cores.
+
+592
+00:37:33,460 --> 00:37:35,080
+Instead of running one task per core,
+
+593
+00:37:35,300 --> 00:37:38,780
+let's just go ahead and run it faster 5.0.
+
+594
+00:37:38,980 --> 00:37:42,840
+I'll go ahead and just run more
+than one on one of those things.
+
+595
+00:37:43,080 --> 00:37:44,060
+I'm going to kind of overload it.
+
+596
+00:37:44,140 --> 00:37:45,480
+I'm going to overbook it, if you will.
+
+597
+00:37:45,920 --> 00:37:48,460
+Like, the same way your computer
+has got thousands of processes running,
+
+598
+00:37:48,660 --> 00:37:50,140
+but there's not thousands of cores, right?
+
+599
+00:37:50,840 --> 00:37:51,300
+It handles it.
+
+600
+00:37:51,480 --> 00:37:53,760
+So if we come back over here and we say,
+
+601
+00:37:54,420 --> 00:37:57,320
+what it says
+here, dash dash oversubscribe,
+
+602
+00:38:00,340 --> 00:38:01,900
+and then we try to run this.
+
+603
+00:38:05,610 --> 00:38:06,290
+So I ran it.
+
+604
+00:38:06,570 --> 00:38:09,990
+But remember, we're running more processes
+
+605
+00:38:09,990 --> 00:38:11,790
+than we actually have resources here.
+
+606
+00:38:12,530 --> 00:38:13,190
+But it's OK.
+
+607
+00:38:13,830 --> 00:38:14,950
+We're not looking for performance.
+
+608
+00:38:15,190 --> 00:38:16,710
+We're just looking for
+does it work logically?
+
+609
+00:38:17,730 --> 00:38:17,950
+OK.
+
+610
+00:38:18,990 --> 00:38:19,490
+Everybody good?
+
+611
+00:38:20,070 --> 00:38:21,490
+You see how to log into the system?
+
+612
+00:38:23,230 --> 00:38:23,610
+All right.
+
+613
+00:38:25,490 --> 00:38:27,650
+Now, I wonder if MPI run would work.
+
+614
+00:38:29,390 --> 00:38:32,490
+MPI run, dash MP2.
+
+615
+00:38:32,850 --> 00:38:35,290
+Now, notice, with MPI exact, it's dash N.
+
+616
+00:38:35,550 --> 00:38:40,490
+With MPI run, it's dash
+MP, number of processes, 2.
+
+617
+00:38:46,060 --> 00:38:47,780
+So I could have used run as well.
+
+618
+00:38:47,920 --> 00:38:48,940
+So if you've seen using run,
+
+619
+00:38:49,760 --> 00:38:51,220
+that's because that's what
+I typically used back
+
+620
+00:38:51,220 --> 00:38:52,280
+in the day when I was in college.
+
+621
+00:38:52,520 --> 00:38:53,340
+But I mean, they got these things.
+
+622
+00:38:53,460 --> 00:38:54,320
+Are they the same thing?
+
+623
+00:38:55,820 --> 00:38:56,280
+There's some differences.
+
+624
+00:38:56,360 --> 00:38:58,880
+But the things we're playing with
+right now really
+
+625
+00:38:58,880 --> 00:38:59,700
+don't make any difference.
+
+626
+00:39:01,420 --> 00:39:05,420
+So now, let's jump back over and
+let's look at the slides that come along
+
+627
+00:39:05,420 --> 00:39:08,540
+with the thing that explains what the
+hell is going on in that zebra.
+
+628
+00:39:10,700 --> 00:39:11,400
+Come over here.
+
+629
+00:39:11,940 --> 00:39:12,700
+Come back over there.
+
+630
+00:39:21,320 --> 00:39:23,460
+How many of you already know
+how to run an MPI job?
+
+631
+00:39:24,240 --> 00:39:25,420
+Excuse me, not an MPI job.
+
+632
+00:39:25,800 --> 00:39:28,560
+To get into a slur on
+my nose, like we're just doing.
+
+633
+00:39:28,660 --> 00:39:29,520
+How do I show hands?
+
+634
+00:39:30,640 --> 00:39:31,600
+Like this.
+
+635
+00:39:35,050 --> 00:39:35,810
+All right.
+
+636
+00:39:40,340 --> 00:39:43,520
+So we're doing
+distributed memory programming.
+
+637
+00:39:43,700 --> 00:39:46,640
+It's called distributed because that means
+that we're on more than one node
+
+638
+00:39:46,640 --> 00:39:47,560
+at the same time.
+
+639
+00:39:48,200 --> 00:39:52,860
+And we are using messages
+to send messages back and forth.
+
+640
+00:39:53,100 --> 00:39:55,080
+This is called explicit message passing.
+
+641
+00:39:56,840 --> 00:39:57,140
+All right.
+
+642
+00:39:57,480 --> 00:39:59,300
+The opposite of that
+would be shared memory.
+
+643
+00:39:59,820 --> 00:40:02,560
+That means that all the threads
+can see the same memory thing.
+
+644
+00:40:03,600 --> 00:40:07,820
+And you can use things like MPI
+to send messages back
+
+645
+00:40:07,820 --> 00:40:09,060
+and forth between processes,
+
+646
+00:40:09,320 --> 00:40:13,220
+whether or not those processes
+are all on the same computer
+
+647
+00:40:13,220 --> 00:40:16,980
+or if those processes
+are spread across computers.
+
+648
+00:40:17,200 --> 00:40:17,660
+You see what I mean?
+
+649
+00:40:18,120 --> 00:40:20,000
+So, like, you know, I
+could be on my computer,
+
+650
+00:40:20,100 --> 00:40:22,100
+and one process right in
+here can share, you know,
+
+651
+00:40:22,120 --> 00:40:24,840
+you could send a message
+back and forth, processes on here.
+
+652
+00:40:25,320 --> 00:40:27,100
+It's probably like what you've
+done before with, say, like,
+
+653
+00:40:27,200 --> 00:40:29,860
+with some of the stuff you
+did in, say, multi-process with your U6.
+
+654
+00:40:30,440 --> 00:40:33,980
+But when you do the MPI run, depending
+on how you ask the servers to start it,
+
+655
+00:40:33,980 --> 00:40:38,220
+it'll actually watch your program across
+if you ask for 10 nodes
+
+656
+00:40:38,220 --> 00:40:41,520
+and you want to ask
+for, say, 10 tasks per node,
+
+657
+00:40:41,640 --> 00:40:45,140
+it'll do 10 processes on this
+node, 10 processes on this node.
+
+658
+00:40:45,560 --> 00:40:47,780
+And they'll make it all
+be communicating with each other
+
+659
+00:40:47,780 --> 00:40:50,180
+across network connection.
+
+660
+00:40:51,400 --> 00:40:54,300
+You can't do that
+with just standard straight-up threads
+
+661
+00:40:54,300 --> 00:40:56,660
+because it's not shared across computers.
+
+662
+00:40:59,220 --> 00:40:59,380
+All right.
+
+663
+00:41:00,100 --> 00:41:02,260
+This is the kind
+of thing we're talking about.
+
+664
+00:41:02,480 --> 00:41:05,080
+That's a node, a node, a node, and a node,
+
+665
+00:41:05,280 --> 00:41:06,980
+and they're only connected
+together through
+
+666
+00:41:06,980 --> 00:41:07,840
+the interconnection network,
+
+667
+00:41:08,100 --> 00:41:10,820
+like, you know, Infiniband or
+Ethernet or something like that.
+
+668
+00:41:12,380 --> 00:41:15,200
+And so, let's look at
+our basic Hello World program.
+
+669
+00:41:15,520 --> 00:41:17,300
+Now, you've all done
+C program before, right?
+
+670
+00:41:17,460 --> 00:41:19,680
+I mean, everybody does C program,
+and this is what you're used to.
+
+671
+00:41:20,520 --> 00:41:21,500
+So, now, what is MPI?
+
+672
+00:41:21,660 --> 00:41:22,840
+Well, MPI is not another language.
+
+673
+00:41:23,460 --> 00:41:24,680
+It's just a library.
+
+674
+00:41:24,680 --> 00:41:27,560
+It's just, like, some of the API
+calls that can be made from C.
+
+675
+00:41:28,040 --> 00:41:30,540
+And, by the way, there's
+bindings for MPI in other languages.
+
+676
+00:41:30,960 --> 00:41:32,720
+Now, the only ones
+that are officially supported
+
+677
+00:41:32,720 --> 00:41:36,960
+by the MPI Standards
+Committee is C and Fortran.
+
+678
+00:41:37,720 --> 00:41:39,980
+But if you look it
+up, you see MPI and Python.
+
+679
+00:41:40,360 --> 00:41:42,000
+You get an MPI of
+a bunch of different things.
+
+680
+00:41:42,420 --> 00:41:44,120
+But that standard doesn't match.
+
+681
+00:41:44,380 --> 00:41:45,720
+Like, if you do it one way in Python,
+
+682
+00:41:45,800 --> 00:41:47,620
+it ain't going to
+be that same way necessarily.
+
+683
+00:41:48,680 --> 00:41:51,840
+Python's had its own
+issues for a long time,
+
+684
+00:41:51,840 --> 00:41:54,800
+a year or two, where
+there was a global interpreter lock
+
+685
+00:41:54,800 --> 00:41:59,160
+on your computer, and
+it couldn't be multi-threaded anyway.
+
+686
+00:42:00,260 --> 00:42:02,000
+So, there was some issues with that.
+
+687
+00:42:03,420 --> 00:42:03,800
+All right.
+
+688
+00:42:04,080 --> 00:42:05,760
+How do we tell which process to switch?
+
+689
+00:42:06,180 --> 00:42:10,240
+When you ask for ten processes,
+each process is going to be started,
+
+690
+00:42:10,340 --> 00:42:12,240
+and it's going to
+know which process it is.
+
+691
+00:42:12,900 --> 00:42:14,540
+And they're going to
+be, whatever's launching it,
+
+692
+00:42:14,580 --> 00:42:15,840
+that MPI run that, it's going to say,
+
+693
+00:42:15,920 --> 00:42:17,800
+it's going to tell
+everybody, I am launching you?
+
+694
+00:42:17,840 --> 00:42:19,080
+By the way, you're in the next spot.
+
+695
+00:42:20,360 --> 00:42:22,500
+So, there are going to be
+numbers of zero to p minus 1.
+
+696
+00:42:23,900 --> 00:42:25,960
+And here's that program that
+we were looking at here.
+
+697
+00:42:26,400 --> 00:42:26,600
+All right.
+
+698
+00:42:26,660 --> 00:42:29,080
+Now, I'm going to get out of full
+screen so we can zoom in here a bit.
+
+699
+00:42:33,540 --> 00:42:33,880
+All right.
+
+700
+00:42:34,020 --> 00:42:36,520
+So, you include your standard
+IO.h for being open print.
+
+701
+00:42:36,740 --> 00:42:37,940
+You include your string.h,
+
+702
+00:42:38,100 --> 00:42:40,260
+probably because we're going to do
+a string copy or something like that.
+
+703
+00:42:41,020 --> 00:42:44,020
+And we're including your PI.h because
+that way it has the prototypes
+
+704
+00:42:44,020 --> 00:42:45,840
+for these MPI calls
+we're going to be making,
+
+705
+00:42:46,000 --> 00:42:48,600
+this library essentially, to
+sit on top of C
+
+706
+00:42:48,600 --> 00:42:50,600
+that we can use
+to achieve this parallelism.
+
+707
+00:42:52,880 --> 00:42:53,060
+All right.
+
+708
+00:42:53,160 --> 00:42:56,480
+So, we've got a concept here,
+
+709
+00:42:56,580 --> 00:42:58,300
+integer that's probably string length.
+
+710
+00:42:58,360 --> 00:42:59,660
+So, the max string length is 100.
+
+711
+00:43:00,480 --> 00:43:01,380
+And then down here,
+
+712
+00:43:01,900 --> 00:43:04,380
+how about this is as bad
+as it looked at, didn't it?
+
+713
+00:43:10,520 --> 00:43:11,980
+I'll just move this thing around.
+
+714
+00:43:13,180 --> 00:43:15,000
+You know, we've got a, you know,
+
+715
+00:43:15,520 --> 00:43:17,540
+a character array that's this long.
+
+716
+00:43:18,920 --> 00:43:20,900
+And what these, what this
+program is going to be doing
+
+717
+00:43:20,900 --> 00:43:23,560
+is it's going to be sending
+a message from one process to another.
+
+718
+00:43:23,900 --> 00:43:25,500
+And the message is going
+to be a string message.
+
+719
+00:43:25,500 --> 00:43:28,360
+That's why they're creating an
+array to hold the strings.
+
+720
+00:43:30,400 --> 00:43:34,040
+Now, we'll wait for this for a second.
+
+721
+00:43:34,540 --> 00:43:35,660
+Just come down here
+and look at these lines.
+
+722
+00:43:35,900 --> 00:43:38,200
+13, 12, 12, 13, 14.
+
+723
+00:43:38,960 --> 00:43:43,840
+The very first MPI call that you
+have to make in every MPI program
+
+724
+00:43:43,840 --> 00:43:45,760
+is MPI init.
+
+725
+00:43:46,180 --> 00:43:48,240
+That's initializing the MPI subsystem.
+
+726
+00:43:50,040 --> 00:43:52,340
+That doesn't mean it has to
+be the first thing in your program.
+
+727
+00:43:52,760 --> 00:43:55,460
+But it has to be the
+first MPI call in your program.
+
+728
+00:43:57,160 --> 00:44:00,780
+Now, in this case, it's
+passing it two null pointers here.
+
+729
+00:44:01,640 --> 00:44:02,920
+We won't generally be doing that,
+
+730
+00:44:02,980 --> 00:44:05,380
+but they probably wanted to
+avoid a bunch of complexity here.
+
+731
+00:44:05,500 --> 00:44:07,460
+So, they're just saying we're not
+passing any parameters
+
+732
+00:44:07,460 --> 00:44:08,320
+to those two things.
+
+733
+00:44:10,740 --> 00:44:12,640
+And then this call 13 and 14.
+
+734
+00:44:12,860 --> 00:44:13,520
+Okay, here we go.
+
+735
+00:44:13,800 --> 00:44:13,980
+All right.
+
+736
+00:44:14,080 --> 00:44:17,180
+We'll pretend that William has
+been a process that's been executed.
+
+737
+00:44:17,960 --> 00:44:19,440
+William is like loading up.
+
+738
+00:44:19,940 --> 00:44:20,720
+He's starting up.
+
+739
+00:44:20,720 --> 00:44:21,300
+He's like, all right, cool.
+
+740
+00:44:21,500 --> 00:44:22,620
+I got this.
+
+741
+00:44:22,800 --> 00:44:23,320
+I got this.
+
+742
+00:44:23,420 --> 00:44:24,320
+I initialized my stuff.
+
+743
+00:44:25,620 --> 00:44:27,840
+How does William know which process he is?
+
+744
+00:44:27,980 --> 00:44:31,120
+You know how I said
+that when MPI started, it said,
+
+745
+00:44:31,140 --> 00:44:32,300
+hey, you're process five.
+
+746
+00:44:32,520 --> 00:44:33,220
+You're process six.
+
+747
+00:44:33,440 --> 00:44:34,960
+Well, how does the
+program figure that out?
+
+748
+00:44:35,480 --> 00:44:37,400
+Well, it has to ask for its rank.
+
+749
+00:44:38,480 --> 00:44:40,920
+So, that's how you
+figure out, hey, remember,
+
+750
+00:44:41,460 --> 00:44:43,220
+if you ask for 10 processes,
+
+751
+00:44:44,020 --> 00:44:47,160
+10 copies of this
+exact same program are running.
+
+752
+00:44:47,220 --> 00:44:52,280
+The only thing to differentiate those
+programs is which rank it is.
+
+753
+00:44:52,760 --> 00:44:55,760
+And you have to then determine
+what you want each process to do
+
+754
+00:44:55,760 --> 00:44:57,800
+as a function of its rank.
+
+755
+00:44:58,420 --> 00:44:59,780
+In this program here, what are they doing?
+
+756
+00:45:00,720 --> 00:45:03,000
+One process is sent into another process.
+
+757
+00:45:03,160 --> 00:45:05,900
+That means that one process
+can only be due as Sydney.
+
+758
+00:45:06,480 --> 00:45:08,660
+And the other process can
+only be due as receiving.
+
+759
+00:45:09,080 --> 00:45:11,440
+Well, how does that process
+know which process he is?
+
+760
+00:45:11,800 --> 00:45:13,200
+By doing this matter right here,
+
+761
+00:45:13,200 --> 00:45:17,780
+doing this call, it says, hey,
+give me the size of my communicator.
+
+762
+00:45:17,900 --> 00:45:18,220
+Excuse me.
+
+763
+00:45:18,220 --> 00:45:19,420
+Give me the size of my communicator.
+
+764
+00:45:19,540 --> 00:45:21,240
+That means how many
+processes are there total?
+
+765
+00:45:22,380 --> 00:45:24,800
+And when you did like dashy
+enter, dashy empty, we said 10.
+
+766
+00:45:25,480 --> 00:45:27,480
+So, the communicator size is 10.
+
+767
+00:45:29,120 --> 00:45:33,080
+So, now, notice communicator
+size is an integer variable.
+
+768
+00:45:33,780 --> 00:45:36,780
+But the prototype for this C
+function indicates that
+
+769
+00:45:36,780 --> 00:45:37,820
+it takes two parameters,
+
+770
+00:45:38,340 --> 00:45:39,500
+the name of the communicator.
+
+771
+00:45:40,080 --> 00:45:42,640
+And by the way, you
+think of communicator like a group.
+
+772
+00:45:43,580 --> 00:45:45,900
+And for nine tenths of our class,
+
+773
+00:45:46,000 --> 00:45:48,580
+this communicator is always
+under the MPI com world.
+
+774
+00:45:48,700 --> 00:45:50,580
+It means it's all the processes.
+
+775
+00:45:54,200 --> 00:45:55,880
+So, that will always be
+that for the first parameter.
+
+776
+00:45:56,040 --> 00:45:56,900
+What is the second parameter?
+
+777
+00:45:57,180 --> 00:46:00,600
+It needs to be a pointer
+to where you can write the data
+
+778
+00:46:00,600 --> 00:46:01,600
+for the number of processes.
+
+779
+00:46:01,900 --> 00:46:04,840
+So, you have to take the
+address of operator here to do that.
+
+780
+00:46:05,160 --> 00:46:07,340
+So, when you call this function,
+
+781
+00:46:07,840 --> 00:46:11,140
+it's going to go and put
+into the memory of this process,
+
+782
+00:46:11,260 --> 00:46:12,820
+this particular process is running,
+
+783
+00:46:13,700 --> 00:46:15,240
+how many processes there are total.
+
+784
+00:46:15,380 --> 00:46:16,700
+So, like, if there
+are 10 processes running,
+
+785
+00:46:16,920 --> 00:46:19,500
+they're all going to have
+a variable called com size,
+
+786
+00:46:19,780 --> 00:46:20,680
+and it's going to be equal to 10.
+
+787
+00:46:21,380 --> 00:46:22,840
+But now, when he calls this, it says,
+
+788
+00:46:22,860 --> 00:46:25,660
+give me my rank inside that 10.
+
+789
+00:46:26,280 --> 00:46:27,700
+That's what this com rank does.
+
+790
+00:46:28,260 --> 00:46:30,040
+And again, you're passing
+the address to us.
+
+791
+00:46:30,840 --> 00:46:32,080
+With this stuff in this class,
+
+792
+00:46:32,240 --> 00:46:35,700
+if you worked real good
+with pointers and stuff before,
+
+793
+00:46:35,900 --> 00:46:37,640
+that's going to be a problem in here.
+
+794
+00:46:38,000 --> 00:46:40,440
+Because everything we're doing is
+in C in this class,
+
+795
+00:46:41,100 --> 00:46:43,140
+except for some plotting, and
+we'll do that in Python.
+
+796
+00:46:43,440 --> 00:46:45,240
+But, like, the actual stuff is in C.
+
+797
+00:46:45,380 --> 00:46:48,040
+So, we're going to
+be doing pointers like this,
+
+798
+00:46:48,040 --> 00:46:48,880
+and you're crazy.
+
+799
+00:46:49,760 --> 00:46:52,240
+Not just one star,
+but multiple, multiple stars.
+
+800
+00:46:52,760 --> 00:46:54,500
+Okay, so, you know,
+stars, stars, stars, stars.
+
+801
+00:46:54,620 --> 00:46:55,740
+It's going to be crazy.
+
+802
+00:46:56,080 --> 00:46:58,980
+So, I'm just letting you
+know that the assumption is
+
+803
+00:46:58,980 --> 00:47:02,060
+you know that because
+356 is a prerequisite,
+
+804
+00:47:02,380 --> 00:47:03,180
+and it's in C.
+
+805
+00:47:06,580 --> 00:47:06,980
+Okay?
+
+806
+00:47:06,820 --> 00:47:09,540
+So, that's what's happening here.
+
+807
+00:47:10,540 --> 00:47:12,220
+So, now, this process knows, hey,
+
+808
+00:47:13,360 --> 00:47:15,060
+there's 10 processes, and
+I'm the fifth one.
+
+809
+00:47:15,980 --> 00:47:16,120
+Cool.
+
+810
+00:47:17,000 --> 00:47:20,040
+Then it says, hey, now,
+if my rank is not zero,
+
+811
+00:47:20,280 --> 00:47:21,740
+so, like, the fifth guy would be like,
+
+812
+00:47:21,820 --> 00:47:23,220
+so, I'm not, I'm not going to be zero.
+
+813
+00:47:23,480 --> 00:47:23,620
+Cool.
+
+814
+00:47:24,280 --> 00:47:28,340
+Well, then, I'm going to...
+
+815
+00:47:28,340 --> 00:47:30,580
+S print F means string print F.
+
+816
+00:47:30,760 --> 00:47:31,740
+That's what S stands for.
+
+817
+00:47:32,380 --> 00:47:35,320
+So, string print F says, take this string
+
+818
+00:47:35,320 --> 00:47:39,500
+with these two specifiers or placeholders
+
+819
+00:47:39,500 --> 00:47:42,080
+to hold the value of
+this integer and this integer.
+
+820
+00:47:42,180 --> 00:47:43,480
+So, what does that do in C?
+
+821
+00:47:43,860 --> 00:47:45,640
+It literally says that this percent D
+
+822
+00:47:45,640 --> 00:47:47,320
+is going to end this string.
+
+823
+00:47:47,520 --> 00:47:50,440
+It's going to put
+an integer representation of this,
+
+824
+00:47:51,440 --> 00:47:54,420
+of that int in this place in the string
+
+825
+00:47:54,420 --> 00:47:56,760
+that's going to put an
+integer representation in this string.
+
+826
+00:47:58,760 --> 00:48:02,080
+Apparently, it looks like
+there's no carriage return here.
+
+827
+00:48:02,200 --> 00:48:06,300
+So, it's taking this string,
+it's building the string up,
+
+828
+00:48:06,600 --> 00:48:09,840
+and it's putting a copy
+of that string into greeting.
+
+829
+00:48:10,080 --> 00:48:10,620
+Well, what is greeting?
+
+830
+00:48:10,800 --> 00:48:14,720
+Well, greeting is the actual
+array that holds the strings.
+
+831
+00:48:15,820 --> 00:48:16,000
+All right.
+
+832
+00:48:18,490 --> 00:48:20,130
+And you might say, well, why
+the hell are they doing that?
+
+833
+00:48:20,250 --> 00:48:22,230
+Well, it's because the
+string isn't known in runtime.
+
+834
+00:48:22,770 --> 00:48:24,690
+In compile time, you don't know
+what that string is going to be.
+
+835
+00:48:25,190 --> 00:48:27,170
+You don't know which
+process it's going to be.
+
+836
+00:48:27,170 --> 00:48:28,370
+You can't hard code that.
+
+837
+00:48:29,010 --> 00:48:30,310
+So, it's saying, all right, I'm
+going to build me a string,
+
+838
+00:48:30,530 --> 00:48:32,170
+and I'll put that string into this buffer,
+
+839
+00:48:32,670 --> 00:48:33,230
+this string buffer.
+
+840
+00:48:34,570 --> 00:48:36,310
+And then, I'm going to send.
+
+841
+00:48:36,730 --> 00:48:40,050
+So, I'm going to send
+that string to somebody else.
+
+842
+00:48:40,190 --> 00:48:42,610
+Now, look at how
+exam parameters this thing has.
+
+843
+00:48:45,360 --> 00:48:47,240
+You might be, you know, how
+do I know all this stuff?
+
+844
+00:48:47,380 --> 00:48:48,500
+First thing is in your book.
+
+845
+00:48:48,600 --> 00:48:49,940
+It tells you what all the parameters are.
+
+846
+00:48:50,260 --> 00:48:52,860
+Number two, there's a
+thing called the MPI specification.
+
+847
+00:48:53,460 --> 00:48:54,200
+I'm going to show you where that is.
+
+848
+00:48:54,760 --> 00:48:57,340
+Any and everything you could
+possibly want to know about,
+
+849
+00:48:57,340 --> 00:49:01,000
+every one of these functions, and
+every little weird nuance about it
+
+850
+00:49:01,000 --> 00:49:02,940
+is in a book, okay?
+
+851
+00:49:03,780 --> 00:49:08,400
+This first parameter says, where is
+the buffer that I want to send?
+
+852
+00:49:08,980 --> 00:49:11,660
+So, in other words,
+greeting is a character array,
+
+853
+00:49:11,700 --> 00:49:13,500
+but that means that
+greeting is actually a pointer
+
+854
+00:49:13,500 --> 00:49:15,880
+because arrays are pointers in C, right?
+
+855
+00:49:15,980 --> 00:49:21,620
+So, this first parameter in this
+is always a pointer, all right?
+
+856
+00:49:22,360 --> 00:49:26,720
+Now, the next parameter is, how
+many items do I want to send?
+
+857
+00:49:28,920 --> 00:49:30,200
+Items do I want to send.
+
+858
+00:49:33,470 --> 00:49:36,990
+String link says it's
+the length of string, okay?
+
+859
+00:49:37,810 --> 00:49:40,090
+So, it's going to get the
+length of the string over here,
+
+860
+00:49:41,390 --> 00:49:46,550
+and this string here
+doesn't have any kind of,
+
+861
+00:49:46,550 --> 00:49:48,470
+it looks like it's got
+a character term on here.
+
+862
+00:49:48,970 --> 00:49:51,130
+It also, it's like, where's
+the end of the string?
+
+863
+00:49:51,530 --> 00:49:53,190
+The end of the string
+is one at beyond the end.
+
+864
+00:49:53,290 --> 00:49:55,790
+Remember the slash zero
+that means the string terminator?
+
+865
+00:49:56,710 --> 00:49:58,530
+That's why they're saying that
+the length of the string plus,
+
+866
+00:49:59,010 --> 00:50:01,810
+yeah, by the way, one more element,
+
+867
+00:50:02,150 --> 00:50:05,070
+which is the null-terminating
+character of the string.
+
+868
+00:50:06,510 --> 00:50:09,230
+And so, I'm like, cool, and that's
+the number of elements I want to send,
+
+869
+00:50:09,410 --> 00:50:11,130
+but what is the data type of each element?
+
+870
+00:50:11,570 --> 00:50:13,150
+Oh, there are characters.
+
+871
+00:50:14,610 --> 00:50:17,010
+Now, inside there, right, something
+would have to be like,
+
+872
+00:50:17,130 --> 00:50:19,330
+well, now, I know the
+number of elements there are.
+
+873
+00:50:19,770 --> 00:50:21,390
+I know the number of bytes there are.
+
+874
+00:50:21,990 --> 00:50:24,670
+Excuse me, the number of,
+the type of each element.
+
+875
+00:50:24,750 --> 00:50:29,810
+So, the number of bytes is equal to
+this times the number
+
+876
+00:50:29,810 --> 00:50:31,150
+of bytes per whatever
+
+877
+00:50:31,150 --> 00:50:31,870
+this element is.
+
+878
+00:50:32,070 --> 00:50:33,950
+Now, a character in C happens to be what?
+
+879
+00:50:35,250 --> 00:50:35,750
+One byte wide.
+
+880
+00:50:36,510 --> 00:50:40,190
+All right, because this was a float,
+maybe it's 32 bits wide, four bytes.
+
+881
+00:50:40,910 --> 00:50:45,090
+Or if it was a float, a double,
+maybe it's 64 bits or eight bytes wide.
+
+882
+00:50:45,310 --> 00:50:48,750
+So, think about when you go to
+send something from one place to another,
+
+883
+00:50:49,290 --> 00:50:53,270
+the dance center has to know how big it
+is because it has to know how far down
+
+884
+00:50:53,570 --> 00:50:55,070
+in this buffer to read.
+
+885
+00:50:55,630 --> 00:50:57,590
+Hell, there might be things in
+that buffer you don't want to send.
+
+886
+00:50:57,750 --> 00:50:59,190
+You just want to
+send the first few things.
+
+887
+00:51:00,350 --> 00:51:03,510
+So, this is getting you to figure out
+how many of the things you want to send.
+
+888
+00:51:05,050 --> 00:51:07,530
+Now, what is all this stuff?
+
+889
+00:51:09,370 --> 00:51:12,090
+Well, to be honest with you, I
+don't remember the
+
+890
+00:51:12,090 --> 00:51:13,470
+difference between this parameter
+
+891
+00:51:13,470 --> 00:51:13,970
+and this one.
+
+892
+00:51:14,030 --> 00:51:15,070
+I don't remember right now.
+
+893
+00:51:15,770 --> 00:51:19,530
+But I know that one of these parameters
+has to be the person I'm sending it to.
+
+894
+00:51:20,770 --> 00:51:23,710
+So, the way they've done this program is
+you could start it
+
+895
+00:51:23,710 --> 00:51:24,850
+with, say, ten processes.
+
+896
+00:51:25,630 --> 00:51:26,530
+But this is if statement.
+
+897
+00:51:27,130 --> 00:51:28,770
+There's only two possible combinations.
+
+898
+00:51:29,430 --> 00:51:33,330
+I'm either going to, if I'm not
+ranked zero, I'm going to send some stuff.
+
+899
+00:51:33,690 --> 00:51:36,850
+And else, if I am
+zero, then what is it doing?
+
+900
+00:51:38,610 --> 00:51:41,150
+It's doing the buster receives.
+
+901
+00:51:41,890 --> 00:51:42,830
+How many receives?
+
+902
+00:51:43,210 --> 00:51:46,990
+It's inside of a for loop,
+whatever the size of the communicator is.
+
+903
+00:51:46,990 --> 00:51:48,950
+So, like, let's say it was ten.
+
+904
+00:51:50,450 --> 00:51:55,330
+That would mean that I have process zero,
+one, two, three, four,
+
+905
+00:51:55,430 --> 00:51:57,290
+five, six, seven, eight, nine.
+
+906
+00:51:58,190 --> 00:52:04,330
+It says, if I'm not zero, I'm
+going to send my crap to zero.
+
+907
+00:52:06,150 --> 00:52:11,870
+Else, if I am zero,
+I'm going to receive one
+
+908
+00:52:11,870 --> 00:52:15,150
+message after another inside of
+a tightly nested for loop,
+
+909
+00:52:16,390 --> 00:52:20,150
+starting with process one, because I'm
+not going to receive for myself.
+
+910
+00:52:21,190 --> 00:52:24,850
+I'm going to start receiving
+from the other people, okay?
+
+911
+00:52:25,930 --> 00:52:28,710
+And then I'm going to go up to less
+than ten, which will go
+
+912
+00:52:28,710 --> 00:52:30,690
+up to nine, all right?
+
+913
+00:52:31,710 --> 00:52:34,670
+And I'm going to do a receive, and
+where am I going to be receiving it?
+
+914
+00:52:34,730 --> 00:52:38,010
+Now, remember, every one of these
+processes is a copy of each other.
+
+915
+00:52:38,430 --> 00:52:40,190
+So, remember how there was
+a character in the right greeting?
+
+916
+00:52:40,630 --> 00:52:45,090
+There are ten arrays in it.
+
+917
+00:52:45,090 --> 00:52:50,510
+So, over here, there's
+a greeting, greeting, greeting, greeting.
+
+918
+00:52:50,590 --> 00:52:52,050
+Each one is 100 bytes long.
+
+919
+00:52:56,200 --> 00:53:00,160
+And this guy has a greeting array,
+too, and it's exactly the same length.
+
+920
+00:53:00,360 --> 00:53:03,400
+Why? Because at the top
+of the code, it hard-coded a
+
+921
+00:53:03,400 --> 00:53:07,080
+size that was based on
+the max length of 100, right?
+
+922
+00:53:08,000 --> 00:53:10,500
+And then the thing is, in here, there's
+a string that says,
+
+923
+00:53:10,500 --> 00:53:11,880
+hello from process one.
+
+924
+00:53:12,260 --> 00:53:15,960
+This one says, hello from
+process two, hello from process three.
+
+925
+00:53:16,360 --> 00:53:18,980
+And this guy is going
+to receive them what I've chosen.
+
+926
+00:53:19,280 --> 00:53:21,860
+And that for loop is going
+to receive something from this one.
+
+927
+00:53:22,620 --> 00:53:24,200
+All right, now receive
+something from that one.
+
+928
+00:53:24,800 --> 00:53:26,280
+All right, now receive
+something from this one.
+
+929
+00:53:26,740 --> 00:53:32,060
+And every time it does it, it receives
+it and puts it in the same buffer.
+
+930
+00:53:32,340 --> 00:53:35,300
+Now, that means it's
+overriding itself every time that
+
+931
+00:53:35,300 --> 00:53:37,320
+loop is putting it on top of each other.
+
+932
+00:53:37,820 --> 00:53:40,340
+But apparently, whatever they want
+to do, they just want to
+
+933
+00:53:40,340 --> 00:53:43,960
+print out the string that
+was just receiving in this buffer,
+
+934
+00:53:43,960 --> 00:53:45,680
+and then go receive that from that way.
+
+935
+00:53:46,460 --> 00:53:48,760
+Process zero will just be
+like, I received something from
+
+936
+00:53:48,760 --> 00:53:51,100
+this guy, this guy, this
+guy, this guy, this guy,
+
+937
+00:53:51,140 --> 00:53:54,840
+just to prove that, like, you
+know, if you think about it,
+
+938
+00:53:54,940 --> 00:53:57,680
+I was able to run a multi-process
+job and get something
+
+939
+00:53:57,680 --> 00:53:59,260
+different from every process,
+
+940
+00:53:59,420 --> 00:54:02,120
+and I've got processes
+communicating with each other, right?
+
+941
+00:54:03,260 --> 00:54:07,480
+That's why it's called
+your IDC, your process communication.
+
+942
+00:54:08,780 --> 00:54:09,620
+Does that make sense?
+
+943
+00:54:10,520 --> 00:54:11,780
+So that's what's happening here.
+
+944
+00:54:14,100 --> 00:54:16,860
+Now, I don't remember, like, which
+of those, zero, the other one.
+
+945
+00:54:17,300 --> 00:54:20,260
+I don't remember. Let's just see
+if we can figure this out, okay?
+
+946
+00:54:21,320 --> 00:54:22,880
+Now, what about if I was over there?
+
+947
+00:54:23,940 --> 00:54:26,040
+Look at that. It's hard
+to close the thing over here.
+
+948
+00:54:26,680 --> 00:54:29,260
+And that seems to have been
+30 minutes since that internal hazard.
+
+949
+00:54:30,040 --> 00:54:32,700
+Maybe it has. I feel like
+something's up in my network today.
+
+950
+00:54:32,860 --> 00:54:34,320
+It's not great.
+
+951
+00:54:34,880 --> 00:54:35,800
+Let's go look at this.
+
+952
+00:54:36,300 --> 00:54:38,940
+We're going to come over here. We're
+going to look for the MPI specification.
+
+953
+00:54:40,020 --> 00:54:46,000
+All right, so we're going
+to go to MPI documents.
+
+954
+00:54:46,380 --> 00:54:47,720
+It's at the MPI form.org.
+
+955
+00:54:48,360 --> 00:54:49,560
+It just gives you a little history.
+
+956
+00:54:50,860 --> 00:54:55,820
+I think MPI came
+out somewhere around 1995.
+
+957
+00:54:57,680 --> 00:54:59,020
+Let's see. Does it tell us in here?
+
+958
+00:55:01,410 --> 00:55:02,630
+Let's go back to the beginning.
+
+959
+00:55:06,680 --> 00:55:08,220
+We don't have it all
+the way back to the beginning.
+
+960
+00:55:09,200 --> 00:55:10,680
+But I really came out around 1995.
+
+961
+00:55:13,530 --> 00:55:17,170
+I say that because I
+graduated bachelor's degree in 1999,
+
+962
+00:55:17,250 --> 00:55:21,170
+and when I got to grad school, the
+very first thing was, right, an MPI firm.
+
+963
+00:55:21,370 --> 00:55:22,510
+I was like, what the hell is this?
+
+964
+00:55:23,730 --> 00:55:25,330
+They'd only been out for a little bit.
+
+965
+00:55:25,630 --> 00:55:27,150
+And there were some standards before this.
+
+966
+00:55:27,330 --> 00:55:29,890
+You know, it's kind
+of like Blu-ray versus HDD.
+
+967
+00:55:30,330 --> 00:55:34,570
+Like, some technology went out, and you
+know, the MPI went out for this stuff.
+
+968
+00:55:35,290 --> 00:55:36,030
+Are there other things?
+
+969
+00:55:36,270 --> 00:55:38,890
+Sure, but it's not nearly why
+it is accepted as an MPI.
+
+970
+00:55:39,690 --> 00:55:41,690
+So, apparently, 5.0 is out.
+
+971
+00:55:41,890 --> 00:55:44,170
+My God. That's crazy to think.
+
+972
+00:55:45,610 --> 00:55:49,630
+So, let's go ahead and get
+inside the PDF document for this.
+
+973
+00:55:50,590 --> 00:55:52,030
+Now, this thing is gigantic.
+
+974
+00:55:57,680 --> 00:56:00,540
+I mean, not only is this PDF big,
+but like, MPI, as
+
+975
+00:56:00,540 --> 00:56:02,800
+a justification, is enormous.
+
+976
+00:56:06,440 --> 00:56:07,680
+MPI can do a lot of things.
+
+977
+00:56:09,160 --> 00:56:10,440
+But they're pretty much all surroundings.
+
+978
+00:56:11,140 --> 00:56:14,460
+It all is about trying to support
+sending stuff from
+
+979
+00:56:14,460 --> 00:56:15,320
+one computer to another,
+
+980
+00:56:15,660 --> 00:56:17,720
+or from many computers
+to many computers, or
+
+981
+00:56:17,720 --> 00:56:19,400
+from one to many, or from many to one.
+
+982
+00:56:19,400 --> 00:56:21,080
+A lot of different scenarios.
+
+983
+00:56:21,640 --> 00:56:24,600
+Depending on how you're breaking data
+up, how you want to send, whatever.
+
+984
+00:56:25,240 --> 00:56:28,400
+But what we're trying to find
+here is MPI send and receive.
+
+985
+00:56:29,320 --> 00:56:30,400
+And that's part of
+a thing
+
+986
+00:56:30,400 --> 00:56:32,600
+called point-to-point communication.
+
+987
+00:56:33,100 --> 00:56:34,900
+Because you're going to
+go from one process
+
+988
+00:56:34,900 --> 00:56:37,580
+to another process, and that's all it is.
+
+989
+00:56:38,040 --> 00:56:41,740
+So, if we were to come in here
+and look, and let's
+
+990
+00:56:41,740 --> 00:56:44,660
+go look from Control-F, point-to-point.
+
+991
+00:56:45,980 --> 00:56:47,980
+Find that. Point-to-point messages.
+
+992
+00:56:47,980 --> 00:56:50,460
+Oh, yeah, there we go.
+First release came out in 1994.
+
+993
+00:56:50,680 --> 00:56:52,160
+All right, I was off by a little bit.
+
+994
+00:56:54,460 --> 00:56:58,320
+If we go and look in here, so we've
+got terms and conventions, and
+
+995
+00:56:58,320 --> 00:56:59,180
+all this sort of stuff,
+
+996
+00:56:59,340 --> 00:57:00,860
+and language
+binding, point-to-point communication.
+
+997
+00:57:01,160 --> 00:57:01,720
+Chapter three.
+
+998
+00:57:04,580 --> 00:57:05,420
+All right, cool.
+
+999
+00:57:06,900 --> 00:57:07,740
+So, send and receive.
+
+1000
+00:57:08,280 --> 00:57:11,400
+Blocking, unblocking, yada, yada, yada.
+
+1001
+00:57:11,540 --> 00:57:14,500
+Why don't we just go down to
+chapter three and see what we see.
+
+1002
+00:57:14,600 --> 00:57:15,860
+Oh, my God, look at this.
+
+1003
+00:57:15,860 --> 00:57:18,360
+This is like the Hello
+World program we're talking about.
+
+1004
+00:57:19,720 --> 00:57:22,460
+There's a message that says
+we'll only be 20 here.
+
+1005
+00:57:23,440 --> 00:57:25,000
+Everybody's got what their rank is.
+
+1006
+00:57:26,640 --> 00:57:27,200
+Now, look at that.
+
+1007
+00:57:27,780 --> 00:57:29,600
+With their init, they're
+doing a little bit
+
+1008
+00:57:29,600 --> 00:57:31,040
+of a different kind of init than we did.
+
+1009
+00:57:31,200 --> 00:57:34,120
+We passed the null pointer here, but
+they're passing the address
+
+1010
+00:57:34,120 --> 00:57:35,220
+to the argument count
+
+1011
+00:57:35,220 --> 00:57:38,300
+and the address of the
+argument vector that comes down.
+
+1012
+00:57:39,360 --> 00:57:41,000
+Let's not worry about that for right now.
+
+1013
+00:57:42,920 --> 00:57:44,520
+And it says, okay, cool.
+
+1014
+00:57:44,700 --> 00:57:46,180
+Let me find out what my rank is.
+
+1015
+00:57:46,880 --> 00:57:51,200
+And if I'm process zero,
+then I'm going to string copy.
+
+1016
+00:57:51,520 --> 00:57:54,200
+Now, you remember how our program
+context was good at s-print app.
+
+1017
+00:57:54,820 --> 00:57:58,640
+It printed one string
+into another string dynamically.
+
+1018
+00:57:59,060 --> 00:58:02,440
+Well, this thing is just saying, look,
+copy this string is hard coded on others.
+
+1019
+00:58:02,640 --> 00:58:04,780
+It's not building it up
+as a function of other parameters.
+
+1020
+00:58:05,220 --> 00:58:06,820
+And it's just copying
+that string into here.
+
+1021
+00:58:06,940 --> 00:58:07,920
+Now, why are they doing that?
+
+1022
+00:58:08,580 --> 00:58:12,000
+Because they're trying to point
+out that when you're sending stuff,
+
+1023
+00:58:12,000 --> 00:58:15,180
+you need to have a buffer to
+be sending things into and out of.
+
+1024
+00:58:15,420 --> 00:58:18,300
+This is a hard coded string, which
+means it's not actually in a buffer.
+
+1025
+00:58:18,460 --> 00:58:20,960
+It's probably off the
+stack inside your process.
+
+1026
+00:58:22,100 --> 00:58:23,980
+Well, for that matter,
+this is probably just two.
+
+1027
+00:58:24,740 --> 00:58:26,060
+But it's like, what is
+the name of the string?
+
+1028
+00:58:26,180 --> 00:58:27,140
+There is no name in that string.
+
+1029
+00:58:27,240 --> 00:58:29,180
+That's a hard coded
+variable right inside the program.
+
+1030
+00:58:29,460 --> 00:58:34,140
+Like, if I wanted to try to get
+access to this string hello here, I can't.
+
+1031
+00:58:34,140 --> 00:58:35,260
+I can't do that, right?
+
+1032
+00:58:35,340 --> 00:58:35,860
+It doesn't have a name.
+
+1033
+00:58:36,120 --> 00:58:36,920
+Well, that's what they're doing here.
+
+1034
+00:58:36,920 --> 00:58:37,240
+They're like, cool.
+
+1035
+00:58:37,320 --> 00:58:37,960
+Give it a name.
+
+1036
+00:58:38,680 --> 00:58:39,300
+Take that string.
+
+1037
+00:58:39,800 --> 00:58:40,860
+Put it inside that buffer.
+
+1038
+00:58:41,380 --> 00:58:43,680
+And then send that buffer.
+
+1039
+00:58:44,340 --> 00:58:48,920
+So send the message that you had
+just put into here, the length of it,
+
+1040
+00:58:49,060 --> 00:58:51,680
+plus one more byte
+for the little terminating character,
+
+1041
+00:58:52,140 --> 00:58:53,600
+sending MPI characters.
+
+1042
+00:58:53,780 --> 00:58:56,160
+Now, notice they chose these
+parameters here, 1 and 99.
+
+1043
+00:58:56,440 --> 00:58:58,340
+So now it's clear to
+me what these parameters are.
+
+1044
+00:58:59,200 --> 00:59:09,140
+This means if I am rank 0, I
+am going to send a message to rank 1.
+
+1045
+00:59:13,040 --> 00:59:20,340
+And if I'm rank 1, I'm going
+to receive a message from rank 0.
+
+1046
+00:59:20,580 --> 00:59:23,960
+So in other words, I can now tell
+from kind of, we'll
+
+1047
+00:59:23,960 --> 00:59:25,020
+look at the prototype later,
+
+1048
+00:59:25,120 --> 00:59:28,380
+but I can kind of tell here that
+if you're sending, you
+
+1049
+00:59:28,380 --> 00:59:29,260
+need to have a receiver.
+
+1050
+00:59:29,980 --> 00:59:32,640
+And if you're receiving, you
+need to have a sender.
+
+1051
+00:59:32,960 --> 00:59:34,140
+And that has to match, right?
+
+1052
+00:59:34,460 --> 00:59:36,160
+Like, that didn't match.
+
+1053
+00:59:36,340 --> 00:59:38,900
+And this thing with deadlocks, you should
+be trying to wait to receive something
+
+1054
+00:59:38,900 --> 00:59:40,340
+from somebody that never sent anything.
+
+1055
+00:59:41,040 --> 00:59:41,740
+You see what I mean?
+
+1056
+00:59:44,200 --> 00:59:46,140
+So what in the hell is 99?
+
+1057
+00:59:49,590 --> 00:59:54,310
+Let's go down here
+and look at the prototype.
+
+1058
+00:59:55,570 --> 01:00:00,370
+So it says, hey, now, in general, this
+is what all parameters to MPI send are.
+
+1059
+01:00:00,850 --> 01:00:03,550
+And then C, that looks like this.
+
+1060
+01:00:05,190 --> 01:00:06,950
+And in FORTRAN, it looks like this.
+
+1061
+01:00:07,430 --> 01:00:08,350
+They're not in here.
+
+1062
+01:00:08,430 --> 01:00:09,570
+They don't know
+the language there, because
+
+1063
+01:00:09,570 --> 01:00:10,770
+that's the only one that are actually
+
+1064
+01:00:10,770 --> 01:00:21,950
+supported and guaranteed to, you know, if
+you say, I match the 5.0 specification,
+
+1065
+01:00:22,350 --> 01:00:25,250
+that means that you exactly
+match the stuff that's in here.
+
+1066
+01:00:26,890 --> 01:00:33,230
+So the first parameter is when you're
+sending, it's the address of the beginning
+
+1067
+01:00:33,230 --> 01:00:34,570
+of the letter that you want to send.
+
+1068
+01:00:35,130 --> 01:00:37,510
+This is the number of
+things that you want to send.
+
+1069
+01:00:37,910 --> 01:00:40,110
+This is the type of
+each thing you want to send.
+
+1070
+01:00:40,710 --> 01:00:43,550
+This is the destination of
+where you want to send it.
+
+1071
+01:00:43,730 --> 01:00:45,590
+So which process is going to get it?
+
+1072
+01:00:45,850 --> 01:00:47,770
+And that thing right
+there, that's called that tag.
+
+1073
+01:00:47,990 --> 01:00:52,330
+That zero in our, that other zero that was
+in the book and the 99 that was in the
+
+1074
+01:00:52,330 --> 01:00:54,470
+example up there, that's called a tag.
+
+1075
+01:00:54,770 --> 01:00:57,110
+Now, I want you
+to imagine this, all right?
+
+1076
+01:00:57,910 --> 01:01:07,370
+Say, say you got three processes.
+
+1077
+01:01:09,170 --> 01:01:13,170
+Zero is going to receive from one,
+and it's going to receive from two.
+
+1078
+01:01:21,290 --> 01:01:25,150
+One of the things that you can do is
+you can say, look, I want to receive from
+
+1079
+01:01:25,150 --> 01:01:25,590
+anybody.
+
+1080
+01:01:26,190 --> 01:01:27,410
+I'll receive from anybody.
+
+1081
+01:01:27,930 --> 01:01:29,950
+As long as it's the data I'm looking for.
+
+1082
+01:01:30,830 --> 01:01:34,890
+So think about that tag as a way of
+being like, I don't know
+
+1083
+01:01:34,890 --> 01:01:35,730
+who it might be coming
+
+1084
+01:01:35,730 --> 01:01:39,470
+from, but if the tag matches
+99, it's the information I'm looking for.
+
+1085
+01:01:39,750 --> 01:01:44,490
+It gives you another ability to say, not
+only do I want to send from this person,
+
+1086
+01:01:44,670 --> 01:01:48,390
+but I only want to receive right
+now stuff that's related
+
+1087
+01:01:48,390 --> 01:01:49,730
+to this subject, 99.
+
+1088
+01:01:50,710 --> 01:01:51,610
+So that's got to match.
+
+1089
+01:01:51,870 --> 01:01:54,370
+Tags have got to match if you
+want your senders and
+
+1090
+01:01:54,370 --> 01:01:55,410
+receivers to pair up.
+
+1091
+01:01:56,010 --> 01:01:57,390
+Now, there are some parameters in there.
+
+1092
+01:01:57,490 --> 01:01:59,470
+You say, I'll receive from any process.
+
+1093
+01:01:59,690 --> 01:02:01,130
+I'll receive from any tag.
+
+1094
+01:02:01,990 --> 01:02:03,770
+All right, but what do we typically do?
+
+1095
+01:02:04,430 --> 01:02:06,530
+We're going to do this for the
+time being until
+
+1096
+01:02:06,530 --> 01:02:07,290
+we get more sophisticated.
+
+1097
+01:02:07,530 --> 01:02:09,430
+We're going to have to note to
+who and from whom
+
+1098
+01:02:09,430 --> 01:02:10,230
+we're sending and receiving,
+
+1099
+01:02:10,330 --> 01:02:10,750
+respectively.
+
+1100
+01:02:11,590 --> 01:02:14,090
+And the tags, we're just going
+to make sure that the tags match.
+
+1101
+01:02:15,070 --> 01:02:15,090
+Okay?
+
+1102
+01:02:15,770 --> 01:02:17,990
+You can also make it
+do stuff like in priority order.
+
+1103
+01:02:18,190 --> 01:02:20,530
+Like, you could be like, well, I want
+to receive all tags
+
+1104
+01:02:20,530 --> 01:02:21,610
+of zeroes because that's
+
+1105
+01:02:21,610 --> 01:02:22,310
+the highest priority.
+
+1106
+01:02:22,690 --> 01:02:24,610
+And then I'll go to
+one because that's lower priority.
+
+1107
+01:02:24,930 --> 01:02:27,170
+You can do stuff like that if you
+want to handle stuff
+
+1108
+01:02:27,170 --> 01:02:28,230
+according to some priority
+
+1109
+01:02:28,230 --> 01:02:29,010
+thing.
+
+1110
+01:02:29,890 --> 01:02:30,930
+So we look at it.
+
+1111
+01:02:30,990 --> 01:02:32,450
+The first thing's a pointer.
+
+1112
+01:02:32,690 --> 01:02:36,790
+The second thing's an int because it's the
+number of items, the type of each item,
+
+1113
+01:02:37,030 --> 01:02:40,150
+the rank destination, the
+tag that has to match.
+
+1114
+01:02:40,310 --> 01:02:46,650
+And then finally, this rank is a
+rank with respect to
+
+1115
+01:02:46,650 --> 01:02:47,770
+some group of processes.
+
+1116
+01:02:49,410 --> 01:02:52,050
+And you might say, why do I
+even need to save the common world?
+
+1117
+01:02:52,730 --> 01:02:56,290
+Well, right now, in this
+example here, this is common world.
+
+1118
+01:02:56,430 --> 01:02:56,810
+It's everybody.
+
+1119
+01:02:57,330 --> 01:03:02,010
+So rank five is rank
+five with respect to this group.
+
+1120
+01:03:03,050 --> 01:03:05,330
+But I could put another communicator here.
+
+1121
+01:03:05,430 --> 01:03:07,030
+I could put
+another communicator that's just
+
+1122
+01:03:07,030 --> 01:03:11,050
+these four or five and are just these
+
+1123
+01:03:11,050 --> 01:03:11,470
+five.
+
+1124
+01:03:12,010 --> 01:03:15,490
+And now, let's say I call this
+communicator Will and I
+
+1125
+01:03:15,490 --> 01:03:16,730
+call this communicator Jones.
+
+1126
+01:03:16,910 --> 01:03:18,550
+There's a thing for
+you to create communicators.
+
+1127
+01:03:19,050 --> 01:03:21,230
+You can, communicators
+can obviously really
+
+1128
+01:03:21,230 --> 01:03:22,830
+include processes that are part of the
+
+1129
+01:03:22,830 --> 01:03:23,890
+whole, all of processes.
+
+1130
+01:03:23,890 --> 01:03:27,750
+Well, now, what would the rank
+of this process be in Will?
+
+1131
+01:03:27,990 --> 01:03:29,490
+It'll still be zero to four.
+
+1132
+01:03:30,370 --> 01:03:35,910
+Now, with respect to common world,
+the ranks are one through nine.
+
+1133
+01:03:36,110 --> 01:03:41,590
+But for this Jones communicator, process
+five is actually ranked zero, one, two,
+
+1134
+01:03:41,790 --> 01:03:43,270
+three, four like this.
+
+1135
+01:03:43,530 --> 01:03:46,190
+So when you send and receive, you
+have to mean with
+
+1136
+01:03:46,190 --> 01:03:47,650
+respect to which grouping,
+
+1137
+01:03:48,390 --> 01:03:50,070
+which naming convention
+am I talking about?
+
+1138
+01:03:50,190 --> 01:03:52,110
+You're like, well, it's everybody.
+
+1139
+01:03:52,150 --> 01:03:53,750
+I'm just talking
+about the standard everybody.
+
+1140
+01:03:53,950 --> 01:03:55,510
+And that's what that last
+parameter is right
+
+1141
+01:03:55,510 --> 01:03:56,310
+there, the communicator.
+
+1142
+01:03:56,890 --> 01:03:58,710
+Like I said, nine times out of
+ten for everything we're
+
+1143
+01:03:58,710 --> 01:03:59,430
+doing right now, that's
+
+1144
+01:03:59,430 --> 01:04:00,710
+just going to be MPI Comm World.
+
+1145
+01:04:00,910 --> 01:04:03,750
+It's just because we're not going to
+be creating our own communigators on the
+
+1146
+01:04:03,750 --> 01:04:03,930
+process.
+
+1147
+01:04:04,370 --> 01:04:06,690
+But that's typically what you do
+later when you
+
+1148
+01:04:06,690 --> 01:04:10,770
+get into collective communications,
+
+1149
+01:04:11,170 --> 01:04:15,570
+sending to just some people but not
+others or some weird patterns or whatever.
+
+1150
+01:04:18,880 --> 01:04:19,840
+Does that kind of make sense?
+
+1151
+01:04:24,560 --> 01:04:28,920
+Now, in this interface that we were
+at over here, as I mentioned, you know,
+
+1152
+01:04:29,080 --> 01:04:31,660
+you can edit files straight
+in this little web page.
+
+1153
+01:04:31,980 --> 01:04:35,960
+You don't have to use VI or
+Emacs or whatever to do it over there.
+
+1154
+01:04:36,360 --> 01:04:40,360
+Hell, you could be doing it on
+your own computer, pushing it up there,
+
+1155
+01:04:40,500 --> 01:04:42,100
+trying to run it, doing all your things.
+
+1156
+01:04:42,340 --> 01:04:44,500
+You could be using
+a Git repo somewhere and
+
+1157
+01:04:44,500 --> 01:04:46,140
+push it to a Git repo and then pull
+
+1158
+01:04:46,140 --> 01:04:48,080
+it down over there on the other side.
+
+1159
+01:04:48,700 --> 01:04:52,740
+Or you could literally, if it wasn't
+too complicated, you could just sit here,
+
+1160
+01:04:52,740 --> 01:04:55,180
+you could say, all right, cool, I'm
+going to open up my home directory.
+
+1161
+01:04:58,240 --> 01:04:59,840
+I'm going to go into 473.
+
+1162
+01:05:00,360 --> 01:05:01,600
+I'm going to go into the source directory.
+
+1163
+01:05:01,760 --> 01:05:03,480
+I'm going to go into this directory.
+
+1164
+01:05:03,600 --> 01:05:06,040
+And I'm going to open
+up the Hello World program.
+
+1165
+01:05:06,920 --> 01:05:09,220
+And I'm going to look at it
+here so I can look at it.
+
+1166
+01:05:09,280 --> 01:05:10,540
+But what about if I want to edit it?
+
+1167
+01:05:11,760 --> 01:05:12,860
+I'm going to come back over here.
+
+1168
+01:05:21,380 --> 01:05:22,440
+I'm going to edit it.
+
+1169
+01:05:23,380 --> 01:05:25,700
+Here it opens up
+a little crappy text editor.
+
+1170
+01:05:28,170 --> 01:05:29,170
+You can edit right here.
+
+1171
+01:05:29,410 --> 01:05:32,270
+You can just save, and that's going to
+write it back out over to the file
+
+1172
+01:05:32,270 --> 01:05:33,570
+system over there on the cluster.
+
+1173
+01:05:34,310 --> 01:05:35,370
+So you can do that.
+
+1174
+01:05:35,450 --> 01:05:35,950
+Does that make sense?
+
+1175
+01:05:37,630 --> 01:05:39,990
+So whatever is good for you.
+
+1176
+01:05:40,970 --> 01:05:46,510
+Git repos, pushing and
+pulling, SEP-ing, stuff globalists.
+
+1177
+01:05:46,650 --> 01:05:48,110
+You can do it through here if you want to.
+
+1178
+01:05:48,330 --> 01:05:50,670
+You've got five or six files you
+need to edit at the same time,
+
+1179
+01:05:50,770 --> 01:05:52,750
+but then you'd have to have
+five or six tabs over here.
+
+1180
+01:05:53,330 --> 01:05:56,870
+And maybe you get your thing set
+up on your own computer with MDI
+
+1181
+01:05:56,870 --> 01:05:59,670
+so you can do all your work
+kind of locally to make sure it works.
+
+1182
+01:05:59,670 --> 01:06:02,650
+And then later, you just got to
+remember it's got to work on expanse
+
+1183
+01:06:02,650 --> 01:06:04,670
+because that's where I'm going to run it.
+
+1184
+01:06:04,670 --> 01:06:05,490
+It's on expanse.
+
+1185
+01:06:06,670 --> 01:06:07,730
+Then you copy it up there.
+
+1186
+01:06:07,830 --> 01:06:09,190
+See it makes sure it works up there.
+
+1187
+01:06:09,410 --> 01:06:10,090
+Prove that it works.
+
+1188
+01:06:10,410 --> 01:06:11,250
+Cool, there you go.
+
+1189
+01:06:11,390 --> 01:06:13,910
+Or it's not even
+about proving that it works.
+
+1190
+01:06:15,210 --> 01:06:17,230
+We're doing this for performance analysis.
+
+1191
+01:06:17,490 --> 01:06:20,510
+Well, if we want to run
+up something up to 128 cores,
+
+1192
+01:06:20,610 --> 01:06:22,970
+you don't have 128
+cores in your laptop probably.
+
+1193
+01:06:23,770 --> 01:06:25,670
+If you did, you probably
+wouldn't be in this classroom.
+
+1194
+01:06:29,450 --> 01:06:29,770
+The...
+
+1195
+01:06:29,770 --> 01:06:32,570
+It sounds bad, but I just
+feel like I don't even have...
+
+1196
+01:06:32,570 --> 01:06:33,890
+There's all things that
+are in the laptop's number
+
+1197
+01:06:33,890 --> 01:06:35,510
+that's going to get cores right now.
+
+1198
+01:06:36,470 --> 01:06:37,950
+But my...
+
+1199
+01:06:37,950 --> 01:06:40,370
+The other point is, if
+you're going to do tiny analysis,
+
+1200
+01:06:40,470 --> 01:06:42,310
+you have to run it on a
+computer that has the
+
+1201
+01:06:42,310 --> 01:06:43,270
+right number of resources
+
+1202
+01:06:43,270 --> 01:06:45,530
+so that you can figure out how fast it is,
+
+1203
+01:06:45,570 --> 01:06:47,030
+how slow it is, how
+long it's going to scale,
+
+1204
+01:06:47,170 --> 01:06:49,150
+how long it's going to do this,
+how long it's going to do that.
+
+1205
+01:06:49,290 --> 01:06:49,830
+Does that make sense?
+
+1206
+01:06:50,910 --> 01:06:55,430
+So now, I had said, I
+want you to read chapter two
+
+1207
+01:06:55,430 --> 01:06:57,010
+in the book in that rehab that I sent.
+
+1208
+01:06:57,430 --> 01:06:58,590
+Keep saying, I want you to read.
+
+1209
+01:06:58,590 --> 01:07:00,390
+If you haven't read chapter
+two, just please read it.
+
+1210
+01:07:00,470 --> 01:07:02,170
+It's not really that long, okay?
+
+1211
+01:07:02,490 --> 01:07:04,030
+But one of the things
+that it talks about here,
+
+1212
+01:07:04,070 --> 01:07:06,150
+we're going to kind of be...
+
+1213
+01:07:06,150 --> 01:07:07,970
+Like, I like a
+lot of the theoretical stuff,
+
+1214
+01:07:08,250 --> 01:07:09,670
+but I get it a lot of students don't.
+
+1215
+01:07:10,230 --> 01:07:11,790
+And if you hear a bunch of theory stuff
+
+1216
+01:07:11,790 --> 01:07:14,150
+before you actually run
+any programs, you're like,
+
+1217
+01:07:14,230 --> 01:07:16,430
+you don't have any idea
+what we're talking about, right?
+
+1218
+01:07:17,670 --> 01:07:19,810
+So I'm going to try
+to, in this semester, mix it
+
+1219
+01:07:19,810 --> 01:07:21,230
+where we're going to do
+a little bit of theory,
+
+1220
+01:07:21,710 --> 01:07:23,310
+a little bit of writing a
+program that improves
+
+1221
+01:07:23,310 --> 01:07:24,170
+what we're talking about,
+
+1222
+01:07:24,390 --> 01:07:26,290
+a little bit more theory in
+our program, you know what I mean?
+
+1223
+01:07:26,410 --> 01:07:28,530
+Like that, rather than
+talking about all this theory
+
+1224
+01:07:28,530 --> 01:07:30,190
+and then showing you
+the thing on the computer.
+
+1225
+01:07:30,370 --> 01:07:31,050
+That makes sense.
+
+1226
+01:07:31,290 --> 01:07:35,410
+So to that end, one of the next
+things I'm going to want to show you
+
+1227
+01:07:35,410 --> 01:07:38,210
+is a program that
+actually does something real
+
+1228
+01:07:38,210 --> 01:07:42,850
+and then a way to time
+it to see how it's doing,
+
+1229
+01:07:43,030 --> 01:07:45,630
+so it's just putting
+in some time and stuff,
+
+1230
+01:07:46,290 --> 01:07:48,330
+and then be able to compare that timing
+
+1231
+01:07:48,330 --> 01:07:51,590
+to what we would have
+expected the timing to be
+
+1232
+01:07:51,590 --> 01:07:53,250
+based on the theory of it.
+
+1233
+01:07:53,890 --> 01:07:54,350
+Does that make sense?
+
+1234
+01:07:55,570 --> 01:08:01,530
+Now, they talk about that, what do
+we expect it to be in Chapter 2?
+
+1235
+01:08:04,640 --> 01:08:07,020
+So let's go to Chapter 2 down to
+the part where they
+
+1236
+01:08:07,020 --> 01:08:08,060
+start talking about that.
+
+1237
+01:08:13,620 --> 01:08:14,120
+There we go.
+
+1238
+01:08:23,000 --> 01:08:25,800
+So they say, okay, let's
+suppose the number of processes
+
+1239
+01:08:25,800 --> 01:08:28,020
+or whatever we're talking about,
+maybe it's the number of cores,
+
+1240
+01:08:28,260 --> 01:08:29,700
+the number of nodes,
+the number of threads,
+
+1241
+01:08:29,940 --> 01:08:32,840
+it's wherever the
+parallelism is coming from.
+
+1242
+01:08:33,580 --> 01:08:37,940
+It's P, and the serial runtime is T serial
+
+1243
+01:08:37,940 --> 01:08:40,500
+and the parallel runtime is T parallel.
+
+1244
+01:08:40,680 --> 01:08:42,180
+Let's say they call it that, all right?
+
+1245
+01:08:45,530 --> 01:08:48,450
+And let's do a real example
+while they're doing this over here.
+
+1246
+01:08:48,890 --> 01:08:50,890
+We'll kind of play around with this.
+
+1247
+01:08:52,030 --> 01:09:03,160
+Let's suppose, you know, I'm in, you know,
+
+1248
+01:09:04,160 --> 01:09:09,000
+say quicksort, and we run it, and we
+find that it takes 35 seconds to run.
+
+1249
+01:09:10,340 --> 01:09:10,680
+All right.
+
+1250
+01:09:11,580 --> 01:09:17,320
+So, serial, that means that
+P is the number one,
+
+1251
+01:09:17,520 --> 01:09:21,020
+meaning that there's only one node,
+only one thread, only one core.
+
+1252
+01:09:21,380 --> 01:09:21,640
+All right.
+
+1253
+01:09:22,060 --> 01:09:25,940
+And we run our program,
+and for P equals one,
+
+1254
+01:09:26,100 --> 01:09:32,300
+so in other words, the serial time,
+we found that it was 35 seconds.
+
+1255
+01:09:35,980 --> 01:09:38,100
+Then, using what we're
+going to learn in here,
+
+1256
+01:09:38,760 --> 01:09:41,120
+we figure out how to
+write a parallel version of quicksort,
+
+1257
+01:09:41,780 --> 01:09:42,660
+and we run it.
+
+1258
+01:09:43,880 --> 01:09:44,420
+Okay?
+
+1259
+01:09:45,340 --> 01:09:47,220
+What are we hoping that when we run it,
+
+1260
+01:09:50,280 --> 01:09:53,680
+we hope that T will be
+less than or greater than 35?
+
+1261
+01:09:57,360 --> 01:09:58,320
+Less, because that was on point.
+
+1262
+01:09:58,460 --> 01:10:00,120
+Doing it parallel is
+going to take less time.
+
+1263
+01:10:01,000 --> 01:10:01,120
+Right?
+
+1264
+01:10:01,260 --> 01:10:07,260
+So, let's say that on, say,
+T on, where P equals two,
+
+1265
+01:10:07,480 --> 01:10:10,260
+we hit this thing, and it
+turns out to be 20 seconds.
+
+1266
+01:10:12,020 --> 01:10:14,100
+So, we're like, ooh, that's
+less than 35, that's good.
+
+1267
+01:10:15,160 --> 01:10:16,580
+That's what they're talking about here.
+
+1268
+01:10:18,640 --> 01:10:18,880
+All right.
+
+1269
+01:10:25,220 --> 01:10:29,780
+Now, in an ideal world, in an ideal world,
+
+1270
+01:10:33,150 --> 01:10:35,070
+the amount of time that
+you would take in parallel
+
+1271
+01:10:35,070 --> 01:10:39,070
+would just be the amount of time
+it takes when it's on one process
+
+1272
+01:10:39,070 --> 01:10:42,050
+divided by the number
+of processes that there are.
+
+1273
+01:10:43,370 --> 01:10:44,390
+Right?
+
+1274
+01:10:46,710 --> 01:10:53,960
+Because, you know, the
+original thing, you know,
+
+1275
+01:10:53,980 --> 01:10:57,200
+took one hour on one core.
+
+1276
+01:10:57,560 --> 01:10:59,880
+You hoped that it would take
+half an hour on two cores.
+
+1277
+01:11:00,180 --> 01:11:00,200
+Right?
+
+1278
+01:11:01,460 --> 01:11:01,880
+You agree?
+
+1279
+01:11:03,480 --> 01:11:04,720
+So, that's right.
+
+1280
+01:11:04,920 --> 01:11:06,780
+I mean, that's what you expect.
+
+1281
+01:11:07,560 --> 01:11:13,860
+So, like, in a, this
+is ideally, okay, well, now,
+
+1282
+01:11:14,740 --> 01:11:16,940
+what would, if we applied that to this,
+
+1283
+01:11:16,940 --> 01:11:21,540
+that would mean that
+the time on two, ideally,
+
+1284
+01:11:21,720 --> 01:11:24,800
+should have been 35 divided by two.
+
+1285
+01:11:25,000 --> 01:11:26,680
+Now, what is 35 divided by two?
+
+1286
+01:11:34,290 --> 01:11:34,750
+How much is that?
+
+1287
+01:11:37,010 --> 01:11:38,150
+17.5.
+
+1288
+01:11:38,290 --> 01:11:39,270
+17.5.
+
+1289
+01:11:43,790 --> 01:11:52,010
+This is like the shortest time
+that we expect it would ever take.
+
+1290
+01:11:52,170 --> 01:11:53,770
+That's the best case scenario.
+
+1291
+01:11:54,970 --> 01:11:57,790
+Did it actually run in 17.5 seconds?
+
+1292
+01:11:58,910 --> 01:12:00,410
+No, it ran a little bit longer than that.
+
+1293
+01:12:00,710 --> 01:12:02,610
+So, does that mean it's
+as good as the ideal case?
+
+1294
+01:12:03,690 --> 01:12:05,190
+No, but it's pretty close.
+
+1295
+01:12:09,320 --> 01:12:10,780
+It's pretty close, right?
+
+1296
+01:12:12,340 --> 01:12:13,420
+Everybody getting it so far?
+
+1297
+01:12:14,400 --> 01:12:15,500
+Okay, whoa.
+
+1298
+01:12:21,540 --> 01:12:23,920
+Now, speed up.
+
+1299
+01:12:27,310 --> 01:12:29,550
+Speed up.
+
+1300
+01:12:30,050 --> 01:12:30,790
+Speed up.
+
+1301
+01:12:31,710 --> 01:12:36,310
+It's equal to the time
+it takes on one process
+
+1302
+01:12:36,310 --> 01:12:39,370
+to divide it by the
+time it takes on p processes.
+
+1303
+01:12:41,070 --> 01:12:44,770
+But, like, if you were
+actually running it in real life,
+
+1304
+01:12:44,950 --> 01:12:47,390
+you would measure how long it
+takes to run on one core.
+
+1305
+01:12:47,950 --> 01:12:50,670
+You would measure how long it
+takes to run on two cores.
+
+1306
+01:12:51,210 --> 01:12:52,950
+And you would then take this and say,
+
+1307
+01:12:53,730 --> 01:12:57,910
+the speed up on p processes is
+the time that I measure for one process
+
+1308
+01:12:57,910 --> 01:13:01,250
+divided by the time
+I measured on p processes.
+
+1309
+01:13:02,110 --> 01:13:05,030
+And I would divide them and
+I would get an experimentally determined,
+
+1310
+01:13:05,610 --> 01:13:09,370
+experimentally determined,
+you measured it.
+
+1311
+01:13:10,470 --> 01:13:11,790
+And then you get one over here.
+
+1312
+01:13:12,490 --> 01:13:15,130
+Well, the time on one
+process, our other example, is 35.
+
+1313
+01:13:17,990 --> 01:13:23,850
+The time we got when we ran
+it on two processes experimentally was 20.
+
+1314
+01:13:24,690 --> 01:13:28,250
+Now, somebody said, what
+is 35 divided by 20?
+
+1315
+01:13:30,920 --> 01:13:31,760
+1.75.
+
+1316
+01:13:32,400 --> 01:13:34,000
+All right, is it 1.75?
+
+1317
+01:13:34,700 --> 01:13:36,140
+Let's see.
+
+1318
+01:13:37,780 --> 01:13:39,640
+1.75 times.
+
+1319
+01:13:40,260 --> 01:13:42,020
+1.75 x.
+
+1320
+01:13:43,380 --> 01:13:44,340
+Perfect.
+
+1321
+01:13:45,160 --> 01:13:46,080
+So, 1.75.
+
+1322
+01:13:48,340 --> 01:13:49,420
+That sounds pretty good.
+
+1323
+01:13:49,420 --> 01:13:54,320
+Like, if I was making 1.75
+times the amount of money issued
+
+1324
+01:13:54,320 --> 01:13:55,900
+that I made last year, I would be happy.
+
+1325
+01:13:57,680 --> 01:14:00,640
+But how much money, in an ideal
+case, if I had
+
+1326
+01:14:00,640 --> 01:14:01,680
+the same analysis situation,
+
+1327
+01:14:01,820 --> 01:14:03,240
+I would make it twice as much.
+
+1328
+01:14:04,960 --> 01:14:06,640
+So, in an ideal case,
+
+1329
+01:14:07,860 --> 01:14:12,060
+so speed up, ideally,
+
+1330
+01:14:14,940 --> 01:14:19,060
+is supposed to be equal to time on one
+
+1331
+01:14:19,440 --> 01:14:21,500
+divided by the time on P.
+
+1332
+01:14:21,860 --> 01:14:23,800
+The time on P, ideally, is that.
+
+1333
+01:14:24,680 --> 01:14:26,860
+So, it's T1 divided by P.
+
+1334
+01:14:27,880 --> 01:14:32,820
+Well, if I do that out,
+that's T1 times P over T1.
+
+1335
+01:14:33,740 --> 01:14:36,200
+T1 cancel out, and I get P left.
+
+1336
+01:14:36,380 --> 01:14:40,340
+So, the speed up should be equal
+to the number of resources I'm using,
+
+1337
+01:14:40,980 --> 01:14:44,840
+like P threads or P
+cores or P nodes, right?
+
+1338
+01:14:45,280 --> 01:14:47,900
+So, it should then, in this case,
+
+1339
+01:14:50,060 --> 01:14:53,760
+so ideally, it should
+have been equal to P,
+
+1340
+01:14:53,960 --> 01:14:57,000
+which P was equal to 2, which would
+have meant that the speed up on 2
+
+1341
+01:14:57,000 --> 01:14:58,620
+ideally should have been 2x.
+
+1342
+01:14:59,100 --> 01:14:59,820
+But it wasn't.
+
+1343
+01:15:00,280 --> 01:15:03,020
+It was 1.5x, and it
+was slightly worse than that, right?
+
+1344
+01:15:03,680 --> 01:15:06,440
+So, you get this graph of,
+
+1345
+01:15:10,750 --> 01:15:12,150
+you've got the speed up over here,
+
+1346
+01:15:13,310 --> 01:15:16,150
+you've got the number of processes, cores,
+
+1347
+01:15:16,470 --> 01:15:18,370
+whatever it is,
+resources we're talking about.
+
+1348
+01:15:20,110 --> 01:15:21,950
+And if you've got one core,
+
+1349
+01:15:22,450 --> 01:15:24,970
+then, you know, that speed
+up factor is a 1.
+
+1350
+01:15:25,930 --> 01:15:29,330
+You know, if it's 2,
+then ideally it should be 2,
+
+1351
+01:15:29,470 --> 01:15:31,250
+because that's what it says here.
+
+1352
+01:15:31,510 --> 01:15:36,540
+Ideally, it would be ideally.
+
+1353
+01:15:38,320 --> 01:15:42,900
+So, in an ideal world, it
+would literally be a straight line.
+
+1354
+01:15:43,300 --> 01:15:46,240
+Your speed up would be exactly equal
+to the number of processes you've had.
+
+1355
+01:15:46,360 --> 01:15:49,540
+So, it was over here,
+and this was 100 processes.
+
+1356
+01:15:49,920 --> 01:15:53,260
+This would mean that
+it was 100 times faster.
+
+1357
+01:15:53,880 --> 01:15:55,900
+But you will never get that in real life.
+
+1358
+01:15:56,000 --> 01:15:57,380
+It will be something less than that.
+
+1359
+01:15:58,000 --> 01:16:00,320
+Put an asterisk right there,
+but sometimes you will get that.
+
+1360
+01:16:00,580 --> 01:16:01,960
+Sometimes we can get better than that.
+
+1361
+01:16:02,060 --> 01:16:04,620
+You'll wonder what's going on,
+and there's other explanations for that.
+
+1362
+01:16:04,720 --> 01:16:07,420
+But in general, this is
+the best you can get.
+
+1363
+01:16:07,580 --> 01:16:10,860
+Now, what did we just
+get when we went to 2?
+
+1364
+01:16:12,260 --> 01:16:14,540
+When we went to 2, we looked
+at the experimental
+
+1365
+01:16:14,540 --> 01:16:15,500
+thing that we measured.
+
+1366
+01:16:15,580 --> 01:16:17,060
+It only came up to 1.75.
+
+1367
+01:16:17,400 --> 01:16:21,420
+And 1.75 will maybe be like right here.
+
+1368
+01:16:22,940 --> 01:16:24,980
+So, the curve might go over here, and
+then what might happen
+
+1369
+01:16:24,980 --> 01:16:25,940
+when we go over here,
+
+1370
+01:16:27,160 --> 01:16:28,580
+it might start doing like this.
+
+1371
+01:16:30,800 --> 01:16:34,180
+And eventually, you're going to
+actually start doing something like that.
+
+1372
+01:16:35,620 --> 01:16:39,300
+So, this would be like maybe the
+real, this is the
+
+1373
+01:16:39,300 --> 01:16:44,450
+experimentally determined speed up.
+
+1374
+01:16:45,350 --> 01:16:47,770
+And this is the ideal
+speed up, the max speed up.
+
+1375
+01:16:47,770 --> 01:16:52,730
+And really, you want this curve to be as
+close to that curve as it possibly can be,
+
+1376
+01:16:52,790 --> 01:16:57,650
+because the further they are apart from
+one another, the worse it is, right?
+
+1377
+01:16:58,250 --> 01:17:01,230
+That's like how far you are from getting
+the max that you
+
+1378
+01:17:01,230 --> 01:17:02,090
+should have been getting, right?
+
+1379
+01:17:02,230 --> 01:17:02,730
+Does that make sense?
+
+1380
+01:17:03,810 --> 01:17:09,990
+Now, you will almost always see that
+if you pump P up far enough,
+
+1381
+01:17:10,990 --> 01:17:16,110
+this will start having like a
+slope that's getting less and less
+
+1382
+01:17:16,330 --> 01:17:18,330
+until such a time as it becomes negative.
+
+1383
+01:17:19,570 --> 01:17:21,970
+But it would really be
+cool, even if there was
+
+1384
+01:17:21,970 --> 01:17:25,070
+a gap here, if the gap was a linear gap.
+
+1385
+01:17:25,250 --> 01:17:29,070
+Let's say this, another program
+had this speed up curve.
+
+1386
+01:17:30,150 --> 01:17:33,370
+Now, this slope is going
+to be less than that slope.
+
+1387
+01:17:33,530 --> 01:17:36,050
+That means that the gap
+here is actually getting bigger,
+
+1388
+01:17:36,190 --> 01:17:39,870
+but it's getting bigger at
+the same rate that P is.
+
+1389
+01:17:41,270 --> 01:17:43,250
+So this would be ideal speed up.
+
+1390
+01:17:43,530 --> 01:17:46,930
+This would be like a linear
+speed up, because it's a line.
+
+1391
+01:17:48,150 --> 01:17:49,530
+But a line is pretty damn good.
+
+1392
+01:17:49,850 --> 01:17:51,890
+That means that there's like
+no need of the curve.
+
+1393
+01:17:52,050 --> 01:17:53,230
+It never goes like this.
+
+1394
+01:17:53,350 --> 01:17:54,630
+It starts going down.
+
+1395
+01:17:54,850 --> 01:17:58,210
+If you've got enough cores, it
+just keeps your right eye going up.
+
+1396
+01:17:58,910 --> 01:18:02,430
+That would be really scalable, like if
+you could really scale your problem up.
+
+1397
+01:18:03,190 --> 01:18:04,310
+This is not scalable.
+
+1398
+01:18:06,470 --> 01:18:07,770
+Look at this.
+
+1399
+01:18:07,770 --> 01:18:11,730
+Imagine in your computer
+you have 100,000 cores.
+
+1400
+01:18:12,450 --> 01:18:17,310
+So 100 cores is not really
+that much out of 100,000, right?
+
+1401
+01:18:19,610 --> 01:18:22,770
+But that 100,000 doesn't
+do anything for you
+
+1402
+01:18:22,770 --> 01:18:25,390
+if the best you ever get is right there
+
+1403
+01:18:25,390 --> 01:18:26,730
+and after that starts going down.
+
+1404
+01:18:26,810 --> 01:18:30,190
+It doesn't matter that you've
+got 1,000 times more resources
+
+1405
+01:18:30,190 --> 01:18:32,030
+to bring to bear on the problem.
+
+1406
+01:18:32,230 --> 01:18:33,870
+It doesn't help you in fact.
+
+1407
+01:18:34,930 --> 01:18:36,670
+It hurts you.
+
+1408
+01:18:36,810 --> 01:18:37,310
+You see what I mean?
+
+1409
+01:18:39,230 --> 01:18:42,290
+So the only way that you can make use of
+all your resources is if
+
+1410
+01:18:42,290 --> 01:18:44,630
+the speed up keeps going up,
+
+1411
+01:18:45,230 --> 01:18:46,790
+hopefully at the same rate.
+
+1412
+01:18:48,230 --> 01:18:55,110
+Now, some of them might say
+like, we're at the end of class.
+
+1413
+01:18:55,450 --> 01:18:57,530
+They might say, why don't
+you get this ideal speed up?
+
+1414
+01:18:58,230 --> 01:19:00,890
+Well, that's because the only way
+you could get the ideal speed up
+
+1415
+01:19:00,890 --> 01:19:04,870
+is if you actually did half the
+work in each process and didn't get it.
+
+1416
+01:19:04,950 --> 01:19:06,250
+But think about that NPI program.
+
+1417
+01:19:07,630 --> 01:19:10,310
+Even if you have like an array
+where you have to work on one,
+
+1418
+01:19:10,310 --> 01:19:11,970
+you have to work on the
+other, and did
+
+1419
+01:19:11,970 --> 01:19:13,390
+they exchange some information?
+
+1420
+01:19:14,330 --> 01:19:18,070
+The sequential version of the
+program never exchanged any information.
+
+1421
+01:19:18,310 --> 01:19:19,050
+You didn't need to.
+
+1422
+01:19:19,430 --> 01:19:22,950
+That's extra stuff that
+your other program never did.
+
+1423
+01:19:23,550 --> 01:19:26,390
+That means that there's always going
+to be some kind of overhead
+
+1424
+01:19:26,390 --> 01:19:29,610
+that's making it not be as good
+as it would be by simply just saying,
+
+1425
+01:19:30,110 --> 01:19:33,610
+it's not going to be one
+piece the amount of time a day.
+
+1426
+01:19:33,710 --> 01:19:37,530
+It's never going to be PX faster because
+there's work that you
+
+1427
+01:19:37,530 --> 01:19:38,530
+weren't even doing before.
+
+1428
+01:19:38,530 --> 01:19:39,770
+It's less like apples and apples.
+
+1429
+01:19:41,090 --> 01:19:44,470
+It's like, hey, you know, I
+was able to lift, you know,
+
+1430
+01:19:44,590 --> 01:19:48,370
+this many bags into the truck
+and there's two students and, you know,
+
+1431
+01:19:48,450 --> 01:19:50,630
+it's like, yeah, but the two
+students didn't have to separate the bags
+
+1432
+01:19:50,630 --> 01:19:51,570
+and they did all this stuff.
+
+1433
+01:19:51,650 --> 01:19:53,630
+It's like, it's not twice as fast
+because there's extra
+
+1434
+01:19:53,630 --> 01:19:54,510
+stuff that's going on
+
+1435
+01:19:54,510 --> 01:19:56,070
+that never had to go on to begin with.
+
+1436
+01:19:56,350 --> 01:19:58,310
+The students had to talk to each other to
+figure out who's going
+
+1437
+01:19:58,310 --> 01:19:58,890
+to pick up this bag,
+
+1438
+01:19:58,970 --> 01:19:59,550
+who's going to do that.
+
+1439
+01:19:59,670 --> 01:20:01,410
+It's like, you don't have to do
+any of that when you've got one court.
+
+1440
+01:20:01,790 --> 01:20:03,570
+There's only one court
+and there's only one process.
+
+1441
+01:20:03,810 --> 01:20:05,230
+There's only one threat of execution.
+
+1442
+01:20:05,910 --> 01:20:07,750
+So that's why this stuff happens.
+
+1443
+01:20:07,750 --> 01:20:10,890
+That's going to be a subject of discussion
+if you hit this over and over again
+
+1444
+01:20:10,890 --> 01:20:13,770
+about, like, what are all
+the limiting factors for scalability?
+
+1445
+01:20:14,490 --> 01:20:19,690
+So I'm going to get a small
+assignment up there by just, you know,
+
+1446
+01:20:20,090 --> 01:20:21,750
+running a little one of these
+little, something a
+
+1447
+01:20:21,750 --> 01:20:22,510
+little more complicated
+
+1448
+01:20:22,510 --> 01:20:24,870
+in the hello world that we have there,
+just to prove that
+
+1449
+01:20:24,870 --> 01:20:25,850
+you got into the system,
+
+1450
+01:20:26,050 --> 01:20:29,050
+you did some stuff, took some
+screenshots, you tried a couple of things,
+
+1451
+01:20:29,150 --> 01:20:32,570
+you put it into a Word document
+and you submit it along with your code.
+
+1452
+01:20:32,730 --> 01:20:36,010
+Like, it's just kind of a proof of, like,
+you're into the system and you can do so.
+
+1453
+01:20:36,510 --> 01:20:37,310
+That's the idea.
+
+1454
+01:20:38,110 --> 01:20:39,310
+See you guys next time, all right?
+
+1455
+01:20:41,030 --> 01:20:44,750
+Remember, read Chapter 2 if you
+haven't read it and come prepared
+
+1456
+01:20:44,750 --> 01:20:48,150
+to have a small quiz
+at the beginning of the class.
+
+1457
+01:20:48,630 --> 01:20:51,390
+One question from Chapter 2, all right?
+
+1458
+01:20:51,850 --> 01:20:52,470
+For next thoughts?
+
+1459
+01:20:53,070 --> 01:20:53,310
+Yep.
+
+1460
+01:20:53,730 --> 01:20:53,890
+Okay.
+
+1461
+01:20:54,970 --> 01:20:56,650
+It's not letting me get any Spanish here.
+
+1462
+01:20:58,290 --> 01:20:59,330
+So I'm going to actually go on the portal.
+
+1463
+01:21:00,070 --> 01:21:00,250
+Yep.
+
+1464
+01:21:02,790 --> 01:21:04,430
+This is the right world, right?
+
+1465
+01:21:04,430 --> 01:21:06,310
+I can't see your screen. I'm sorry.
+
+1466
+01:21:07,410 --> 01:21:08,370
+Sorry, I didn't go in.
+
+1467
+01:21:10,690 --> 01:21:23,530
+All right, so here's the thing.
+
+1468
+01:21:25,070 --> 01:21:26,810
+Show me that you can get into Access.
+
+1469
+01:21:27,030 --> 01:21:32,270
+And they've come down to my office
+and we'll take a look at that, too.
+
+1470
+01:21:32,430 --> 01:21:33,610
+Do you have time right now?
+
+1471
+01:21:33,750 --> 01:21:34,910
+Yeah, I've got some time.
+
+1472
+01:21:35,550 --> 01:21:36,310
+All right.
+
+1473
+01:21:36,470 --> 01:21:39,490
+I think this is Access CR right here.
+
+1474
+01:21:39,770 --> 01:21:39,850
+Yeah.
+
+1475
+01:21:40,950 --> 01:21:42,710
+Let's see.
+
+1476
+01:21:43,070 --> 01:21:43,290
+All right.
+
+1477
+01:21:43,390 --> 01:21:45,330
+Let's come down here and see
+what we can figure out, all right?
+
+1478
+01:21:46,430 --> 01:21:47,010
+Let's see.
+
+1479
+01:21:47,410 --> 01:21:48,550
+We can try a couple of things.
+
+1480
+01:21:48,790 --> 01:21:50,670
+Like, we can try it on my computer.
+
+1481
+01:21:50,810 --> 01:21:51,830
+We can try it on your computer.
+
+1482
+01:21:52,030 --> 01:21:54,470
+We can see, like, with your account.
+
+1483
+01:21:54,810 --> 01:21:56,670
+And just see, like, is
+it something going on with yours?
+
+1484
+01:21:56,870 --> 01:21:57,510
+Is it the cookies?
+
+1485
+01:21:58,110 --> 01:21:59,570
+Do we need to erase the browser history?
+
+1486
+01:21:59,790 --> 01:22:01,470
+Can you remember when you were in the
+class when I said
+
+1487
+01:22:01,470 --> 01:22:02,910
+I have problems sometimes?
+
+1488
+01:22:03,190 --> 01:22:03,590
+Yeah.
+
+1489
+01:22:03,410 --> 01:22:05,770
+I have to find a
+community sub-out because
+
+1490
+01:22:05,770 --> 01:22:06,550
+whatever they do,
+
+1491
+01:22:06,630 --> 01:22:07,650
+they need to call that stuff together.
+
+1492
+01:22:07,790 --> 01:22:09,350
+It doesn't seem to be real reliable.
+
+1493
+01:22:10,490 --> 01:22:11,950
+At least in my opinion.
+
+1494
+01:22:12,470 --> 01:22:15,570
+You got an email with
+the user name, though, right?
+
+1495
+01:22:16,310 --> 01:22:16,510
+Yeah.
+
+1496
+01:22:17,190 --> 01:22:17,930
+Yeah.
+
+1497
+01:22:18,450 --> 01:22:20,350
+Did I respond to
+you and said, thanks, right?
+
+1498
+01:22:20,710 --> 01:22:21,970
+Carbon faded and pasted the thing, too.
+
+1499
+01:22:22,050 --> 01:22:24,490
+You wrote your back and
+said, did I do that?
+
+1500
+01:22:24,630 --> 01:22:24,990
+And I'm asking.
+
+1501
+01:22:25,670 --> 01:22:26,350
+I don't think so.
+
+1502
+01:22:26,830 --> 01:22:27,050
+All right.
+
+1503
+01:22:27,050 --> 01:22:27,730
+Let's take a look.
+
+1504
+01:22:28,510 --> 01:22:29,530
+That could be a problem, too.
+
+1505
+01:22:34,110 --> 01:22:32,890
+All right.
+
+1506
+01:22:34,910 --> 01:22:38,410
+But I do remember you sending
+me an email where you got it.
+
+1507
+01:22:38,510 --> 01:22:41,210
+And what I tried to do
+on every student that sent me one,
+
+1508
+01:22:41,370 --> 01:22:43,110
+I said, you know, thanks.
+
+1509
+01:22:43,370 --> 01:22:47,210
+And I copied and pasted it, proof
+that I had added it in the system.
+
+1510
+01:22:47,530 --> 01:22:49,790
+If I didn't do that for
+you, then maybe I didn't do it.
+
+1511
+01:22:50,010 --> 01:22:51,890
+So let's go see if
+that's what the issue is.
+
+1512
+01:22:52,750 --> 01:22:53,290
+It could be.
+
+1513
+01:22:53,830 --> 01:22:54,690
+Let's see.
+

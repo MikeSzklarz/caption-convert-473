@@ -1,0 +1,5260 @@
+1
+00:00:01,940 --> 00:00:07,700
+I can turn around and write Cindy which is
+the okay like she's the first of the pair
+
+2
+00:00:07,700 --> 00:00:09,940
+like I've been communicating
+with her about in
+
+3
+00:00:09,940 --> 00:00:11,500
+one other case for a student in here about
+
+4
+00:00:11,500 --> 00:00:13,640
+something that was messed up
+so we'll see what she
+
+5
+00:00:13,640 --> 00:00:15,500
+says all right I'm going
+to go try to figure out
+
+6
+00:00:15,500 --> 00:00:20,320
+all right sounds good man
+all right have a good day
+
+7
+00:04:45,860 --> 00:04:46,420
+yeah
+
+8
+00:04:50,160 --> 00:04:53,200
+let's go ahead and
+spread out here and we're
+
+9
+00:04:53,200 --> 00:04:56,280
+going to do the quiz here we get the class
+
+10
+00:04:56,280 --> 00:04:59,540
+those close book close
+notes and double earbuds
+
+11
+00:04:59,540 --> 00:05:02,760
+and star watches and
+phones put all that stuff
+
+12
+00:05:02,760 --> 00:05:07,480
+away all you need a pencil and or pen or
+whatever you typically write all
+
+13
+00:05:13,400 --> 00:05:16,080
+right so this will be 15
+
+14
+00:05:20,060 --> 00:05:23,700
+minutes there's space to
+write your stuff when
+
+15
+00:05:23,700 --> 00:05:28,000
+you're done um just
+put your thing face out
+
+16
+00:05:28,000 --> 00:05:40,820
+and there you go we'll
+start the counter once I
+
+17
+00:05:40,820 --> 00:06:01,840
+get all these in there's
+extra just leave it on
+
+18
+00:06:01,840 --> 00:06:03,900
+yes to the back
+you're going to get started
+
+19
+00:06:03,900 --> 00:14:55,510
+15 minutes start now you
+got about six minutes left
+
+20
+00:14:55,510 --> 00:14:59,910
+and again if you finish
+just turn your paper over
+
+21
+00:18:05,670 --> 00:20:10,420
+all right about one minute left
+make sure you're
+
+22
+00:20:10,420 --> 00:20:11,180
+finishing up your thoughts
+
+23
+00:20:11,180 --> 00:21:10,680
+is that you paid your name's on the top of
+the paper all right um
+
+24
+00:21:10,680 --> 00:21:13,400
+good put your pencils down
+
+25
+00:21:13,400 --> 00:21:40,420
+and uh pass your stuff over here
+in front so you'll feel good about this
+
+26
+00:21:40,420 --> 00:21:52,640
+everybody so how do you feel like at least
+uh 50 okay all right
+
+27
+00:21:52,640 --> 00:21:53,900
+so here's some extra copies
+
+28
+00:22:33,520 --> 00:22:34,120
+okay
+
+29
+00:22:34,120 --> 00:23:00,970
+Flynn's taxonomy let's see who feels like
+I know this okay all right so
+
+30
+00:23:00,970 --> 00:23:07,560
+you know we know that we've got we've got
+this thing about whether or
+
+31
+00:23:07,560 --> 00:23:09,880
+not we're doing the same
+
+32
+00:23:09,880 --> 00:23:13,680
+instructions on different
+pieces of data or
+
+33
+00:23:13,680 --> 00:23:16,260
+different instructions on
+the same pieces of
+
+34
+00:23:16,280 --> 00:23:20,060
+data or or both at the same time
+so we have like
+
+35
+00:23:20,060 --> 00:23:23,220
+single instruction single data
+
+36
+00:23:23,220 --> 00:23:29,980
+single instruction multiple
+data multiple instructions
+
+37
+00:23:29,980 --> 00:23:31,880
+we have single data and then
+
+38
+00:23:31,880 --> 00:23:36,780
+like multiple instructions multiple
+data and I said
+
+39
+00:23:36,780 --> 00:23:39,060
+that we probably weren't
+going to talk about
+
+40
+00:23:39,060 --> 00:23:42,240
+Indian and out this
+is like your typical program
+
+41
+00:23:42,240 --> 00:23:46,560
+that you you guys write
+all the time like you
+
+42
+00:23:46,560 --> 00:23:53,880
+and you can see a little y plus z you
+know you're doing you know
+
+43
+00:23:53,880 --> 00:23:55,680
+to do addition for example you
+
+44
+00:23:55,680 --> 00:23:58,200
+got to have at least
+two operands right so add
+
+45
+00:23:58,200 --> 00:24:01,780
+together so that's as like
+single as you can get
+
+46
+00:24:01,780 --> 00:24:03,720
+versus say like add
+two vectors together that'll
+
+47
+00:24:03,720 --> 00:24:05,580
+be multiple pieces of
+data being added together
+
+48
+00:24:05,580 --> 00:24:13,040
+at the same time okay like this over here
+but you know some kind
+
+49
+00:24:13,040 --> 00:24:14,420
+of thing with quadrants some
+
+50
+00:24:14,420 --> 00:24:15,680
+kind of thing that's kind
+of what I was looking
+
+51
+00:24:15,680 --> 00:24:20,440
+for two uh two examples
+of ILD you know there
+
+52
+00:24:20,440 --> 00:24:23,440
+are more than two but like what are the
+two that we primarily talked
+
+53
+00:24:23,440 --> 00:24:33,970
+about in here pipelining okay
+
+54
+00:24:33,970 --> 00:24:48,490
+multiple issue sometimes referred
+to as a super scalar
+
+55
+00:24:48,490 --> 00:24:53,590
+but you know I use the word multiple issue
+
+56
+00:24:55,090 --> 00:24:59,730
+in here okay well what is cache coherency
+and consistency all about
+
+57
+00:24:59,730 --> 00:25:00,450
+like what's the main
+
+58
+00:25:00,450 --> 00:25:10,920
+issue there yeah like you got you know a
+situation where in your memory
+
+59
+00:25:10,920 --> 00:25:12,640
+hierarchy you might have say
+
+60
+00:25:12,640 --> 00:25:16,620
+the cache here the cache here and so like
+for example if you got
+
+61
+00:25:16,620 --> 00:25:18,300
+like the x25 over here
+
+62
+00:25:18,980 --> 00:25:24,080
+and then this uh your cpu reads it up so
+you got like x25 and
+
+63
+00:25:24,080 --> 00:25:26,500
+this guy reads it like x25
+
+64
+00:25:26,500 --> 00:25:30,780
+but then all of a sudden x equals x
+plus one over here this
+
+65
+00:25:30,780 --> 00:25:32,240
+becomes six but now like
+
+66
+00:25:32,240 --> 00:25:36,600
+it's not the same here and the cache is
+also not the same here
+
+67
+00:25:36,600 --> 00:25:37,700
+although that's a different issue
+
+68
+00:25:37,700 --> 00:25:39,500
+but the main issue is
+it's like it's not the
+
+69
+00:25:39,500 --> 00:25:42,900
+same so like if the
+other dude is playing with the
+
+70
+00:25:42,900 --> 00:25:45,040
+value five that's not
+the right one anymore so
+
+71
+00:25:45,040 --> 00:25:47,000
+trying to keep that
+still consistent or have some
+
+72
+00:25:48,000 --> 00:25:49,820
+policy like hey if it's
+a variable that's going to
+
+73
+00:25:49,820 --> 00:25:53,700
+be shared you can't cache
+it up because you know
+
+74
+00:25:53,700 --> 00:25:55,560
+that's one way to avoid
+the problem is just to
+
+75
+00:25:55,560 --> 00:25:57,400
+ignore it and be like
+you can't you just can't
+
+76
+00:25:57,400 --> 00:25:59,120
+share any things or something
+you know that might be
+
+77
+00:25:59,120 --> 00:26:02,020
+in common um but that
+was the stuff that we were
+
+78
+00:26:02,020 --> 00:26:06,300
+talking about last time was that you got
+multiple caches each you
+
+79
+00:26:06,300 --> 00:26:07,600
+know associated say with like
+
+80
+00:26:07,600 --> 00:26:12,140
+different cores or whatever and uh there
+could be an inconsistency
+
+81
+00:26:12,140 --> 00:26:13,800
+between the things here
+
+82
+00:26:14,460 --> 00:26:17,700
+and that was what the slew be uh
+a directory based cache
+
+83
+00:26:17,700 --> 00:26:19,320
+awareness protocol from uh the
+
+84
+00:26:19,320 --> 00:26:23,540
+chapter two was talking about that
+was part of the reading assignment
+
+85
+00:26:23,540 --> 00:26:31,840
+uh message passing because message passing
+primarily used in a shared memory system
+
+86
+00:26:31,840 --> 00:26:40,430
+or in a distributed
+memory system live okay primarily
+
+87
+00:26:43,170 --> 00:26:51,580
+thoughts can we draw a picture of
+shared memory machine this is a computer
+
+88
+00:26:51,580 --> 00:26:56,740
+it's got a processor
+and another processor and
+
+89
+00:26:56,740 --> 00:27:00,260
+it's got a ram
+that's this is shared memory
+
+90
+00:27:00,260 --> 00:27:06,600
+distributed memory would be
+got a computer it's
+
+91
+00:27:06,600 --> 00:27:10,020
+got a processor and
+ram got another computer
+
+92
+00:27:10,780 --> 00:27:14,740
+it's got a processor and ram and
+they're both connected
+
+93
+00:27:14,740 --> 00:27:16,560
+together via a network
+
+94
+00:27:16,560 --> 00:27:20,820
+now which one of these is going to need to
+pass messages in order to
+
+95
+00:27:20,820 --> 00:27:22,140
+be able to share stuff
+
+96
+00:27:22,140 --> 00:27:27,500
+distributed do you need
+do you have to send
+
+97
+00:27:27,500 --> 00:27:34,230
+messages here no because
+uh this guy can see
+
+98
+00:27:34,230 --> 00:27:37,270
+the ram and this guy can see the ram they
+don't need to share it
+
+99
+00:27:37,270 --> 00:27:38,270
+with each other it's already
+
+100
+00:27:38,270 --> 00:27:40,530
+in a system that's
+physically one system it could
+
+101
+00:27:40,530 --> 00:27:44,950
+be shared does that mean
+that you can't put uh
+
+102
+00:27:44,950 --> 00:27:49,770
+what do you call it that you say come on
+in but you can't put
+
+103
+00:27:49,770 --> 00:27:54,400
+um message passing on here
+
+104
+00:27:54,400 --> 00:27:58,800
+no you could in fact that's what we did in
+any class right we ran
+
+105
+00:27:58,800 --> 00:28:00,020
+that hello world program we
+
+106
+00:28:00,020 --> 00:28:04,760
+logged in one node and ran it right you
+know that's how i stand
+
+107
+00:28:04,760 --> 00:28:06,040
+all right this thing's gonna
+
+108
+00:28:06,040 --> 00:28:08,200
+come out here send
+the message to the other
+
+109
+00:28:08,200 --> 00:28:10,840
+process it's gonna come back
+up out of the loop
+
+110
+00:28:10,840 --> 00:28:13,760
+back interface the network card come back
+up here and
+
+111
+00:28:13,760 --> 00:28:15,420
+they're they're sharing information
+
+112
+00:28:15,420 --> 00:28:18,340
+but they don't actually
+need to share information this
+
+113
+00:28:18,340 --> 00:28:22,240
+way what was up so they don't they don't
+
+114
+00:28:22,240 --> 00:28:24,940
+need to share information
+because they they could see
+
+115
+00:28:24,940 --> 00:28:27,280
+it directly but you could
+you could put it on
+
+116
+00:28:27,280 --> 00:28:30,920
+there but in terms
+of primarily message passing
+
+117
+00:28:30,920 --> 00:28:34,460
+is when it has
+to traverse the network because
+
+118
+00:28:35,720 --> 00:28:38,300
+this processor can't normally
+see this memory and that
+
+119
+00:28:38,300 --> 00:28:40,660
+processor can't see this
+memory so they have to
+
+120
+00:28:40,660 --> 00:28:44,180
+share messages or if you're
+on a similar computer like
+
+121
+00:28:44,180 --> 00:28:46,740
+you did in 356 probably
+and you had say for
+
+122
+00:28:46,740 --> 00:28:49,800
+example processes and
+you had multiple processes
+
+123
+00:28:49,800 --> 00:28:52,140
+that don't share
+memory those processes communicate
+
+124
+00:28:52,140 --> 00:28:55,280
+with each other through channels like
+pipes or other
+
+125
+00:28:55,280 --> 00:28:56,900
+kinds of inter-process communication
+
+126
+00:28:56,900 --> 00:28:59,080
+that's because they
+weren't sharing this memory
+
+127
+00:28:59,080 --> 00:29:00,780
+even though it's on the physical system
+
+128
+00:29:01,380 --> 00:29:07,940
+questions about that one
+all right and finally there's
+
+129
+00:29:07,940 --> 00:29:09,700
+one at the end all right so we've got a
+
+130
+00:29:09,700 --> 00:29:15,030
+program that takes 100
+seconds to run so let's
+
+131
+00:29:15,030 --> 00:29:21,830
+write that down you have a program it runs
+
+132
+00:29:21,830 --> 00:29:31,320
+and it takes 100 seconds so that's in book
+notation that's the time it
+
+133
+00:29:31,320 --> 00:29:32,740
+takes to run on one
+
+134
+00:29:33,120 --> 00:29:39,560
+is 100 seconds and it says 80 percent of
+that time is spent doing
+
+135
+00:29:39,560 --> 00:29:41,160
+work that could be paralyzed
+
+136
+00:29:41,160 --> 00:29:52,470
+all right so so you know in this case
+you know 80 percent of 100 is 80 seconds
+
+137
+00:29:52,470 --> 00:29:58,450
+and then so that means we've got
+20 percent of 100 is 20 seconds
+
+138
+00:30:00,230 --> 00:30:04,570
+that's spent doing work
+going on that's purely
+
+139
+00:30:04,570 --> 00:30:07,630
+serial like it can't be done in parallel
+
+140
+00:30:07,630 --> 00:30:12,050
+and there's no overhead now in the
+reading assignment that's stuck
+
+141
+00:30:12,050 --> 00:30:12,830
+in the book like
+
+142
+00:30:12,830 --> 00:30:16,170
+they talk about overhead terms you know
+i'm saying unless you're
+
+143
+00:30:16,170 --> 00:30:16,770
+not worried about that
+
+144
+00:30:16,770 --> 00:30:18,410
+because we didn't really
+talk about overhead terms in
+
+145
+00:30:18,410 --> 00:30:20,490
+here so if we just threw that out we just
+
+146
+00:30:20,490 --> 00:30:23,990
+talked about well it's that
+after your question is how
+
+147
+00:30:23,990 --> 00:30:26,250
+much time would it take
+to run the job with
+
+148
+00:30:26,530 --> 00:30:30,390
+four processes or
+processes or something so
+
+149
+00:30:32,920 --> 00:30:40,560
+we're asking the question
+time on four devices
+
+150
+00:30:40,560 --> 00:30:50,680
+what do we got all
+right so let's let's uh let's
+
+151
+00:30:50,680 --> 00:30:54,200
+look at this 80 seconds
+to the part that can be
+
+152
+00:30:54,200 --> 00:30:56,880
+parallelized so you're going
+to be dividing that
+
+153
+00:30:56,880 --> 00:30:59,440
+by four because that's
+the 80 that we're talking
+
+154
+00:30:59,440 --> 00:31:06,140
+about right so that 80 seconds hopefully
+we're going to perfectly divide it up
+
+155
+00:31:06,140 --> 00:31:08,720
+among the four processes
+and instead of taking 80
+
+156
+00:31:08,720 --> 00:31:10,880
+seconds it's going to
+be four times faster for
+
+157
+00:31:10,880 --> 00:31:15,960
+that one thing and take
+only 20 seconds to do plus
+
+158
+00:31:15,960 --> 00:31:19,080
+this part of it here
+you still got to do it
+
+159
+00:31:19,080 --> 00:31:21,380
+anyway like it doesn't
+matter that you parallelize
+
+160
+00:31:21,380 --> 00:31:23,160
+the other stuff you
+can't parallelize that one
+
+161
+00:31:23,160 --> 00:31:28,680
+so that's 20 seconds left so we
+get 80 divided by four it's what
+
+162
+00:31:28,680 --> 00:31:41,600
+20 plus 20 it's 40 is that
+right ideally now if there was a
+
+163
+00:31:41,600 --> 00:31:45,760
+overhead would you expect that numbers
+to be larger or smaller than 40
+
+164
+00:31:45,760 --> 00:31:52,960
+exactly it's not going to be as good if
+there's overhead like we're
+
+165
+00:31:52,960 --> 00:31:53,980
+talking about it's not even
+
+166
+00:31:53,980 --> 00:31:57,320
+will be that good but
+like this is the work
+
+167
+00:31:57,320 --> 00:31:59,700
+that can be parallelized that
+means that you can break
+
+168
+00:31:59,700 --> 00:32:02,500
+it up into four chunks
+and instead of doing those
+
+169
+00:32:02,500 --> 00:32:05,880
+four chunks one at a
+time 20 seconds to 20 seconds
+
+170
+00:32:05,880 --> 00:32:08,600
+20 seconds and 20
+seconds they're all being done
+
+171
+00:32:08,600 --> 00:32:12,180
+at the same time 20
+seconds 20 seconds 20 seconds
+
+172
+00:32:12,180 --> 00:32:15,580
+and 20 seconds so
+time starts here 20 seconds
+
+173
+00:32:15,580 --> 00:32:19,560
+passes all of that work
+that took 80 seconds to
+
+174
+00:32:19,960 --> 00:32:22,100
+done it's happening at
+the same time so it's
+
+175
+00:32:22,100 --> 00:32:26,100
+t-axis and then after that
+somebody I don't know who
+
+176
+00:32:26,100 --> 00:32:27,580
+but somebody's going to
+have to do the other
+
+177
+00:32:27,580 --> 00:32:31,140
+work this 20 seconds and so for a total of
+
+178
+00:32:31,140 --> 00:32:36,060
+40 seconds of total amount of time because
+that's the idea instead
+
+179
+00:32:36,060 --> 00:32:36,820
+of doing the whole thing
+
+180
+00:32:36,820 --> 00:32:39,580
+one after another you're
+doing a fourth of the
+
+181
+00:32:39,580 --> 00:32:41,920
+work one guy's doing
+fourth of the work fourth
+
+182
+00:32:41,920 --> 00:32:46,740
+of the work fourth of the work and
+then those are all done at the same time
+
+183
+00:32:46,740 --> 00:32:52,320
+so that would be this thing here now
+what is the speed
+
+184
+00:32:52,320 --> 00:32:55,240
+up obtained by doing that
+
+185
+00:32:56,800 --> 00:33:01,640
+now the speed up on
+p processes is the time it
+
+186
+00:33:01,640 --> 00:33:04,680
+took on one divided by
+the time it took on p
+
+187
+00:33:04,680 --> 00:33:08,760
+processes in this case
+we're talking about what is
+
+188
+00:33:08,760 --> 00:33:10,780
+the speed up on four
+of them well that's the
+
+189
+00:33:10,780 --> 00:33:14,620
+time on one divided by
+the time on four so we
+
+190
+00:33:14,620 --> 00:33:18,460
+plug that time on four into
+here the time on one is
+
+191
+00:33:18,460 --> 00:33:26,460
+the things we started with so we did a
+hundred over 40 and then
+
+192
+00:33:26,460 --> 00:33:27,820
+you know whatever symbol you
+
+193
+00:33:27,820 --> 00:33:31,620
+simplified that down I'll
+accept that you know but
+
+194
+00:33:31,620 --> 00:33:42,200
+if you had simplified
+this thing down I would
+
+195
+00:33:42,200 --> 00:33:49,560
+have questions about that
+okay then what is
+
+196
+00:33:49,560 --> 00:33:52,600
+the efficiency of this
+so they talked about efficiency
+
+197
+00:33:52,600 --> 00:33:57,920
+in the book you know you remember the
+equation for efficiency in
+
+198
+00:33:57,920 --> 00:34:05,400
+general exactly the efficiency
+
+199
+00:34:05,580 --> 00:34:11,620
+on p processors is equal to the speed up
+on p processors divided by
+
+200
+00:34:11,620 --> 00:34:14,380
+p but now the speed
+
+201
+00:34:14,380 --> 00:34:22,560
+up on p processors is
+t one over tp divided by
+
+202
+00:34:22,560 --> 00:34:26,719
+p that's p over one
+so that's the same thing as
+
+203
+00:34:26,720 --> 00:34:34,180
+t one over tp times the reciprocal of
+the denominator which would be one over p
+
+204
+00:34:34,179 --> 00:34:42,159
+so that should be equal to t one all over
+p times tp right all
+
+205
+00:34:47,500 --> 00:34:48,840
+right now in this particular case
+
+206
+00:34:48,840 --> 00:34:57,100
+what is the speed up on four it's a
+hundred over 40 divided by
+
+207
+00:34:57,100 --> 00:34:58,660
+or excuse me that's that
+
+208
+00:34:58,660 --> 00:35:05,180
+and so then the efficiency on four is the
+speed up on four so a hundred over 40
+
+209
+00:35:06,300 --> 00:35:08,960
+all over a number of
+processes what would that be
+
+210
+00:35:08,960 --> 00:35:15,060
+for you know so just so that I could tell
+
+211
+00:35:15,060 --> 00:35:17,720
+this that whole thing about about that or
+you know whatever kind
+
+212
+00:35:17,720 --> 00:35:18,760
+of manipulation you might have
+
+213
+00:35:18,760 --> 00:35:20,860
+done or whatever that's
+kind of what you've
+
+214
+00:35:20,860 --> 00:35:25,800
+got does that make
+sense well that number b
+
+215
+00:35:25,800 --> 00:35:30,400
+greater than or less than one when
+we get out we get done with it
+
+216
+00:35:31,560 --> 00:35:35,240
+less than one because
+one means a hundred percent
+
+217
+00:35:37,200 --> 00:35:39,280
+you know is it ever
+going to be 100 efficient
+
+218
+00:35:39,280 --> 00:35:46,890
+no what about this one what is
+the minimum theoretical runtime
+
+219
+00:35:46,890 --> 00:35:47,990
+that could be obtained
+
+220
+00:35:47,990 --> 00:35:57,060
+if you had an infinite number of processes
+what's the amount of time that it takes
+
+221
+00:35:57,060 --> 00:36:04,500
+well the time on p processes equals to the
+time you spent doing
+
+222
+00:36:04,500 --> 00:36:06,320
+parallelizable work which was 80
+
+223
+00:36:06,560 --> 00:36:09,560
+seconds divided by you
+have infinite p processes
+
+224
+00:36:09,560 --> 00:36:12,220
+plus the part that
+you can't do anything about
+
+225
+00:36:12,220 --> 00:36:18,600
+20 for the 20 seconds but now we said what
+about now if p goes
+
+226
+00:36:18,600 --> 00:36:20,020
+to infinity of this thing
+
+227
+00:36:20,020 --> 00:36:25,300
+is as limited as this thing goes
+to infinity so this term becomes what
+
+228
+00:36:25,300 --> 00:36:33,740
+zero so this becomes what is it 20 seconds
+so the minimum amount of
+
+229
+00:36:33,740 --> 00:36:35,700
+time that you could possibly
+
+230
+00:36:35,700 --> 00:36:39,540
+do this is 20 seconds
+that would mean that all
+
+231
+00:36:39,540 --> 00:36:43,440
+of this got done so
+quickly because it was being done
+
+232
+00:36:43,440 --> 00:36:47,480
+you know little train amount
+on it on a boat
+
+233
+00:36:47,480 --> 00:36:49,600
+on the processes is it
+really the only thing that's
+
+234
+00:36:49,600 --> 00:36:54,080
+left is this to 20 seconds so what is
+the maximum speed up that
+
+235
+00:36:54,080 --> 00:36:55,360
+you could have ever gotten
+
+236
+00:36:55,360 --> 00:37:00,160
+speed up max right
+
+237
+00:37:00,160 --> 00:37:03,480
+just imagine the speed up
+well this will get a
+
+238
+00:37:03,480 --> 00:37:06,740
+minimum amount of time so
+that's the time on one
+
+239
+00:37:06,740 --> 00:37:11,780
+divided by the time
+on infinity all right well
+
+240
+00:37:11,780 --> 00:37:14,280
+time of infinity is 20
+seconds so this was originally
+
+241
+00:37:14,280 --> 00:37:20,160
+about 100 divided by 20 which is 5x so
+you're never going to make
+
+242
+00:37:20,160 --> 00:37:21,240
+this thing any faster than
+
+243
+00:37:21,240 --> 00:37:23,060
+five times faster even
+if you have an infinite
+
+244
+00:37:23,060 --> 00:37:29,180
+number of processes working on
+it as you get 5x
+
+245
+00:37:31,520 --> 00:37:34,500
+so for example if that set
+of 100 seconds was 100 years
+
+246
+00:37:34,500 --> 00:37:40,700
+well the most you'd ever be able to do is
+five times better which is
+
+247
+00:37:40,700 --> 00:37:42,840
+still going to be 20 years
+
+248
+00:37:42,840 --> 00:37:45,760
+right i mean so like
+you didn't have a trillion
+
+249
+00:37:45,760 --> 00:37:48,420
+cores you know i mean
+that's kind of a sad set
+
+250
+00:37:48,420 --> 00:37:54,840
+of affairs and i kind
+of like the same thing
+
+251
+00:37:54,840 --> 00:37:57,120
+she got going on with
+your grades say for example
+
+252
+00:37:57,860 --> 00:38:01,980
+you know it's like you say there was
+only two things with your grades there was
+
+253
+00:38:01,980 --> 00:38:04,520
+stuff that you did in
+class and stuff you did
+
+254
+00:38:04,520 --> 00:38:08,960
+out of class you know
+and you just you know make
+
+255
+00:38:08,960 --> 00:38:11,060
+amazingly and stuff that
+you do out of class
+
+256
+00:38:11,060 --> 00:38:12,840
+doesn't matter how much you
+do on that if you
+
+257
+00:38:12,840 --> 00:38:15,100
+can't do this and stuff in class there's
+a big weight associated
+
+258
+00:38:15,100 --> 00:38:15,920
+with it and that's what's
+
+259
+00:38:15,920 --> 00:38:19,080
+happening here this is
+a big weight but that's
+
+260
+00:38:19,080 --> 00:38:20,900
+also a big weight
+because you'll never be able
+
+261
+00:38:20,900 --> 00:38:24,320
+to do anything about that
+part so this is very big
+
+262
+00:38:24,320 --> 00:38:27,880
+at all even if this
+was say 99 and 1 percent
+
+263
+00:38:27,880 --> 00:38:30,720
+how much faster that
+can something theoretically be
+
+264
+00:38:30,720 --> 00:38:33,500
+that was divided up 99 and 1 percent
+
+265
+00:38:33,500 --> 00:38:37,720
+well let's just let's
+just write it down let's
+
+266
+00:38:40,120 --> 00:38:43,080
+say we had that same problem 99 and 1
+
+267
+00:38:43,360 --> 00:38:50,880
+all right cool so time on one is still
+100 seconds but 99
+
+268
+00:38:50,880 --> 00:38:53,420
+seconds of that instead doing
+
+269
+00:38:53,420 --> 00:38:55,400
+something that's parallelizable
+one second is
+
+270
+00:38:55,400 --> 00:38:57,620
+spent doing something
+that's not parallelizable
+
+271
+00:38:57,620 --> 00:39:01,720
+all right so the time on infinite
+number of processes would
+
+272
+00:39:01,720 --> 00:39:02,760
+make this go away
+
+273
+00:39:02,760 --> 00:39:05,100
+but you still have this
+so this would be one
+
+274
+00:39:05,100 --> 00:39:09,820
+second and the time on one is equal to 100
+
+275
+00:39:10,340 --> 00:39:13,640
+so the speed up on
+an infinite number of processes
+
+276
+00:39:13,640 --> 00:39:18,280
+would be 100 divided by
+one which is 100x it's
+
+277
+00:39:18,280 --> 00:39:25,000
+only a hundred times faster does that make
+sense that's not great
+
+278
+00:39:25,000 --> 00:39:26,360
+because you would hope right
+
+279
+00:39:26,360 --> 00:39:29,380
+if you had a
+million processors it would be
+
+280
+00:39:29,380 --> 00:39:32,000
+a million times faster
+but that ain't the case
+
+281
+00:39:32,180 --> 00:39:37,940
+not unless this is practically zero
+and unfortunately this is never zero
+
+282
+00:39:37,940 --> 00:39:40,640
+in fact it's a
+lot worse than that normally
+
+283
+00:39:40,640 --> 00:39:44,180
+plus the community the
+overhead they term they talked
+
+284
+00:39:44,180 --> 00:39:47,820
+about that keeps this from going away that
+overhead makes instead of
+
+285
+00:39:47,820 --> 00:39:48,720
+this thing going away
+
+286
+00:39:48,720 --> 00:39:54,140
+to zero it'll it'll start going down to
+some minimum amount and
+
+287
+00:39:54,140 --> 00:39:55,220
+then it'll start going up
+
+288
+00:39:55,220 --> 00:39:58,920
+and when that happens the speed up just
+goes to garbage after
+
+289
+00:39:58,920 --> 00:40:00,780
+that that's that's what happens
+
+290
+00:40:00,860 --> 00:40:02,720
+any questions about this
+
+291
+00:40:02,720 --> 00:40:09,040
+all right cool so
+i'll get those graded and
+
+292
+00:40:09,040 --> 00:40:11,300
+we'll be back to you guys by next time
+
+293
+00:40:11,300 --> 00:40:19,860
+how many people were able to run
+a hello world program on the machine
+
+294
+00:40:19,860 --> 00:40:27,100
+and what challenge is it any did
+you experience loading modules
+
+295
+00:40:27,100 --> 00:40:30,220
+loading modules because by
+
+296
+00:40:31,240 --> 00:40:34,920
+default are the MPI compilers
+in your path when you
+
+297
+00:40:34,920 --> 00:40:51,740
+first start no okay so
+let's go look at a real
+
+298
+00:40:51,740 --> 00:41:08,000
+problem to try to solve here chapter three
+was the MPI chapter go over here slideshow
+
+299
+00:41:08,000 --> 00:41:17,450
+world we did all this sort of stuff
+
+300
+00:41:17,450 --> 00:41:20,930
+let's talk about a
+couple of things here just
+
+301
+00:41:20,930 --> 00:41:23,030
+as we as we go we got through this
+
+302
+00:41:24,430 --> 00:41:27,630
+let me turn this slide off so you can
+contrast this a little
+
+303
+00:41:27,630 --> 00:41:29,870
+bit not quite as bad
+
+304
+00:41:29,870 --> 00:41:38,590
+as you probably saw there are a lot of
+different MPI C compilers that
+
+305
+00:41:38,590 --> 00:41:39,430
+want to use it there's
+
+306
+00:41:39,430 --> 00:41:43,030
+some by open MP there are some that are
+by Ohio State University
+
+307
+00:41:43,030 --> 00:41:44,470
+like all in back pitch
+
+308
+00:41:44,470 --> 00:41:48,150
+there's some by the
+original standard called in
+
+309
+00:41:48,150 --> 00:41:49,830
+pitch there's a bunch
+of different flavors of
+
+310
+00:41:49,830 --> 00:41:53,210
+these things but if they're compliant with
+the standard that's the
+
+311
+00:41:53,210 --> 00:41:56,090
+part that you're you're
+
+312
+00:41:56,190 --> 00:41:59,970
+send it'll work like the MPI send that
+you would expect logically
+
+313
+00:41:59,970 --> 00:42:02,030
+from any of these implementations
+
+314
+00:42:02,030 --> 00:42:06,350
+right the no words it'll match the API
+now behind that API
+
+315
+00:42:06,350 --> 00:42:07,750
+how it actually works underneath
+
+316
+00:42:07,750 --> 00:42:10,170
+right the implementation of it
+now that might be way different
+
+317
+00:42:10,170 --> 00:42:15,790
+if you're going to try
+to debug a C program
+
+318
+00:42:15,790 --> 00:42:18,490
+and you're going to have
+it where you know you need
+
+319
+00:42:18,490 --> 00:42:21,030
+to be able to look at stuff and look at
+stack traces of stuff and
+
+320
+00:42:21,030 --> 00:42:23,530
+actually use like a debugger
+
+321
+00:42:23,530 --> 00:42:26,370
+on it or use some
+tools like valgrind on it or
+
+322
+00:42:26,370 --> 00:42:28,110
+any of those kind of
+things you want to dash g
+
+323
+00:42:28,110 --> 00:42:30,170
+to be turned on
+so the debugging information will
+
+324
+00:42:30,170 --> 00:42:32,330
+be inside the binary so
+that when you run it
+
+325
+00:42:32,330 --> 00:42:34,450
+it'll come out and
+be like this line number
+
+326
+00:42:34,450 --> 00:42:37,450
+or this line drop
+number versus some memory address
+
+327
+00:42:37,450 --> 00:42:41,310
+because it's like memory
+address 0x af cf 4df
+
+328
+00:42:41,310 --> 00:42:43,090
+you're like what the hell
+does that even mean like
+
+329
+00:42:43,090 --> 00:42:47,390
+i don't know where that was at so you want
+one debugging turned on so
+
+330
+00:42:47,390 --> 00:42:48,290
+it turns on all warnings
+
+331
+00:42:48,290 --> 00:42:50,290
+that's not really true
+there are some warnings
+
+332
+00:42:50,290 --> 00:42:52,610
+that this doesn't turn
+on but in general this
+
+333
+00:42:52,610 --> 00:42:55,070
+this is a good idea i always have your
+warnings on because here's
+
+334
+00:42:55,070 --> 00:42:56,830
+the thing those warnings are
+
+335
+00:42:56,830 --> 00:43:00,730
+about things that say
+hey at compile time the
+
+336
+00:43:00,730 --> 00:43:02,450
+compiler's like are you
+sure this is really what
+
+337
+00:43:02,450 --> 00:43:05,270
+you mean is that really what you want to
+do because remember C unless
+
+338
+00:43:05,270 --> 00:43:06,070
+you do all kinds of
+
+339
+00:43:06,070 --> 00:43:07,990
+stuff that might not be
+what you really want to
+
+340
+00:43:07,990 --> 00:43:11,770
+do so i i try
+to never compile anything and see
+
+341
+00:43:11,770 --> 00:43:13,370
+without the warnings turned
+on because otherwise i won't
+
+342
+00:43:13,370 --> 00:43:15,450
+know what's going on and then the name of
+
+343
+00:43:15,450 --> 00:43:20,690
+your all your pieces here um so we run
+our processes we played
+
+344
+00:43:20,690 --> 00:43:21,950
+around with this last time
+
+345
+00:43:21,950 --> 00:43:24,490
+you know you include your
+header file at the top
+
+346
+00:43:24,490 --> 00:43:28,290
+we talked about how the
+very first MPI call that
+
+347
+00:43:28,290 --> 00:43:33,630
+you do in your in your program needs to
+be MPI init that
+
+348
+00:43:33,630 --> 00:43:35,310
+initializes the environment but notice
+
+349
+00:43:35,310 --> 00:43:40,510
+the two arguments to get passed to MPI
+init an integer pointer
+
+350
+00:43:40,510 --> 00:43:42,750
+which is the argument count
+
+351
+00:43:42,750 --> 00:43:45,310
+pointer you know how like
+when you when you run
+
+352
+00:43:45,310 --> 00:43:47,830
+a C program from the
+command line you can actually
+
+353
+00:43:47,950 --> 00:43:50,050
+pass parameters to the
+C program from the command
+
+354
+00:43:50,050 --> 00:43:53,110
+line right if you pass
+say like three of them
+
+355
+00:43:53,110 --> 00:43:56,590
+then what we're saying is you need to
+pass the address to
+
+356
+00:43:56,590 --> 00:43:58,290
+that integer into this thing
+
+357
+00:43:58,290 --> 00:44:01,130
+if for example there's
+another piece of stuff that
+
+358
+00:44:01,130 --> 00:44:02,630
+it's going to do
+to manipulate some of these
+
+359
+00:44:02,630 --> 00:44:06,730
+things what about if that parameter at
+the command line
+
+360
+00:44:06,730 --> 00:44:08,210
+means something that specific
+
+361
+00:44:08,210 --> 00:44:11,250
+that you wanted the I to do or these
+sorts of things and
+
+362
+00:44:11,250 --> 00:44:13,050
+then finally remember there's an
+
+363
+00:44:13,050 --> 00:44:15,550
+argument vector in C the
+two the two things to
+
+364
+00:44:15,550 --> 00:44:19,370
+name right the count as
+well as the array of
+
+365
+00:44:19,370 --> 00:44:21,590
+character arrays you know
+so in other words an
+
+366
+00:44:21,590 --> 00:44:25,030
+array of strings that come
+in and the reason it's
+
+367
+00:44:25,030 --> 00:44:27,530
+got three stars here
+is because it's the address
+
+368
+00:44:27,530 --> 00:44:30,350
+of the char star
+star that normally comes in
+
+369
+00:44:30,350 --> 00:44:34,490
+that way the MPI
+environment can actually edit
+
+370
+00:44:34,490 --> 00:44:37,990
+these two things by
+reference instead of indicating
+
+371
+00:44:37,990 --> 00:44:40,570
+a copy of the address it gets the
+address of an address
+
+372
+00:44:40,570 --> 00:44:42,030
+and can manipulate it directly
+
+373
+00:44:42,030 --> 00:44:44,490
+go override it it
+can change things and things
+
+374
+00:44:44,490 --> 00:44:47,770
+like that and then the
+very last MPI call that
+
+375
+00:44:47,770 --> 00:44:50,170
+you need to do can't
+do any MPI after that is
+
+376
+00:44:50,170 --> 00:44:52,990
+you need to do MPI
+finalize now can there be some
+
+377
+00:44:52,990 --> 00:44:56,010
+stuff in your C program prior to this yes
+but it shouldn't involve
+
+378
+00:44:56,010 --> 00:44:59,510
+you shouldn't involve MPI okay
+
+379
+00:44:59,510 --> 00:45:04,970
+you know so notice how that's what they do
+in your main program
+
+380
+00:45:04,970 --> 00:45:07,010
+you got the argument account
+
+381
+00:45:07,910 --> 00:45:12,830
+and the array of argument vector of
+argument strings they're passing
+
+382
+00:45:12,830 --> 00:45:13,990
+the address of it
+
+383
+00:45:13,990 --> 00:45:19,570
+so in this case this first argument here
+is an integer star
+
+384
+00:45:19,570 --> 00:45:20,950
+so integer pointer because the
+
+385
+00:45:20,950 --> 00:45:22,830
+original thing was an
+integer so if you take
+
+386
+00:45:22,830 --> 00:45:24,690
+a pointer of it the
+address of it because an
+
+387
+00:45:24,690 --> 00:45:27,570
+n star this one was
+originally an n star star
+
+388
+00:45:27,570 --> 00:45:29,690
+this star plus the fact
+that it's an array is
+
+389
+00:45:29,690 --> 00:45:32,130
+n star star so when
+you take the address of
+
+390
+00:45:32,130 --> 00:45:34,770
+it it becomes a char
+star star star which is what
+
+391
+00:45:34,930 --> 00:45:37,230
+this thing's about i'm just trying to make
+sure we're all seeing
+
+392
+00:45:37,230 --> 00:45:38,630
+that the prototypes match like
+
+393
+00:45:38,630 --> 00:45:40,850
+the types actually match
+the stuff that's going
+
+394
+00:45:40,850 --> 00:45:43,270
+into and out of
+these functions because that's
+
+395
+00:45:43,270 --> 00:45:46,270
+going to be a thing that's going to hit
+us repeatedly with these
+
+396
+00:45:46,270 --> 00:45:47,710
+MPI calls is that they're
+
+397
+00:45:47,710 --> 00:45:51,130
+all buffer based which
+means they're all array
+
+398
+00:45:51,130 --> 00:45:54,290
+based and since everything
+in C that's an array
+
+399
+00:45:54,290 --> 00:45:58,790
+is a pointer then you've got pointers
+with pointers or possibly
+
+400
+00:45:58,790 --> 00:46:00,250
+other pointers and all
+
+401
+00:46:00,250 --> 00:46:05,990
+this kind of stuff going on for right now
+the only communicator we
+
+402
+00:46:05,990 --> 00:46:06,810
+worry about is the impact
+
+403
+00:46:06,810 --> 00:46:09,530
+common world and remember
+the processes like if
+
+404
+00:46:09,530 --> 00:46:11,750
+you start with 10
+processes they'll be numbered
+
+405
+00:46:11,750 --> 00:46:14,630
+not zero through nine
+and they're all members of
+
+406
+00:46:14,630 --> 00:46:17,170
+this this group if
+you will this this communicator
+
+407
+00:46:17,170 --> 00:46:20,450
+later on if and when we even get
+to it we might
+
+408
+00:46:20,450 --> 00:46:21,870
+do something with other communicators
+
+409
+00:46:21,870 --> 00:46:25,930
+so how do you
+determine how many processes were
+
+410
+00:46:25,930 --> 00:46:27,710
+started now you might go
+like well now wait a
+
+411
+00:46:27,710 --> 00:46:29,830
+minute i can figure that
+out right i can figure
+
+412
+00:46:29,830 --> 00:46:33,110
+it out because my program
+i could i could pass it
+
+413
+00:46:33,110 --> 00:46:36,110
+the number of uh command
+line i could say let
+
+414
+00:46:36,110 --> 00:46:39,070
+me pass to my C
+program the number of processes
+
+415
+00:46:39,070 --> 00:46:41,930
+i want to start with and i could read it
+out of there and i
+
+416
+00:46:41,930 --> 00:46:44,750
+could convert that ASCII text into
+
+417
+00:46:44,750 --> 00:46:50,750
+integer using A to I and then i could do
+that that's true but you
+
+418
+00:46:50,750 --> 00:46:52,290
+don't need to do that because
+
+419
+00:46:52,330 --> 00:46:58,050
+this thing right here is doing that for
+you because at the command line you type
+
+420
+00:46:58,050 --> 00:47:08,350
+MPI run dash MP you know say 10 space
+dot slash your program now
+
+421
+00:47:08,350 --> 00:47:09,750
+if you pass additional parameters
+
+422
+00:47:09,750 --> 00:47:13,630
+over here you don't need to pass it
+the number of processes
+
+423
+00:47:13,630 --> 00:47:15,750
+that you're launching because
+
+424
+00:47:15,750 --> 00:47:20,610
+the in this this is actually not even a
+binary this is a
+
+425
+00:47:20,610 --> 00:47:22,190
+script that does some stuff
+
+426
+00:47:22,190 --> 00:47:28,170
+in the background and it's grabbing this
+10 and starting 10 copies of this program
+
+427
+00:47:28,170 --> 00:47:30,890
+with 10 copies of
+what these parameters are
+
+428
+00:47:30,890 --> 00:47:32,830
+and that has already been passed over here
+
+429
+00:47:32,830 --> 00:47:34,890
+you don't want to pass
+it over there because then if
+
+430
+00:47:34,890 --> 00:47:37,650
+you do that what about
+if you don't have a match
+
+431
+00:47:37,650 --> 00:47:42,890
+like one of you said 10 does such as nine
+that's 10 to say you don't need to do that
+
+432
+00:47:42,890 --> 00:47:46,670
+so how would you see program actually know
+how many processes it
+
+433
+00:47:46,670 --> 00:47:47,510
+has been started with
+
+434
+00:47:48,030 --> 00:47:50,470
+you might think hey i
+would i would use this to
+
+435
+00:47:50,470 --> 00:47:54,610
+pass it up and i
+put like 10 right here but
+
+436
+00:47:54,610 --> 00:47:59,070
+you don't need to
+do that because after you're
+
+437
+00:47:59,070 --> 00:48:02,870
+doing MPI init you
+can call this function MPI
+
+438
+00:48:02,870 --> 00:48:07,130
+com size to find out what MP was when it
+was started does that make
+
+439
+00:48:07,130 --> 00:48:09,990
+sense now you it's like
+
+440
+00:48:09,990 --> 00:48:17,110
+the size of what well the size of the
+communicator what communicator MPI com
+
+441
+00:48:17,110 --> 00:48:19,450
+world now you might say
+
+442
+00:48:19,450 --> 00:48:23,330
+well now all right now looking at a c c
+thing it's got two it's
+
+443
+00:48:23,330 --> 00:48:24,730
+got two parameters going into it
+
+444
+00:48:24,730 --> 00:48:30,510
+the communicator and an int star and it's
+returning an int well if i'm trying to get
+
+445
+00:48:30,510 --> 00:48:32,650
+the size of a
+communicator why doesn't it just
+
+446
+00:48:32,650 --> 00:48:36,570
+return that as an
+int well because that's not
+
+447
+00:48:36,570 --> 00:48:39,830
+how return values are
+often used in c return
+
+448
+00:48:39,830 --> 00:48:42,970
+values are often used
+in c to indicate what
+
+449
+00:48:42,970 --> 00:48:46,530
+the error code is so that means if you
+want to actually return
+
+450
+00:48:46,530 --> 00:48:47,950
+something from a c function
+
+451
+00:48:47,950 --> 00:48:52,430
+that doesn't come out
+by a return statement
+
+452
+00:48:52,430 --> 00:48:55,050
+and none of these
+MPI things return things through
+
+453
+00:48:55,050 --> 00:48:57,390
+the return value that's
+the thing you're looking for
+
+454
+00:48:57,390 --> 00:48:59,510
+like in this case that
+won't be the size of
+
+455
+00:48:59,510 --> 00:49:01,450
+the communicator that's not
+what's being returned it's some
+
+456
+00:49:01,450 --> 00:49:04,870
+kind of error code zero or non zero or
+
+457
+00:49:04,870 --> 00:49:07,110
+whatever else how do you
+do that well you pass
+
+458
+00:49:07,110 --> 00:49:10,590
+it by reference pass it
+by pointer so you pass a
+
+459
+00:49:10,590 --> 00:49:13,490
+pointer to a variable
+that's handmade the calling
+
+460
+00:49:13,490 --> 00:49:16,190
+function stack and pass
+the address of it just
+
+461
+00:49:16,190 --> 00:49:18,430
+like in 210 right pass
+the address of a variable
+
+462
+00:49:18,430 --> 00:49:20,830
+that's on the stack and
+that address can be used
+
+463
+00:49:20,830 --> 00:49:23,170
+and directly written in
+here and overwritten by this
+
+464
+00:49:23,170 --> 00:49:25,510
+function and you can do that right so like
+
+465
+00:49:25,510 --> 00:49:27,670
+that's what's happening let's
+go look at a little
+
+466
+00:49:27,670 --> 00:49:35,500
+example here of the
+hello world program they have
+
+467
+00:49:39,760 --> 00:49:45,540
+notice how in this this thing they do an
+MPI knit they don't pass
+
+468
+00:49:45,540 --> 00:49:46,680
+anything for the command line
+
+469
+00:49:46,680 --> 00:49:48,080
+because apparently there's
+nothing kind of an
+
+470
+00:49:48,080 --> 00:49:49,920
+entry command line
+because everything's like hard
+
+471
+00:49:49,920 --> 00:49:54,680
+coded up here in the program all right and
+it's like when your program
+
+472
+00:49:54,680 --> 00:49:56,100
+starts it doesn't know how
+
+473
+00:49:56,100 --> 00:49:58,840
+many processes it's working with
+so it has to ask
+
+474
+00:49:58,840 --> 00:50:01,080
+the question what is the
+size of the group i'm in
+
+475
+00:50:01,080 --> 00:50:04,100
+what group am i
+in everybody's in the common
+
+476
+00:50:04,100 --> 00:50:07,820
+world so if you have an integer notice how
+
+477
+00:50:07,820 --> 00:50:11,040
+integer hasn't even initialized
+here this this rank
+
+478
+00:50:11,040 --> 00:50:14,000
+but it doesn't have to be because it's not
+
+479
+00:50:14,000 --> 00:50:16,820
+going to be read from before it's written
+to you remember you
+
+480
+00:50:16,820 --> 00:50:18,120
+don't have to initialize variables
+
+481
+00:50:18,120 --> 00:50:21,260
+that are written to
+before they're read from
+
+482
+00:50:21,260 --> 00:50:22,720
+because if you don't
+read from them you don't
+
+483
+00:50:22,720 --> 00:50:24,260
+need to doesn't matter
+even just garbage it
+
+484
+00:50:24,260 --> 00:50:25,820
+doesn't matter what strategy
+is that's not great
+
+485
+00:50:25,820 --> 00:50:29,120
+programming practice but it
+doesn't matter so you pass
+
+486
+00:50:29,120 --> 00:50:32,840
+the address of my rank to it and so after
+
+487
+00:50:32,840 --> 00:50:35,300
+you call this if if
+if it hadn't started with
+
+488
+00:50:35,300 --> 00:50:40,700
+say dash np 10 then
+the value of my rank and
+
+489
+00:50:40,700 --> 00:50:43,960
+my concise will be with
+respect to those things so the
+
+490
+00:50:43,960 --> 00:50:47,400
+the concise would be 10
+at my rank if i happen
+
+491
+00:50:47,400 --> 00:50:49,780
+to be number three then
+it'll be number three out
+
+492
+00:50:49,780 --> 00:50:53,200
+of that 10 does that
+make sense so anytime you
+
+493
+00:50:53,200 --> 00:50:55,980
+need to modify something
+then you have to pass
+
+494
+00:50:55,980 --> 00:50:58,160
+the address of the
+things you're trying to modify
+
+495
+00:50:58,700 --> 00:51:00,120
+but that makes sense
+
+496
+00:51:00,120 --> 00:51:04,560
+that's why that's happening that
+way so let's go back
+
+497
+00:51:04,560 --> 00:51:12,080
+there's that rank so you pass it an
+integer variable that represents
+
+498
+00:51:12,080 --> 00:51:13,300
+that process is right
+
+499
+00:51:13,300 --> 00:51:15,860
+because if you start
+taking in processes that's
+
+500
+00:51:15,860 --> 00:51:17,720
+where like in this case four of them
+
+501
+00:51:17,720 --> 00:51:20,380
+that means that there
+are four main programs running
+
+502
+00:51:20,380 --> 00:51:23,960
+and so there'll be my rank here my rank
+
+503
+00:51:23,960 --> 00:51:27,120
+there my rank there's four copies of my
+rank in four different
+
+504
+00:51:27,120 --> 00:51:29,640
+processes those processes might be
+
+505
+00:51:29,640 --> 00:51:32,000
+on the same computer they might be on
+different computers in distributed
+
+506
+00:51:32,000 --> 00:51:34,620
+sense and so on every
+
+507
+00:51:34,620 --> 00:51:36,560
+one when everyone starts
+they're going to have
+
+508
+00:51:36,560 --> 00:51:38,600
+a different rank hopefully
+right they're going to
+
+509
+00:51:38,600 --> 00:51:40,700
+have the rank correspond
+to them like if it
+
+510
+00:51:40,700 --> 00:51:43,800
+was the size of the
+communicator was 10 then the
+
+511
+00:51:43,800 --> 00:51:46,600
+ranks would be zero to nine right
+something like that so
+
+512
+00:51:46,600 --> 00:51:47,560
+that's what's happening there
+
+513
+00:51:47,560 --> 00:51:50,520
+you just have to remember that when
+you're thinking about this
+
+514
+00:51:50,520 --> 00:51:51,560
+even though your program
+
+515
+00:51:51,560 --> 00:51:53,420
+might you're looking at
+the lines of code and
+
+516
+00:51:53,420 --> 00:51:59,620
+you look at the code
+and you see there's one
+
+517
+00:51:59,620 --> 00:52:03,660
+you said up here there's just one in each
+program that's running but there
+
+518
+00:52:03,660 --> 00:52:04,720
+are copies of every one
+
+519
+00:52:04,720 --> 00:52:06,460
+of those programs running
+does that make sense
+
+520
+00:52:06,460 --> 00:52:08,220
+you have to start
+thinking about the fact that
+
+521
+00:52:08,220 --> 00:52:17,700
+it's running in parallel at the same
+time so influence taxonomy
+
+522
+00:52:17,700 --> 00:52:18,740
+instead of this and
+
+523
+00:52:18,740 --> 00:52:21,920
+you know single instruction
+it's like single program
+
+524
+00:52:21,920 --> 00:52:27,000
+multiple data so let's say that spin d
+
+525
+00:52:27,940 --> 00:52:30,700
+okay we're only compiling
+one program how do
+
+526
+00:52:30,700 --> 00:52:33,200
+we make those different
+programs do things that are
+
+527
+00:52:33,200 --> 00:52:37,520
+different which is the same exact code how
+would they ever execute
+
+528
+00:52:37,520 --> 00:52:38,600
+anything differently they have
+
+529
+00:52:38,600 --> 00:52:42,100
+to do it based on what the rank is but you
+could literally write a program
+
+530
+00:52:42,100 --> 00:52:43,820
+like if my rank is this
+
+531
+00:52:43,820 --> 00:52:46,560
+i'll do this else if
+my rank is this i'll do
+
+532
+00:52:46,560 --> 00:52:49,180
+that else if it's my
+rank is this do this now
+
+533
+00:52:49,180 --> 00:52:52,480
+that that's going to
+get cumbersome because if you
+
+534
+00:52:52,480 --> 00:52:53,880
+don't know how many
+ranks you're going to run
+
+535
+00:52:54,340 --> 00:52:58,840
+you can't have a
+if an else statement that's
+
+536
+00:52:58,840 --> 00:53:03,340
+like 150,000 blocks long
+right so you have to
+
+537
+00:53:03,340 --> 00:53:06,600
+kind of figure out like how am i divide
+the work maybe on the
+
+538
+00:53:06,600 --> 00:53:07,580
+work divide the work equally
+
+539
+00:53:07,580 --> 00:53:09,880
+maybe there's going to
+be one person in charge
+
+540
+00:53:09,880 --> 00:53:12,620
+one process and that's
+maybe that range zero maybe
+
+541
+00:53:12,620 --> 00:53:15,360
+and everyone else is
+doing everything else does that
+
+542
+00:53:15,360 --> 00:53:16,560
+make sense like you have
+to figure out how to
+
+543
+00:53:16,560 --> 00:53:19,060
+divide the work of and
+how would you know that
+
+544
+00:53:19,060 --> 00:53:21,140
+you would have to know
+how what data you're working
+
+545
+00:53:21,420 --> 00:53:26,700
+how big that data is how many of you are
+there and which piece of
+
+546
+00:53:26,700 --> 00:53:28,180
+work is it that you're doing
+
+547
+00:53:28,180 --> 00:53:35,180
+based on your rank out of all the ranks
+that's what's happening so we
+
+548
+00:53:35,180 --> 00:53:36,340
+talked about how to send
+
+549
+00:53:36,340 --> 00:53:39,500
+something to other data
+so there's the parameters
+
+550
+00:53:39,500 --> 00:53:43,460
+to it and remember
+when you're talking about
+
+551
+00:53:43,820 --> 00:53:51,020
+the size of the message that's not the the
+total length in bytes
+
+552
+00:53:51,020 --> 00:53:53,280
+it's the length in items
+
+553
+00:53:53,280 --> 00:53:56,640
+so for example if
+the data type you're dealing
+
+554
+00:53:56,640 --> 00:53:58,860
+with are flows and each
+one of those flows is
+
+555
+00:53:58,860 --> 00:54:04,160
+say 16 or 32 bits or whatever it is then
+the total number of bytes
+
+556
+00:54:04,160 --> 00:54:05,400
+would be equal to that
+
+557
+00:54:05,400 --> 00:54:08,220
+number multiplied by the
+size of that data type
+
+558
+00:54:08,220 --> 00:54:10,820
+so you know how to
+be umalic something and see
+
+559
+00:54:11,440 --> 00:54:14,060
+umalic things based on
+the total number of bytes
+
+560
+00:54:14,060 --> 00:54:16,260
+that there are but
+over here you're not saying
+
+561
+00:54:16,260 --> 00:54:18,100
+the total number of
+bytes you're saying the number
+
+562
+00:54:18,100 --> 00:54:20,440
+of elements in this
+thing multiplied by the size
+
+563
+00:54:20,440 --> 00:54:22,820
+of each element that's
+actually the total amount of
+
+564
+00:54:22,820 --> 00:54:26,000
+data that's getting ready
+to be sent which means
+
+565
+00:54:26,000 --> 00:54:30,220
+then of course that
+that buffer it better damn
+
+566
+00:54:30,220 --> 00:54:32,580
+will be at least that
+long because if it's not
+
+567
+00:54:32,580 --> 00:54:34,240
+what are you going to
+get what do you think
+
+568
+00:54:34,240 --> 00:54:40,800
+would happen if say your
+array had three elements in it
+
+569
+00:54:42,480 --> 00:54:45,520
+and that was going to
+be called my buffer so
+
+570
+00:54:47,660 --> 00:54:50,520
+the buffer points to this
+thing and I say hey
+
+571
+00:54:50,520 --> 00:54:54,800
+I'm going to send
+three elements and the data
+
+572
+00:54:54,800 --> 00:54:58,420
+type is int let's
+say that this buffer really
+
+573
+00:54:58,420 --> 00:55:00,560
+was an int array like
+it was over here I was
+
+574
+00:55:00,560 --> 00:55:10,110
+like you know int buffer
+four so you pass it buffer
+
+575
+00:55:10,110 --> 00:55:14,330
+which is a pointer to the thing that
+we're dealing with they're
+
+576
+00:55:14,330 --> 00:55:15,470
+going to send three things
+
+577
+00:55:15,470 --> 00:55:17,710
+and each one of
+size managers typically four
+
+578
+00:55:17,710 --> 00:55:21,050
+bytes all right so
+this whole thing would be
+
+579
+00:55:21,050 --> 00:55:27,110
+four times four is equal
+to 16 bytes uh you're
+
+580
+00:55:27,110 --> 00:55:28,870
+gonna send three of them
+okay cool so it would
+
+581
+00:55:28,870 --> 00:55:32,110
+use this it would send
+those three who would send
+
+582
+00:55:32,110 --> 00:55:33,790
+the last one you know
+what about if you said I
+
+583
+00:55:33,790 --> 00:55:37,330
+want to send two of them I'll send this so
+what about if you accidentally
+
+584
+00:55:37,330 --> 00:55:38,390
+said five well it's in
+
+585
+00:55:40,070 --> 00:55:42,990
+five it's not going to
+check because remember the length
+
+586
+00:55:42,990 --> 00:55:45,610
+of an array in c you have to keep track
+
+587
+00:55:45,610 --> 00:55:49,770
+of there's you can't say like a buffer
+size I thought there
+
+588
+00:55:49,770 --> 00:55:51,810
+were there's a runtime checking
+
+589
+00:55:51,810 --> 00:55:53,870
+like there might be in
+python or c or something
+
+590
+00:55:53,870 --> 00:55:56,410
+where you can see if
+there is it's too short
+
+591
+00:55:56,410 --> 00:55:59,990
+so if you accidentally
+put five here it will
+
+592
+00:55:59,990 --> 00:56:03,230
+send these first four
+and then it will overflow
+
+593
+00:56:03,230 --> 00:56:06,970
+this array bounds and
+go into the next four
+
+594
+00:56:06,970 --> 00:56:08,890
+bytes of memory and
+god knows what's in that
+
+595
+00:56:08,890 --> 00:56:11,610
+location in fact that might not even be in
+your memory space if it's
+
+596
+00:56:11,610 --> 00:56:12,890
+not you'll get a segmentation
+
+597
+00:56:12,890 --> 00:56:17,190
+fault however if you're
+unlucky it won't blow
+
+598
+00:56:17,190 --> 00:56:19,410
+up because you might
+say well wouldn't that be
+
+599
+00:56:19,410 --> 00:56:23,070
+unlucky no well that
+was good because then you
+
+600
+00:56:23,070 --> 00:56:25,390
+know there's a problem there's
+a but if it just
+
+601
+00:56:25,390 --> 00:56:27,070
+doesn't blow up there's
+still a problem and you
+
+602
+00:56:27,070 --> 00:56:30,410
+don't notice it so
+let's suppose that this was
+
+603
+00:56:30,410 --> 00:56:35,390
+a number like four five six seven and this
+represented a color like
+
+604
+00:56:35,390 --> 00:56:37,130
+red all right so we
+
+605
+00:56:37,130 --> 00:56:43,110
+got some f and whatever else in here so it
+goes and sends it now
+
+606
+00:56:43,110 --> 00:56:44,410
+somebody's got to receive it
+
+607
+00:56:44,410 --> 00:56:49,250
+all right so we're
+probably receiving it now
+
+608
+00:56:49,250 --> 00:56:51,410
+they've also been told
+to receive five things
+
+609
+00:56:51,410 --> 00:56:55,690
+okay they maybe have
+their buffer that they're
+
+610
+00:56:55,690 --> 00:56:57,530
+receiving into it because
+it's the same piece of
+
+611
+00:56:57,530 --> 00:56:59,690
+code remember it's the
+same piece of code their
+
+612
+00:56:59,690 --> 00:57:01,330
+buffer might be the same
+length if you if you
+
+613
+00:57:01,330 --> 00:57:04,430
+may if everybody has a buffer of only four
+then the guy who's receiving
+
+614
+00:57:04,430 --> 00:57:06,610
+will also be four right
+
+615
+00:57:06,610 --> 00:57:10,270
+and you set five so it'll start following
+this start receiving start
+
+616
+00:57:10,270 --> 00:57:11,250
+copying it in here
+
+617
+00:57:11,250 --> 00:57:16,450
+and then that last ff right there
+is going to get overridden into this array
+
+618
+00:57:16,450 --> 00:57:20,490
+and this is going to overwrite whatever
+the hell is adjacent to that in memory
+
+619
+00:57:22,470 --> 00:57:25,290
+again if it's not
+in your memory space it'll
+
+620
+00:57:25,290 --> 00:57:28,250
+it'll blow up but what
+about if this is actually
+
+621
+00:57:28,250 --> 00:57:31,210
+over here this is
+some other variable like your
+
+622
+00:57:31,210 --> 00:57:33,890
+user id but that we
+just overwrote your user id
+
+623
+00:57:33,890 --> 00:57:37,230
+with some binary jacked
+up version of whatever
+
+624
+00:57:37,230 --> 00:57:39,470
+color is being represented
+over here right so you
+
+625
+00:57:39,470 --> 00:57:41,650
+have what i'm trying to
+say is all the problems
+
+626
+00:57:41,650 --> 00:57:44,350
+that you have with c
+you can still have them all
+
+627
+00:57:44,350 --> 00:57:47,990
+here except for it's worse because you got
+mp copies of it
+
+628
+00:57:47,990 --> 00:57:49,950
+running and you're constantly sending
+
+629
+00:57:49,950 --> 00:57:53,630
+things of variable sizes all
+around well the only way
+
+630
+00:57:53,630 --> 00:57:55,750
+you can have variable size
+things in c is to
+
+631
+00:57:55,750 --> 00:57:58,170
+have them dynamically created
+with now that can free
+
+632
+00:57:58,170 --> 00:58:00,290
+and so forth which
+means that all that memory
+
+633
+00:58:00,290 --> 00:58:03,270
+management nightmare you had
+before you've got that
+
+634
+00:58:03,270 --> 00:58:05,510
+now but it's just
+to the nth degree because
+
+635
+00:58:05,510 --> 00:58:09,490
+there's all these processes
+running the other problem
+
+636
+00:58:09,490 --> 00:58:11,090
+is that when something blows up you can't
+
+637
+00:58:11,090 --> 00:58:13,930
+tell us sincerely which
+processes that was which one
+
+638
+00:58:13,930 --> 00:58:16,150
+just blew up that's
+why we probably want to
+
+639
+00:58:16,550 --> 00:58:18,510
+use lots of print statements
+for us to try to
+
+640
+00:58:18,510 --> 00:58:20,550
+see what's going on throughout
+our code if we start
+
+641
+00:58:20,550 --> 00:58:24,510
+having some issues using that as a bug and
+there are some tools also that we can use
+
+642
+00:58:24,510 --> 00:58:28,790
+i'm just kind of
+pointing that out so there's
+
+643
+00:58:28,790 --> 00:58:32,630
+receive blah blah blah
+how much data i'm actually
+
+644
+00:58:32,630 --> 00:58:36,330
+receiving now like we said you know it's
+the amount of data
+
+645
+00:58:36,330 --> 00:58:37,350
+you're receiving is the product
+
+646
+00:58:37,350 --> 00:58:40,330
+of the count and the
+size of the data type so
+
+647
+00:58:40,330 --> 00:58:42,350
+remember in c you can
+say size of n you know
+
+648
+00:58:42,350 --> 00:58:46,030
+size of that that gives
+you the byte number of
+
+649
+00:58:46,030 --> 00:58:49,150
+the number of bytes per
+that data unit data sizes
+
+650
+00:58:49,150 --> 00:58:57,430
+that element um this is interesting here
+what are the issues the exact behavior
+
+651
+00:58:57,430 --> 00:59:03,070
+is determined by the implementation
+wait a minute that sounds odd
+
+652
+00:59:03,070 --> 00:59:07,810
+i thought you said that if they they match
+the implementation of the api
+
+653
+00:59:07,810 --> 00:59:10,250
+it'll do the same thing
+
+654
+00:59:10,710 --> 00:59:13,650
+well kind of what we're
+saying is is that it
+
+655
+00:59:13,650 --> 00:59:16,090
+will eventually do the same
+thing but the exact order
+
+656
+00:59:16,090 --> 00:59:20,470
+that it does things in might depend on how
+they've done it underneath
+
+657
+00:59:20,470 --> 00:59:22,050
+right all they're saying is
+
+658
+00:59:22,050 --> 00:59:25,990
+that logically they're going
+to abide by that api
+
+659
+00:59:25,990 --> 00:59:29,790
+and some things in the
+api will say if this
+
+660
+00:59:29,790 --> 00:59:34,930
+parameter is invalid its
+behavior is undefined other
+
+661
+00:59:34,930 --> 00:59:36,190
+ones will be like well this parameter is
+
+662
+00:59:37,090 --> 00:59:40,290
+undefined or ill-formed i'll
+throw air you know
+
+663
+00:59:40,290 --> 00:59:42,710
+but that depends on
+which implementation it is
+
+664
+00:59:42,710 --> 00:59:47,830
+so look at this if i send something
+may behave differently with
+
+665
+00:59:47,830 --> 00:59:49,070
+regards to the buffer size
+
+666
+00:59:49,070 --> 00:59:51,290
+cutoffs and blocking what
+are they even talking
+
+667
+00:59:51,290 --> 00:59:54,450
+about what about if
+you try to send something
+
+668
+00:59:54,450 --> 01:00:02,380
+that's a gigabyte wait a
+minute now is this a
+
+669
+01:00:02,380 --> 01:00:05,840
+zero copy send or is it not what i mean
+
+670
+01:00:06,000 --> 01:00:09,520
+what do you guys know like when you send
+something say you're going
+
+671
+01:00:09,520 --> 01:00:10,320
+to send something across the
+
+672
+01:00:10,320 --> 01:00:15,660
+network do you
+actually who's orchestrating the
+
+673
+01:00:15,660 --> 01:00:18,720
+moving all that data out of this buffer
+
+674
+01:00:18,720 --> 01:00:22,780
+to the network card
+and across the network is
+
+675
+01:00:22,780 --> 01:00:28,700
+that you no well so if this was a gigabyte
+
+676
+01:00:28,700 --> 01:00:32,580
+is it being sent
+directly from this buffer or
+
+677
+01:00:32,580 --> 01:00:35,240
+is it copying this
+buffer to another buffer and
+
+678
+01:00:35,240 --> 01:00:38,300
+sending that is it
+copying chunks of this a
+
+679
+01:00:38,300 --> 01:00:40,860
+little bit of time
+to the network card memory
+
+680
+01:00:40,860 --> 01:00:43,740
+and then sending it this has a lot
+to do with whether
+
+681
+01:00:43,740 --> 01:00:46,620
+it is buffered unbuffered blocking
+
+682
+01:00:46,620 --> 01:00:49,800
+non-blocking all of these things so in
+that chatter point
+
+683
+01:00:49,800 --> 01:00:51,040
+to point communications you'll
+
+684
+01:00:51,040 --> 01:00:53,380
+notice that there's a big section that
+describes the difference
+
+685
+01:00:53,380 --> 01:00:55,940
+between blocking and non-blocking
+
+686
+01:00:55,940 --> 01:01:02,480
+synchronous asynchronous buffered
+or unbuffered okay and
+
+687
+01:01:02,480 --> 01:01:04,260
+the reason that that can have some
+
+688
+01:01:04,320 --> 01:01:07,600
+implications here is imagine
+this if this was one
+
+689
+01:01:07,600 --> 01:01:12,060
+gigabyte say that it
+says all right i'm going
+
+690
+01:01:12,060 --> 01:01:16,020
+to copy this thing from this buffer all
+the way to another
+
+691
+01:01:16,020 --> 01:01:17,820
+buffer and then i'll return
+
+692
+01:01:17,820 --> 01:01:21,240
+now when you return
+that just means that this
+
+693
+01:01:21,240 --> 01:01:24,180
+buffer is now available to
+be to be written into
+
+694
+01:01:24,180 --> 01:01:26,560
+why would it be okay
+to write into it because
+
+695
+01:01:26,560 --> 01:01:29,020
+you already made a copy
+of it or it could be
+
+696
+01:01:29,060 --> 01:01:32,880
+that i will not return
+until such a time as
+
+697
+01:01:32,880 --> 01:01:35,880
+either it's copied to a
+buffer or it's sent across the
+
+698
+01:01:35,880 --> 01:01:39,280
+network but now if
+it's a non-blocking thing
+
+699
+01:01:39,280 --> 01:01:42,300
+and it's an asynchronous
+the call will return immediately
+
+700
+01:01:42,300 --> 01:01:45,140
+and just because the
+call return doesn't mean this
+
+701
+01:01:45,140 --> 01:01:47,760
+has been sent so
+if your code starts jacking
+
+702
+01:01:47,760 --> 01:01:49,640
+around with this buffer
+and changing the contents
+
+703
+01:01:49,640 --> 01:01:52,400
+of it you're messing
+with this buffer before it's
+
+704
+01:01:52,400 --> 01:01:54,700
+actually been sent so now
+your buffer is going to
+
+705
+01:01:54,700 --> 01:01:57,740
+be some mixture of what
+the old data was with
+
+706
+01:01:57,740 --> 01:01:59,380
+the new data and it's
+going to be backed up
+
+707
+01:01:59,380 --> 01:02:02,840
+so you have to really
+look at which type of sending
+
+708
+01:02:02,840 --> 01:02:05,800
+are you doing and
+what does it mean semantically
+
+709
+01:02:05,800 --> 01:02:12,110
+now it says here
+for receive though it always
+
+710
+01:02:12,110 --> 01:02:17,090
+blocks until a message
+is received that matches it
+
+711
+01:02:17,090 --> 01:02:18,950
+now what does it
+mean matching we talked about
+
+712
+01:02:18,950 --> 01:02:22,410
+this last time matching means
+that like hey you know
+
+713
+01:02:22,410 --> 01:02:24,770
+will is going to send
+me a message he's ranked
+
+714
+01:02:25,310 --> 01:02:30,470
+for he used the tag 99 so when i try to
+receive i have to specify
+
+715
+01:02:30,470 --> 01:02:32,890
+who am i receiving from what
+
+716
+01:02:32,890 --> 01:02:38,130
+tag am i hashing so i would have like if i
+said okay i want to receive
+
+717
+01:02:38,130 --> 01:02:41,750
+from will tag 99 will has
+
+718
+01:02:41,750 --> 01:02:46,030
+a sit at yet my process is just going to
+lock right there it's just
+
+719
+01:02:46,030 --> 01:02:48,710
+going to sit there it's
+
+720
+01:02:48,710 --> 01:02:51,790
+going to block it's not going to move
+forward and let's say
+
+721
+01:02:51,790 --> 01:02:53,070
+five seconds later he sends
+
+722
+01:02:53,950 --> 01:02:57,570
+then once this matching
+things happens my process will
+
+723
+01:02:57,570 --> 01:02:59,430
+start moving so you
+can imagine if you don't
+
+724
+01:02:59,430 --> 01:03:02,970
+have your syndrome
+receives match correctly what
+
+725
+01:03:02,970 --> 01:03:07,790
+can you have happen
+deadlock can occur because
+
+726
+01:03:07,790 --> 01:03:10,970
+one of the ways that
+deadlock happens is if you
+
+727
+01:03:10,970 --> 01:03:13,450
+are holding a resource and
+won't get it up until
+
+728
+01:03:13,450 --> 01:03:16,670
+something happens that will
+never happen right so when
+
+729
+01:03:16,670 --> 01:03:19,570
+you go to receive a message it's trying to
+
+730
+01:03:19,570 --> 01:03:21,930
+say all right i'm going
+to pull this buffer right
+
+731
+01:03:21,930 --> 01:03:25,070
+here and i'm not going
+to let it go until my
+
+732
+01:03:25,070 --> 01:03:27,990
+match receives happen but
+the other process never
+
+733
+01:03:27,990 --> 01:03:31,830
+lost the correct matching
+send my process is
+
+734
+01:03:31,830 --> 01:03:33,470
+going to sit there
+forever not doing anything
+
+735
+01:03:33,470 --> 01:03:36,630
+and if both of your processes are wrong
+
+736
+01:03:36,630 --> 01:03:39,350
+that they'll both freeze
+and they'll both just
+
+737
+01:03:39,350 --> 01:03:41,890
+sit there indefinitely now
+one might sit there
+
+738
+01:03:41,890 --> 01:03:44,830
+and freeze the other
+one might go on through
+
+739
+01:03:44,830 --> 01:03:46,450
+with the other like so
+some of your print statements
+
+740
+01:03:46,450 --> 01:03:48,110
+might come out and
+not others right you're like
+
+741
+01:03:48,110 --> 01:03:49,650
+what the hell is
+going on let's go something's
+
+742
+01:03:49,650 --> 01:03:52,350
+waiting for a thing that will never happen
+or that hasn't happened
+
+743
+01:03:52,350 --> 01:03:53,590
+you have to be really
+
+744
+01:03:53,590 --> 01:03:56,830
+you're really uh really
+careful about it and you
+
+745
+01:03:56,830 --> 01:04:00,130
+need to understand kind
+of what's going on here
+
+746
+01:04:00,130 --> 01:04:02,610
+so the very first
+problem that looks like that
+
+747
+01:04:02,610 --> 01:04:05,410
+they're doing in here
+is this idea of numerical
+
+748
+01:04:05,410 --> 01:04:08,690
+integration using the trapezoidal
+rule in MPI to
+
+749
+01:04:08,690 --> 01:04:10,790
+describe a problem that
+you're going to break up
+
+750
+01:04:10,790 --> 01:04:12,810
+into pieces in order
+to solve it in parallel
+
+751
+01:04:12,810 --> 01:04:15,430
+and say hey here's a
+cool example of doing something
+
+752
+01:04:16,430 --> 01:04:18,170
+in parallel now the thing
+is when i use the
+
+753
+01:04:18,170 --> 01:04:21,410
+word cool here i'm very
+using that very loosely okay
+
+754
+01:04:21,410 --> 01:04:24,350
+because like i don't
+think anybody would actually
+
+755
+01:04:24,350 --> 01:04:26,210
+write a program like
+the one they're getting ready
+
+756
+01:04:26,210 --> 01:04:29,690
+to show you but it is interesting from the
+point of view that it
+
+757
+01:04:29,690 --> 01:04:31,090
+does divide the problem up
+
+758
+01:04:31,090 --> 01:04:35,110
+and it does do it in parallel okay now how
+many of you know what
+
+759
+01:04:35,110 --> 01:04:36,430
+the trapezoidal rule is for
+
+760
+01:04:36,430 --> 01:04:43,310
+integration let's just talk
+about that briefly just
+
+761
+01:04:43,310 --> 01:04:45,350
+just so you guys remember i mean remember
+
+762
+01:04:48,230 --> 01:04:50,130
+that like there was
+a couple of different ways
+
+763
+01:04:50,130 --> 01:04:51,850
+probably when you were in
+the end taught how to
+
+764
+01:04:51,850 --> 01:04:55,030
+integrate the area under a
+curve and you're looking at
+
+765
+01:04:55,030 --> 01:04:57,210
+the reman sum and as
+the limit of the width of
+
+766
+01:04:57,210 --> 01:04:59,390
+the interval goes to
+zero that becomes equal
+
+767
+01:04:59,390 --> 01:05:02,790
+to the actual integration
+blah blah blah blah and
+
+768
+01:05:02,790 --> 01:05:04,490
+this teacher probably was
+like all right let's
+
+769
+01:05:04,490 --> 01:05:09,190
+just suppose that my
+function like looked like
+
+770
+01:05:09,190 --> 01:05:13,570
+this right that was my s of x and i wanted
+to integrate it say from
+
+771
+01:05:13,570 --> 01:05:16,770
+here from a to let's say
+
+772
+01:05:16,770 --> 01:05:19,630
+here to b and i'm trying to find the
+other area under the
+
+773
+01:05:19,630 --> 01:05:21,430
+curve it's called numerical integration
+
+774
+01:05:21,430 --> 01:05:23,190
+my analytical integration
+because that would
+
+775
+01:05:23,190 --> 01:05:26,370
+be something different
+we're talking about numerical
+
+776
+01:05:26,370 --> 01:05:29,950
+calculations with this stuff
+all right so you guys
+
+777
+01:05:29,950 --> 01:05:32,010
+remember like you could
+divide this up into some
+
+778
+01:05:32,010 --> 01:05:35,950
+little little chunks right
+it'd be like you
+
+779
+01:05:35,950 --> 01:05:38,150
+could do here it's
+okay i got this rectangle
+
+780
+01:05:39,350 --> 01:05:47,850
+plus this rectangle plus this rectangle
+plus the area of this rectangle
+
+781
+01:05:47,850 --> 01:05:54,770
+shit this rectangle and
+then this rectangle so
+
+782
+01:05:54,770 --> 01:05:57,070
+and sometimes i'll be losing a little bit
+
+783
+01:05:57,070 --> 01:05:58,750
+area i should have
+gotten and sometimes i'd
+
+784
+01:05:58,750 --> 01:06:00,530
+be including some area
+that i should have gotten
+
+785
+01:06:00,530 --> 01:06:02,850
+but i get this
+kind of approximation that as
+
+786
+01:06:02,850 --> 01:06:06,690
+this thing gets smaller
+the smaller you make these
+
+787
+01:06:07,170 --> 01:06:13,570
+actually sum it up and say this area plus
+this is equal to the area under this curve
+
+788
+01:06:13,570 --> 01:06:17,490
+and it's cool to be able to try to figure
+out what the this trivial
+
+789
+01:06:17,490 --> 01:06:18,570
+figure of the area of this
+
+790
+01:06:18,570 --> 01:06:21,690
+is because the area
+rectangle is its width times
+
+791
+01:06:21,690 --> 01:06:24,870
+its height if it's
+width some fixed amount let's
+
+792
+01:06:24,870 --> 01:06:30,340
+just call it you know
+delta and then its height
+
+793
+01:06:30,340 --> 01:06:33,340
+but what is what is
+its height well you know
+
+794
+01:06:33,360 --> 01:06:36,480
+right here in a the
+height of this rectangle right
+
+795
+01:06:36,480 --> 01:06:39,240
+here and this thing here
+would be say like a plus
+
+796
+01:06:39,240 --> 01:06:44,800
+delta the f of that would be here plus two
+delta would be this plus
+
+797
+01:06:44,800 --> 01:06:46,180
+three delta would be there plus
+
+798
+01:06:46,180 --> 01:06:48,120
+four delta would be there
+so we can figure out what
+
+799
+01:06:48,120 --> 01:06:50,440
+the height is at every
+point we know what the width
+
+800
+01:06:50,440 --> 01:06:52,220
+is because it's always the
+same and we can just
+
+801
+01:06:52,220 --> 01:06:54,840
+add them up and that
+would be equal to like the
+
+802
+01:06:54,840 --> 01:06:57,060
+amount of area that's under the curve you
+guys remember this right
+
+803
+01:06:57,060 --> 01:06:59,300
+well the only difference
+
+804
+01:06:59,300 --> 01:07:02,140
+between that trapezoidal rule
+is they're not making
+
+805
+01:07:02,140 --> 01:07:04,180
+it be a rectangle the trapezoidal rule is
+
+806
+01:07:04,180 --> 01:07:07,440
+saying all right let's
+say this is our thing
+
+807
+01:07:07,440 --> 01:07:11,060
+that's the beginning and
+ending of my thing here
+
+808
+01:07:11,060 --> 01:07:15,800
+they're saying let's assume
+that this is an
+
+809
+01:07:15,800 --> 01:07:19,280
+interpolation like that and
+so now this is a
+
+810
+01:07:19,280 --> 01:07:21,820
+trapezoid yeah we got
+a trapezoid here basically
+
+811
+01:07:21,820 --> 01:07:29,280
+right because we've got
+like this thing plus a
+
+812
+01:07:29,740 --> 01:07:32,460
+because our sides are not going to be like
+this our sides are always
+
+813
+01:07:32,460 --> 01:07:33,440
+going to be vertical because
+
+814
+01:07:33,440 --> 01:07:39,060
+of the fact that that's how we divided up
+the x-axis and you can
+
+815
+01:07:39,060 --> 01:07:39,960
+see where they're going with
+
+816
+01:07:39,960 --> 01:07:42,500
+this how would you do
+is a parallel well we
+
+817
+01:07:42,500 --> 01:07:46,080
+know that if you wanted
+to calculate the area under a
+
+818
+01:07:46,080 --> 01:07:51,140
+curve say from a to
+b then you could really go
+
+819
+01:07:51,140 --> 01:07:55,800
+from like say a to
+here plus from there to there
+
+820
+01:07:55,800 --> 01:07:58,880
+plus from there to there and add them all
+together and that's equal
+
+821
+01:07:58,880 --> 01:07:59,960
+to it cool so what
+
+822
+01:07:59,960 --> 01:08:01,700
+are fast two processes
+well i'll just divide
+
+823
+01:08:01,700 --> 01:08:05,120
+the work process zero
+and calculate the area under
+
+824
+01:08:05,120 --> 01:08:07,880
+this part of the curve
+process one would calculate the
+
+825
+01:08:07,880 --> 01:08:09,640
+area on this part of
+the curve and at the end
+
+826
+01:08:09,640 --> 01:08:12,180
+they'll add those two
+areas together to get the
+
+827
+01:08:12,180 --> 01:08:14,700
+final area which is
+similar to that global sum
+
+828
+01:08:14,700 --> 01:08:17,260
+that we were dealing with earlier except
+for instead of
+
+829
+01:08:17,260 --> 01:08:18,420
+adding energies together we're
+
+830
+01:08:18,420 --> 01:08:19,939
+actually floating we're
+adding floating point
+
+831
+01:08:19,939 --> 01:08:22,120
+numbers here together
+global floating point
+
+832
+01:08:22,120 --> 01:08:28,120
+does that make sense and i don't like well
+what about if you had
+
+833
+01:08:28,120 --> 01:08:31,319
+four processes cool like this
+
+834
+01:08:31,319 --> 01:08:34,040
+one guy's adding up this
+one one guy's adding up
+
+835
+01:08:34,040 --> 01:08:36,300
+this one one guy's adding
+up this one one guy's
+
+836
+01:08:36,300 --> 01:08:39,160
+adding up that and
+it's like quote dividing the
+
+837
+01:08:39,160 --> 01:08:42,260
+problem up and having
+each person do its piece
+
+838
+01:08:42,260 --> 01:08:48,529
+and it makes sense like
+this was a trillion points
+
+839
+01:08:48,529 --> 01:08:51,410
+and you divided it forward
+this will be only a
+
+840
+01:08:51,410 --> 01:08:53,310
+quarter of a trillion here
+a quarter of a trillion
+
+841
+01:08:53,310 --> 01:08:55,210
+here a quarter of a
+trillion here and then we get
+
+842
+01:08:55,210 --> 01:08:57,750
+enough faster, hopefully four
+times faster, because you only
+
+843
+01:08:57,750 --> 01:08:59,270
+got to do one fourth the amount of work.
+
+844
+01:09:00,090 --> 01:09:03,569
+And could you be adding this area up while
+somebody else is adding
+
+845
+01:09:03,569 --> 01:09:04,430
+the area up here? Yes,
+
+846
+01:09:04,529 --> 01:09:07,210
+the cost is sufficient. In
+addition, it's associated
+
+847
+01:09:07,210 --> 01:09:08,450
+with commutative typically,
+
+848
+01:09:08,670 --> 01:09:10,290
+although with photo point
+numbers we know that's
+
+849
+01:09:10,290 --> 01:09:13,710
+not 100% true because
+it's a round off errors.
+
+850
+01:09:14,210 --> 01:09:18,850
+But except for round off errors, your
+catastrophic cancellation and stuff
+
+851
+01:09:18,850 --> 01:09:19,550
+you probably learned by
+
+852
+01:09:19,550 --> 01:09:21,569
+other addresses, you can
+do that in any order
+
+853
+01:09:21,569 --> 01:09:23,370
+you want, which means
+that those quantities can be
+
+854
+01:09:23,850 --> 01:09:26,310
+anywhere they want. They can be
+doing it at the same time.
+
+855
+01:09:27,450 --> 01:09:28,870
+All right. In fact,
+that's what you're looking for.
+
+856
+01:09:28,970 --> 01:09:30,569
+What can be done at the same time? So,
+
+857
+01:09:30,590 --> 01:09:32,290
+that's the only thing
+you parallelize, the stuff
+
+858
+01:09:32,290 --> 01:09:33,569
+that can be done at the same time.
+
+859
+01:09:34,609 --> 01:09:36,390
+All right. So, they're
+going to walk through
+
+860
+01:09:36,390 --> 01:09:41,109
+how do we do this in parallel using MPI?
+
+861
+01:09:42,170 --> 01:09:47,270
+Okay. Now, what about if you were going to
+do this and you weren't going to use MPI?
+
+862
+01:09:47,270 --> 01:09:54,290
+I mean, could you do this even without
+MPI? We probably have
+
+863
+01:09:54,290 --> 01:09:55,210
+a for loop here, right?
+
+864
+01:09:56,030 --> 01:09:58,550
+And the number of things we divide the for
+loop is going to be
+
+865
+01:09:58,550 --> 01:09:59,830
+however many divisions we're going
+
+866
+01:09:59,830 --> 01:10:01,930
+to make. And the width
+of all those rectangles will
+
+867
+01:10:01,930 --> 01:10:04,390
+be, you know, B minus
+A divided by the number
+
+868
+01:10:04,390 --> 01:10:07,190
+of divisions you have.
+And then you just multiply
+
+869
+01:10:07,190 --> 01:10:09,190
+the height of the circle,
+the height of the thing,
+
+870
+01:10:09,430 --> 01:10:13,490
+and deal with the triangle part at the top
+and just sum it up. I mean, you'd have a
+
+871
+01:10:13,490 --> 01:10:17,270
+singly nested for loop. So, when you see
+a singly nested for
+
+872
+01:10:17,270 --> 01:10:18,330
+loop here, that makes sense
+
+873
+01:10:18,330 --> 01:10:20,690
+because you don't change
+the time or complexity
+
+874
+01:10:20,690 --> 01:10:22,230
+when you do it
+in parallel. You're just changing
+
+875
+01:10:22,230 --> 01:10:24,390
+the big coefficient out
+front. Instead of it being
+
+876
+01:10:24,390 --> 01:10:26,150
+in order in, it's going to be in order
+
+877
+01:10:26,150 --> 01:10:31,170
+one peak of in, which is
+still order in, right? That's the idea.
+
+878
+01:10:33,170 --> 01:10:36,010
+So, cool. Like, we're
+going to calculate the area
+
+879
+01:10:36,010 --> 01:10:43,470
+from under curve A and
+B. So, we're going to
+
+880
+01:10:43,470 --> 01:10:45,750
+do this and three will
+do that, as an example.
+
+881
+01:10:46,390 --> 01:10:48,510
+At the end, they'll do
+a global sum and they only
+
+882
+01:10:48,510 --> 01:10:51,750
+got the answer. So,
+they're like, hey, now,
+
+883
+01:10:51,930 --> 01:10:54,510
+you know, the trapezoidal
+rule, blah, blah, blah, blah,
+
+884
+01:10:54,850 --> 01:10:58,330
+it's just the area of
+the rectangle at the bottom
+
+885
+01:10:58,330 --> 01:11:00,090
+plus the area of that
+little triangle piece at the
+
+886
+01:11:00,090 --> 01:11:04,710
+top. So, like, cool.
+So, it's, you know, it's
+
+887
+01:11:04,710 --> 01:11:06,930
+this area. But it's going
+to have a base time
+
+888
+01:11:06,930 --> 01:11:09,430
+type of this thing at the right
+triangle and that's what
+
+889
+01:11:09,430 --> 01:11:10,030
+you're going to get.
+
+890
+01:11:11,710 --> 01:11:14,410
+Does everybody see that that's the,
+that approximation, of
+
+891
+01:11:14,410 --> 01:11:15,050
+course, is not great
+
+892
+01:11:15,050 --> 01:11:19,470
+because it's missing this
+area here. But if we
+
+893
+01:11:19,470 --> 01:11:22,590
+make this really close
+together and instead we do
+
+894
+01:11:22,590 --> 01:11:25,190
+like this, we get it
+a lot closer of approximation
+
+895
+01:11:25,190 --> 01:11:27,510
+than reality. So, and we're
+going to have to make
+
+896
+01:11:27,510 --> 01:11:30,350
+that really small to have
+very much work to do.
+
+897
+01:11:31,030 --> 01:11:33,170
+If you think about it,
+if we only made this two
+
+898
+01:11:33,170 --> 01:11:35,670
+or three million
+points, like, your computer
+
+899
+01:11:35,670 --> 01:11:37,790
+can already do that
+instantaneously. We're going to
+
+900
+01:11:37,790 --> 01:11:40,090
+have to make it billions
+of points in order for it
+
+901
+01:11:40,090 --> 01:11:42,070
+to take a bit of time.
+When I said it was a
+
+902
+01:11:42,070 --> 01:11:44,530
+stupid example to start
+with, I mean it's stupid
+
+903
+01:11:44,530 --> 01:11:46,950
+because the problem we're
+trying to solve for a
+
+904
+01:11:46,950 --> 01:11:49,670
+one-dimensional integration.
+So, that's what
+
+905
+01:11:49,670 --> 01:11:53,850
+this is. It's just f
+of x. Now, this was x of x, y, z,
+
+906
+01:11:53,910 --> 01:11:58,050
+w, a, b, c. Now, that would take a long
+time. But just one variable,
+
+907
+01:11:58,430 --> 01:11:59,690
+that's not too hard to do
+
+908
+01:11:59,690 --> 01:12:03,910
+already. That's not hard to do. So, it
+probably wouldn't be something
+
+909
+01:12:03,910 --> 01:12:05,290
+you'd be trying to parallelize
+
+910
+01:12:05,330 --> 01:12:06,970
+these little toy problems
+that we're doing here.
+
+911
+01:12:07,070 --> 01:12:09,350
+Everything just looks like
+that. It's a little toy
+
+912
+01:12:09,350 --> 01:12:12,430
+problem. Then you're like, all
+right now, let's go, we've
+
+913
+01:12:12,430 --> 01:12:13,830
+learned to do it that
+way. Let's go do it on
+
+914
+01:12:13,830 --> 01:12:15,830
+a real problem. Don't worry
+about how that works. Let
+
+915
+01:12:15,830 --> 01:12:18,170
+me show you, you know.
+So, that'll be kind of
+
+916
+01:12:18,170 --> 01:12:21,110
+how they, how they do
+stuff. So, we know we're
+
+917
+01:12:21,110 --> 01:12:24,230
+going to have that, that
+for loop. And if we're
+
+918
+01:12:24,230 --> 01:12:27,890
+going to divide, we're going to
+be integrating, you know, from a
+
+919
+01:12:27,890 --> 01:12:32,790
+to b. And so, from a to b of some f of x.
+
+920
+01:12:34,730 --> 01:12:38,690
+And that means that
+this entire, this entire
+
+921
+01:12:38,690 --> 01:12:41,170
+interval here is b
+minus a. So, we're assuming
+
+922
+01:12:41,170 --> 01:12:45,070
+that a is less than or equal to b here.
+So, you know, we're not,
+
+923
+01:12:45,150 --> 01:12:45,670
+you know, we're not going to
+
+924
+01:12:45,670 --> 01:12:48,590
+integrate from the right-hand
+side to the left. We're
+
+925
+01:12:48,590 --> 01:12:49,750
+going to integrate from
+the left to the right
+
+926
+01:12:49,750 --> 01:12:52,810
+like we typically do in
+class. So, take the width
+
+927
+01:12:52,810 --> 01:12:55,730
+of the entire interval and
+divide it up in end
+
+928
+01:12:55,730 --> 01:12:57,810
+pieces. So, we're going
+to divide all this up
+
+929
+01:12:57,810 --> 01:13:00,450
+into end little pieces, right?
+So, each one of them
+
+930
+01:13:00,450 --> 01:13:04,230
+is going to be one-nth
+of b minus a. That's
+
+931
+01:13:04,230 --> 01:13:07,190
+how, this is the width
+of each one of these little,
+
+932
+01:13:07,190 --> 01:13:11,930
+these little triangles, each one of these
+little trapezoids, if you
+
+933
+01:13:11,930 --> 01:13:13,750
+will. All right. Now,
+
+934
+01:13:15,230 --> 01:13:19,490
+what about the height? And
+again, I do not know why
+
+935
+01:13:19,490 --> 01:13:22,050
+in the hell they, they
+call this h instead of w.
+
+936
+01:13:22,370 --> 01:13:25,730
+It's probably going to call that width
+in the middle of height, but whatever.
+
+937
+01:13:27,890 --> 01:13:36,110
+Well, if, if this is, you know, at a here
+and b here, and we
+
+938
+01:13:36,110 --> 01:13:38,310
+got approximately that divided by that
+
+939
+01:13:38,310 --> 01:13:40,710
+for the height of it.
+And so, we're going to
+
+940
+01:13:40,710 --> 01:13:43,350
+say, okay, cool. We're going
+to start at the beginning
+
+941
+01:13:43,350 --> 01:13:45,210
+of this thing, going all
+the way to the end
+
+942
+01:13:45,210 --> 01:13:48,390
+of this thing, adding up
+one little piece at a time.
+
+943
+01:13:49,130 --> 01:13:53,950
+And what we're saying is, if we started at
+a, and we're on the ith iteration of this,
+
+944
+01:13:54,150 --> 01:13:58,270
+and the width of each one of these little
+trapezoids is h, then it'll
+
+945
+01:13:58,270 --> 01:14:00,630
+be like a, then plus
+
+946
+01:14:00,630 --> 01:14:04,110
+one h, plus two h, plus three h, plus
+four h, as we're walking
+
+947
+01:14:04,110 --> 01:14:05,210
+all the way across here.
+
+948
+01:14:05,730 --> 01:14:07,650
+And we're going to
+call our function, whatever our
+
+949
+01:14:07,650 --> 01:14:09,550
+function is. Like, let's just say f of x
+
+950
+01:14:09,550 --> 01:14:13,610
+was equal to, you know,
+x squared. Then you would
+
+951
+01:14:13,610 --> 01:14:16,010
+be taking that x sub
+i that you're on. So, like,
+
+952
+01:14:16,010 --> 01:14:17,750
+if this was like, say
+you're doing it at point
+
+953
+01:14:17,750 --> 01:14:21,650
+one. So, it'd be five,
+five point one, five point two,
+
+954
+01:14:21,850 --> 01:14:24,430
+five point three, five
+point four, going one
+
+955
+01:14:24,430 --> 01:14:26,650
+at a time, getting the value of f,
+
+956
+01:14:27,030 --> 01:14:29,850
+and adding it up. Now, you may say, well,
+now, wait a minute now.
+
+957
+01:14:30,030 --> 01:14:30,930
+That doesn't sound like we're
+
+958
+01:14:30,930 --> 01:14:33,550
+doing multiplication. Wouldn't we be doing
+multiplication? Well, if
+
+959
+01:14:33,550 --> 01:14:34,610
+the width of every
+
+960
+01:14:34,610 --> 01:14:36,970
+one of these is the same, you don't need
+to multiply it every time.
+
+961
+01:14:37,110 --> 01:14:37,930
+You can factor it out.
+
+962
+01:14:38,450 --> 01:14:40,010
+That's what they've
+done. They've factored out
+
+963
+01:14:40,010 --> 01:14:41,490
+the entire thing,
+and then they're multiplying
+
+964
+01:14:41,490 --> 01:14:45,030
+it out, and you're just doing additions.
+Does everybody get why that would be?
+
+965
+01:14:46,510 --> 01:14:48,390
+Because it'd be like, you'd
+be saying f of x
+
+966
+01:14:48,390 --> 01:14:52,690
+times three, plus f of
+x sub i times three,
+
+967
+01:14:53,190 --> 01:14:56,950
+times three. We'll just factor the three
+out, and that's what
+
+968
+01:14:56,950 --> 01:14:58,170
+you've got, all right?
+
+969
+01:14:59,530 --> 01:15:01,930
+And then when we're
+all done, we multiply that
+
+970
+01:15:01,930 --> 01:15:05,110
+width out there. We've
+got that, and we've got
+
+971
+01:15:05,110 --> 01:15:08,290
+the approximation for it.
+And so, you're like,
+
+972
+01:15:08,370 --> 01:15:10,450
+we got our sequential
+program, and that's what we're
+
+973
+01:15:10,450 --> 01:15:11,910
+going to do a lot
+of things here. We're going
+
+974
+01:15:11,910 --> 01:15:13,730
+to give an idea. You're
+going to write it sequentially,
+
+975
+01:15:14,230 --> 01:15:16,610
+and then you're going to manipulate
+that sequential program
+
+976
+01:15:16,610 --> 01:15:18,230
+into a parallel program.
+
+977
+01:15:19,490 --> 01:15:21,970
+But why would that be useful? Well, first
+of all, it's useful
+
+978
+01:15:21,970 --> 01:15:23,430
+from a strategic perspective.
+
+979
+01:15:24,230 --> 01:15:27,730
+If you can't solve the problem in
+sequential, you definitely can't
+
+980
+01:15:27,730 --> 01:15:28,450
+solve it in parallel,
+
+981
+01:15:28,590 --> 01:15:30,130
+right? I mean, you need
+to have a base thing
+
+982
+01:15:30,130 --> 01:15:32,750
+to start with. What about
+if you were at a company,
+
+983
+01:15:33,210 --> 01:15:34,770
+and they're like, hey, dude,
+we've got this
+
+984
+01:15:34,770 --> 01:15:36,490
+single-threaded,
+single-process application.
+
+985
+01:15:36,490 --> 01:15:38,810
+We want you to parallelize
+it. Let's say you go
+
+986
+01:15:38,810 --> 01:15:41,350
+do that, and you're like,
+sweet man, I just ran it.
+
+987
+01:15:41,430 --> 01:15:43,470
+Look at this thing. It's
+so much faster. You know
+
+988
+01:15:43,470 --> 01:15:44,690
+what the first thing you're
+going to want to know
+
+989
+01:15:44,690 --> 01:15:48,930
+is? Is the answer the same as what I
+got before? Because they've been
+
+990
+01:15:48,930 --> 01:15:50,050
+using this with their clients
+
+991
+01:15:50,050 --> 01:15:52,750
+or whatever else, and
+it's been working. How do
+
+992
+01:15:52,750 --> 01:15:56,070
+they know that stuff you
+just did is the exact
+
+993
+01:15:56,070 --> 01:15:58,510
+same thing that what
+they have before? Well, you
+
+994
+01:15:58,510 --> 01:16:01,590
+have to have the before
+scenario to compare it to
+
+995
+01:16:01,590 --> 01:16:05,070
+as a part of all your testing and
+stuff, right? So we're
+
+996
+01:16:05,070 --> 01:16:06,190
+going to start with something,
+
+997
+01:16:06,630 --> 01:16:09,950
+get a bunch of answers, parallelize it,
+get the same
+
+998
+01:16:09,950 --> 01:16:11,710
+answers, compare those things,
+
+999
+01:16:11,950 --> 01:16:15,150
+see if there's a same. If they're not the
+same, then you probably
+
+1000
+01:16:15,150 --> 01:16:17,010
+did something wrong, right? Or
+
+1001
+01:16:17,010 --> 01:16:20,070
+there were some surrounding
+issues with floating point
+
+1002
+01:16:20,070 --> 01:16:23,210
+that might be okay if that is like the
+
+1003
+01:16:23,210 --> 01:16:26,650
+difference is only a small within a small
+threshold, right? Like if
+
+1004
+01:16:26,650 --> 01:16:27,250
+one of the answers
+
+1005
+01:16:27,250 --> 01:16:31,630
+would be five point one, and you got five
+point oh nine nine nine
+
+1006
+01:16:31,630 --> 01:16:32,490
+nine nine nine, you're like,
+
+1007
+01:16:32,590 --> 01:16:34,610
+okay, well that's essentially
+the same except for
+
+1008
+01:16:34,610 --> 01:16:35,870
+the round off there. But if you're adding
+
+1009
+01:16:35,870 --> 01:16:38,270
+integers together and you don't get the
+same answer, then you
+
+1010
+01:16:38,270 --> 01:16:39,310
+definitely did something wrong
+
+1011
+01:16:39,310 --> 01:16:44,770
+or you had to overflow, right? You got
+to think about all this sort of stuff.
+
+1012
+01:16:47,600 --> 01:16:49,800
+So they're like thinking, how do I
+divide my problem
+
+1013
+01:16:49,800 --> 01:16:51,440
+into individual tasks? Well,
+
+1014
+01:16:51,480 --> 01:16:54,000
+that's pretty easy here,
+right? You just take the
+
+1015
+01:16:54,000 --> 01:16:56,080
+whole thing and say, I'm
+going to divide it. This
+
+1016
+01:16:56,080 --> 01:16:58,360
+will be task zero,
+this task one, task two,
+
+1017
+01:16:58,540 --> 01:17:01,740
+task three. That means that
+the thing I'm going to
+
+1018
+01:17:01,740 --> 01:17:05,000
+be parallelizing is this
+loop, instead of going from
+
+1019
+01:17:05,000 --> 01:17:07,500
+one to end, I'm going to go from from some
+
+1020
+01:17:07,500 --> 01:17:11,260
+place to some other place
+in here, right? Like if
+
+1021
+01:17:11,260 --> 01:17:13,540
+my if my whole function
+was like this, and I was
+
+1022
+01:17:13,540 --> 01:17:16,080
+doing it, let's say
+with just three processes, so
+
+1023
+01:17:16,080 --> 01:17:18,920
+it would go from here
+to here, here to there,
+
+1024
+01:17:19,180 --> 01:17:22,220
+and there to there.
+So process zero would be
+
+1025
+01:17:22,220 --> 01:17:23,940
+working in here, one
+would be working in there,
+
+1026
+01:17:23,940 --> 01:17:25,660
+two would be working here.
+So the first one blue
+
+1027
+01:17:25,660 --> 01:17:28,400
+would have to go from
+here to here. The second
+
+1028
+01:17:28,400 --> 01:17:31,400
+guy's loop needs to
+start right after that here
+
+1029
+01:17:31,400 --> 01:17:33,880
+and go to there, right?
+And the other guy's loop
+
+1030
+01:17:33,880 --> 01:17:35,900
+needs to start right after
+that and go down to
+
+1031
+01:17:35,900 --> 01:17:38,340
+the end. But what does
+it mean right before, right
+
+1032
+01:17:38,340 --> 01:17:41,640
+after? That means you're going to have to
+parameterize the starting and
+
+1033
+01:17:41,640 --> 01:17:43,660
+ending location for your loop
+
+1034
+01:17:43,660 --> 01:17:50,500
+based on your rank. Okay. So
+that's what we're doing here. Now,
+
+1035
+01:17:51,380 --> 01:17:59,340
+we only got 10 seconds left. So I'm going
+to say this. Go home, take a look at this,
+
+1036
+01:18:00,080 --> 01:18:03,380
+get the first NDI
+program out of chapter three
+
+1037
+01:18:03,380 --> 01:18:08,340
+source code, and see if
+you can run that version,
+
+1038
+01:18:08,860 --> 01:18:12,480
+unmodified or whatever, run it
+on expanse, on a node,
+
+1039
+01:18:13,160 --> 01:18:15,840
+pick in to be kind of big and see if you
+
+1040
+01:18:15,840 --> 01:18:17,960
+can make it like
+get some answers like, you
+
+1041
+01:18:17,960 --> 01:18:21,300
+know, we're going to integrate
+say x squared from zero
+
+1042
+01:18:21,300 --> 01:18:24,840
+to a million and see
+what you get. You know what
+
+1043
+01:18:24,840 --> 01:18:26,640
+I mean? And then say I
+want to do that with two
+
+1044
+01:18:26,640 --> 01:18:28,640
+processes. What about
+three processes? What about
+
+1045
+01:18:28,640 --> 01:18:30,200
+four processes? And then
+granted that you're going
+
+1046
+01:18:30,200 --> 01:18:33,180
+to be on one node, it's going to be
+shared, right? So we're not
+
+1047
+01:18:33,180 --> 01:18:34,660
+looking at performance like speed,
+
+1048
+01:18:34,840 --> 01:18:36,980
+we're just seeing logically
+where your program work.
+
+1049
+01:18:37,720 --> 01:18:39,280
+And then when we come in here next time,
+
+1050
+01:18:39,660 --> 01:18:41,480
+we're going to say, okay, we're going to
+learn how to add
+
+1051
+01:18:41,480 --> 01:18:42,960
+timing constraints to our stuff.
+
+1052
+01:18:43,400 --> 01:18:44,960
+We're going to learn how
+to write a test harness
+
+1053
+01:18:44,960 --> 01:18:47,080
+to test all the stuff
+and we'll kind of go from
+
+1054
+01:18:47,080 --> 01:18:52,050
+there. Any questions? All
+right, well, have a
+
+1055
+01:18:52,050 --> 01:18:55,330
+great day. And no
+quiz next time. We're just
+
+1056
+01:18:55,330 --> 01:18:57,530
+coming in here having work
+on this thing. All right, guys.
+
+1057
+01:19:12,500 --> 01:19:33,910
+Do we have a scheduled
+meeting time for this week?
+
+1058
+01:19:36,090 --> 01:19:37,370
+I wasn't sure if I could see it.
+
+1059
+01:19:38,090 --> 01:19:42,370
+You mean for the research stuff?
+
+1060
+01:19:43,190 --> 01:19:48,550
+So we do, we resaduled it to be some time.
+
+1061
+01:19:50,830 --> 01:19:53,090
+So you don't see the
+thing on your calendar then?
+
+1062
+01:19:54,590 --> 01:19:56,630
+No, we'll see. Or maybe it is.
+
+1063
+01:19:57,050 --> 01:19:59,490
+Let me see if I can find it here.
+
+1064
+01:20:14,980 --> 01:20:17,960
+All right, I do not see it here either.
+My question is, is it
+
+1065
+01:20:17,960 --> 01:20:18,840
+because it's on the other
+
+1066
+01:20:18,840 --> 01:20:20,960
+calendar or water? But
+the attention was, remember
+
+1067
+01:20:20,960 --> 01:20:22,900
+how we all said
+when we could possibly meet?
+
+1068
+01:20:23,560 --> 01:20:29,660
+Can you send me an email to remind
+me about that? And I'll take care of that.
+
+1069
+01:20:30,960 --> 01:20:33,780
+Thanks for pointing that
+out. I really looking
+
+1070
+01:20:33,780 --> 01:20:35,580
+forward to hearing about
+the stuff you found.
+
+1071
+01:20:35,960 --> 01:20:37,040
+Yeah, yeah, there's some cool stuff there.
+
+1072
+01:20:37,580 --> 01:20:38,880
+All right, cool, man.
+
+1073
+01:20:39,160 --> 01:20:39,580
+Take care.
+
+1074
+01:20:39,880 --> 01:20:42,800
+Yeah, you too. What class is this?
+
+1075
+01:20:49,060 --> 01:20:53,780
+Ph.D. and SQL and all that stuff.
+
+1076
+01:21:01,930 --> 01:21:25,260
+We've had travel stuff got
+approved for the week before Thanksgiving.
+
+1077
+01:21:26,360 --> 01:21:29,720
+But we're trying to pump the university
+for money now to be like, well,
+
+1078
+01:21:29,960 --> 01:21:32,000
+instead of us spending our money, can
+you spend a little bit of money
+
+1079
+01:21:32,000 --> 01:21:35,160
+and then let us make
+our money go further? Even
+
+1080
+01:21:35,160 --> 01:21:37,280
+if the answer to that
+is no, we're still doing it.
+
+1081
+01:21:37,540 --> 01:21:40,080
+But between the
+college and the department,
+
+1082
+01:21:40,540 --> 01:21:43,880
+the semester of many
+travel grants were due.
+
+1083
+01:21:44,960 --> 01:21:48,800
+And so those were submitted to Cox
+yesterday. So we'll see what we get.
+
+1084
+01:21:49,440 --> 01:21:55,340
+Pretty soon, we're going to have to go and
+actually get into flights
+
+1085
+01:21:55,340 --> 01:21:57,820
+so we can lock in.
+
+1086
+01:22:00,540 --> 01:22:04,780
+And that November 16th to the 21st, I
+mean, you have constraints
+
+1087
+01:22:04,780 --> 01:22:06,560
+as to when you say,
+
+1088
+01:22:06,660 --> 01:22:11,140
+look, you deal with the flights, I'll
+be there. Or you need to actually say,
+
+1089
+01:22:11,200 --> 01:22:15,220
+well, I can't leave on that 16th until
+this time. And as far as I'm concerned,
+
+1090
+01:22:15,860 --> 01:22:19,950
+I don't have any to worry about.
+
+1091
+01:22:20,670 --> 01:22:24,130
+So the plan will be like to get there so
+that we don't get there
+
+1092
+01:22:24,130 --> 01:22:25,510
+super late on the 16th.
+
+1093
+01:22:25,570 --> 01:22:28,510
+And we won't get back here super late on
+the 21st. That's just
+
+1094
+01:22:28,510 --> 01:22:29,090
+going to be the deal.
+
+1095
+01:22:32,030 --> 01:22:35,750
+So and more important that we don't get
+there late on the 16th than it is
+
+1096
+01:22:35,750 --> 01:22:39,310
+even if we get here relatively late on the
+21st, I feel like that's not as bad as
+
+1097
+01:22:39,310 --> 01:22:45,130
+if we were to get there
+late because we get it situated.
+
+1098
+01:22:45,950 --> 01:22:50,250
+Whatever the delay is going to be from
+the airport to the
+
+1099
+01:22:50,250 --> 01:22:51,490
+place, to this, to that.
+
+1100
+01:22:51,630 --> 01:22:54,990
+And then that very next morning
+on Monday, that sort of stuff.
+
+1101
+01:22:55,830 --> 01:22:58,250
+Well, the stuff doesn't
+really start until that Monday.
+
+1102
+01:22:58,590 --> 01:23:00,430
+Hi, you know, have you
+been to this one before?
+

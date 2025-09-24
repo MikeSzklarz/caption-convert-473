@@ -1,0 +1,3712 @@
+1
+00:02:14,040 --> 00:02:15,700
+Okay, all right
+
+2
+00:02:31,350 --> 00:03:03,210
+All right, so what I want to do today is to say all right now that we have that homework assignment that you did
+
+3
+00:03:03,210 --> 00:03:06,510
+What is something we might want to do with that program?
+
+4
+00:03:06,930 --> 00:03:14,050
+To look at its performance as a function of the number of processes as well as as a function of the number of divisions
+
+5
+00:03:14,730 --> 00:03:19,770
+That are done. You know that in other words those two parameters n and p or n and p basically
+
+6
+00:03:19,770 --> 00:03:21,430
+so
+
+7
+00:03:21,430 --> 00:03:32,680
+Part of what you'll see that we're doing in here is that we'll write a program
+
+8
+00:03:32,680 --> 00:03:36,060
+But then we need to analyze it when you look at like how effective it is
+
+9
+00:03:36,060 --> 00:03:42,260
+Do we get the same answers do we get better performance if we increase the number of processes and so forth and so?
+
+10
+00:03:43,440 --> 00:03:44,980
+I made a little folder in here
+
+11
+00:03:47,100 --> 00:03:52,140
+And I'll share this code with you guys later, you know, it's not not a big deal. I'm happy to share it
+
+12
+00:03:52,140 --> 00:03:56,300
+But so I made you know, I made my version of the modified
+
+13
+00:03:56,300 --> 00:04:03,000
+Trapezoid thing to follow the deal about our we said about homework. So let's just take take a look at this
+
+14
+00:04:03,000 --> 00:04:08,980
+So I'm gonna MPI CC it dash wall dash G dash Oh
+
+15
+00:04:18,970 --> 00:04:19,450
+I
+
+16
+00:04:19,450 --> 00:04:30,610
+Pile it say to you know, I'm gonna try to run this thing now
+
+17
+00:04:30,610 --> 00:04:36,490
+Now I'm gonna run without any parameters at first here. I'm not gonna pass it a B and N
+
+18
+00:04:36,490 --> 00:04:41,630
+And I get a nice use of statement. So if your
+
+19
+00:04:41,630 --> 00:04:46,770
+Code doesn't work this way already make sure moving forward that it does. Okay
+
+20
+00:04:46,770 --> 00:04:50,850
+I don't want it to blow out if I don't produce any inputs
+
+21
+00:04:50,850 --> 00:04:53,830
+What is the typical thing you do for a command line program?
+
+22
+00:04:54,890 --> 00:05:01,090
+If you don't pass any parameters to it, it either is going to assume something and run it, which I do not want
+
+23
+00:05:01,090 --> 00:05:05,330
+I want it to give me what's called the usage statement. Is everybody clear on that?
+
+24
+00:05:05,850 --> 00:05:10,730
+So just check to make sure that any required arguments are in fact there and if they're not
+
+25
+00:05:10,730 --> 00:05:14,890
+Print a usage statement to the user to let them know hey the way you run this thing is
+
+26
+00:05:14,890 --> 00:05:18,970
+You run the program along with you have to pass it a B and N
+
+27
+00:05:19,410 --> 00:05:24,630
+Okay, it doesn't set fault. It doesn't blow out doesn't have some kind of crazy MPI error any of that
+
+28
+00:05:24,630 --> 00:05:27,310
+How many people wrote their program to already do that?
+
+29
+00:05:28,570 --> 00:05:30,430
+But raise a hand. All right
+
+30
+00:05:30,430 --> 00:05:37,590
+So now here we go. I'm going to integrate this is x squared, right? So I'm going to integrate from 0 to 2
+
+31
+00:05:37,590 --> 00:05:44,170
+And I pre-calculated what the integration from 0 to 2 is of x squared. It should be 2 and 2 thirds
+
+32
+00:05:44,590 --> 00:05:50,410
+Okay, so looking at this thing and I'm going to say I'm not only going to divide it into like a hundred hundred intervals
+
+33
+00:05:50,410 --> 00:05:51,630
+Which is not much
+
+34
+00:05:51,630 --> 00:05:55,090
+And let's see what happens
+
+35
+00:05:55,090 --> 00:05:59,770
+So I get you know 2 and 2 thirds
+
+36
+00:05:59,770 --> 00:06:05,970
+This point 6 though should be out here a good bit more than that though, right because like it's supposed to be real close to 2
+
+37
+00:06:05,970 --> 00:06:06,370
+thirds
+
+38
+00:06:06,370 --> 00:06:13,570
+Of that fraction and we can see like for example if I increase the number of things
+
+39
+00:06:14,290 --> 00:06:18,170
+That it started that you know now this this moved over a little bit more down here
+
+40
+00:06:18,170 --> 00:06:23,610
+So it's getting closer to 2 thirds like maybe I do a bunch of them getting closer to 2 thirds
+
+41
+00:06:23,610 --> 00:06:26,070
+It's never going to be exactly 2 thirds obviously for number reasons
+
+42
+00:06:26,070 --> 00:06:31,190
+You know one reason is you can't you know, you can't have exactly that that fraction in there and number two
+
+43
+00:06:31,190 --> 00:06:36,670
+It's you know, it's never going to be perfectly this discretization not ever going to be really equal to the to the value
+
+44
+00:06:36,670 --> 00:06:41,210
+Now these other parameters I'm printing out to the screen here. That's a that's B
+
+45
+00:06:41,750 --> 00:06:48,390
+That's the number of N that I ask it to do and this is the number of processes and this is the total elapsed time
+
+46
+00:06:48,390 --> 00:06:51,350
+Now I didn't ask you to do this on the homework assignment
+
+47
+00:06:51,350 --> 00:06:56,530
+But imagine you need to update that for your next version of the assignment like I want this there because
+
+48
+00:06:56,530 --> 00:07:05,090
+With a couple of things like moving forward. We need to be able to evaluate the performance of this program as we change N and P
+
+49
+00:07:06,070 --> 00:07:11,230
+And what do we mean? Like we'll do like for example, here we go. Check this out. I'm gonna go ahead
+
+50
+00:07:11,230 --> 00:07:18,530
+Let's let's say I'll go up to that big. So that's that only put point zero two seconds now that that's freaking fast already
+
+51
+00:07:18,530 --> 00:07:26,450
+That's not slow, right? I mean, okay. What about if I add another couple of zeros to it that took point two seconds
+
+52
+00:07:26,450 --> 00:07:29,170
+What if I've had another zero?
+
+53
+00:07:33,460 --> 00:07:35,020
+Alright 1.7 seconds
+
+54
+00:07:35,020 --> 00:07:41,480
+It's not great when you're dealing with programs that are already so fast that the amount of time it takes them to run is very slow
+
+55
+00:07:41,480 --> 00:07:47,240
+Anyway, like very excuse me very fast and ie very short anyway, but this first program we've got
+
+56
+00:07:47,240 --> 00:07:51,020
+What's the loop structure in there? Is it a triple quadruply nested for loop?
+
+57
+00:07:51,660 --> 00:07:57,360
+No, it's just a one-dimensional floor loop. So our computer is pretty fast nowadays
+
+58
+00:07:57,360 --> 00:07:59,840
+It's gonna do a one-dimensional for loop really freaking fast anyway
+
+59
+00:08:01,380 --> 00:08:06,840
+But if we increase the precision now you think about what we're doing here every time we we do this
+
+60
+00:08:06,840 --> 00:08:10,880
+We're increasing the fidelity of our model because if you think about it
+
+61
+00:08:10,880 --> 00:08:15,160
+This is supposed to be equal to the analytical integration from a to b of x squared
+
+62
+00:08:15,160 --> 00:08:22,860
+So the bit the more divisions you have the smaller the width of each division and the more this Riemann summation turns out to be
+
+63
+00:08:22,860 --> 00:08:24,840
+like the integral of it, right
+
+64
+00:08:25,800 --> 00:08:29,200
+So I want you to think about like this it's like in a science program
+
+65
+00:08:29,200 --> 00:08:33,100
+This would be us be getting better fidelity in our model, you know
+
+66
+00:08:33,100 --> 00:08:34,820
+Imagine you're talking about a picture of somebody
+
+67
+00:08:34,820 --> 00:08:40,180
+This is like difference between like a 10 by 10 image and a 20 by 20 or a thousand by thousand image
+
+68
+00:08:40,180 --> 00:08:44,420
+Like you you're gonna get more less pick less pixelation as you get more
+
+69
+00:08:44,420 --> 00:08:48,180
+Spatial fidelity. Well here we're doing the same thing
+
+70
+00:08:48,180 --> 00:08:54,000
+We're getting more spatial about developing fidelity by dividing the interval from a to b into smaller smaller chunks
+
+71
+00:08:54,040 --> 00:08:55,880
+By having in be larger, right?
+
+72
+00:08:56,440 --> 00:09:02,320
+now really what I'm doing here is just making in big enough that it takes a little bit of time because if I
+
+73
+00:09:02,320 --> 00:09:06,940
+What are we doing parallel programming? One thing is to make it faster. Well, you don't need to make something
+
+74
+00:09:06,940 --> 00:09:09,380
+That's two hundredths of a second faster do you?
+
+75
+00:09:10,300 --> 00:09:14,840
+But something and even really one point was the 1.7 seconds. That's not great
+
+76
+00:09:14,840 --> 00:09:17,260
+But now what about if I kick this up by another factor of 10?
+
+77
+00:09:19,780 --> 00:09:20,140
+Now
+
+78
+00:09:20,140 --> 00:09:24,500
+It just blew out and that's because the data type is being used for this
+
+79
+00:09:24,500 --> 00:09:27,680
+Isn't big enough to hold a number that's that large
+
+80
+00:09:27,680 --> 00:09:32,120
+So, you know, I could try to change my data types to be bigger
+
+81
+00:09:32,120 --> 00:09:34,660
+I could do that, but I don't want to I don't want to do that right now
+
+82
+00:09:34,660 --> 00:09:38,600
+So what I don't know like what is like the biggest thing that I could that I could do here now
+
+83
+00:09:38,600 --> 00:09:41,320
+We could go work backwards and figure out what about if I made this like a two?
+
+84
+00:09:46,100 --> 00:09:51,000
+So about three point seven seconds that makes sense because it was one point seven seconds before and I just
+
+85
+00:09:51,000 --> 00:09:54,680
+Doubled the amount of work that it has to do in that for loop, but it went up to three point seven
+
+86
+00:09:54,680 --> 00:10:01,200
+So I'm feeling pretty good about that now three point seven is big enough that we can actually we can actually parallelize that we can
+
+87
+00:10:01,200 --> 00:10:06,280
+We could watch it get faster. Like for example, that was with two processes. What about if I only use one process?
+
+88
+00:10:07,020 --> 00:10:11,460
+Now I don't remember if I have this written in a way that will be okay with one process or not. Let's see
+
+89
+00:10:18,220 --> 00:10:22,440
+Six point five seconds. Okay, so one here we go now, right? So
+
+90
+00:10:22,440 --> 00:10:27,280
+So if we're talking about P
+
+91
+00:10:27,280 --> 00:10:36,840
+All right, so we went from one to two. So the time on P so one took what six point five. What did you take?
+
+92
+00:10:38,680 --> 00:10:43,120
+Three point four, let's go do let's go do
+
+93
+00:10:43,120 --> 00:10:55,460
+Four all right one point eight
+
+94
+00:11:02,320 --> 00:11:07,080
+It's still getting smaller. What about if I now my computer only has 12 cores?
+
+95
+00:11:08,160 --> 00:11:09,700
+So what about if I do eight?
+
+96
+00:11:11,820 --> 00:11:20,890
+Double the number of processes again point nine five. Okay, so eight
+
+97
+00:11:20,890 --> 00:11:25,670
+Point nine five
+
+98
+00:11:25,670 --> 00:11:30,350
+Now I can't remember my computer the other four cores. I have maybe efficiency cores
+
+99
+00:11:30,350 --> 00:11:35,130
+They're not as fast as the other cores, but let's see what happens if we go up to 12
+
+100
+00:11:35,130 --> 00:11:40,330
+These not all the cores on my computer at the same speed and that means it's a heterogeneous system
+
+101
+00:11:40,330 --> 00:11:42,050
+which means it's a little hard to
+
+102
+00:11:42,050 --> 00:11:43,470
+to kind of
+
+103
+00:11:43,470 --> 00:11:46,990
+Think about like how it ought to perform because they're not all the same speed
+
+104
+00:11:46,990 --> 00:11:50,990
+Like if you're gonna work on something, they're not all the same speed you wouldn't divide the workup evenly
+
+105
+00:11:50,990 --> 00:11:54,430
+Would you you give the slow processors less work to do?
+
+106
+00:11:55,110 --> 00:11:59,230
+But we haven't done that here. Right? So let's see. Let's do 12
+
+107
+00:12:01,210 --> 00:12:09,440
+Point seven. Well now
+
+108
+00:12:09,440 --> 00:12:13,620
+So if I were to graph that out
+
+109
+00:12:13,620 --> 00:12:17,320
+so one
+
+110
+00:12:17,320 --> 00:12:20,160
+two three four
+
+111
+00:12:20,160 --> 00:12:30,930
+Six seven eight nine ten eleven twelve. All right, so I don't know like I'd get some sort of thing, right?
+
+112
+00:12:31,070 --> 00:12:32,610
+so up here at this one is a
+
+113
+00:12:32,610 --> 00:12:40,670
+Six point five and then it's dropping and it's dropping like this right at times doing something like that kind of
+
+114
+00:12:41,710 --> 00:12:42,850
+Now the speed up
+
+115
+00:12:42,850 --> 00:12:48,010
+Remember is the time on one divided by the time on P. That's what we said before right?
+
+116
+00:12:48,190 --> 00:12:51,330
+So if we were to do this, let's calculate the speed up here
+
+117
+00:12:51,330 --> 00:12:56,930
+So the speed up of
+
+118
+00:12:56,930 --> 00:13:03,370
+One processor over one processor is just T sub one divided by T sub one
+
+119
+00:13:03,370 --> 00:13:09,570
+Which is six point five by six point five which is one. So it's one times as fast obviously because it's the it's the baseline, right?
+
+120
+00:13:10,210 --> 00:13:11,390
+Now what about this one?
+
+121
+00:13:12,290 --> 00:13:16,290
+This one's going to be a time on one divided by the time on two
+
+122
+00:13:16,290 --> 00:13:21,430
+So this will be six point five divided by three point four. Can somebody put that in the calculator really quickly?
+
+123
+00:13:21,590 --> 00:13:22,690
+Just give me a number for that
+
+124
+00:13:22,690 --> 00:13:34,000
+All right, so one point nine times. All right, let's do this one too. This is six point five divided by one point eight
+
+125
+00:13:34,100 --> 00:13:37,830
+Three point six
+
+126
+00:13:37,830 --> 00:13:45,650
+See point six times let's do this one six point five by one point nine five
+
+127
+00:13:45,650 --> 00:13:55,990
+Eight X and then finally let's do this one six point five divided by
+
+128
+00:13:55,990 --> 00:14:03,520
+3x so
+
+129
+00:14:03,520 --> 00:14:08,400
+The fastest we ever made it was nine point three times faster than the baseline
+
+130
+00:14:08,400 --> 00:14:11,200
+So the parallel version on our computer up to twelve processors
+
+131
+00:14:11,200 --> 00:14:15,220
+We could max out at about nine point three times faster, at least for the stuff
+
+132
+00:14:15,220 --> 00:14:18,280
+I checked I didn't try running any more processes than this
+
+133
+00:14:18,280 --> 00:14:20,160
+I don't even have any more cores than that
+
+134
+00:14:20,160 --> 00:14:24,900
+So my expectation would be if I keep increasing number of processes at some point in time and start sucking
+
+135
+00:14:24,900 --> 00:14:29,040
+Like for example, let's try this. I don't
+
+136
+00:14:29,040 --> 00:14:40,520
+What about if we say 20 now it says I got to over subscribe it right
+
+137
+00:14:40,520 --> 00:14:43,220
+So let me over subscribe
+
+138
+00:14:51,460 --> 00:14:53,600
+0.73 that's worse than it was at 12
+
+139
+00:14:53,600 --> 00:14:59,240
+That's what I mean. If you just increase our increasing number of processes think about it. They're sharing these cores
+
+140
+00:14:59,240 --> 00:15:03,320
+They're not they're not they're not gonna be like if I did if I went up here and I said, all right
+
+141
+00:15:03,320 --> 00:15:04,180
+I want to do a 200
+
+142
+00:15:04,180 --> 00:15:13,670
+It's even slower. So
+
+143
+00:15:13,670 --> 00:15:18,230
+Eventually, what would happen is we kept this thing up it would do like this
+
+144
+00:15:18,230 --> 00:15:20,150
+It would just start it would start doing that
+
+145
+00:15:20,150 --> 00:15:25,270
+So there's no point in going any further than this because it's not getting faster, right?
+
+146
+00:15:26,250 --> 00:15:28,450
+Okay, let's plot this speed up
+
+147
+00:15:28,450 --> 00:15:36,470
+All right. So now we've got all this axis P. So same thing. So 1 2 3 4 5 6 7 8 9 10 11 12
+
+148
+00:15:36,470 --> 00:15:41,370
+And the first one at 1 that's going to be a speed up of 1
+
+149
+00:15:41,370 --> 00:15:42,950
+That's 1.0
+
+150
+00:15:42,950 --> 00:15:45,870
+now the ideal speed up
+
+151
+00:15:45,870 --> 00:15:51,410
+Shit I'm sorry, I was thinking about efficiency. Let's put one down here
+
+152
+00:15:52,050 --> 00:15:54,790
+Now the ideal speed up would be a straight line
+
+153
+00:15:54,790 --> 00:16:01,930
+With a slope of 1 here, right because in the ideal case speed up ideal would be equal to number of processes
+
+154
+00:16:01,930 --> 00:16:05,810
+Like if it was 1 2 3 4 processor before times as fast
+
+155
+00:16:05,810 --> 00:16:08,950
+It was 8 at the 8 times as fast as 12 at the 12 times as fast
+
+156
+00:16:08,950 --> 00:16:17,190
+All right, but now let's go and actually look at this thing. So we got 1 2 3 4 5 6 7 8 9 10 11 12
+
+157
+00:16:17,190 --> 00:16:20,710
+And let's plug in these actual numbers move. We measured this empirically, right?
+
+158
+00:16:22,170 --> 00:16:25,050
+So let's see. So 1 2
+
+159
+00:16:25,050 --> 00:16:35,030
+2 3 4 5 6 7 8 9
+
+160
+00:16:35,030 --> 00:16:35,950
+10
+
+161
+00:16:35,950 --> 00:16:39,010
+Alright, so 1 it was 1 on
+
+162
+00:16:39,010 --> 00:16:44,250
+2 it was 2. It was 1.9. So not quite not quite up there at that line, right?
+
+163
+00:16:44,970 --> 00:16:48,650
+Let's see 4 it was at 3.6
+
+164
+00:16:49,750 --> 00:16:50,850
+Maybe here
+
+165
+00:16:50,850 --> 00:16:52,950
+It's a little exaggerated
+
+166
+00:16:52,950 --> 00:16:56,290
+At 8 it was 6.8. So 8
+
+167
+00:16:56,290 --> 00:17:00,470
+8.8 maybe here and
+
+168
+00:17:00,470 --> 00:17:02,390
+12 it was 9.3
+
+169
+00:17:02,390 --> 00:17:03,270
+12
+
+170
+00:17:03,270 --> 00:17:07,730
+3 so this thing is kind of doing like this
+
+171
+00:17:07,730 --> 00:17:10,510
+You see that
+
+172
+00:17:10,510 --> 00:17:13,170
+That's pretty normal
+
+173
+00:17:16,150 --> 00:17:16,750
+Because
+
+174
+00:17:16,750 --> 00:17:21,930
+The gap that there is between this and this is how much you're not getting of the maximum
+
+175
+00:17:21,930 --> 00:17:23,170
+finally
+
+176
+00:17:23,170 --> 00:17:28,230
+The efficiency is equal to the speed up on P
+
+177
+00:17:28,230 --> 00:17:30,050
+divided by P
+
+178
+00:17:30,050 --> 00:17:33,590
+So if we were to plot our efficiency
+
+179
+00:17:33,590 --> 00:17:40,130
+And P 1 2 3 4 5 6 7 8 9 10 11 12 got efficiency
+
+180
+00:17:40,750 --> 00:17:45,250
+Highest efficiency is 1.0 with 1. So the ideal efficiency would be like this
+
+181
+00:17:45,250 --> 00:17:49,450
+But then this thing starts going down
+
+182
+00:17:49,450 --> 00:17:57,870
+Very quickly, right? Like what's the efficiency right here? So the speed up on this last one is 9.3
+
+183
+00:17:57,870 --> 00:18:02,530
+But the ideal speed up should have been equal to P. So it should have been 12
+
+184
+00:18:02,530 --> 00:18:04,950
+So what is 9.3 divided by 12 Mike?
+
+185
+00:18:08,340 --> 00:18:08,900
+Approximately
+
+186
+00:18:10,640 --> 00:18:10,540
+0.8
+
+187
+00:18:14,990 --> 00:18:17,370
+So 80%
+
+188
+00:18:17,370 --> 00:18:22,530
+Okay, so not you're not too bad, I mean it's 80%
+
+189
+00:18:22,530 --> 00:18:26,450
+But you're you know, or you've got 12 cores doing
+
+190
+00:18:26,450 --> 00:18:30,680
+you know
+
+191
+00:18:30,680 --> 00:18:37,480
+They're being used and they run a little bit longer than they should have run if it was the ideal case
+
+192
+00:18:37,480 --> 00:18:39,900
+So so more electricity is being spent now
+
+193
+00:18:40,620 --> 00:18:43,780
+Obviously it's 12 times as much for that time
+
+194
+00:18:43,780 --> 00:18:50,200
+The time has only been shortened to one ninth the original time, but the power has been multiplied by 12 times
+
+195
+00:18:50,200 --> 00:18:56,260
+Right. So that's not where that efficiency is happening. Like it's not getting it's not getting a hundred percent efficiency in this
+
+196
+00:18:56,260 --> 00:18:57,900
+It's never going to now
+
+197
+00:18:57,900 --> 00:19:02,910
+That was for this particular
+
+198
+00:19:02,910 --> 00:19:04,810
+number of in
+
+199
+00:19:05,510 --> 00:19:10,210
+But now what about if I had chosen a smaller in and
+
+200
+00:19:10,210 --> 00:19:11,590
+I wanted to get all this data
+
+201
+00:19:11,590 --> 00:19:16,130
+What about if I wanted to choose a bunch of different ends and I wanted to gather this data and plot it
+
+202
+00:19:16,130 --> 00:19:23,370
+So as Chad chippy teach and say give me a script that will run my program repeatedly get the answers from it and plot it
+
+203
+00:19:23,370 --> 00:19:24,130
+Okay
+
+204
+00:19:24,130 --> 00:19:30,430
+I've considered a completely acceptable thing for the class. We said you just use the stuff
+
+205
+00:19:30,470 --> 00:19:35,350
+Okay, we got to know what we're looking for here though. And what we're trying to figure out is
+
+206
+00:19:35,350 --> 00:19:40,810
+What is the behavior of our program as a function of two variables changing P and the end?
+
+207
+00:19:40,810 --> 00:19:46,770
+Okay, so we want to see like this the surface if you will. Okay, so
+
+208
+00:19:46,770 --> 00:19:49,890
+Got a Python program here
+
+209
+00:19:52,290 --> 00:19:56,430
+NPI trap
+
+210
+00:20:01,570 --> 00:20:01,930
+I
+
+211
+00:20:01,930 --> 00:20:00,930
+H
+
+212
+00:20:00,930 --> 00:20:04,890
+The interface for this thing
+
+213
+00:20:04,890 --> 00:20:06,390
+so
+
+214
+00:20:06,390 --> 00:20:13,410
+I've got it running so that these are the parameters that you tell it you tell it where you want to start integrating from so the a to
+
+215
+00:20:13,410 --> 00:20:13,730
+be
+
+216
+00:20:13,730 --> 00:20:19,430
+You tell it like the smallest in you want to do. So what's the smallest size in I want to do
+
+217
+00:20:19,430 --> 00:20:24,010
+What's the biggest size in I want to do and how much increment don't want to do like don't want to go from a hundred
+
+218
+00:20:24,010 --> 00:20:25,970
+Thousand to one million a thousand at a time
+
+219
+00:20:25,970 --> 00:20:33,330
+For all those different sizes of in like thinking like what about the ends a thousand ten thousand hundred thousand one million like that
+
+220
+00:20:33,330 --> 00:20:38,190
+Like now this is not a multiplicative increment. It's an active, but you could have it multiplicative
+
+221
+00:20:38,190 --> 00:20:41,710
+So it's you know doubling or quadrupling every time or whatever
+
+222
+00:20:41,710 --> 00:20:45,710
+This is the lowest the fewest number of processes. I want to run it on
+
+223
+00:20:45,710 --> 00:20:49,730
+This is the maximum number of processes. I want to run it on and this is how many processes I
+
+224
+00:20:50,230 --> 00:20:55,090
+Change it by each time song and I'm going to choose one because I want to try it for everything like one process two
+
+225
+00:20:55,090 --> 00:20:58,230
+Three four five want to collect all that data and plot it
+
+226
+00:20:58,230 --> 00:21:01,450
+I want to do this stuff manually run it over and over and over again, right?
+
+227
+00:21:01,930 --> 00:21:02,610
+so
+
+228
+00:21:02,610 --> 00:21:05,670
+We're gonna give this a shot here. Now. Let's see
+
+229
+00:21:05,670 --> 00:21:11,250
+We ran this thing here
+
+230
+00:21:11,250 --> 00:21:15,320
+all right, so
+
+231
+00:21:15,320 --> 00:21:18,040
+Let's take a look at this here
+
+232
+00:21:18,040 --> 00:21:20,840
+So here I'm saying I want us to
+
+233
+00:21:22,280 --> 00:21:22,760
+Run
+
+234
+00:21:22,760 --> 00:21:23,480
+the program
+
+235
+00:21:23,480 --> 00:21:27,920
+Integrate from zero to two. I want to start at n equals this
+
+236
+00:21:27,920 --> 00:21:31,900
+I want to end that n equals that and I want to go up by this amount every in
+
+237
+00:21:31,900 --> 00:21:38,260
+And I want to go from one process to 12 because that's number of cores my machine has and I want to go up
+
+238
+00:21:38,260 --> 00:21:39,440
+By one core every time
+
+239
+00:21:39,440 --> 00:21:43,440
+Okay. Now. I'm not saying what program to run here
+
+240
+00:21:43,440 --> 00:21:50,080
+Like I'm but in the background the default is right with MPI CC as a sub process using my using my thing
+
+241
+00:21:50,080 --> 00:21:53,340
+alright, so I
+
+242
+00:21:53,340 --> 00:21:57,300
+Have it have a little give us a progress bar because it knows it's going to do 120 experiments, right?
+
+243
+00:21:57,380 --> 00:22:01,840
+It knows the number of times in loop is going to happen and time P loop is going to happen
+
+244
+00:22:01,840 --> 00:22:03,800
+That's the product so the 120 experiments
+
+245
+00:22:03,800 --> 00:22:06,320
+So it's doing 120 here
+
+246
+00:22:06,320 --> 00:22:17,700
+It's got a bunch of that stuff and I haven't dropped out some PNGs into the file system. That's got the timing on it
+
+247
+00:22:17,700 --> 00:22:19,320
+All right, so I'm going to open up this folder
+
+248
+00:22:19,320 --> 00:22:21,820
+So let's look at the timing
+
+249
+00:22:26,260 --> 00:22:26,660
+So
+
+250
+00:22:26,660 --> 00:22:31,700
+The end that I chose like so look at this like so the biggest end is the one that took the most amount of time
+
+251
+00:22:31,700 --> 00:22:32,860
+Which makes sense, right?
+
+252
+00:22:36,800 --> 00:22:37,460
+so
+
+253
+00:22:37,460 --> 00:22:41,400
+Our total time now is only a little bit more than a third of a second here
+
+254
+00:22:41,400 --> 00:22:47,320
+So, you know, but we can see that as we increase the number of processes for that size in we got this end
+
+255
+00:22:47,320 --> 00:22:52,580
+That's going down here. We got that. Excuse me the time that's going down
+
+256
+00:22:52,580 --> 00:22:56,180
+Now look at this one
+
+257
+00:22:56,720 --> 00:23:02,860
+That's with only that number of trapezoids or whatever like that that didn't really help too much here, didn't it?
+
+258
+00:23:03,600 --> 00:23:04,740
+So that means that the amounts
+
+259
+00:23:04,740 --> 00:23:10,180
+Betterness that you can get it's kind of limited to how much work you had to do to start out with
+
+260
+00:23:10,180 --> 00:23:18,000
+This first thing was running less than 0.05 seconds. It was already running fast now even starting in PI
+
+261
+00:23:18,000 --> 00:23:22,060
+Even running a program in the operating system. It's going to take some overhead
+
+262
+00:23:22,060 --> 00:23:26,560
+It doesn't matter if that for loop happens like this, right that that other stuff's gonna be some fixed overhead
+
+263
+00:23:26,560 --> 00:23:32,060
+So you're gonna see that a lot of diminishing returns there. So what about if we look at the speed up for this?
+
+264
+00:23:33,600 --> 00:23:38,540
+So when the number of trapezoids the amount of work that had to be done is small
+
+265
+00:23:38,540 --> 00:23:44,180
+You see we don't ever even get I mean we were on two processes and it's not even it's a little bit faster, but not much
+
+266
+00:23:44,180 --> 00:23:49,720
+Eight and twelve went up a little bit didn't even get that it didn't even get better than 1.5 times as fast
+
+267
+00:23:50,440 --> 00:23:55,900
+That's really inefficient because you're using eight processors, but you're only getting a 1.5 speed up
+
+268
+00:23:55,900 --> 00:23:59,160
+You should be getting a eight speed up right ideally
+
+269
+00:23:59,160 --> 00:24:05,000
+So we can see that like for example for the really big number of them in though. We're getting a little bit better
+
+270
+00:24:05,000 --> 00:24:06,440
+So for here for in here
+
+271
+00:24:06,440 --> 00:24:10,280
+This one, you know, we ran on eight processes
+
+272
+00:24:10,280 --> 00:24:15,760
+We got a little bit more than four times as efficient four times the speed of now. What about it was exactly four?
+
+273
+00:24:16,260 --> 00:24:22,660
+All right, so that would be four divided by eight. That's only 50% efficient. Now. It's good that it's at least kind of like this line
+
+274
+00:24:22,660 --> 00:24:29,440
+But it's slow is really low. It's not it's not keeping up with the ideal speed up. Where are the ideal speed of the
+
+275
+00:24:29,440 --> 00:24:34,620
+Yeah, the ideal speed up line could be here. I should add that to my script here, too
+
+276
+00:24:34,620 --> 00:24:41,040
+So that running on two should be two times faster running on four should be four times faster. So the ideal speed up
+
+277
+00:24:41,520 --> 00:24:47,080
+Is up here. Now notice these things aren't keeping up with that. They're good bit lower. Does that kind of make sense?
+
+278
+00:24:50,120 --> 00:24:58,570
+All right, what about the the efficiency here so
+
+279
+00:25:06,980 --> 00:25:15,780
+Again which one appears to have the best efficiency the one that has the most work to do you see that
+
+280
+00:25:15,780 --> 00:25:18,680
+Now let's see
+
+281
+00:25:18,680 --> 00:25:20,820
+Let's run this again
+
+282
+00:25:23,620 --> 00:25:25,140
+Wonder if we can make this anymore
+
+283
+00:25:25,140 --> 00:25:32,280
+Is that I don't know if that's going to overflow the bounds of the thing?
+
+284
+00:25:32,440 --> 00:25:35,460
+So it's not notice how it slows down right here
+
+285
+00:25:35,460 --> 00:25:40,100
+You see how that and then it gets faster and it slows down. That's because as the end gets larger
+
+286
+00:25:40,100 --> 00:25:42,460
+It's taking longer to run my program at the very beginning
+
+287
+00:25:42,460 --> 00:25:47,180
+It's on the early iterations of that in loop and at the end it's it's taking a little bit longer here
+
+288
+00:25:47,180 --> 00:25:51,560
+So let's see if we get anything. That's the more we've
+
+289
+00:25:51,560 --> 00:25:55,720
+We've increased the amount of work that had to be done by a factor of ten
+
+290
+00:25:56,580 --> 00:25:58,960
+Right. So that means there's more work that has to be done
+
+291
+00:25:58,960 --> 00:26:02,900
+Which means it should benefit from this parallelism even more than the previous one
+
+292
+00:26:02,900 --> 00:26:07,740
+I ran because there was more work that could be divided, right? That was the idea
+
+293
+00:26:07,740 --> 00:26:12,920
+So let's watch this thing happen and see what happens if we come over here and say we look at H top here
+
+294
+00:26:12,920 --> 00:26:15,320
+You know, we can see that like
+
+295
+00:26:15,320 --> 00:26:20,680
+You know, it's going remember. It's going one two three four five six seven nine ten eleven twelve one two three four five six seven
+
+296
+00:26:20,680 --> 00:26:22,380
+Eight nine twelve so you can see it kind of you know
+
+297
+00:26:22,380 --> 00:26:24,400
+We don't have a sample rate here high enough
+
+298
+00:26:24,400 --> 00:26:27,500
+But you can see that like the first few cores are always engaged
+
+299
+00:26:27,500 --> 00:26:33,140
+These other ones only only if it's the fact that they're up to that number of cores that are being they're being handled there
+
+300
+00:26:33,140 --> 00:26:40,080
+So come back over here. We get this we look back into our
+
+301
+00:26:40,080 --> 00:26:42,900
+Timing
+
+302
+00:26:42,900 --> 00:26:47,320
+Now look at that. That's a lot smoother. That's another thing you're going to notice is that
+
+303
+00:26:48,060 --> 00:26:54,200
+Little small perturbations change the timing a lot like me moving my mouse around me looking at H top
+
+304
+00:26:54,200 --> 00:26:59,160
+That that causes it to take different amounts of time when it's running because I'm using my computer
+
+305
+00:26:59,160 --> 00:27:05,920
+But if you if the time of your program starts going even higher those small perturbations and timing of me messing with my computer
+
+306
+00:27:05,920 --> 00:27:10,840
+Don't influence the answer very much, right? Now, what would you really want to do in real life?
+
+307
+00:27:10,960 --> 00:27:15,540
+If you were going to measure this for every value of NMP here like for every
+
+308
+00:27:16,580 --> 00:27:19,080
+Work problem signs in and number of processes P
+
+309
+00:27:19,080 --> 00:27:22,660
+You might want to do a hundred of those and take the average of it
+
+310
+00:27:22,660 --> 00:27:29,760
+So that you get kind of the law large numbers so that these little perturbations that if if the time is really small
+
+311
+00:27:29,760 --> 00:27:34,360
+You have to do that kind of thing because those small perturbations mess mess up your stuff
+
+312
+00:27:34,360 --> 00:27:36,800
+You know you run at one time it might be faster
+
+313
+00:27:36,800 --> 00:27:38,320
+You run up the next time a little bit slower
+
+314
+00:27:38,320 --> 00:27:41,940
+You look at what the average amount of time is this that now this program that I wrote here
+
+315
+00:27:41,940 --> 00:27:48,960
+it only does one experiment for the data point, but you could say hey now do a hundred experiments for every data point and
+
+316
+00:27:48,960 --> 00:27:52,700
+Plot the average along with the standard deviations on top of this thing
+
+317
+00:27:52,700 --> 00:27:58,240
+We could look and see like how standard deviation changes as a function of the NP and the time look at that
+
+318
+00:27:58,240 --> 00:28:10,000
+What about the speed up now see now this is starting to look a little bit better because look at this
+
+319
+00:28:12,260 --> 00:28:16,040
+Two two processes two times faster four processes
+
+320
+00:28:16,040 --> 00:28:23,340
+This one is getting closer to four remember before this was way down here, but for this this really large size down here
+
+321
+00:28:25,480 --> 00:28:35,600
+It's getting it's going up and then of course for the one that was the smallest
+
+322
+00:28:35,600 --> 00:28:39,600
+It still has kind of this this issue here
+
+323
+00:28:39,600 --> 00:28:45,680
+And what about for the efficiency?
+
+324
+00:28:48,120 --> 00:28:48,640
+now
+
+325
+00:28:48,640 --> 00:28:52,360
+Even as our processes go up. We're not we're not staying you know at
+
+326
+00:28:52,360 --> 00:29:01,980
+At a hundred percent here, but we're staying closer to it up there. You know so does that make sense?
+
+327
+00:29:03,680 --> 00:29:10,160
+Now if you look at the syllabus for this course
+
+328
+00:29:21,140 --> 00:29:39,160
+Siminac about old load there's a team project. There's also some assignments and
+
+329
+00:29:39,600 --> 00:29:42,080
+Let's see if we go down all the way to the end here
+
+330
+00:29:42,080 --> 00:29:51,430
+Remember where it is in here, but one of the things that maps to this course is
+
+331
+00:29:51,430 --> 00:29:58,950
+Communication skills verbally and and in writing okay, so there's going to be reports in here, and we're not going to do presentations
+
+332
+00:29:58,950 --> 00:30:02,470
+In front of the class we're going to do one of these things where you record yourself
+
+333
+00:30:02,470 --> 00:30:09,270
+You know, but they're still going to have to be like you talking your way through logically through everything that's kind of going on
+
+334
+00:30:10,170 --> 00:30:13,730
+So how many of you have used LaTeX before to write reports?
+
+335
+00:30:15,530 --> 00:30:19,010
+So that's the that's what we're going to be using in here to write reports
+
+336
+00:30:19,010 --> 00:30:23,210
+So let's talk about that really quickly because I'm going to make a new assignment
+
+337
+00:30:23,210 --> 00:30:28,030
+You know that's based on this first one so kind of like the same thing that we've just done here
+
+338
+00:30:28,030 --> 00:30:32,850
+You know it should be an easy aid for you guys because we did it here. I'm going to give you the code
+
+339
+00:30:32,850 --> 00:30:38,190
+ask for a couple of things to be changed with it, but then I want to see like a
+
+340
+00:30:39,070 --> 00:30:44,050
+Presentation about this I want to see a report about this all in the style that we're doing now later
+
+341
+00:30:44,050 --> 00:30:48,270
+We'll be doing parallel programs that are like you're we're doing it from scratch and they're more complicated
+
+342
+00:30:48,270 --> 00:30:53,810
+But I don't want you to be hit with the reports and the presentations at the same time as that technical stuff
+
+343
+00:30:53,810 --> 00:30:58,010
+I want us to get used to doing our reports and used to doing our presentations this way
+
+344
+00:30:58,010 --> 00:31:02,750
+Along and along for every assignment that we do okay, so
+
+345
+00:31:04,570 --> 00:31:08,310
+If you if you've got low tech on your own on your own computer system
+
+346
+00:31:08,310 --> 00:31:11,490
+That's great. If you've got it on your own laptop, and you can do it on there
+
+347
+00:31:11,490 --> 00:31:15,910
+I mean, that's what I do, but if you don't then I would suggest that you use a
+
+348
+00:31:15,910 --> 00:31:16,770
+Overleaf
+
+349
+00:31:16,770 --> 00:31:19,730
+so you should create yourself a
+
+350
+00:31:19,730 --> 00:31:27,470
+Account overleaf comm and if you use your student email address like with a dot edu
+
+351
+00:31:27,470 --> 00:31:28,610
+I mean, I think it's free
+
+352
+00:31:28,610 --> 00:31:32,930
+I mean, it's probably free anyway, but like I think they have some kind of deal where if it's a dot edu addresses
+
+353
+00:31:32,930 --> 00:31:35,710
+Maybe you can collaborate with more people or something
+
+354
+00:31:35,710 --> 00:31:36,070
+You know
+
+355
+00:31:36,070 --> 00:31:40,830
+I don't know like there's a kind of a limit if you don't pay for it to the number of people that can
+
+356
+00:31:40,830 --> 00:31:47,410
+Collaborate in a single project, but these first few reports and presentations you're doing they're all individual the group thing won't happen
+
+357
+00:31:47,410 --> 00:31:54,390
+But except for that group assignment at the end, but all the assignments are all individual so individual reports individual presentations
+
+358
+00:31:54,390 --> 00:31:56,230
+so
+
+359
+00:31:57,810 --> 00:32:02,970
+Let's go back over here. Let's go to Moodle and
+
+360
+00:32:02,970 --> 00:32:06,290
+Let's check on something here so 473
+
+361
+00:32:06,290 --> 00:32:09,070
+import up files
+
+362
+00:32:09,070 --> 00:32:14,850
+And we had this fourth 73 dot zip. Let me look to see what was in that thing
+
+363
+00:32:14,850 --> 00:32:24,320
+Hey, at least the internet's working today
+
+364
+00:32:24,320 --> 00:32:27,000
+Positive about that
+
+365
+00:32:27,000 --> 00:32:29,660
+It is yeah, it's a good thing
+
+366
+00:32:30,700 --> 00:32:35,080
+So my feeling is this is it fault can't have everything in it that I'm looking for
+
+367
+00:32:35,080 --> 00:32:45,880
+It doesn't okay, so right you have you needed to have a CI login right for Coastal
+
+368
+00:32:45,880 --> 00:32:48,460
+I had asked you to make sure you had that so if you go to CI
+
+369
+00:32:48,460 --> 00:32:53,320
+If you got you go to code dot Coastal dot edu
+
+370
+00:32:53,320 --> 00:32:57,400
+And we sign in
+
+371
+00:33:07,680 --> 00:33:12,500
+Apparently not. Thanks. I'm gonna get my password manager out here. See if I remember what it is here
+
+372
+00:33:16,270 --> 00:33:21,970
+The code that coastal that you the same as the same password as it is for CI coastal dot edu. All right
+
+373
+00:33:21,970 --> 00:33:35,720
+Let's see. This is called
+
+374
+00:33:35,720 --> 00:33:41,060
+CI coastal why is it that I'm not typing it correctly ah
+
+375
+00:33:41,060 --> 00:33:44,700
+That's one different than what I was typing okay
+
+376
+00:33:44,700 --> 00:33:49,900
+So not now let me see W Jones
+
+377
+00:33:49,900 --> 00:34:00,880
+All right, so I logged in
+
+378
+00:34:02,220 --> 00:34:08,140
+And if you get in there, I think if we look over here because I have a links directory
+
+379
+00:34:08,140 --> 00:34:13,060
+No, but I'll provide it
+
+380
+00:34:13,060 --> 00:34:17,660
+So if you go to
+
+381
+00:34:17,660 --> 00:34:25,940
+Code dot coastal dot edu and you go to W Jones dash get repo
+
+382
+00:34:25,940 --> 00:34:32,160
+You'll have read access to this stuff. You can you can clone this repo or whatever you bring it down
+
+383
+00:34:35,440 --> 00:34:38,320
+So in there, what are we gonna see in there?
+
+384
+00:34:39,100 --> 00:34:41,200
+We're gonna see the classes that teach
+
+385
+00:34:41,200 --> 00:34:47,260
+210 310 473 207 and then this report this thing called LaTeX here, okay
+
+386
+00:34:47,260 --> 00:34:49,500
+And if we go into LaTeX
+
+387
+00:34:49,500 --> 00:34:51,500
+We go to into example
+
+388
+00:34:51,500 --> 00:34:56,100
+You'll see that there is a zip file in there called that's some general paper for class
+
+389
+00:34:56,100 --> 00:34:58,540
+Now how many of you have had a class before where we use this thing?
+
+390
+00:35:00,200 --> 00:35:04,600
+All right, so it's I'm just giving everybody an example where to start from that's that's what this is
+
+391
+00:35:04,600 --> 00:35:10,390
+So let's go ahead and download the file
+
+392
+00:35:10,390 --> 00:35:14,850
+Come over here
+
+393
+00:35:14,850 --> 00:35:38,620
+Open up the zip file. We'll see a bunch of a bunch of stuff in here
+
+394
+00:35:38,620 --> 00:35:45,280
+Okay, and the stuff that's in here LaTeX documents and style files and examples of how to do some stuff
+
+395
+00:35:45,280 --> 00:35:47,320
+I just want to bring us bring us over here into Overleaf
+
+396
+00:35:47,760 --> 00:35:50,500
+So we go back into Overleaf over here
+
+397
+00:35:50,500 --> 00:35:54,540
+I want to create a new project and I'm going to upload a project from this file
+
+398
+00:35:54,540 --> 00:35:58,900
+And again, if you already know everything about how to use it, LaTeX and all that that's fine
+
+399
+00:35:58,900 --> 00:36:02,060
+But it needs to use the style that this is so the IEEE
+
+400
+00:36:02,060 --> 00:36:07,840
+Style that I'm dealing with here. Now if you can do that your own way or whatever like you don't need to use this
+
+401
+00:36:07,840 --> 00:36:11,580
+But I'm just kind of showing you kind of what it's supposed to look like. So we're select a zip file
+
+402
+00:36:11,580 --> 00:36:12,400
+I'm gonna
+
+403
+00:36:12,400 --> 00:36:15,180
+Select this it's gonna upload it
+
+404
+00:36:15,560 --> 00:36:21,640
+And then it's gonna unzip it into a thing that we can edit and create our PDF right in here inside the inside of the web page
+
+405
+00:36:21,640 --> 00:36:45,480
+Theoretically that's not seem to do it is it?
+
+406
+00:36:46,120 --> 00:37:06,290
+Okay, so we're doing all right over there
+
+407
+00:37:06,290 --> 00:37:11,590
+There we go. Okay, so it finally loaded it up
+
+408
+00:37:11,590 --> 00:37:17,320
+Okay. Yes, I've got it. Thank you
+
+409
+00:37:18,860 --> 00:37:19,340
+So
+
+410
+00:37:19,340 --> 00:37:22,920
+If you look around in here, you've got some files that you can play with
+
+411
+00:37:22,920 --> 00:37:28,560
+The way this program this thing has been designed is is that there's this file that's called main dot tech
+
+412
+00:37:28,560 --> 00:37:30,200
+And in here, you know
+
+413
+00:37:30,200 --> 00:37:36,100
+You load up all the packages you plan to use that will help you so that does the right kind of this formatting and everything
+
+414
+00:37:36,100 --> 00:37:41,680
+That's correct. And then eventually down in here. You've got the you've got like the title of it
+
+415
+00:37:42,480 --> 00:37:48,800
+Go down here a little bit further. It's got the author information and then finally you begin your doc
+
+416
+00:37:48,800 --> 00:37:54,520
+You know the the document begins you include your abstract you include like the introduction whatever
+
+417
+00:37:54,520 --> 00:37:59,080
+These are the main things and basically these are just include so they don't have all the tech in this in this one file
+
+418
+00:37:59,080 --> 00:38:05,540
+Like that that means that I want to include like that's like saying pound include intro tech pound include related tech
+
+419
+00:38:05,540 --> 00:38:10,860
+And those are these files over here. So intro tech design conclusions abstract and all that sort of stuff
+
+420
+00:38:10,960 --> 00:38:17,260
+that's what this thing says to do then it says go ahead throw in a bibliography for all the things that we reference and
+
+421
+00:38:17,260 --> 00:38:19,260
+If you look over here
+
+422
+00:38:19,260 --> 00:38:24,320
+There's a reference dot bibliography file so you can put your references in there in the right format
+
+423
+00:38:24,320 --> 00:38:31,960
+So that then when you turn around and you know, like for example, let's this this thing was called exploring trade-off, but um
+
+424
+00:38:31,960 --> 00:38:37,820
+let's say here we came up here and we change this a little bit like so we're call it on my
+
+425
+00:38:44,080 --> 00:38:42,060
+NPI example
+
+426
+00:38:42,060 --> 00:38:48,140
+We go over here and we hit recompile
+
+427
+00:38:48,140 --> 00:38:53,350
+And you know, you can see the the changes over there
+
+428
+00:38:53,350 --> 00:38:58,950
+Then when you're done, you know, like you'll do two things when you upload this stuff to your answers
+
+429
+00:38:58,950 --> 00:39:00,450
+You'll want to have the PDF
+
+430
+00:39:00,450 --> 00:39:03,430
+That's compiled. It's got your report in it
+
+431
+00:39:03,430 --> 00:39:09,130
+But I also want the entire project downloaded and zipped up and submitted in the Moodle 2
+
+432
+00:39:09,330 --> 00:39:11,890
+So that if I want to recompile it I can
+
+433
+00:39:11,890 --> 00:39:13,710
+You don't you see what I'm saying?
+
+434
+00:39:14,190 --> 00:39:20,390
+So like I could have a program that would unzip recompile your stuff and look at it myself on my own computer
+
+435
+00:39:20,390 --> 00:39:22,810
+So, how do you do that?
+
+436
+00:39:22,810 --> 00:39:24,530
+You can come right over here to this menu
+
+437
+00:39:24,530 --> 00:39:29,350
+You say I want to download everything and this will download it that whatever state it's in
+
+438
+00:39:29,350 --> 00:39:32,830
+It's got all your stuff in it. You're ready to download it. You'll click that button
+
+439
+00:39:32,830 --> 00:39:35,650
+it'll download it and
+
+440
+00:39:35,750 --> 00:39:42,170
+You can submit both the PDF and the zip file separately from each other so that you know, both of them are there
+
+441
+00:39:42,170 --> 00:39:46,610
+Does that make sense? And I need these I need these things to
+
+442
+00:39:46,610 --> 00:39:51,650
+To to be well thought out written. I need you to have a problem with that chat GPT, right?
+
+443
+00:39:51,890 --> 00:39:55,710
+You use it to help write your paper. Okay, but I
+
+444
+00:39:55,710 --> 00:39:59,430
+Want to make I want it to look good. I wanted to have all the right pieces and parts in it
+
+445
+00:39:59,430 --> 00:40:01,670
+So I wanted to be something like this, you know
+
+446
+00:40:02,550 --> 00:40:06,310
+Let's say it's for this thing we're talking about right now might be like
+
+447
+00:40:06,310 --> 00:40:14,050
+Introductory evaluation of MPI program performance for trapezoid based integration
+
+448
+00:40:14,050 --> 00:40:20,970
+You know abstract, you know this paper we're going to lay out the problem, which was a
+
+449
+00:40:20,970 --> 00:40:28,830
+Numerical version of integration for one-dimensional problem using the trapezoid method that was originally written in C is a sequential program
+
+450
+00:40:28,830 --> 00:40:37,110
+It was then converted into an MPI program to leverage, you know, inter-processed communications for distributed shared memory machines
+
+451
+00:40:37,110 --> 00:40:44,310
+We're going to provide the problem description and development of the code the processes to think took place you blah blah blah blah
+
+452
+00:40:44,310 --> 00:40:48,030
+And we will show that we obtained results that showed that primarily
+
+453
+00:40:48,030 --> 00:40:49,830
+as
+
+454
+00:40:49,830 --> 00:40:51,610
+The problem size gets larger
+
+455
+00:40:51,610 --> 00:40:57,630
+So does the things like speed up and blah blah blah and we have better efficiency yada yada yada
+
+456
+00:40:57,630 --> 00:41:03,390
+And then you start your introduction here and you're going to be telling me what that you're going to talk about. What is integration?
+
+457
+00:41:04,330 --> 00:41:10,230
+What is numerical integration? You didn't talk about what trapezoids are you're gonna have pictures and figures of
+
+458
+00:41:10,230 --> 00:41:16,090
+Trapezoidal integration in here. It's gonna look good. It's gonna have captions that look right in your figures
+
+459
+00:41:16,090 --> 00:41:20,050
+Your figures are not going to be ridiculously big. So it takes up two columns
+
+460
+00:41:20,050 --> 00:41:24,270
+You're not gonna be ridiculously small so that you can't see them. It's going to look professional
+
+461
+00:41:24,990 --> 00:41:28,570
+When like this paper here, this is a professional looking paper
+
+462
+00:41:28,570 --> 00:41:31,650
+So when you think you said, what do you think looks good?
+
+463
+00:41:31,910 --> 00:41:33,690
+This looks good
+
+464
+00:41:33,690 --> 00:41:36,250
+Okay, I got about ten other words
+
+465
+00:41:36,250 --> 00:41:40,330
+I can provide you to give you an example of saying this is what something good looks like
+
+466
+00:41:40,330 --> 00:41:46,110
+And I want you to model it after it. They may say what Jesus like but the only thing I did this program was
+
+467
+00:41:46,110 --> 00:41:50,130
+I mean, I just I just took their code and I modified three things. That's all I did
+
+468
+00:41:51,210 --> 00:41:55,530
+Okay, that may be all you did but you're gonna write up a complete report as if we were doing this thing from scratch
+
+469
+00:41:55,530 --> 00:42:00,210
+You're explaining the entire thing. It's a complete report. That makes sense
+
+470
+00:42:00,210 --> 00:42:02,390
+Then you're gonna have you know
+
+471
+00:42:02,390 --> 00:42:08,810
+Some pseudocode segments you're gonna have sexy. Are you going to take screenshots of code and stick it in here? No
+
+472
+00:42:08,810 --> 00:42:16,310
+You're gonna use a LaTeX pseudocode package to type up the pseudocode so that it looks good in this thing
+
+473
+00:42:17,210 --> 00:42:22,190
+All right, then you're gonna get to experimentation and you're gonna have a table that says, you know
+
+474
+00:42:22,190 --> 00:42:25,970
+I tried it on all these different combination number of processes number of
+
+475
+00:42:25,970 --> 00:42:29,290
+different problem sizes blah blah blah
+
+476
+00:42:29,290 --> 00:42:34,150
+As we can see in figure blah blah we can see the timing of it in figure blah blah
+
+477
+00:42:34,150 --> 00:42:37,490
+We see the speed up and figure blah blah. We see the
+
+478
+00:42:37,490 --> 00:42:38,990
+efficiency
+
+479
+00:42:38,990 --> 00:42:45,610
+The observations we make is that you know for this and that I noticed that this happens else
+
+480
+00:42:45,610 --> 00:42:49,350
+But I know it over here this other thing happened the best performance we got was right here
+
+481
+00:42:49,350 --> 00:42:51,870
+But now on the computer when I ran it on my laptop
+
+482
+00:42:51,870 --> 00:42:57,630
+And I've only got four four cores as you can see in this graph blah blah blah blah blah I get this behavior
+
+483
+00:42:57,630 --> 00:42:59,430
+But when I ran it on expanse
+
+484
+00:42:59,430 --> 00:43:06,190
+On expanse I you know, it's got more cores. It's so I was able to get bigger speed ups blah blah blah
+
+485
+00:43:06,190 --> 00:43:10,210
+Now what is expanse? Oh, by the way, what are the parameters of my own computer?
+
+486
+00:43:10,270 --> 00:43:14,610
+My own computer has this processor this amount of cash this many cores
+
+487
+00:43:15,310 --> 00:43:20,210
+Expanse has this type of compute node this type of processor this amount of cores
+
+488
+00:43:20,210 --> 00:43:25,750
+Here's the memory that everything has got charts that say that if somebody wanted to replicate my experiment
+
+489
+00:43:25,750 --> 00:43:32,250
+They could buy the hardware that I have they could have the software that I use they could repos replicate 100% my experiment
+
+490
+00:43:32,250 --> 00:43:38,330
+Because the scientific paper means that you should be able to replicate someone's thing. There's enough detail
+
+491
+00:43:39,050 --> 00:43:42,290
+That they could replicate the entire thing they could buy a computer
+
+492
+00:43:42,290 --> 00:43:46,110
+They could install the correct version of Python correct version of MPI
+
+493
+00:43:46,110 --> 00:43:47,810
+Whatever it is that stuff's in there
+
+494
+00:43:47,810 --> 00:43:52,690
+They could do all of this and they could run your exact code and you might say well my code is not gonna be in
+
+495
+00:43:52,690 --> 00:43:56,490
+The paper that's true, but you can say it's in my attachments over here
+
+496
+00:43:56,490 --> 00:43:58,750
+You know and the code will be in your attachments
+
+497
+00:43:58,750 --> 00:44:03,990
+It's gonna be the zip file when you upload all your stuff into the thing does everybody get the get the sense of what I'm talking about
+
+498
+00:44:03,990 --> 00:44:05,910
+Here, that's the kind of paper. I'm talking about
+
+499
+00:44:08,330 --> 00:44:12,590
+So if you if you ever ask is like if Dan if the question is it okay just to do
+
+500
+00:44:12,590 --> 00:44:18,910
+But it's probably not the answer is err on the side of too much. All right, we're not trying to cut corners
+
+501
+00:44:18,910 --> 00:44:22,490
+We're trying to lay the foundation that anybody who looked at this
+
+502
+00:44:22,490 --> 00:44:28,070
+All right, not knowing anything to begin with more or less other than like, you know
+
+503
+00:44:28,070 --> 00:44:31,450
+You don't have to explain what integration is, but you might want to have an integral in there
+
+504
+00:44:31,450 --> 00:44:35,810
+Like let's assume they know what integration is, but they don't know anything about parallel computing
+
+505
+00:44:35,890 --> 00:44:40,910
+They don't know anything about API. They don't know anything about shared memory distributed memory all this
+
+506
+00:44:40,910 --> 00:44:46,250
+They want assume that whoever's reading this they want to see cool figures. They want to see cool diagrams
+
+507
+00:44:46,250 --> 00:44:52,290
+They do not want to read a bunch of words without pictures. They are a visual person, okay
+
+508
+00:44:52,290 --> 00:44:58,270
+They want to have words that back up those visual things, but they want to be able to add a glance
+
+509
+00:44:58,270 --> 00:45:04,730
+Understand what the entire scope of this whole thing is looking at pictures. Can you use pictures that were from the internet? Sure
+
+510
+00:45:05,210 --> 00:45:09,130
+But like don't have them if they're a picture that was originally this big
+
+511
+00:45:09,130 --> 00:45:13,770
+But a lot of detail and you shrink it down to fit in one of these columns and I can't see anything
+
+512
+00:45:13,770 --> 00:45:21,450
+No, okay, and what do we mean by see anything? Well, you could see anything if you just zoom in far enough, that's true
+
+513
+00:45:21,450 --> 00:45:22,650
+but
+
+514
+00:45:22,650 --> 00:45:30,970
+when you go to a PDF document and you go into that PDF document you say I want to view this thing at a zoom angle of
+
+515
+00:45:31,410 --> 00:45:32,370
+100% I
+
+516
+00:45:32,370 --> 00:45:38,030
+Want to look at it. It's an actual size that when you tell acrobat that acrobat knows
+
+517
+00:45:38,030 --> 00:45:43,070
+How many pixels your screen is it knows how many pixels per square inch that there is?
+
+518
+00:45:43,070 --> 00:45:48,890
+So it's able to put the PDF up here in approximately the same size. It would be if it was printed
+
+519
+00:45:48,890 --> 00:45:50,590
+to size
+
+520
+00:45:50,590 --> 00:45:55,710
+Okay, approximately. So if you can't read it at a standard
+
+521
+00:45:56,750 --> 00:46:01,490
+100% zoom factor not zoomed in but then you can't read it if you were going to print it out either
+
+522
+00:46:01,490 --> 00:46:05,130
+So that's gonna be the thing. I don't want to have to be like well, I could see their thing
+
+523
+00:46:05,130 --> 00:46:11,010
+But only if I you know, I could see their their thing if I if I zoom in like this then I can see the figure
+
+524
+00:46:11,010 --> 00:46:14,230
+Yeah, I can see all the little detail that no that's not gonna be okay
+
+525
+00:46:14,230 --> 00:46:21,270
+So you better have figures that are appropriate that have font sizes that are appropriate that are readable at a hundred percent zoom factor
+
+526
+00:46:22,050 --> 00:46:24,670
+The right level of genericism for whatever it is
+
+527
+00:46:24,670 --> 00:46:29,170
+This is being tried to describe if you need more detail about one component of that figure
+
+528
+00:46:29,170 --> 00:46:33,490
+Then put a general block diagram for the worst first one and then have another one that says now
+
+529
+00:46:33,490 --> 00:46:37,910
+We're just looking at this little block boom have another block over there for that. Do you see what I'm saying?
+
+530
+00:46:38,830 --> 00:46:41,150
+So this is the caps on class
+
+531
+00:46:41,150 --> 00:46:42,010
+communication
+
+532
+00:46:42,010 --> 00:46:44,610
+All right, then
+
+533
+00:46:44,610 --> 00:46:46,130
+presentation
+
+534
+00:46:50,790 --> 00:46:58,270
+The presentation I'm going to provide some parameters like I
+
+535
+00:46:58,270 --> 00:47:01,490
+Need it to be something that you've done in PowerPoint
+
+536
+00:47:01,490 --> 00:47:08,110
+So that when you record it, you know, you do a recording work like where you're you're talking
+
+537
+00:47:08,110 --> 00:47:14,110
+Right and you're and you're saying as we can see here and here and here and you're doing stuff and you're uploading that entire thing
+
+538
+00:47:14,110 --> 00:47:20,730
+And it's gonna be minimum five minutes maximum seven minutes. You have to at least talk five minutes about the thing and you got to have it
+
+539
+00:47:20,730 --> 00:47:21,030
+flow
+
+540
+00:47:21,030 --> 00:47:26,810
+Like whatever you just wrote in that paper. I want to have to be covered in a five-minute presentation
+
+541
+00:47:26,810 --> 00:47:30,550
+All right up to seven minutes. So nothing shorter nothing longer
+
+542
+00:47:30,550 --> 00:47:32,770
+All right, it needs to look good
+
+543
+00:47:32,770 --> 00:47:36,450
+It needs to be zoomed in needs to be so that like if we were playing it in here
+
+544
+00:47:36,450 --> 00:47:40,150
+You were explaining it to somebody like it would be at the same size
+
+545
+00:47:40,150 --> 00:47:44,190
+Like as if you were walking around talking up here, but you're gonna be recording it at your own computer
+
+546
+00:47:44,190 --> 00:47:49,570
+Does that does that make sense? And we're gonna have that for every single homework assignment that we have report
+
+547
+00:47:49,570 --> 00:47:53,170
+Presentation report presentation now some
+
+548
+00:47:53,170 --> 00:47:57,510
+Reports will be based on modifications of previous reports
+
+549
+00:47:57,510 --> 00:48:01,770
+So I'm not saying that every assignment is literally going to be a brand new report
+
+550
+00:48:01,770 --> 00:48:05,670
+But I'm saying like if we took this thing and then we added some more stuff to it
+
+551
+00:48:06,470 --> 00:48:11,950
+Then we're going to keep what we had and then add the additional sections like let's say we took this thing and we wrote it
+
+552
+00:48:11,950 --> 00:48:17,890
+With p-threads instead of MPI. Well now there's gonna be an MPI section. There's gonna be a p-thread section
+
+553
+00:48:17,890 --> 00:48:20,770
+There's gonna be MPI results. There's gonna be a p-thread results
+
+554
+00:48:20,770 --> 00:48:25,610
+So we'll just keep adding and making it bigger and bigger in more detail. Does that make sense questions?
+
+555
+00:48:29,740 --> 00:48:30,540
+Yes, sir
+
+556
+00:48:40,760 --> 00:48:43,460
+No, so I don't need your camera
+
+557
+00:48:43,460 --> 00:48:49,280
+I don't need a picture of you or double like if you ever recorded something in PowerPoint, like just a voiceover. Yeah
+
+558
+00:48:49,280 --> 00:48:55,400
+Yeah, that's what I mean. I mean like do the thing where you say I'm gonna record and it voiceovers even every slide
+
+559
+00:48:55,400 --> 00:48:58,800
+Now that I want that at a minimum
+
+560
+00:48:58,800 --> 00:49:04,140
+But now if you're like not see now the thing is like I got this other technology I prefer using
+
+561
+00:49:05,220 --> 00:49:09,300
+You know, so it's going to make this 500 megabyte file
+
+562
+00:49:09,300 --> 00:49:13,480
+Movie or whatever you download that that that that's okay, too
+
+563
+00:49:13,480 --> 00:49:17,500
+Alright, but I need to at least have the voiceover in slides
+
+564
+00:49:17,500 --> 00:49:22,900
+But if you like, for example, when you do that voiceover in PowerPoint, you can't move the cursor around and point at stuff
+
+565
+00:49:22,900 --> 00:49:25,380
+You can't go to the command line and run stuff
+
+566
+00:49:25,380 --> 00:49:30,360
+Now do I want you in the middle of a presentation going in command lining and running stuff?
+
+567
+00:49:30,660 --> 00:49:34,600
+No, because that's not how you present this thing. Probably if you were trying to present to an audience
+
+568
+00:49:34,600 --> 00:49:38,540
+You might have that at the end. All right, you might be like, all right, cool. Now we finished presentation
+
+569
+00:49:38,540 --> 00:49:40,300
+Let me just show you let me just demo my thing
+
+570
+00:49:40,300 --> 00:49:43,220
+So if you want to do some of those things, I think that would be good
+
+571
+00:49:43,220 --> 00:49:46,080
+But at the bare minimum voiceover PPT, okay
+
+572
+00:49:46,080 --> 00:49:49,160
+Other questions
+
+573
+00:49:49,160 --> 00:49:55,060
+You got a question? No questions
+
+574
+00:49:55,060 --> 00:49:56,780
+Alright
+
+575
+00:49:56,780 --> 00:49:58,380
+so
+
+576
+00:50:05,030 --> 00:50:08,930
+And I'll make a note to myself I'll send you the get repo link as well as the
+
+577
+00:50:08,930 --> 00:50:12,710
+These two files so that you have them you can look at it if you're interested
+
+578
+00:50:12,710 --> 00:50:15,290
+But literally I just I just gave it my
+
+579
+00:50:15,290 --> 00:50:22,330
+Program and I just said I want to conduct an experiment like this has these parameters make it for me
+
+580
+00:50:22,330 --> 00:50:24,790
+And you know and it did it and I
+
+581
+00:50:24,790 --> 00:50:27,790
+Want all this stuff that's in here to be in Python by the way
+
+582
+00:50:27,790 --> 00:50:32,250
+I don't want it to be something else and the reason I say that is let's say you did it in C-sharp
+
+583
+00:50:32,250 --> 00:50:35,190
+I don't have that on my laptop. I want to be able to replicate everything
+
+584
+00:50:35,190 --> 00:50:39,510
+So you're gonna have your MPI program being in C and you're gonna have your other mess
+
+585
+00:50:39,510 --> 00:50:44,950
+Whatever that other mess is is in going to be in Python and if I need to load up specific stuff
+
+586
+00:50:44,950 --> 00:50:49,430
+I need to have a YAML file or some kind of thing or requirements file that tells me exactly
+
+587
+00:50:49,430 --> 00:50:53,910
+What I got to do in Condit to load the thing up. Does that make sense?
+
+588
+00:50:55,210 --> 00:50:56,990
+But what are the dependencies in other words?
+
+589
+00:50:58,110 --> 00:51:02,350
+Because as a part of this, I'm going to be looking at your report. I'm gonna watch your presentation
+
+590
+00:51:02,350 --> 00:51:05,410
+I'm gonna look briefly at the code and I'm gonna run it
+
+591
+00:51:05,410 --> 00:51:08,410
+That's what I'm gonna do. I'm gonna run this stuff and we'll see what happens
+
+592
+00:51:08,410 --> 00:51:09,690
+All right
+
+593
+00:51:09,690 --> 00:51:15,410
+And I'm probably gonna wind up having a naming convention that I require so that I can run all your programs
+
+594
+00:51:15,410 --> 00:51:17,590
+Automatically because I'll know what the path is
+
+595
+00:51:17,590 --> 00:51:21,450
+I'm gonna run it and do a meta analysis of the entire thing to say all right
+
+596
+00:51:21,450 --> 00:51:25,050
+Did these people do this stuff or not? Did they meet the specifications or not?
+
+597
+00:51:26,510 --> 00:51:27,990
+And this will be due
+
+598
+00:51:27,990 --> 00:51:30,270
+Monday night next week
+
+599
+00:51:30,270 --> 00:51:34,690
+Okay, this is when this is going to be due. So one week from yesterday
+
+600
+00:51:34,690 --> 00:51:38,510
+But think about it. There's no more technical stuff really here. I mean
+
+601
+00:51:38,510 --> 00:51:42,150
+Which is a change a couple of things about these programs, but you've got that
+
+602
+00:51:42,150 --> 00:51:45,610
+The rest of it is getting familiar with all that other stuff and writing a report and doing that
+
+603
+00:51:45,610 --> 00:51:50,510
+All right classes
+
+604
+00:51:58,150 --> 00:51:58,710
+Slides
+
+605
+00:51:58,710 --> 00:51:59,910
+Briefly here, let's see
+
+606
+00:51:59,910 --> 00:52:12,270
+So we talked about the reduction sums
+
+607
+00:52:12,270 --> 00:52:16,260
+about broadcasting
+
+608
+00:52:16,260 --> 00:52:24,930
+And already do so that everybody
+
+609
+00:52:24,930 --> 00:52:27,670
+Everybody hasn't
+
+610
+00:52:27,670 --> 00:52:31,850
+An answer now this slide is kind of interesting. I wouldn't say it's very interesting
+
+611
+00:52:31,850 --> 00:52:35,670
+But it's a little bit interesting when they do in the all reduce here
+
+612
+00:52:35,670 --> 00:52:39,470
+they're saying this is equivalent to an all reduce because of the fact that
+
+613
+00:52:41,370 --> 00:52:46,390
+Everybody's got their personal sums. I'll do in a reduction down to the head node
+
+614
+00:52:46,390 --> 00:52:52,690
+So node zero, but after node zero has gotten that answer. I'm going to turn around and then broadcast that to everybody else
+
+615
+00:52:52,690 --> 00:52:59,910
+So like a reduce followed by a V cast is this is essentially an all reduce
+
+616
+00:52:59,910 --> 00:53:00,970
+however
+
+617
+00:53:00,970 --> 00:53:08,390
+The way all reduces actually written underneath the hood is it this takes like basically if you think about this time out of time
+
+618
+00:53:08,390 --> 00:53:13,870
+Being time T and this being roughly time T. This takes two T amount of time
+
+619
+00:53:13,870 --> 00:53:20,030
+The way the reductions actually done for an all reduce is so that it takes less than two T amount of time
+
+620
+00:53:20,030 --> 00:53:24,990
+It's because this is kind of the worst amount of time it can take right like at the same time that you're reducing this
+
+621
+00:53:24,990 --> 00:53:29,230
+Down here you could actually gear in other time steps. You could have that guy
+
+622
+00:53:29,230 --> 00:53:35,910
+Submitting, you know sending his to other people so that they all wind up having all of the combinations at the end rather than only
+
+623
+00:53:36,690 --> 00:53:42,170
+That would avoid having to do a broadcast even with the tree based algorithm bear at the very end
+
+624
+00:53:42,170 --> 00:53:45,670
+You know, so that would that would be a something that could be done like like this
+
+625
+00:53:45,670 --> 00:53:48,770
+You know, so when it's all said done
+
+626
+00:53:48,770 --> 00:53:53,110
+So like in this first time step the if you look at this even odd pair
+
+627
+00:53:53,110 --> 00:53:58,370
+So like even odd even odd, these are the ranks here. So they send it to each other
+
+628
+00:53:58,370 --> 00:54:02,950
+Send it to each other. They do their partial reduction sums here on theirs
+
+629
+00:54:03,910 --> 00:54:10,930
+But then in the next time frame instead of sending to this neighbor, that's one away. He sends the thing to the one that is
+
+630
+00:54:10,930 --> 00:54:13,710
+Three away
+
+631
+00:54:13,710 --> 00:54:20,710
+Alright, and you do it so that you keep sending it further and further away and the farther you send it you get every combination
+
+632
+00:54:20,710 --> 00:54:23,550
+So everybody actually adds up these numbers in different orders
+
+633
+00:54:23,550 --> 00:54:25,970
+But they all wind up having the same sum at the end
+
+634
+00:54:25,970 --> 00:54:30,850
+Now the difference is in this and this is that like in this one everyone's involved
+
+635
+00:54:30,850 --> 00:54:36,190
+But after this only these four are involved after this only these two are involved after that only ones involved
+
+636
+00:54:36,190 --> 00:54:39,990
+Whereas over here all eight are involved every time step
+
+637
+00:54:39,990 --> 00:54:46,790
+But but see if you think about the time steps essentially in this one these other processes are the ones that are not here
+
+638
+00:54:46,790 --> 00:54:48,390
+So like this guy
+
+639
+00:54:48,390 --> 00:54:53,430
+That guy that guy and that guy they're not doing anything in this time step
+
+640
+00:54:53,430 --> 00:54:58,590
+They might as well be doing something because they're waiting around doing nothing else, right?
+
+641
+00:54:58,970 --> 00:55:04,770
+So what this says is instead of having those guys sit idly by let them do a little bit of work and
+
+642
+00:55:04,770 --> 00:55:13,530
+Communication during those time periods so that this takes you know, one two three time steps here instead of one two, three
+
+643
+00:55:13,530 --> 00:55:15,070
+Four or five six
+
+644
+00:55:15,070 --> 00:55:16,910
+That's that's the idea
+
+645
+00:55:16,910 --> 00:55:21,690
+But we don't have to
+
+646
+00:55:21,690 --> 00:55:27,210
+Luckily, we don't have to write this from scratch to do this. We're using we're able to use the NPI
+
+647
+00:55:27,670 --> 00:55:34,930
+All reduce command because I can tell you that writing an algorithm that does this just using from MPI sends and receives is
+
+648
+00:55:34,930 --> 00:55:38,190
+Interesting to say the least to try to write that piece of code
+
+649
+00:55:38,190 --> 00:55:44,870
+We used to use that as an assignment that we would do in here and it's super confusing and it's it's nuts
+
+650
+00:55:44,870 --> 00:55:48,490
+And when you finally see the answer, it's very trivial looking
+
+651
+00:55:48,490 --> 00:55:50,790
+But you're like, how would I have ever come up with that myself?
+
+652
+00:55:50,810 --> 00:55:54,190
+And you're like you do wouldn't have and I wouldn't have either and I don't you know
+
+653
+00:55:54,190 --> 00:55:56,290
+I don't see there's a lot of objective to running it
+
+654
+00:55:56,290 --> 00:55:57,790
+The idea is that someone figured it out
+
+655
+00:55:57,790 --> 00:56:04,990
+Somebody can do it faster and that's why they encapsulated inside of an API that does that for you essentially. All right
+
+656
+00:56:04,990 --> 00:56:07,510
+The tree grace broadcast
+
+657
+00:56:07,510 --> 00:56:13,770
+So as we saw like they used to broadcast to get the information out to the other users
+
+658
+00:56:13,770 --> 00:56:17,630
+So after they got the stuff from the users, which you guys got from the command line, right?
+
+659
+00:56:18,390 --> 00:56:22,130
+They used to broadcast to get it back out. Let me ask you a question in you guys's code
+
+660
+00:56:22,470 --> 00:56:26,010
+Did you broadcast out a B and N to everybody?
+
+661
+00:56:30,210 --> 00:56:32,050
+Tell me why not
+
+662
+00:56:34,000 --> 00:56:38,780
+So I got let's say I got three processes zero one and two
+
+663
+00:56:38,780 --> 00:56:43,600
+And when you start this thing you did an MPI run blah blah blah blah dot slash
+
+664
+00:56:43,600 --> 00:56:47,280
+And then you said I want to integrate from zero to two and I want this to be a hundred thousand
+
+665
+00:56:47,280 --> 00:56:53,560
+Why didn't after so who is the guy who who got this? What did all of them get this?
+
+666
+00:56:54,460 --> 00:56:59,320
+Did process zero get it who got it? They all got it. They all got it
+
+667
+00:56:59,320 --> 00:57:07,250
+So they all got it from the very get-go. They didn't need to be sent the information. Didn't they?
+
+668
+00:57:08,390 --> 00:57:12,270
+And where was the thing they got it from? That was the you know, the AR
+
+669
+00:57:12,270 --> 00:57:13,870
+GV array
+
+670
+00:57:13,870 --> 00:57:19,150
+All right, so they got and by the way, what is the argc for this scenario right here?
+
+671
+00:57:24,930 --> 00:57:29,410
+So argc is how many arguments and how many arguments are there here?
+
+672
+00:57:30,090 --> 00:57:33,190
+Four the program name and then these three, right?
+
+673
+00:57:33,950 --> 00:57:35,530
+Okay, excellent
+
+674
+00:57:35,530 --> 00:57:41,940
+Now eventually they get over here and they start talking about
+
+675
+00:57:41,940 --> 00:57:49,280
+Other types of algorithms that we could parallelize like matrix vector multiplication
+
+676
+00:57:49,280 --> 00:57:51,800
+So that's the first one we're going to talk about here
+
+677
+00:57:51,800 --> 00:58:01,870
+now what was the problem with this is not saying it's problems not really the right word the
+
+678
+00:58:02,570 --> 00:58:08,630
+The stupid little integration example only had one that nested forward. So it was order in it doesn't take a long time
+
+679
+00:58:08,630 --> 00:58:12,470
+Anyway, that's how we had to make in gigantic to even take any amount of time
+
+680
+00:58:12,470 --> 00:58:17,390
+Well, now what about matrix vector multiplication? What order complexity is that he might know?
+
+681
+00:58:18,210 --> 00:58:26,300
+Did they discuss matrix multiplication in 220?
+
+682
+00:58:29,900 --> 00:58:30,140
+No
+
+683
+00:58:30,140 --> 00:58:37,280
+Well, let's just do it really quickly. Let's suppose. This is our matrix a and we're going to multiply it by
+
+684
+00:58:37,980 --> 00:58:42,840
+Vector x and we're going to get some sort of equation or some sort of answer y
+
+685
+00:58:42,840 --> 00:58:47,080
+So let's say our matrix was 1 2 3 4
+
+686
+00:58:47,080 --> 00:58:49,000
+multiplied by
+
+687
+00:58:49,000 --> 00:58:57,780
+5 6 and we're trying to get some sort of output answer here. Now remember matrix dimensions have to be compatible
+
+688
+00:58:57,780 --> 00:59:00,640
+So if this thing is
+
+689
+00:59:01,000 --> 00:59:06,580
+m by n this has to be n by 1 and this thing over here is going to be
+
+690
+00:59:06,580 --> 00:59:11,160
+m by 1 because the inner dimensions have to match here and
+
+691
+00:59:11,160 --> 00:59:15,540
+The outer matrix over here is going to have the number of rows of the first guy
+
+692
+00:59:15,540 --> 00:59:20,580
+It's going to have the number of columns of the second guy. That's the way matrix multiplication works, right?
+
+693
+00:59:21,800 --> 00:59:24,300
+So like that answer right there
+
+694
+00:59:24,300 --> 00:59:27,280
+So that answer right there. I was put a little dot
+
+695
+00:59:27,480 --> 00:59:33,420
+What are those things equal to well that thought is this row multiplied by that column, right?
+
+696
+00:59:33,960 --> 00:59:37,680
+So it's the inner product here. So it's this times this plus this times this
+
+697
+00:59:37,680 --> 00:59:44,420
+Alright, so that's 1 times 5 plus 2 times 6 and what about this element?
+
+698
+00:59:44,800 --> 00:59:47,780
+That's this times this plus this times this correct
+
+699
+00:59:47,780 --> 00:59:53,640
+All right, so that's 3 times 5 plus 4 times 6
+
+700
+00:59:53,640 --> 00:59:57,660
+But when it's all said and done, this is a single number and this is a single number
+
+701
+00:59:57,660 --> 01:00:02,980
+So this is a 2 by 2. This is a 2 by 1 and this is equal to a 2 by
+
+702
+01:00:02,980 --> 01:00:14,120
+So 2 rows 2 columns 2 rows 1 column 2 rows 1 column. This is compatible
+
+703
+01:00:14,120 --> 01:00:19,520
+And that's the output answers dimensionality, which is is that are we good with that?
+
+704
+01:00:20,240 --> 01:00:26,040
+Now imagine the end is really big or m is really big. Let's imagine they're both really big and for the moment
+
+705
+01:00:26,040 --> 01:00:29,260
+Let's assume you have an inner the same thing. Let's just assume
+
+706
+01:00:29,260 --> 01:00:37,420
+In is equal to n. So let's just say that this is n by n by n by 1 and this is in by
+
+707
+01:00:37,420 --> 01:00:44,640
+What kind of loop structure is it going to take to do this to compute this element? What have you got to do?
+
+708
+01:00:45,220 --> 01:00:50,680
+You got to take every column in this and multiply it with every row at this one right here, right?
+
+709
+01:00:53,000 --> 01:00:56,360
+So that's going to hop and how how much is that going to take?
+
+710
+01:00:56,480 --> 01:01:02,160
+Well, if this is in life and this is in long then there's going to be in steps to get that
+
+711
+01:01:02,160 --> 01:01:05,360
+So that's going to be order in times
+
+712
+01:01:05,360 --> 01:01:09,300
+But how many of these do you have to do you have to do order in?
+
+713
+01:01:10,060 --> 01:01:14,380
+To compute this how many of these are there? They're also in and those so they'll be in of these
+
+714
+01:01:14,380 --> 01:01:16,360
+This is going to be able to order in square
+
+715
+01:01:17,820 --> 01:01:25,040
+Okay, and if m and n aren't the same value then that just turns out to be order m times n
+
+716
+01:01:25,040 --> 01:01:28,620
+All right, but it's but normally like for example
+
+717
+01:01:28,620 --> 01:01:34,300
+What would be a weird case a weird case would be this is 1 by n that's n by 1
+
+718
+01:01:34,300 --> 01:01:36,780
+Well, I mean you see got a vector times vector, you know
+
+719
+01:01:36,780 --> 01:01:40,260
+You got a matrix times a vector or you have a matrix times a matrix too
+
+720
+01:01:40,260 --> 01:01:42,680
+You know so like depending on what it is we're dealing with here
+
+721
+01:01:42,680 --> 01:01:47,300
+We're assuming that we're talking about roughly square looking things because that's how it normally works out
+
+722
+01:01:47,300 --> 01:01:51,440
+You don't normally have a crap ton of rows and only one column or vice versa
+
+723
+01:01:51,440 --> 01:01:58,740
+So that means that like the the previous problem that we did if we look at the amount of time it took
+
+724
+01:01:58,740 --> 01:02:06,940
+For a different problem size in our previous one grew linearly because it was order in but this problem grows quite quadratically, right?
+
+725
+01:02:08,280 --> 01:02:14,020
+Like it's it's it's growing quadratically because the fact that it it's more complicated is doing more math stuff
+
+726
+01:02:14,020 --> 01:02:17,360
+There's a doubly nested for loop instead of a singly nested for loop
+
+727
+01:02:17,360 --> 01:02:23,140
+So as such it's an interesting problem to try to parallelize because it's more complex
+
+728
+01:02:23,140 --> 01:02:28,410
+Any questions about that?
+
+729
+01:02:30,210 --> 01:02:32,170
+Okay, so
+
+730
+01:02:32,170 --> 01:02:36,450
+Let's look at a piece of pseudocode for that
+
+731
+01:02:37,330 --> 01:02:39,490
+That's the same thing we just said which was
+
+732
+01:02:39,490 --> 01:02:41,070
+you take
+
+733
+01:02:41,070 --> 01:02:48,150
+The ith row of this and multiply it by and find the inner product with that vector and that gives you the ith element of this
+
+734
+01:02:48,150 --> 01:02:50,430
+But let me ask you this question
+
+735
+01:02:50,430 --> 01:02:53,370
+I'm gonna do it with different colors here. Okay
+
+736
+01:02:53,370 --> 01:02:57,610
+What data is required to calculate that element?
+
+737
+01:02:58,430 --> 01:03:03,690
+You need this and you need that
+
+738
+01:03:04,710 --> 01:03:06,170
+To make that don't you
+
+739
+01:03:06,170 --> 01:03:11,370
+Now when you're doing that couldn't you be calculating this at the same time?
+
+740
+01:03:11,630 --> 01:03:13,410
+Because what does that require?
+
+741
+01:03:14,430 --> 01:03:16,290
+That one requires this data
+
+742
+01:03:16,290 --> 01:03:20,150
+and this data
+
+743
+01:03:20,150 --> 01:03:22,850
+To get this data
+
+744
+01:03:22,850 --> 01:03:29,410
+So literally you could be taking every row of this and multiplying it by this vector at the same time
+
+745
+01:03:29,410 --> 01:03:32,150
+Because none of these things depend on each other. Do you see that?
+
+746
+01:03:33,170 --> 01:03:38,410
+Like every element of this can be computed
+
+747
+01:03:38,410 --> 01:03:42,850
+Independently, so
+
+748
+01:03:45,820 --> 01:03:50,540
+If we were thinking about trying to divide this problem up
+
+749
+01:03:50,540 --> 01:03:58,920
+Into pieces you remember that before what you think about just remind you what did we do before we had a thing where what?
+
+750
+01:03:59,100 --> 01:03:59,960
+We divided was
+
+751
+01:03:59,960 --> 01:04:03,700
+We had some function f of x
+
+752
+01:04:04,040 --> 01:04:05,760
+We wanted to integrate from here to here
+
+753
+01:04:05,760 --> 01:04:12,420
+so we broke this up into pieces and that was like taking the single for loop and
+
+754
+01:04:12,420 --> 01:04:16,360
+Breaking the single for loop up into pieces right have each person do its own piece
+
+755
+01:04:16,360 --> 01:04:21,700
+But what you could do over here is this is the simplest example is we say, okay
+
+756
+01:04:21,700 --> 01:04:23,880
+We're gonna divide it up like this right here
+
+757
+01:04:23,880 --> 01:04:32,940
+Process zero will be taking this row and multiplying by this column to get this answer at the same time
+
+758
+01:04:35,940 --> 01:04:36,580
+that
+
+759
+01:04:36,580 --> 01:04:41,060
+Process one is multiplying this row by this column
+
+760
+01:04:41,060 --> 01:04:46,300
+To get this answer that can be happening at the same time. Okay?
+
+761
+01:04:47,160 --> 01:04:52,760
+So now typically then you're gonna have a doubling s at for loop to do this. You're gonna have like four
+
+762
+01:04:52,760 --> 01:04:59,800
+Every row in this and then four every cop, you know every
+
+763
+01:05:01,300 --> 01:05:04,700
+Column in that I'm gonna have to do some arithmetic
+
+764
+01:05:04,700 --> 01:05:10,100
+So the loop that you could divide up could be the outer loop or it could be the inner loop
+
+765
+01:05:10,100 --> 01:05:15,200
+You could break up this inner loop into pieces. You can break up this outer loop of the pieces now
+
+766
+01:05:15,200 --> 01:05:19,520
+You're gonna see later by the time you do this course while this is the case
+
+767
+01:05:19,520 --> 01:05:25,120
+But for the time being the rule of thumb is if you're gonna divide up a loop the loop
+
+768
+01:05:25,120 --> 01:05:28,880
+You want to divide up is the outer loop about the inner loop, okay?
+
+769
+01:05:29,600 --> 01:05:34,660
+Let's just leave it like that. So when we go and look at this the pseudocode for this thing
+
+770
+01:05:34,660 --> 01:05:38,890
+We look at this
+
+771
+01:05:38,890 --> 01:05:47,840
+We're gonna want to divide up that loop
+
+772
+01:05:47,840 --> 01:05:50,880
+so instead of
+
+773
+01:05:50,880 --> 01:05:56,220
+Remember this would be in rows by in columns in general
+
+774
+01:05:56,220 --> 01:06:02,320
+I'm gonna have each process. So process zero will do this half of the M rows
+
+775
+01:06:02,320 --> 01:06:05,400
+This process will do this half of the M rows
+
+776
+01:06:06,500 --> 01:06:10,260
+So you're gonna have one of them go from zero to about half of M
+
+777
+01:06:10,260 --> 01:06:14,700
+And the other one to go from half of them up to the end of the loop. Does that make sense?
+
+778
+01:06:15,520 --> 01:06:20,380
+Now each one of those though. So like up here this half is going to be
+
+779
+01:06:20,380 --> 01:06:23,900
+traversing down those columns of a
+
+780
+01:06:23,900 --> 01:06:25,940
+and
+
+781
+01:06:25,940 --> 01:06:27,300
+multiplying it by that
+
+782
+01:06:27,300 --> 01:06:30,400
+column of
+
+783
+01:06:32,940 --> 01:06:34,580
+Of X and adding it up
+
+784
+01:06:34,580 --> 01:06:41,800
+So one element times the other element plus this times this plus this times this adding it up to and sticking the answer
+
+785
+01:06:41,800 --> 01:06:47,320
+Right back in here and having it take that product back times that plus that time that stick it here
+
+786
+01:06:47,320 --> 01:06:51,900
+While the other guy is doing this times this plus this time this is even to that. Do you see that?
+
+787
+01:06:55,400 --> 01:06:59,860
+Now there's a couple of reasons why this works out, okay one is
+
+788
+01:07:02,130 --> 01:07:07,010
+Only one process is writing to this location at any one time. Think about this
+
+789
+01:07:07,010 --> 01:07:14,990
+Process zero is writing in to like so if there's only you know, this thing it would only go from zero zero to one because
+
+790
+01:07:14,990 --> 01:07:16,510
+You know, there would only be two rows
+
+791
+01:07:16,510 --> 01:07:23,590
+Process zero would be working on index zero here and process one would be indexing on one
+
+792
+01:07:23,590 --> 01:07:27,510
+So only two people are saying plus equal to a place
+
+793
+01:07:27,510 --> 01:07:32,170
+But those places they're doing the plus equal to are not the same place. So there's no race condition
+
+794
+01:07:32,170 --> 01:07:36,670
+Okay, because only because think about this now when you talk about race condition
+
+795
+01:07:36,670 --> 01:07:41,350
+Is it okay for two things to be reading the same data at the same time?
+
+796
+01:07:41,770 --> 01:07:44,170
+Sure, because that doesn't change the state of the data, right?
+
+797
+01:07:44,450 --> 01:07:50,310
+I have a race of like, you know, will could be reading a value out of this memory location the same time
+
+798
+01:07:50,310 --> 01:07:54,350
+I'm reading and it doesn't matter if he reads it first or if I read it first does it change what we read?
+
+799
+01:07:55,270 --> 01:07:57,730
+No, but if we're both writing to it
+
+800
+01:07:57,730 --> 01:08:01,670
+Now that's that's different. So writing to a thing is a problem
+
+801
+01:08:01,670 --> 01:08:06,150
+So anytime an equal sign and the sign mistake that's happening somewhere
+
+802
+01:08:06,150 --> 01:08:11,450
+That's where your problem could be but in this case the assignment is having two different places
+
+803
+01:08:11,450 --> 01:08:18,350
+This is being read like when you say this times this plus this times this that's reading this data
+
+804
+01:08:18,350 --> 01:08:20,350
+The only thing is getting written is this
+
+805
+01:08:20,710 --> 01:08:25,830
+And process 0 is doing that while process 1 is doing this and they don't overlap
+
+806
+01:08:25,830 --> 01:08:30,890
+So therefore there's no, you know, read modify write race condition
+
+807
+01:08:30,890 --> 01:08:31,990
+Okay
+
+808
+01:08:31,990 --> 01:08:35,330
+So here's the pseudo code for it
+
+809
+01:08:35,330 --> 01:08:40,350
+You know sure enough right this is order
+
+810
+01:08:40,350 --> 01:08:46,390
+m times n and if m happened to be n like it's a square matrix, this would be n squared, right?
+
+811
+01:08:46,790 --> 01:08:48,710
+So it's doing n squared multiplication
+
+812
+01:08:48,710 --> 01:08:53,670
+In square additions, right? So it's doing some guys doing some more stuff
+
+813
+01:08:53,670 --> 01:08:56,430
+Whereas the previous thing that we were doing I mean it did some stuff
+
+814
+01:08:56,430 --> 01:09:00,730
+It did a multiplication too because it was that it was x squared was our function. So it had to do a square
+
+815
+01:09:00,730 --> 01:09:02,130
+It had to do an addition
+
+816
+01:09:02,130 --> 01:09:05,490
+So it did some stuff, too
+
+817
+01:09:06,860 --> 01:09:08,960
+Hey now thing is in C
+
+818
+01:09:08,960 --> 01:09:15,820
+We all know that C stores arrays in row major order in memory and that even though it might be considered a multi-dimensional array
+
+819
+01:09:15,820 --> 01:09:20,220
+It's actually just a linear thing of numbers one after another in row major form
+
+820
+01:09:20,220 --> 01:09:27,040
+So we go ahead and convert this down in here. So we're gonna have now what they did in this implementation is kind of
+
+821
+01:09:27,040 --> 01:09:34,960
+There's not the way we're gonna wind up doing it eventually here, but they said because of this reason
+
+822
+01:09:34,960 --> 01:09:38,340
+They're like because this is the idea a two-dimensional array
+
+823
+01:09:38,340 --> 01:09:42,380
+But we're just going to use a one-dimensional array a to actually store this stuff
+
+824
+01:09:43,160 --> 01:09:45,360
+They've come along in here and said, okay
+
+825
+01:09:45,360 --> 01:09:51,900
+I'm gonna have a routine called matrix vector multiply and it's going to take a 1d array a 1d array and a 1d array
+
+826
+01:09:51,900 --> 01:09:58,460
+This is really so this is going to be just a vector. This is a vector, but this is actually, you know a matrix
+
+827
+01:09:58,460 --> 01:10:05,080
+It's a two-dimensional matrix. This looks like this but because it's not you know with rows
+
+828
+01:10:05,080 --> 01:10:10,520
+Columns, but because of the fact that it's saying actually it only has one index here
+
+829
+01:10:10,520 --> 01:10:13,880
+We're going to treat it like it's a one-dimensional array is what they're saying to do
+
+830
+01:10:13,880 --> 01:10:18,640
+And you've probably seen this before that when you try to index into a multi-dimensional array
+
+831
+01:10:18,640 --> 01:10:22,100
+you can treat it like a single dimensional array by taking the I and
+
+832
+01:10:22,100 --> 01:10:27,460
+Multiplying it by the width of the matrix and adding the row offset into it to calculate the two to one
+
+833
+01:10:27,460 --> 01:10:33,960
+You know two-dimensional to one dimensional dimensional ray in this scene, right? Like you probably you've seen that before right? How many have seen that?
+
+834
+01:10:35,360 --> 01:10:39,040
+I haven't seen that. Okay, let's do a quick example here
+
+835
+01:10:49,000 --> 01:10:50,500
+You've got a matrix a
+
+836
+01:10:50,500 --> 01:10:58,040
+Say it's like this. Let's say it has two rows. It has three columns
+
+837
+01:10:58,040 --> 01:11:13,060
+Now this is index 0 0 0 1 0 2
+
+838
+01:11:13,060 --> 01:11:14,860
+1 0
+
+839
+01:11:14,860 --> 01:11:17,780
+1 1
+
+840
+01:11:17,780 --> 01:11:18,780
+1 2
+
+841
+01:11:19,200 --> 01:11:26,600
+So this is a of 0 0 a of 0 1 a of 0 2 a of 0 like that that and that right
+
+842
+01:11:26,600 --> 01:11:29,240
+That's how we do it. So the I
+
+843
+01:11:29,240 --> 01:11:32,120
+I
+
+844
+01:11:32,120 --> 01:11:37,420
+Selects which row and the J selects which column. Okay
+
+845
+01:11:37,420 --> 01:11:43,040
+But what they're saying is that's not actually how it's stored in memory and see in memory
+
+846
+01:11:43,040 --> 01:11:47,570
+Is being stored like this?
+
+847
+01:11:54,380 --> 01:11:59,560
+This would be a a is a pointer to this location. So this would be a
+
+848
+01:11:59,560 --> 01:12:04,100
+0 0 this would be a 0 1 this would be a
+
+849
+01:12:04,100 --> 01:12:10,080
+0 2 a 1 0 a 1 1 a 1 2
+
+850
+01:12:10,080 --> 01:12:15,040
+Okay. Now, let's just suppose the numbers were like this
+
+851
+01:12:16,670 --> 01:12:22,670
+The numbers would be a
+
+852
+01:12:25,650 --> 01:12:27,570
+Now if someone said hey guys
+
+853
+01:12:27,570 --> 01:12:35,650
+In is equal to 2 for the number of roses thing has and in is equal to 3 is the number of columns it has
+
+854
+01:12:35,650 --> 01:12:38,370
+And I really want to access a
+
+855
+01:12:38,370 --> 01:12:40,150
+Ij
+
+856
+01:12:40,150 --> 01:12:48,030
+How do I actually get a Ij though if I can't have a double index if I can only have a single index?
+
+857
+01:12:48,150 --> 01:12:50,850
+How do I do that? That's what we're talking about
+
+858
+01:12:51,210 --> 01:12:56,070
+So what we're saying is you want to do this, but notice they don't they don't do that in their program here
+
+859
+01:12:56,070 --> 01:13:00,470
+They don't say a of Ij. They do just a of this crap here
+
+860
+01:13:00,470 --> 01:13:04,430
+So where did that formula come from that formula came from right here?
+
+861
+01:13:05,570 --> 01:13:12,430
+If you take a and you say of all right, and you say which row you're on which is I
+
+862
+01:13:12,430 --> 01:13:16,810
+times the width of that row in plus J
+
+863
+01:13:16,810 --> 01:13:20,250
+That gives you the right location. Now. Let's just prove it by example
+
+864
+01:13:20,850 --> 01:13:27,530
+What about if the element you wanted to access is this element right here, so you want to access a of one?
+
+865
+01:13:28,050 --> 01:13:34,650
+One, but you can't you have to do it using a single dimensional array indexing so that would really be this is I
+
+866
+01:13:34,650 --> 01:13:40,130
+This is J, and what is in three?
+
+867
+01:13:42,470 --> 01:13:49,890
+So come over here, so we say it is one times three plus one do you see that
+
+868
+01:13:50,910 --> 01:13:52,910
+So then we get that's equal to four
+
+869
+01:13:52,910 --> 01:14:00,890
+So if we come over here, and we think about a is only being a single-dimensional thing that this would be x a big zero
+
+870
+01:14:00,890 --> 01:14:08,650
+One two three four five here like this
+
+871
+01:14:10,350 --> 01:14:22,120
+Damn it. I'm like what the hell is going on. That's five isn't it? God almighty. I was like this ain't working out like something's wrong here
+
+872
+01:14:22,120 --> 01:14:23,480
+Okay, so
+
+873
+01:14:23,480 --> 01:14:25,880
+Shit, that's wrong, too
+
+874
+01:14:26,980 --> 01:14:28,020
+Okay, hold on here
+
+875
+01:14:28,020 --> 01:14:35,260
+Let's see now. I know damn well that the index thing is this zero one two
+
+876
+01:14:35,260 --> 01:14:40,540
+Three four five so I know the index that we're trying to get to is five
+
+877
+01:14:40,540 --> 01:14:45,280
+Because that's the element that we're trying to do down here
+
+878
+01:14:45,280 --> 01:14:52,240
+Yeah, I said one one
+
+879
+01:14:52,340 --> 01:14:58,460
+That's the problem. I'm like you something's wrong. It's only get to two here two coming down over here
+
+880
+01:14:58,460 --> 01:15:03,280
+So let's go back one times three plus two
+
+881
+01:15:03,280 --> 01:15:07,080
+That right some three plus two is five
+
+882
+01:15:07,080 --> 01:15:09,540
+Thanks, who's a Anthony?
+
+883
+01:15:10,300 --> 01:15:14,100
+Yeah, yeah when I looked at this I wrote down one one over here
+
+884
+01:15:14,100 --> 01:15:17,620
+It's seven one two that's the index I want to get to so that that's it's just mapping
+
+885
+01:15:17,860 --> 01:15:22,300
+The two-dimensional array index to a one-dimensional array index given that you know
+
+886
+01:15:22,300 --> 01:15:24,840
+That every time you jump down to another row
+
+887
+01:15:24,840 --> 01:15:29,980
+Like this row has three things in it this row has three things in it if it had more rows
+
+888
+01:15:29,980 --> 01:15:34,560
+That would be another three things another three things so every time you increase the row index
+
+889
+01:15:34,560 --> 01:15:39,160
+You're jumping down by three more so jump down by three more by three more by three more
+
+890
+01:15:39,160 --> 01:15:42,800
+And it's just jumping down through memory to grab the items does that make sense?
+
+891
+01:15:46,550 --> 01:15:49,770
+There's a reason why the person did this
+
+892
+01:15:51,030 --> 01:15:52,950
+And the truth of the matter is is that
+
+893
+01:15:52,950 --> 01:15:55,410
+There's nothing wrong with this I mean
+
+894
+01:15:55,410 --> 01:16:00,190
+Because in in reality in the computer that is the way it is
+
+895
+01:16:00,190 --> 01:16:06,190
+now that doesn't mean we couldn't have used a high-level construct that would have made it so that we actually would say a of
+
+896
+01:16:06,190 --> 01:16:07,810
+ij instead of a of
+
+897
+01:16:07,810 --> 01:16:09,530
+this thing
+
+898
+01:16:09,530 --> 01:16:12,030
+So we got two minutes left
+
+899
+01:16:12,030 --> 01:16:21,270
+So that's the sequential version
+
+900
+01:16:21,270 --> 01:16:26,170
+Coming over here and saying let me turn it into an MPI version. So we're going to have like
+
+901
+01:16:27,030 --> 01:16:32,990
+My chunk of a my chunk of x my chunk of y how many local rows?
+
+902
+01:16:32,990 --> 01:16:39,350
+I'm going to be doing the total number of columns because everybody's going to do that and then the local in over here
+
+903
+01:16:39,350 --> 01:16:43,690
+And you got some local variables and if we come over here
+
+904
+01:16:43,690 --> 01:16:47,930
+They have done a bunch of crazy stuff in here to get this answer
+
+905
+01:16:47,930 --> 01:16:53,050
+So they did an all-gather which is a collective communication that we haven't done
+
+906
+01:16:53,050 --> 01:16:56,550
+Okay, we skipped over that in these slides just right now
+
+907
+01:16:58,810 --> 01:16:59,250
+so
+
+908
+01:16:59,250 --> 01:17:01,830
+What I want us to do for homework is
+
+909
+01:17:01,830 --> 01:17:05,770
+This is not to turn in but this is just to look at I want you to look at
+
+910
+01:17:05,770 --> 01:17:09,570
+The part in the book that says what an all-gather is
+
+911
+01:17:09,570 --> 01:17:16,970
+so you'll notice they talk about a scatter and a gather and right now figure out what is an all gather and
+
+912
+01:17:16,970 --> 01:17:22,850
+How does that all gather actually grab these elements and get the data to the right place?
+
+913
+01:17:23,270 --> 01:17:27,970
+Assuming we're going to divide our matrices and vectors up like the way they're talking about it in this code
+
+914
+01:17:27,970 --> 01:17:29,850
+Just just on pencil paper
+
+915
+01:17:29,850 --> 01:17:32,310
+Just try to figure it out to start to make you look at it see with your eyes
+
+916
+01:17:32,310 --> 01:17:37,310
+You convinced that if you do it all gather that is in fact going to wind up with the right answer
+
+917
+01:17:37,310 --> 01:17:40,510
+In it in the wise in the Y in the Y vector
+
+918
+01:17:40,510 --> 01:17:45,610
+Okay, and you can go run it too. Like you can you go run if you look down at the command line here
+
+919
+01:17:45,610 --> 01:17:48,590
+There it is right there
+
+920
+01:17:50,790 --> 01:17:52,950
+There's the matrix vector multiplication
+
+921
+01:17:52,950 --> 01:17:56,610
+So you go look at it. It's right there. You can run it. You can see what happens
+
+922
+01:17:56,610 --> 01:18:03,050
+Try that out. See you back here. So be on the lookout for the new assignment for next Monday
+
+923
+01:18:03,050 --> 01:18:08,900
+Take a look at the Python program that I sent today
+
+924
+01:18:08,900 --> 01:18:13,820
+It turns generating automatically these graphs because you're going to want something like that for your record, right?
+
+925
+01:18:14,380 --> 01:18:15,900
+And then let me know if you have questions
+
+926
+01:18:16,680 --> 01:18:18,480
+Make sure you get an Overleaf account also
+
+927
+01:18:18,480 --> 01:18:24,360
+If you don't have one get one and see if you can follow the steps we had today and maybe change the author to your
+
+928
+01:18:24,360 --> 01:18:29,040
+Name just to prove that it that it worked, you know, so you guys have a great one
+

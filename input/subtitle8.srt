@@ -1,0 +1,5152 @@
+1
+00:00:00,000 --> 00:00:02,060
+If you fix up the little things we mentioned, it'd be good to go.
+
+2
+00:00:03,160 --> 00:00:03,840
+Clean up that.
+
+3
+00:00:04,500 --> 00:00:04,740
+Yeah, man.
+
+4
+00:00:04,940 --> 00:00:05,680
+But like, do I?
+
+5
+00:00:06,220 --> 00:00:06,800
+OK, never mind.
+
+6
+00:00:07,040 --> 00:00:08,200
+I think we talked about it.
+
+7
+00:00:09,400 --> 00:00:09,680
+Yeah.
+
+8
+00:00:10,340 --> 00:00:10,480
+All right.
+
+9
+00:00:10,500 --> 00:00:10,880
+Yeah, no problem.
+
+10
+00:00:11,040 --> 00:00:11,800
+You can get up with it, all right?
+
+11
+00:00:11,960 --> 00:00:13,840
+Yeah, and feel free to grab one of these if you want it.
+
+12
+00:00:14,360 --> 00:00:14,640
+What questions?
+
+13
+00:00:15,380 --> 00:00:16,580
+You said, all right, cool.
+
+14
+00:00:18,220 --> 00:00:18,720
+Awesome.
+
+15
+00:00:21,400 --> 00:03:04,830
+This is in position for a undergraduate job
+
+16
+00:03:04,830 --> 00:03:08,460
+with a fact sheet, who just left it
+
+17
+00:03:08,460 --> 00:03:14,200
+over far from the things that you want those to figure out.
+
+18
+00:03:14,680 --> 00:03:15,240
+Cool.
+
+19
+00:05:28,010 --> 00:05:29,170
+That's good.
+
+20
+00:05:30,090 --> 00:05:30,570
+All right.
+
+21
+00:05:39,740 --> 00:05:44,980
+So we had NPIs year zero one that was there.
+
+22
+00:05:45,260 --> 00:05:49,140
+Anybody feel good about this time, going to do a good job?
+
+23
+00:05:51,100 --> 00:05:53,840
+Any of the people that did a good job feel comfortable showing
+
+24
+00:05:53,840 --> 00:05:56,980
+your back and go look at your report on the screen?
+
+25
+00:05:57,420 --> 00:05:58,220
+Anybody volunteer?
+
+26
+00:05:59,040 --> 00:05:59,780
+Everybody show hands.
+
+27
+00:05:59,960 --> 00:06:00,400
+I don't know.
+
+28
+00:06:00,540 --> 00:06:01,240
+There's no pressure.
+
+29
+00:06:03,960 --> 00:06:09,780
+Mike, so let me get out of this screen.
+
+30
+00:06:11,560 --> 00:06:17,520
+Now, let me pull this stuff up first here to make sure that we've got issues here.
+
+31
+00:06:21,280 --> 00:06:29,720
+OK, cool, all right, here we go.
+
+32
+00:06:29,740 --> 00:06:33,320
+All right, so let's take a look at what Mike submitted.
+
+33
+00:06:33,640 --> 00:06:42,830
+All right, so we've got the code, the data, the presentation, and the report.
+
+34
+00:06:43,790 --> 00:06:46,110
+Let's take a look at the report.
+
+35
+00:06:46,990 --> 00:06:50,230
+So we've got the whole project.
+
+36
+00:06:52,090 --> 00:06:52,730
+Cool.
+
+37
+00:06:53,110 --> 00:06:53,910
+That's cleaned up, too.
+
+38
+00:06:54,010 --> 00:06:54,390
+That's cool.
+
+39
+00:06:55,590 --> 00:06:59,350
+And then if I could recompile it, I could load it into that overlay
+
+40
+00:06:59,350 --> 00:07:01,370
+if I wanted to to see what it looked like.
+
+41
+00:07:01,730 --> 00:07:05,770
+But, you know, if I'm primarily going to hit this first,
+
+42
+00:07:05,770 --> 00:07:11,030
+so let's see, let me just look kind of at what this looks like.
+
+43
+00:07:17,440 --> 00:07:25,920
+So you've got your home computer that expands.
+
+44
+00:07:27,200 --> 00:07:30,580
+You've got some to-do code.
+
+45
+00:07:32,420 --> 00:07:36,120
+You've got command line parameters of all what they do.
+
+46
+00:07:41,880 --> 00:07:46,100
+Monospace font here, which looks nice because it's typically
+
+47
+00:07:46,100 --> 00:07:48,340
+the way you have the code's monospace fonts.
+
+48
+00:07:49,900 --> 00:07:52,620
+This is showing the Python program.
+
+49
+00:07:55,530 --> 00:07:58,410
+Let's see, and then what from, you know, because we integrate from 10 to 20,
+
+50
+00:08:02,950 --> 00:08:05,750
+these problem sizes, you have eight cores on your chain?
+
+51
+00:08:06,430 --> 00:08:09,870
+OK, so go from one to eight cores and increment by one.
+
+52
+00:08:10,250 --> 00:08:14,410
+So you modified the sweep thing a little bit.
+
+53
+00:08:15,030 --> 00:08:15,130
+Cool.
+
+54
+00:08:23,250 --> 00:08:24,890
+Oh, and this is on Expanse.
+
+55
+00:08:24,970 --> 00:08:26,010
+OK, is that all right?
+
+56
+00:08:26,550 --> 00:08:28,130
+So go from one to 128.
+
+57
+00:08:31,810 --> 00:08:33,450
+Now, what does this do here?
+
+58
+00:08:34,470 --> 00:08:37,870
+That was supposed to be so, like, starting at 32,
+
+59
+00:08:38,150 --> 00:08:41,090
+processes that had to increment by 16, not the one that you get.
+
+60
+00:08:41,330 --> 00:08:46,010
+Oh, OK, so from one to 32, do one processor at a time.
+
+61
+00:08:46,670 --> 00:08:50,310
+But then from 32 to the end, do 16 at a time?
+
+62
+00:08:50,690 --> 00:08:51,710
+Is that more or less?
+
+63
+00:08:51,810 --> 00:08:54,590
+Yeah, and then before that, well, I added the powers of two.
+
+64
+00:08:56,630 --> 00:08:59,710
+OK, and let's make sure everybody's good on that.
+
+65
+00:09:00,030 --> 00:09:05,190
+So Mike's saying, like, he didn't do, like, you know, one, two, three, no, 128.
+
+66
+00:09:05,590 --> 00:09:08,370
+He didn't even do, like, two, four, six, eight, all of 128.
+
+67
+00:09:08,930 --> 00:09:13,650
+He did it from one to 32, the powers of two, inclusive of 32?
+
+68
+00:09:14,310 --> 00:09:14,490
+Yeah.
+
+69
+00:09:15,150 --> 00:09:19,790
+OK, so I'll say so, like, one, two, four, eight, 16, 32.
+
+70
+00:09:20,530 --> 00:09:24,510
+And then after that, you went from 32 to 128 by 16 each time.
+
+71
+00:09:25,770 --> 00:09:27,050
+But why did you do that?
+
+72
+00:09:27,530 --> 00:09:31,410
+It was a little, a little complex to, like, kind of explain why, but kind of just,
+
+73
+00:09:31,530 --> 00:09:36,050
+there wasn't enough data between, like, 64 and 128.
+
+74
+00:09:36,570 --> 00:09:40,550
+So just so we had more data, it was, like, a reasonable amount of, you know.
+
+75
+00:09:40,690 --> 00:09:44,210
+So let me, I want to just explore that for a second.
+
+76
+00:09:45,090 --> 00:09:48,970
+If I understand what you're saying is, you know, hey, like, I know I'm going to be plotting this stuff now.
+
+77
+00:09:53,980 --> 00:09:57,580
+Just a second ago, this marker was working fine, I guess, in the 10 seconds at the top
+
+78
+00:09:57,580 --> 00:09:59,380
+wasn't on it, and just to move out here.
+
+79
+00:09:59,540 --> 00:10:04,320
+Let's see, how about this one?
+
+80
+00:10:04,680 --> 00:10:05,320
+Oh, nice.
+
+81
+00:10:08,760 --> 00:10:14,320
+All right, so I don't know, for example, for either timing or whatever it is,
+
+82
+00:10:14,520 --> 00:10:17,260
+we're going to have, like, an x-axis that repeats.
+
+83
+00:10:19,120 --> 00:10:22,560
+Now, if you did from one to 128, one at a time, what would happen?
+
+84
+00:10:23,600 --> 00:10:29,700
+If the prop sizes they gave you, it would take more than 30 minutes to run it.
+
+85
+00:10:29,700 --> 00:10:32,780
+You know, when we said, okay, cool, we need to run fewer things.
+
+86
+00:10:32,840 --> 00:10:34,920
+And we still need to sweep this range.
+
+87
+00:10:37,160 --> 00:10:44,340
+So one thing would be to do is, like, powers two, like, so, like, one, two, four, eight.
+
+88
+00:10:45,380 --> 00:10:50,520
+And, like, the further you get, like, you've got these really big jumps where you go from, like, 64 to 128.
+
+89
+00:10:50,940 --> 00:10:53,360
+What's happening between 64 and 128?
+
+90
+00:10:53,660 --> 00:10:55,940
+Maybe there's an interesting phenomenon there.
+
+91
+00:10:56,480 --> 00:11:02,480
+You know, like, let's suppose that you did your speed up, and your speed up was, like,
+
+92
+00:11:04,990 --> 00:11:09,490
+and then from going from 64 to 128, it was like this.
+
+93
+00:11:11,210 --> 00:11:14,150
+Like, does this still keep going up here, and they go down?
+
+94
+00:11:14,290 --> 00:11:15,090
+Does it go down immediately?
+
+95
+00:11:15,290 --> 00:11:18,450
+Like, you don't know what's happening between here and here, and I think what I hear Mike saying is,
+
+96
+00:11:18,550 --> 00:11:22,610
+he said, all right, this is pretty dense in here.
+
+97
+00:11:23,510 --> 00:11:33,720
+But then when we get to, like, 16, so 16 would be twice eight, so, and then when I'm 32,
+
+98
+00:11:34,180 --> 00:11:37,740
+I'm going to go do it more frequently in here so I get more data points.
+
+99
+00:11:38,080 --> 00:11:38,620
+Is that what I'm hearing?
+
+100
+00:11:39,380 --> 00:11:39,520
+Okay.
+
+101
+00:11:40,400 --> 00:11:42,080
+So that way is not a bunch of gaps.
+
+102
+00:11:42,840 --> 00:11:48,400
+Now, a lot of times you'll see people do the following whenever they run these performance things on the computer.
+
+103
+00:11:48,400 --> 00:11:57,160
+They'll have the problem size go up by two every time, and they'll have the number of processes go up by two every time.
+
+104
+00:11:59,020 --> 00:12:02,780
+So doubling the problem size and doubling the number of processes.
+
+105
+00:12:03,020 --> 00:12:06,360
+Now, one reason that it happens is a lot of parallel programs only work if this stuff's powered to two,
+
+106
+00:12:07,760 --> 00:12:12,840
+because they've been written in a way where it won't work if it's not evenly divisible by the power of two or it isn't powered to.
+
+107
+00:12:13,540 --> 00:12:21,520
+But the other reason is that, like, you need to be able to deal with small sizes and extreme sizes,
+
+108
+00:12:21,520 --> 00:12:25,440
+and this means you don't have to test every combination between what Mike apparently said.
+
+109
+00:12:26,220 --> 00:12:33,660
+I didn't like the fact that as I got closer to the end, I didn't have very many data points because there was nothing between 64 and 128 if I did that.
+
+110
+00:12:34,980 --> 00:12:48,220
+So he chose to have a parameter that said how much you would jump by, okay, of the plots.
+
+111
+00:12:48,780 --> 00:12:51,500
+It's hard sometimes to be able to take, put the plots where you want them.
+
+112
+00:12:52,700 --> 00:12:57,100
+Like, I was just getting here and looking, I was like, we're at the conclusion, but I haven't seen any results.
+
+113
+00:13:00,360 --> 00:13:06,460
+Anyway, okay, now, actually, I don't want to have this speak to the screen like this because it can't, okay, cool.
+
+114
+00:13:13,820 --> 00:13:17,660
+Come on, now, I'm getting a ctrl plus, aren't I? Oh, I'm not hitting another button.
+
+115
+00:13:27,000 --> 00:13:33,540
+No, let's see. Okay, so the left-hand column is your computer. The right-hand column is expanse.
+
+116
+00:13:34,520 --> 00:13:38,800
+Okay. So the problem sizes were the same.
+
+117
+00:13:39,120 --> 00:13:46,200
+So from 100 million to 1.9 billion, 100 million to 1.9 billion, it was like the same data, same sizes.
+
+118
+00:13:47,300 --> 00:13:52,880
+Now, here's, I'm going to provide some feedback, if that's okay.
+
+119
+00:13:56,820 --> 00:14:03,160
+You see how the y-axis here, is the scale of this y-axis the same as the scale of this y-axis?
+
+120
+00:14:05,140 --> 00:14:07,040
+In terms of second-short vote.
+
+121
+00:14:07,760 --> 00:14:13,880
+In terms of total range, right. Now, this is just me saying, like, hey, this is looking pretty good.
+
+122
+00:14:13,880 --> 00:14:16,540
+Like, here's, here's the feedback I would give to somebody.
+
+123
+00:14:18,100 --> 00:14:29,780
+Let's suppose that I was like, let's look at how much rainfall happens in South Carolina versus California over the top.
+
+124
+00:14:30,680 --> 00:14:39,620
+We had, like, South Carolina inches per day. We had California inches per day.
+
+125
+00:14:40,160 --> 00:14:41,580
+And this thing was like this.
+
+126
+00:14:43,660 --> 00:14:48,220
+And over here, it was like, I mean, it's a lot more variable in South Carolina.
+
+127
+00:14:49,240 --> 00:14:56,540
+And it's like, no, like, let's suppose this was 100 inches, 200 inches, and this was 3 inches, and this was 2 inches.
+
+128
+00:14:57,340 --> 00:15:01,340
+Well, it's only buried by, like, 1 inch here. If I hear it's hundreds of, and it's 50s of inches.
+
+129
+00:15:01,860 --> 00:15:07,980
+The scale, now, this is ridiculous, I mean, but, like, the thing is, one thing I wonder is, like,
+
+130
+00:15:08,960 --> 00:15:13,520
+you know, is his computer faster than his fans? I don't know.
+
+131
+00:15:13,720 --> 00:15:17,820
+Like, you can't tell me, remember, just the scale, at least here, that is almost the same.
+
+132
+00:15:18,020 --> 00:15:23,960
+So, like, if that was 2, then 6 is probably somewhere here, but 6 over there is there.
+
+133
+00:15:24,300 --> 00:15:29,420
+Especially when you go side by side visually, you would want to figure out what is the maximum value
+
+134
+00:15:29,420 --> 00:15:34,560
+that y value could be between the two related graphs and set it from 0 to that max value.
+
+135
+00:15:35,000 --> 00:15:38,940
+So that when you compare this with your eyes and this with your eyes, it's apples to apples.
+
+136
+00:15:40,100 --> 00:15:41,100
+That's all I'm going to say.
+
+137
+00:15:44,080 --> 00:15:51,260
+Now, obviously, the x-axis here, that might not be the same, because you didn't test the same parameters in.
+
+138
+00:15:51,360 --> 00:15:55,100
+You would needlessly, like, and you could, you could have this go up to 128,
+
+139
+00:15:57,360 --> 00:16:01,320
+but then you'd only have data, like, right in here, and it would probably look similar to the way this is.
+
+140
+00:16:04,020 --> 00:16:07,680
+But, yeah, especially with the y values, it comes up a lot.
+
+141
+00:16:08,560 --> 00:16:12,100
+Because it forces the user, like, they're like, my salary versus your salary.
+
+142
+00:16:12,300 --> 00:16:16,800
+It's like, well, hold on, are the scales even the same? You can't compare them directly if the scales aren't the same.
+
+143
+00:16:19,060 --> 00:16:21,000
+Okay, cool. So that's trending downward.
+
+144
+00:16:22,920 --> 00:16:28,020
+And I'm guessing, I was just looking here, when we got to 128, the screen line,
+
+145
+00:16:29,240 --> 00:16:33,950
+like, some weird things are, you know, like, it's all I'm thinking is, hey,
+
+146
+00:16:34,850 --> 00:16:42,100
+you know, it looks like the green line actually took more time than this,
+
+147
+00:16:42,180 --> 00:16:46,800
+which I guess that extent is bigger, but it also seems like it, like, it went up here.
+
+148
+00:16:47,020 --> 00:16:49,740
+I mean, I can't tell, but, like, that would, that would not be a good thing, right?
+
+149
+00:16:49,940 --> 00:16:55,840
+I don't mean to promote that it's not a good thing for your homework assignment, but, I mean, it's not good as general.
+
+150
+00:16:56,080 --> 00:17:01,300
+Like, if you use more processes and it actually gets slower, like, that would not be considered a good thing,
+
+151
+00:17:01,300 --> 00:17:04,400
+in general, right? Like, you would probably say, then I'm not going to do that.
+
+152
+00:17:04,600 --> 00:17:06,720
+I'm not going to run twice in any process because I'm going to burn up.
+
+153
+00:17:06,860 --> 00:17:10,380
+It's twice as much energy, twice as much core hour, but you don't mind getting anything bored.
+
+154
+00:17:10,480 --> 00:17:14,240
+In fact, it's worse, right? Like, I don't know, we can't tell that yet.
+
+155
+00:17:14,440 --> 00:17:20,040
+You know, go down here and look a little further. So speed up.
+
+156
+00:17:21,720 --> 00:17:29,520
+Okay, well, now, one thing you have here that I didn't say you had to have,
+
+157
+00:17:29,600 --> 00:17:32,300
+but it's cool that you put it here, because I don't think I'd say it.
+
+158
+00:17:32,340 --> 00:17:34,260
+Why don't you have the ideal line in here?
+
+159
+00:17:34,820 --> 00:17:38,560
+Because that represents normally what would be considered the maximum speed up one we'd expect to get,
+
+160
+00:17:38,720 --> 00:17:41,660
+because you can't give a speed up more than the number of processes.
+
+161
+00:17:42,360 --> 00:17:47,240
+Like, I, you know, two students could do it in an hour, but four students could do it in ten seconds.
+
+162
+00:17:47,400 --> 00:17:49,640
+It's like, well, that doesn't make sense. Could that happen?
+
+163
+00:17:52,580 --> 00:17:56,020
+Not generally in real life with people, generally more people get involved.
+
+164
+00:17:56,740 --> 00:17:58,660
+It gets worse to coordinate something.
+
+165
+00:18:01,080 --> 00:18:02,900
+But it happened in the computer for some reason.
+
+166
+00:18:03,080 --> 00:18:09,420
+So we probably see, like right over here, that there are some of these things that seem to be bigger than ideal.
+
+167
+00:18:09,820 --> 00:18:11,060
+We're going to talk about that later.
+
+168
+00:18:13,380 --> 00:18:16,500
+But data is what the data is. I'm going to plot it out, and that's what it is.
+
+169
+00:18:17,080 --> 00:18:21,950
+It looks like on this computer, let's see.
+
+170
+00:18:25,820 --> 00:18:28,220
+Now, the one that appears to have, like, for example, an A-course,
+
+171
+00:18:28,380 --> 00:18:31,500
+the one that appears to have achieved the maximum speed up
+
+172
+00:18:32,340 --> 00:18:33,960
+is actually the one that's smaller.
+
+173
+00:18:35,220 --> 00:18:36,780
+Here, right, Mike? Is that the way you read this?
+
+174
+00:18:38,540 --> 00:18:44,200
+And the ones that had the worst speed up at A-cores was actually the one that was around in here.
+
+175
+00:18:44,980 --> 00:18:47,740
+And then this one was somewhere in the middle, like it was somewhere in here.
+
+176
+00:18:48,200 --> 00:18:52,520
+But either way, like, if we're using A-cores, we're getting at least even all the problem sizes,
+
+177
+00:18:52,520 --> 00:18:55,220
+and we're getting more than six times speed up.
+
+178
+00:18:55,640 --> 00:18:58,900
+So, I mean, that's, that's kind of cool, you know.
+
+179
+00:18:58,900 --> 00:19:03,040
+Like, this is faster. I mean, we're talking about that when we did this thing in parallel,
+
+180
+00:19:06,060 --> 00:19:11,660
+you know, we went on the order of, for one core, if you hadn't written this like the way you would have a regular program
+
+181
+00:19:11,660 --> 00:19:16,300
+that you've always written, it would have taken six seconds or whatever.
+
+182
+00:19:16,940 --> 00:19:19,700
+And writing it this way, you can make it take less than a second.
+
+183
+00:19:21,560 --> 00:19:24,780
+So that's what this class is about, okay?
+
+184
+00:19:26,020 --> 00:19:29,440
+Now, this was trivial because it's easy to parallelize, and not all are,
+
+185
+00:19:29,440 --> 00:19:31,960
+but that's how we're starting with it. You get the flow, the workflow.
+
+186
+00:19:34,680 --> 00:19:36,540
+Then let's see, look at it in expanse.
+
+187
+00:19:39,690 --> 00:19:43,490
+Now, this is more like what I was kind of expecting, is this thing, look at this.
+
+188
+00:19:43,910 --> 00:19:47,730
+The one that had the worst speed up is the one that has the smallest problem size.
+
+189
+00:19:48,090 --> 00:19:50,450
+Because generally, at least I think it is.
+
+190
+00:19:50,890 --> 00:19:53,650
+I can't tell which, if there's a difference between this black hole and that black hole.
+
+191
+00:19:53,890 --> 00:19:55,250
+But either way, these are the smallest.
+
+192
+00:19:55,930 --> 00:19:59,870
+And the smallest sizes seem to have had the worst speed up.
+
+193
+00:20:00,450 --> 00:20:01,950
+Now, why is that?
+
+194
+00:20:04,430 --> 00:20:06,230
+Well, there's a lot of reasons for it.
+
+195
+00:20:06,250 --> 00:20:09,710
+One is the overhead of just doing this stuff is kind of a fixed cost.
+
+196
+00:20:11,070 --> 00:20:16,050
+And if you don't have that much work to do, that fixed cost represents a big fraction of the overall cost.
+
+197
+00:20:16,170 --> 00:20:19,110
+But if you're doing a really big problem, that fixed cost,
+
+198
+00:20:19,290 --> 00:20:21,010
+some of that stuff really doesn't matter that much.
+
+199
+00:20:21,090 --> 00:20:22,430
+That sandals all right there.
+
+200
+00:20:23,870 --> 00:20:28,990
+So typically, the bigger the problem, the better speed up that you can get.
+
+201
+00:20:29,390 --> 00:20:30,690
+And that also makes sense.
+
+202
+00:20:30,990 --> 00:20:36,970
+Like, if you can already do a problem really fast, why would you parallelize it?
+
+203
+00:20:37,330 --> 00:20:41,090
+I mean, like, according to this thing, if we were just going to do 100 million,
+
+204
+00:20:42,050 --> 00:20:46,170
+I mean, 100 million was going to be right there anyway.
+
+205
+00:20:46,650 --> 00:20:47,810
+How much faster can you get it?
+
+206
+00:20:47,870 --> 00:20:49,230
+You only have this amount to improve.
+
+207
+00:20:50,190 --> 00:20:54,230
+But when your problem takes this amount, you've got this big range of stuff you can possibly improve.
+
+208
+00:20:54,810 --> 00:20:59,030
+So it makes sense that typically the ones that are the smaller problem sizes
+
+209
+00:20:59,030 --> 00:21:03,650
+will see the least gains as p gets larger.
+
+210
+00:21:05,130 --> 00:21:08,510
+And then which one saw the best?
+
+211
+00:21:09,350 --> 00:21:14,130
+Looks like the biggest problem size was always increasing.
+
+212
+00:21:15,010 --> 00:21:17,930
+In fact, it looks like it even increased there a little bit.
+
+213
+00:21:19,250 --> 00:21:22,650
+The next, some of the next ones, I don't know which one this one is.
+
+214
+00:21:22,930 --> 00:21:25,070
+But now, some of them definitely were worse.
+
+215
+00:21:25,870 --> 00:21:28,210
+So like, if you were going to run a problem that was 100 million,
+
+216
+00:21:29,390 --> 00:21:30,930
+you might say, well, I'll stop right here.
+
+217
+00:21:31,750 --> 00:21:35,570
+I'll stop right there because any further is worse, right?
+
+218
+00:21:37,370 --> 00:21:40,350
+But you'll see that also is not a good idea, okay?
+
+219
+00:21:41,170 --> 00:21:43,970
+Because like, what about if all these were the same?
+
+220
+00:21:44,110 --> 00:21:45,390
+Say, oh, those three points were the same.
+
+221
+00:21:45,530 --> 00:21:47,470
+Would you want to go here or would you want to stop here?
+
+222
+00:21:48,410 --> 00:21:51,030
+Would you stop here?
+
+223
+00:21:51,690 --> 00:21:54,130
+Because this is only using that many cores.
+
+224
+00:21:54,510 --> 00:21:56,810
+And you're being charged when you use cloud services
+
+225
+00:21:56,810 --> 00:21:58,270
+based on the core hours and stuff.
+
+226
+00:21:58,790 --> 00:22:03,450
+So like, why would you use more resources and not get any better speed up?
+
+227
+00:22:03,790 --> 00:22:04,090
+You wouldn't.
+
+228
+00:22:04,910 --> 00:22:06,630
+In fact, you probably wouldn't even change it.
+
+229
+00:22:06,790 --> 00:22:08,570
+And you definitely go to here.
+
+230
+00:22:09,290 --> 00:22:11,790
+You'd go to there because you're getting on the side and you'll speed up.
+
+231
+00:22:11,850 --> 00:22:13,730
+But now, right here, that's the turning point.
+
+232
+00:22:13,930 --> 00:22:14,710
+That's like the median curve.
+
+233
+00:22:14,890 --> 00:22:16,790
+Oh, whoa, like when you add it from here to here,
+
+234
+00:22:17,390 --> 00:22:20,470
+you didn't keep up because this gap started widening, right?
+
+235
+00:22:21,250 --> 00:22:23,890
+So if we go and look at the efficiency,
+
+236
+00:22:24,690 --> 00:22:29,530
+we can see that like, we're maintaining something pretty close up here
+
+237
+00:22:29,530 --> 00:22:31,490
+near 100% efficiency.
+
+238
+00:22:31,750 --> 00:22:35,210
+But when we get to right here, it's like, oh my God, a huge drop.
+
+239
+00:22:35,330 --> 00:22:40,290
+And every time you keep doing it, it keeps getting less and less efficient, right?
+
+240
+00:22:40,870 --> 00:22:42,930
+And it's nice to get less efficient all the way from the very beginning.
+
+241
+00:22:43,050 --> 00:22:44,670
+Except for some weird just to happen right here,
+
+242
+00:22:44,670 --> 00:22:47,950
+which is also that thing about being faster than the fastest or whatever.
+
+243
+00:22:48,630 --> 00:22:51,390
+But like, you know, you might be willing to do this
+
+244
+00:22:51,390 --> 00:22:53,310
+because every time we move to this point right here,
+
+245
+00:22:53,450 --> 00:22:55,690
+like, let's say that this is, is this 80?
+
+246
+00:22:55,910 --> 00:22:56,330
+Probably 90.
+
+247
+00:22:57,370 --> 00:23:00,130
+This is 16 per processes.
+
+248
+00:23:00,950 --> 00:23:01,570
+Yeah, I can't see.
+
+249
+00:23:01,730 --> 00:23:02,870
+What is that number right there?
+
+250
+00:23:03,110 --> 00:23:03,510
+Is that 32?
+
+251
+00:23:04,310 --> 00:23:04,870
+That'll be 48.
+
+252
+00:23:05,290 --> 00:23:06,030
+Oh, it'll be 48.
+
+253
+00:23:06,190 --> 00:23:06,890
+So this is 48.
+
+254
+00:23:07,250 --> 00:23:07,790
+And what was this?
+
+255
+00:23:07,930 --> 00:23:08,270
+32?
+
+256
+00:23:09,310 --> 00:23:10,010
+So 32.
+
+257
+00:23:10,690 --> 00:23:12,610
+So 32.
+
+258
+00:23:12,630 --> 00:23:14,970
+So what is, somebody just tell me real quick on a calculator.
+
+259
+00:23:15,210 --> 00:23:16,910
+What's 48 divided by 32?
+
+260
+00:23:24,730 --> 00:23:25,350
+1.5.
+
+261
+00:23:26,710 --> 00:23:33,130
+So you used 1.5 times the number of resources to do that, right?
+
+262
+00:23:33,550 --> 00:23:34,850
+Going from 32 to 48.
+
+263
+00:23:36,410 --> 00:23:36,630
+All right.
+
+264
+00:23:36,950 --> 00:23:42,990
+But when you went from 32 to 48, what was the difference in the time?
+
+265
+00:23:43,150 --> 00:23:45,810
+We can't see that over here because it's too, it's too hard to tell.
+
+266
+00:23:45,810 --> 00:23:52,870
+But over here, when we went from 32 to 48, the speed up brought up,
+
+267
+00:23:52,870 --> 00:23:53,930
+we went back to that other thing.
+
+268
+00:23:54,090 --> 00:23:56,930
+What we would find that I've seen is if we just stuck with 32,
+
+269
+00:23:57,990 --> 00:24:00,010
+it might have taken this long to run.
+
+270
+00:24:00,290 --> 00:24:03,310
+So like 32 processes running for this amount of time,
+
+271
+00:24:03,850 --> 00:24:08,950
+not in the product of the number of cores times the amount of time
+
+272
+00:24:08,950 --> 00:24:10,610
+represents the amount of work that's done.
+
+273
+00:24:11,210 --> 00:24:13,510
+So this is the work that is done.
+
+274
+00:24:13,850 --> 00:24:17,570
+And the work is proportional to the cost because it's like,
+
+275
+00:24:17,590 --> 00:24:20,390
+I want to use 100 servers for 10 hours.
+
+276
+00:24:20,770 --> 00:24:22,850
+So, you know, like persons, you know,
+
+277
+00:24:22,850 --> 00:24:26,470
+per-people hours or code, node hours or core hours.
+
+278
+00:24:26,590 --> 00:24:30,430
+The product of the number of resources multiplied by the amount of time
+
+279
+00:24:30,430 --> 00:24:33,550
+they're engaged is directly proportional to the cost you're going to pay for it
+
+280
+00:24:33,550 --> 00:24:34,390
+in a cloud environment.
+
+281
+00:24:35,890 --> 00:24:39,650
+And even though it's faster, you used 1.5 times.
+
+282
+00:24:39,690 --> 00:24:44,870
+Now, this went up by a factor of, you know,
+
+283
+00:24:45,410 --> 00:24:49,370
+like, you know, basically 50% here, factor 1.5.
+
+284
+00:24:50,190 --> 00:24:53,570
+The only way that would be useful to go to like 48, let's say it went to 48.
+
+285
+00:24:55,270 --> 00:24:58,410
+How fast, in other words, what would the new time,
+
+286
+00:24:58,570 --> 00:25:00,170
+this is the new time and this is the old time,
+
+287
+00:25:00,410 --> 00:25:04,990
+what would the new time have to be so that it was worthwhile to do this?
+
+288
+00:25:05,490 --> 00:25:08,930
+But in an ideal case, the product of this times this
+
+289
+00:25:08,930 --> 00:25:10,830
+would be equal to the product of that times that.
+
+290
+00:25:10,970 --> 00:25:13,150
+So, the area would have to be the same.
+
+291
+00:25:13,330 --> 00:25:14,810
+That would be the same amount of work that gets done.
+
+292
+00:25:15,210 --> 00:25:17,890
+But we know it ain't going to be that because that only works
+
+293
+00:25:17,890 --> 00:25:19,210
+if it's perfectly good about our losses.
+
+294
+00:25:19,410 --> 00:25:20,470
+But when we see it, it's not as inefficient.
+
+295
+00:25:20,930 --> 00:25:22,850
+That means you're actually, say, running this thing for this.
+
+296
+00:25:23,290 --> 00:25:26,730
+So, yeah, the time got shorter, but you did a lot more work.
+
+297
+00:25:27,710 --> 00:25:28,930
+So, you got a lot more cost.
+
+298
+00:25:29,410 --> 00:25:32,150
+So, you have to decide, like, where does the burden vary even more?
+
+299
+00:25:32,210 --> 00:25:33,430
+I'm trying to take this back.
+
+300
+00:25:33,630 --> 00:25:36,510
+This isn't just a play around, see what happens.
+
+301
+00:25:36,690 --> 00:25:40,130
+It's like it's directly related to what the cost is going to be to run this thing.
+
+302
+00:25:40,950 --> 00:25:44,310
+Because, you know, if you've got thousands of users running hundreds of jobs,
+
+303
+00:25:45,630 --> 00:25:48,070
+that's going to put a, you know, look at how big expense is.
+
+304
+00:25:48,570 --> 00:25:50,750
+And look at the number of people running at any one time on there.
+
+305
+00:25:51,250 --> 00:25:53,870
+You know, how many petaflosses is the machine?
+
+306
+00:25:54,050 --> 00:25:54,650
+I can't remember.
+
+307
+00:25:54,990 --> 00:25:56,650
+I mean, it's not a tiny amount, right?
+
+308
+00:25:56,790 --> 00:25:58,970
+It's a pretty significant computer.
+
+309
+00:25:59,370 --> 00:26:03,070
+So, this is kind of, you know, this helps us analyze what's going on.
+
+310
+00:26:03,890 --> 00:26:05,830
+Whereas, like, for example, for 1.9 million,
+
+311
+00:26:06,470 --> 00:26:08,950
+you might be able to be like, hey, I'm going to go all the way up there
+
+312
+00:26:08,950 --> 00:26:11,230
+because it's pretty much a straight line here.
+
+313
+00:26:11,670 --> 00:26:13,630
+Now, here, you might say, I'm not doing that.
+
+314
+00:26:13,910 --> 00:26:18,790
+I mean, I didn't hardly get any faster, and I used more resources.
+
+315
+00:26:19,510 --> 00:26:21,450
+Does that make sense?
+
+316
+00:26:23,130 --> 00:26:23,410
+Okay.
+
+317
+00:26:28,970 --> 00:26:31,930
+Now, I mean, how can we be more than 100%?
+
+318
+00:26:32,210 --> 00:26:35,530
+Well, this is that thing that we're saying that you can actually be more
+
+319
+00:26:35,530 --> 00:26:38,790
+than twice as fast as something when you go from one to two, for example.
+
+320
+00:26:39,810 --> 00:26:41,990
+I am not going to worry about explaining that right now
+
+321
+00:26:41,990 --> 00:26:46,750
+because that's not going to – you can look it up.
+
+322
+00:26:47,550 --> 00:26:48,670
+We're going to talk about it.
+
+323
+00:26:48,830 --> 00:26:50,850
+But for now, it's just what we got.
+
+324
+00:26:52,010 --> 00:26:52,150
+Okay.
+
+325
+00:26:52,230 --> 00:26:52,970
+It's what happened.
+
+326
+00:26:54,970 --> 00:26:56,650
+But in general, like, as you can see,
+
+327
+00:26:56,930 --> 00:26:59,390
+as this keeps getting a lot higher, you know,
+
+328
+00:26:59,750 --> 00:27:01,950
+we're weighing – you know, our efficiency is going down.
+
+329
+00:27:05,850 --> 00:27:06,530
+Now, let's see.
+
+330
+00:27:07,770 --> 00:27:14,310
+So, the original parameters we – that was asked to be done
+
+331
+00:27:14,310 --> 00:27:16,550
+both fit within 30 minutes.
+
+332
+00:27:19,160 --> 00:27:23,600
+The examples that I provided about accessing the debug partition
+
+333
+00:27:23,600 --> 00:27:27,840
+obviously showed that the largest amount of time you could run was 30 minutes
+
+334
+00:27:27,840 --> 00:27:29,880
+because that's not something I set.
+
+335
+00:27:30,020 --> 00:27:31,660
+That's the setting for the machines.
+
+336
+00:27:33,020 --> 00:27:35,740
+But the example I had was using – what was it?
+
+337
+00:27:35,900 --> 00:27:38,300
+Is it eight gigs or eight bags or something gigs of RAM?
+
+338
+00:27:38,300 --> 00:27:41,320
+But, like, well, yeah, the ones we didn't class
+
+339
+00:27:41,320 --> 00:27:42,860
+could only find up a couple of processes.
+
+340
+00:27:43,140 --> 00:27:45,440
+But here, like, we're spending up 128.
+
+341
+00:27:46,700 --> 00:27:48,280
+Will that fit within that amount of memory?
+
+342
+00:27:49,100 --> 00:27:49,340
+No.
+
+343
+00:27:50,100 --> 00:27:51,100
+You need to have more memory.
+
+344
+00:27:51,440 --> 00:27:58,060
+Now, you know, like, if you Google messages that you get
+
+345
+00:27:58,060 --> 00:28:00,260
+and you ask chatTQT, like, all right, and you can tell it.
+
+346
+00:28:00,720 --> 00:28:05,380
+I'm on the Expanse server at the San Diego Supervision Center.
+
+347
+00:28:05,440 --> 00:28:08,660
+Here's a link to the user guide to getting this message.
+
+348
+00:28:09,100 --> 00:28:11,400
+What are the possible explanations of this?
+
+349
+00:28:12,620 --> 00:28:14,980
+Well, it could be that your account doesn't have this.
+
+350
+00:28:15,160 --> 00:28:16,020
+It could be that or that.
+
+351
+00:28:16,280 --> 00:28:18,240
+It could be that they don't have a memory.
+
+352
+00:28:18,920 --> 00:28:20,120
+Oh, memory.
+
+353
+00:28:26,320 --> 00:28:29,820
+The other thing that you could do is you could run your programs
+
+354
+00:28:29,820 --> 00:28:32,320
+and collect additional log file information.
+
+355
+00:28:33,000 --> 00:28:34,980
+So, like, for example, what probably was happening there
+
+356
+00:28:34,980 --> 00:28:38,080
+is the operating system was killing the processes
+
+357
+00:28:38,080 --> 00:28:39,840
+based on an out of memory error.
+
+358
+00:28:40,040 --> 00:28:44,260
+You know, and so you could get the logs from that and do that.
+
+359
+00:28:46,560 --> 00:28:50,160
+I had just had this conversation with the people in the previous class,
+
+360
+00:28:50,400 --> 00:28:51,940
+the students in the previous class, you know,
+
+361
+00:28:52,240 --> 00:28:53,800
+almost said the same thing here, which is,
+
+362
+00:28:54,500 --> 00:28:56,280
+I haven't explained how to do everything.
+
+363
+00:28:57,220 --> 00:28:58,240
+I shouldn't have to.
+
+364
+00:28:58,980 --> 00:29:00,680
+This is the capstone course.
+
+365
+00:29:01,900 --> 00:29:03,280
+This is the end of the road.
+
+366
+00:29:03,380 --> 00:29:06,500
+A lot of the stuff in these capstone classes that are the IS and IT,
+
+367
+00:29:07,240 --> 00:29:09,060
+they're not teaching at all.
+
+368
+00:29:09,240 --> 00:29:12,360
+They're only doing projects, not saying anything, all on you.
+
+369
+00:29:12,480 --> 00:29:15,100
+I'm explaining some stuff, but I'm expecting that
+
+370
+00:29:15,100 --> 00:29:18,440
+with every resource you have available, all of my recorded stuff,
+
+371
+00:29:18,840 --> 00:29:23,080
+the book, chat GPT, MNI, Claude, co-pilot, Google,
+
+372
+00:29:24,060 --> 00:29:25,980
+you can figure out how to do this.
+
+373
+00:29:27,700 --> 00:29:30,180
+But you have to start on a well ahead of time.
+
+374
+00:29:30,520 --> 00:29:31,140
+Like, I don't know.
+
+375
+00:29:31,260 --> 00:29:33,460
+So, Mike, when did you start with this original assignment?
+
+376
+00:29:33,800 --> 00:29:35,680
+Like, before we had the update about the size of it.
+
+377
+00:29:35,800 --> 00:29:37,120
+Like, how long it would be between the time
+
+378
+00:29:37,260 --> 00:29:41,020
+that I mentioned it in class, that you actually started messing with it?
+
+379
+00:29:41,560 --> 00:29:42,160
+On Sunday.
+
+380
+00:29:42,520 --> 00:29:43,180
+On Sunday.
+
+381
+00:29:43,340 --> 00:29:44,420
+So, the Sunday we just had.
+
+382
+00:29:53,190 --> 00:29:57,830
+So now, let's take a look here at the allocations that we've used here so far.
+
+383
+00:30:01,900 --> 00:30:03,600
+I'm going to go over here and look at something real quick.
+
+384
+00:30:59,160 --> 00:31:02,380
+I thought they had this on this webpage, but I guess they don't.
+
+385
+00:31:08,660 --> 00:31:11,060
+Because they tell us over here what the total situation is.
+
+386
+00:32:04,850 --> 00:32:06,890
+Do the thing at the command line to see what it is.
+
+387
+00:32:09,230 --> 00:32:11,510
+You can filter by project ID.
+
+388
+00:32:14,350 --> 00:32:15,310
+Okay.
+
+389
+00:32:32,700 --> 00:32:33,840
+Let's do this here too.
+
+390
+00:33:05,750 --> 00:33:06,750
+She's graduated.
+
+391
+00:33:08,110 --> 00:33:08,990
+He graduated.
+
+392
+00:33:15,920 --> 00:33:16,400
+Mike.
+
+393
+00:33:18,600 --> 00:33:20,240
+717 core hours.
+
+394
+00:33:42,150 --> 00:33:45,510
+So, let's talk about one quick question about something here.
+
+395
+00:33:45,890 --> 00:33:48,990
+It's more like a statement, but it is a question.
+
+396
+00:33:53,320 --> 00:33:59,120
+When you ask for 128 cores, whether it's on a compute node or a debug node,
+
+397
+00:34:01,220 --> 00:34:03,460
+it means you've got the whole node, right?
+
+398
+00:34:04,860 --> 00:34:06,960
+It doesn't matter how much RAM you ask for at that point.
+
+399
+00:34:07,500 --> 00:34:09,380
+Because no one else can use it.
+
+400
+00:34:10,100 --> 00:34:14,040
+So, you're not really being charged for the RAM because you've already used the whole machine.
+
+401
+00:34:14,520 --> 00:34:21,920
+Let's say you ask for four cores and 128 gigs of RAM.
+
+402
+00:34:23,960 --> 00:34:25,000
+How many gigs do they have?
+
+403
+00:34:25,180 --> 00:34:25,420
+I can't remember.
+
+404
+00:34:25,580 --> 00:34:26,060
+It's 108.
+
+405
+00:34:27,180 --> 00:34:27,420
+256.
+
+406
+00:34:28,640 --> 00:34:30,720
+So, you'd be charged for half the node.
+
+407
+00:34:31,240 --> 00:34:32,760
+Because which one is the biggest fraction?
+
+408
+00:34:33,480 --> 00:34:36,780
+128 out of 256, which is 50% or 4 out of 128?
+
+409
+00:34:37,680 --> 00:34:42,000
+So, the amount of core hours you get charged by is the bigger of those two factions
+
+410
+00:34:42,240 --> 00:34:44,300
+multiplied by the amount of time that you use it for.
+
+411
+00:34:44,720 --> 00:34:49,820
+So, if you're already asking for all the cores, it doesn't matter how much RAM you ask for at that point.
+
+412
+00:34:49,920 --> 00:34:53,520
+Now, if you're only asking for one core, then yeah, don't ask for all the RAM unless you need it.
+
+413
+00:34:53,540 --> 00:34:58,440
+Because if you're only asking for one core, you're only using one 128th of it.
+
+414
+00:34:58,940 --> 00:35:07,820
+That means that when you say you use one core for, let's say, two gigs of RAM.
+
+415
+00:35:12,000 --> 00:35:18,280
+So, that'd be two gigs out of 256, which is like one out of 128.
+
+416
+00:35:19,320 --> 00:35:22,520
+Which is like saying it's about one percent of the machine, right?
+
+417
+00:35:26,520 --> 00:35:30,080
+But then when you say for one core out of 128, that's the same fraction here.
+
+418
+00:35:31,400 --> 00:35:32,520
+Alright, so it's about one percent.
+
+419
+00:35:32,900 --> 00:35:34,440
+And let's suppose you used it for one hour.
+
+420
+00:35:35,100 --> 00:35:37,880
+Then you'd get charged for one core hour because they don't round now.
+
+421
+00:35:38,860 --> 00:35:40,720
+So, it'd be like one core hour.
+
+422
+00:35:42,080 --> 00:35:49,480
+But, like, if you were using all of the RAM for two things, for like two hours,
+
+423
+00:35:49,660 --> 00:35:51,740
+then it'd be two and then four.
+
+424
+00:35:51,880 --> 00:35:53,820
+It depends on how big the biggest one is.
+
+425
+00:35:54,540 --> 00:35:58,500
+So, the idea is if you're going to use exclusive access, just go use all the RAM.
+
+426
+00:35:58,600 --> 00:35:58,960
+It doesn't matter.
+
+427
+00:35:59,200 --> 00:36:03,500
+But if you're not using all of the node, then try to be thoughtful about how much RAM you use
+
+428
+00:36:03,500 --> 00:36:07,060
+because that's how this thing is.
+
+429
+00:36:07,280 --> 00:36:10,540
+But even you can see, like, people that have already graduated and went through this
+
+430
+00:36:10,540 --> 00:36:12,160
+and probably used it on more than one course.
+
+431
+00:36:13,120 --> 00:36:13,980
+They probably used it on three then.
+
+432
+00:36:14,160 --> 00:36:19,420
+You know, they were around, you know, say 15,000 over a couple of courses.
+
+433
+00:36:20,660 --> 00:36:23,560
+You know, now, let's suppose we all in here were at 15,000.
+
+434
+00:36:25,060 --> 00:36:27,200
+That would blow through the budget that we have.
+
+435
+00:36:28,800 --> 00:36:29,980
+Now, you may say, alright, well, cool.
+
+436
+00:36:30,080 --> 00:36:32,760
+Here's what I'm going to blow through the budget, and that way we won't have to do this anymore.
+
+437
+00:36:35,550 --> 00:36:38,090
+Like I said, if you go and do...
+
+438
+00:36:38,090 --> 00:36:41,510
+I already have an idea of what it already took every other student to ever do this stuff,
+
+439
+00:36:41,730 --> 00:36:43,630
+historically, since we got this thing.
+
+440
+00:36:43,790 --> 00:36:45,250
+So, I know what's a normal amount.
+
+441
+00:36:45,790 --> 00:36:50,470
+If there's something in here that's, you know, I get 50,000 for one student, for one assignment,
+
+442
+00:36:50,770 --> 00:36:57,510
+then you have it in responsibly, either through not being responsible or for purposely doing it.
+
+443
+00:36:57,730 --> 00:36:58,270
+Does that make sense?
+
+444
+00:36:58,810 --> 00:37:03,770
+So, please don't be abusive of the system, but use what is needed to do what you need to do.
+
+445
+00:37:04,150 --> 00:37:05,290
+Explore that space.
+
+446
+00:37:09,850 --> 00:37:12,970
+Alright, now, let's go back to the command line.
+
+447
+00:37:13,130 --> 00:37:14,090
+What about this report here?
+
+448
+00:37:14,490 --> 00:37:17,150
+Now, the report got voiceover in it?
+
+449
+00:37:18,930 --> 00:37:19,990
+The presentation I mean?
+
+450
+00:37:20,190 --> 00:37:20,330
+No.
+
+451
+00:37:20,890 --> 00:37:21,170
+Okay.
+
+452
+00:37:21,710 --> 00:37:23,590
+Let's just look and see what this looks like.
+
+453
+00:37:30,740 --> 00:37:31,120
+Okay.
+
+454
+00:37:34,720 --> 00:37:37,000
+Now, I'm going to give some feedback.
+
+455
+00:37:39,640 --> 00:37:42,000
+You see this screenshot?
+
+456
+00:37:43,440 --> 00:37:46,020
+Even the full screen on this board, I can't.
+
+457
+00:37:46,060 --> 00:37:46,360
+I can't.
+
+458
+00:37:46,420 --> 00:37:47,400
+You can't hardly read what's there.
+
+459
+00:37:47,580 --> 00:37:48,600
+The fonts are so small.
+
+460
+00:37:49,360 --> 00:37:53,300
+You know, you saw how Mike went when he did the presentation.
+
+461
+00:37:55,780 --> 00:37:56,480
+Excuse me.
+
+462
+00:37:56,680 --> 00:37:57,200
+The report.
+
+463
+00:37:59,260 --> 00:38:04,140
+He put line continuations here, which is kind of cool because it made it instead, you know,
+
+464
+00:38:04,200 --> 00:38:11,980
+fit in this column, you know.
+
+465
+00:38:12,080 --> 00:38:17,860
+Do something like where you don't take a, let's say, a screenshot.
+
+466
+00:38:18,500 --> 00:38:22,880
+You're going to copy and paste the text, put it in monospace font, and then, like, put
+
+467
+00:38:22,880 --> 00:38:27,940
+the multiple rows in hand way so that you can actually read this thing better.
+
+468
+00:38:28,020 --> 00:38:29,080
+That would be better, you know.
+
+469
+00:38:29,760 --> 00:38:31,060
+This isn't as bad.
+
+470
+00:38:31,180 --> 00:38:32,040
+It's not quite as wide.
+
+471
+00:38:32,520 --> 00:38:36,900
+But I'd argue that, like, why don't we put a line continuation character here and another
+
+472
+00:38:36,900 --> 00:38:37,320
+one there.
+
+473
+00:38:37,480 --> 00:38:38,700
+And that way, everything would fit here.
+
+474
+00:38:38,700 --> 00:38:42,020
+And then, the font would have been about maybe this big.
+
+475
+00:38:43,160 --> 00:38:47,620
+The other thing I don't, and this must be you guys' machines, because none of the screenshots
+
+476
+00:38:47,620 --> 00:38:49,360
+I do ever work like this.
+
+477
+00:38:49,640 --> 00:38:53,260
+Every screenshot I take has aspect ratio locked.
+
+478
+00:38:54,380 --> 00:38:57,260
+So, when I take a corner, there's none of this squishing and squashing.
+
+479
+00:38:57,400 --> 00:39:04,200
+I don't know what's up, however you all do this stuff, but I don't know how you manage
+
+480
+00:39:04,200 --> 00:39:05,160
+to make it like that.
+
+481
+00:39:05,160 --> 00:39:09,520
+I can't make any of my screenshots allow you to do that crap, unless you come over here
+
+482
+00:39:09,520 --> 00:39:10,800
+and do that.
+
+483
+00:39:11,600 --> 00:39:13,260
+I don't know what it is about things.
+
+484
+00:39:13,560 --> 00:39:15,240
+Like, I would just say, don't ever change.
+
+485
+00:39:15,600 --> 00:39:17,080
+Like, I mean, not that Mike did.
+
+486
+00:39:17,140 --> 00:39:18,740
+He kept it more or less rectangular here.
+
+487
+00:39:19,180 --> 00:39:22,940
+But, like, I had a student this morning that had screenshots like this.
+
+488
+00:39:24,100 --> 00:39:26,000
+It's just like, don't do that.
+
+489
+00:39:26,620 --> 00:39:27,800
+But, like, I had to make it fit.
+
+490
+00:39:28,640 --> 00:39:29,240
+Like, okay, well, cool.
+
+491
+00:39:30,180 --> 00:39:30,880
+It fits.
+
+492
+00:39:31,420 --> 00:39:32,060
+Mike can't read it.
+
+493
+00:39:34,620 --> 00:39:35,660
+So, there's that.
+
+494
+00:39:37,020 --> 00:39:37,980
+Not like this kind of thing.
+
+495
+00:39:38,120 --> 00:39:41,100
+Like, when you start highlighting what it is that the issue is.
+
+496
+00:39:41,380 --> 00:39:43,160
+And that'll be cool, too, when you record over it.
+
+497
+00:39:43,220 --> 00:39:47,120
+Because as you're talking and as you're clicking, this thing will be popping up there
+
+498
+00:39:47,120 --> 00:39:48,180
+and it'll be dropping.
+
+499
+00:39:48,580 --> 00:39:49,900
+And I don't mean animation necessarily.
+
+500
+00:39:50,140 --> 00:39:51,920
+I just mean that it'll be flow.
+
+501
+00:39:52,080 --> 00:39:54,500
+It'll help direct the eyes of the thing that you're talking about.
+
+502
+00:39:56,740 --> 00:39:58,220
+So, let's see.
+
+503
+00:39:59,120 --> 00:40:03,160
+So, Mike did what I did, which I noticed that not everybody did this.
+
+504
+00:40:04,520 --> 00:40:05,420
+But, they're like, okay, cool.
+
+505
+00:40:05,600 --> 00:40:06,260
+I'm doing something with Python.
+
+506
+00:40:06,560 --> 00:40:09,380
+So, I'm going to load up Anaconda and I'm going to either create an environment
+
+507
+00:40:09,380 --> 00:40:11,360
+or use the one that's there to do something with an Anaconda
+
+508
+00:40:11,360 --> 00:40:13,820
+because that's the typical way you do stuff with Python.
+
+509
+00:40:14,280 --> 00:40:17,680
+Use some sort of package manager type of environment to create environments.
+
+510
+00:40:18,280 --> 00:40:19,220
+Not that you had to.
+
+511
+00:40:19,480 --> 00:40:20,840
+But, I mean, that's what I did.
+
+512
+00:40:21,180 --> 00:40:21,960
+That's what he did.
+
+513
+00:40:26,090 --> 00:40:31,510
+I think if you go and even ask, like, chat GPT and say, hey, you know,
+
+514
+00:40:31,530 --> 00:40:34,850
+I'm using this cluster here and I need to use Python on a remote node
+
+515
+00:40:34,850 --> 00:40:37,550
+and what are some of the things that we could do?
+
+516
+00:40:37,750 --> 00:40:38,490
+What might you do?
+
+517
+00:40:40,610 --> 00:40:45,570
+So, I went ahead and I had a thing that set it up here, ran the stuff.
+
+518
+00:40:45,750 --> 00:40:46,690
+So, these are the same results.
+
+519
+00:40:48,110 --> 00:40:56,280
+Now, me personally, this is me talking.
+
+520
+00:40:57,000 --> 00:40:58,760
+Like, we would make this full screen.
+
+521
+00:41:00,480 --> 00:41:04,440
+There's an awful lot of white space left on this thing that is usable.
+
+522
+00:41:04,620 --> 00:41:07,100
+Now, maybe not usable as is, but it's usable.
+
+523
+00:41:08,580 --> 00:41:09,620
+What can I do?
+
+524
+00:41:10,460 --> 00:41:11,440
+I don't know.
+
+525
+00:41:11,680 --> 00:41:12,280
+What could you do?
+
+526
+00:41:12,440 --> 00:41:18,700
+What about if instead of us having done this, let's say we did something like this.
+
+527
+00:41:22,410 --> 00:41:25,790
+Let's say we take this out of there, we take the top out of here
+
+528
+00:41:27,210 --> 00:41:28,470
+and we make this smaller.
+
+529
+00:41:30,610 --> 00:41:34,150
+I see it's one of these text boxes that bases at font size
+
+530
+00:41:34,150 --> 00:41:37,890
+based on the size of the thing as opposed to it's got an absolute font size.
+
+531
+00:41:38,290 --> 00:41:39,610
+It's just a resizable thing here.
+
+532
+00:41:39,790 --> 00:41:41,770
+Like, maybe we did something, I don't know what we could do here.
+
+533
+00:41:41,890 --> 00:41:42,990
+Let's get this out of the way.
+
+534
+00:41:44,990 --> 00:41:47,430
+Now, oh, we got these, that's a great show.
+
+535
+00:41:47,510 --> 00:41:48,970
+It's not the same, but whatever.
+
+536
+00:41:49,850 --> 00:41:51,230
+I would say, like, I don't know.
+
+537
+00:41:51,370 --> 00:41:53,430
+Maybe, like, try to have these plots be a little bit bigger.
+
+538
+00:41:55,290 --> 00:41:56,670
+Maybe use whatever fraction.
+
+539
+00:41:57,790 --> 00:41:58,730
+You can see them better.
+
+540
+00:41:58,890 --> 00:42:02,610
+Maybe put, like, the explanation below that.
+
+541
+00:42:02,810 --> 00:42:05,390
+Try to use the screen real estate that's there.
+
+542
+00:42:05,530 --> 00:42:08,390
+Imagine you're going to present it on the screen.
+
+543
+00:42:09,330 --> 00:42:13,670
+There's no reason not to use space if you can use it.
+
+544
+00:42:16,550 --> 00:42:19,310
+Because when we were looking at this report a minute ago,
+
+545
+00:42:20,190 --> 00:42:22,130
+we had it blown up looking at one plot.
+
+546
+00:42:22,130 --> 00:42:26,170
+It was a lot easier to think about stuff when we're using that screen real estate.
+
+547
+00:42:26,850 --> 00:42:28,590
+I'd say the same thing about this.
+
+548
+00:42:34,910 --> 00:42:36,750
+Now, one thing I do like about the way he did this is
+
+549
+00:42:36,750 --> 00:42:38,530
+every slide is parallel in a sense.
+
+550
+00:42:39,050 --> 00:42:42,510
+Like, I control Z and unmake those changes that I made.
+
+551
+00:42:47,760 --> 00:42:53,180
+It's like the format as I go from, like, here, one, two, three,
+
+552
+00:42:53,260 --> 00:42:54,960
+that's the exact same parallel format.
+
+553
+00:42:55,140 --> 00:42:57,860
+I mean, I think that's visually appealing to have it
+
+554
+00:42:57,860 --> 00:42:59,880
+so that it's not, like, well, it's alternating.
+
+555
+00:43:00,080 --> 00:43:00,780
+It's here this way.
+
+556
+00:43:00,920 --> 00:43:02,260
+I mean, it's uniform.
+
+557
+00:43:02,440 --> 00:43:03,300
+It's self-consistent.
+
+558
+00:43:04,920 --> 00:43:06,420
+All right.
+
+559
+00:43:07,860 --> 00:43:11,540
+So, questions about that particular assignment?
+
+560
+00:43:18,660 --> 00:43:21,240
+Now, let's go over here.
+
+561
+00:43:40,760 --> 00:43:41,000
+All right.
+
+562
+00:43:41,040 --> 00:43:42,280
+So, let's go to Moodle.
+
+563
+00:43:45,640 --> 00:43:46,080
+173.
+
+564
+00:43:49,230 --> 00:43:49,630
+Let's see.
+
+565
+00:43:50,330 --> 00:43:50,850
+Matrix vector.
+
+566
+00:43:51,310 --> 00:43:53,750
+Let's download that thing.
+
+567
+00:43:53,930 --> 00:43:54,730
+Talk about it in a second.
+
+568
+00:43:55,030 --> 00:43:55,390
+Now, let's see.
+
+569
+00:43:56,470 --> 00:43:59,290
+So, MPI, matrix vector, mobile machine,
+
+570
+00:43:59,550 --> 00:44:02,070
+atomic span, some short PBT, but no report.
+
+571
+00:44:02,910 --> 00:44:05,790
+And that's because we're not done yet with the milestones
+
+572
+00:44:05,790 --> 00:44:07,510
+that are going to even be done on this project.
+
+573
+00:44:08,550 --> 00:44:11,470
+But you need to be working on it right now.
+
+574
+00:44:11,550 --> 00:44:14,090
+I might even make this thing like it is right now.
+
+575
+00:44:14,090 --> 00:44:15,510
+I might even say this is a snapshot.
+
+576
+00:44:16,330 --> 00:44:16,850
+That's an assignment.
+
+577
+00:44:17,170 --> 00:44:18,030
+Keep moving on it.
+
+578
+00:44:18,190 --> 00:44:18,750
+Those are snapshots.
+
+579
+00:44:19,170 --> 00:44:20,550
+We're going to build up here a bit.
+
+580
+00:44:21,310 --> 00:44:23,750
+So, let's take a look at what this thing says.
+
+581
+00:44:32,070 --> 00:44:34,490
+I'm assuming Word will load here.
+
+582
+00:44:38,680 --> 00:44:39,740
+So, now, we're doing matrix vector,
+
+583
+00:44:39,820 --> 00:44:41,240
+which we were talking about in class, right?
+
+584
+00:44:41,540 --> 00:44:42,480
+We're doing that.
+
+585
+00:44:46,300 --> 00:44:47,660
+Please make use of these videos.
+
+586
+00:44:47,880 --> 00:44:49,580
+If there's things that, like, we went over,
+
+587
+00:44:51,320 --> 00:44:53,420
+don't ask me a question that I recorded.
+
+588
+00:44:55,560 --> 00:44:57,180
+Go back and find it.
+
+589
+00:44:58,060 --> 00:44:59,020
+Look at it.
+
+590
+00:44:59,240 --> 00:45:02,200
+That's what they're there for, okay?
+
+591
+00:45:09,800 --> 00:45:13,460
+So, reproduce things, replicate it on your own computer.
+
+592
+00:45:13,720 --> 00:45:15,320
+You need to capture some results.
+
+593
+00:45:18,470 --> 00:45:20,510
+Anybody got fewer than four cores in here?
+
+594
+00:45:21,170 --> 00:45:22,210
+Only got two or what cores?
+
+595
+00:45:22,950 --> 00:45:24,570
+What's the fewest cores anybody got?
+
+596
+00:45:24,670 --> 00:45:25,570
+You might want to save it.
+
+597
+00:45:26,610 --> 00:45:28,290
+What's the most cores anybody got on their machine?
+
+598
+00:45:28,290 --> 00:45:29,570
+Anybody got 32 on their machine?
+
+599
+00:45:31,010 --> 00:45:31,650
+Anybody got 16?
+
+600
+00:45:33,950 --> 00:45:34,630
+Anybody got 12?
+
+601
+00:45:36,010 --> 00:45:38,910
+Yeah, so, you know, 8 to 12, 6 to 12,
+
+602
+00:45:38,910 --> 00:45:39,750
+somewhere in there, right?
+
+603
+00:45:40,270 --> 00:45:42,750
+So, you can see some kind of results.
+
+604
+00:45:45,090 --> 00:45:48,800
+Let's see.
+
+605
+00:45:49,080 --> 00:45:51,040
+Now, oh, and one thing I would say about Mike's report,
+
+606
+00:45:58,630 --> 00:46:00,630
+because, well, let's wait until we look at this assignment
+
+607
+00:46:00,630 --> 00:46:01,270
+here right here.
+
+608
+00:46:04,170 --> 00:46:05,810
+So, we need to introduce the makefile here,
+
+609
+00:46:05,810 --> 00:46:10,130
+so we're going to make it, and we can run it.
+
+610
+00:46:12,390 --> 00:46:14,770
+And, you know, we've got a new Conda.
+
+611
+00:46:15,890 --> 00:46:17,890
+I highly recommend using Conda if I were you
+
+612
+00:46:17,890 --> 00:46:19,070
+on some of this stuff.
+
+613
+00:46:24,300 --> 00:46:27,180
+By the time it takes, run it, put the results out,
+
+614
+00:46:27,560 --> 00:46:38,420
+results are written out, efficiency is seen up.
+
+615
+00:46:40,100 --> 00:46:42,560
+See, we don't even have to have n being that big here,
+
+616
+00:46:42,560 --> 00:46:44,820
+because it's a square matrix, right?
+
+617
+00:46:44,820 --> 00:46:48,100
+And so, it's doubly nested four loops, so it's n squared.
+
+618
+00:46:49,740 --> 00:46:51,320
+Things are taking a lot more time here.
+
+619
+00:46:51,460 --> 00:46:54,220
+So, this guy might be the kind of thing that really would be parallelized.
+
+620
+00:46:54,340 --> 00:46:55,820
+And, in fact, that's the case.
+
+621
+00:46:56,040 --> 00:46:58,280
+Like, if you download and you use a matrix multiplication,
+
+622
+00:46:58,580 --> 00:47:01,200
+like, see, when you're insane, you're using, like,
+
+623
+00:47:01,940 --> 00:47:04,880
+a GPU-accelerated version of Python.
+
+624
+00:47:05,720 --> 00:47:09,620
+And it's got, in the NumPy thing, you've got a matrix multiplication routine.
+
+625
+00:47:10,320 --> 00:47:11,920
+Then it's the opportunity of saying, well, look,
+
+626
+00:47:12,240 --> 00:47:14,980
+actually, it'll do that in parallel, say, on your hardware.
+
+627
+00:47:15,340 --> 00:47:17,040
+And they can be parallel a lot of different ways.
+
+628
+00:47:17,200 --> 00:47:20,020
+Like, you could use the vector instructions that are on your CPU,
+
+629
+00:47:20,280 --> 00:47:22,040
+just a regular CPU that has vector instructions
+
+630
+00:47:22,040 --> 00:47:24,540
+that will operate on more than one piece of data at the same time.
+
+631
+00:47:25,060 --> 00:47:28,840
+70, or 70, they're probably 512-bit 70 instructions on your machine.
+
+632
+00:47:29,480 --> 00:47:32,080
+Which means that it could do, like, say, you know,
+
+633
+00:47:32,280 --> 00:47:34,900
+whatever it is, it could do four floating points at the same time,
+
+634
+00:47:34,900 --> 00:47:37,180
+or eight integers at the same time,
+
+635
+00:47:37,260 --> 00:47:39,360
+or whatever else that's inside a CPU, much less,
+
+636
+00:47:39,360 --> 00:47:42,120
+like, if you're on, say, on a Mac, and you've got an M1, M2, and M3,
+
+637
+00:47:42,680 --> 00:47:44,700
+then you've got the, what is it called?
+
+638
+00:47:45,080 --> 00:47:48,700
+The MPS, the metal, whatever, accelerator,
+
+639
+00:47:48,860 --> 00:47:50,440
+their version of an accelerator that's built in,
+
+640
+00:47:50,520 --> 00:47:52,160
+or if you're on, say, something's got a GPU.
+
+641
+00:47:53,040 --> 00:47:55,740
+Then it's going to have a GPU that may be a version of matrix multiplication
+
+642
+00:47:55,740 --> 00:47:57,260
+that could be linked in there.
+
+643
+00:47:57,380 --> 00:48:00,720
+The idea is, at least, that's the possibility that it would be doing it.
+
+644
+00:48:00,820 --> 00:48:02,740
+But what we're doing here is we're writing it in an NDI.
+
+645
+00:48:03,220 --> 00:48:06,060
+Because the idea is that that's transformable across nodes.
+
+646
+00:48:06,720 --> 00:48:09,300
+Now, we're doing it all in one node right now.
+
+647
+00:48:09,620 --> 00:48:11,940
+But we could be doing it in a distributed shared memory,
+
+648
+00:48:12,040 --> 00:48:14,100
+excuse me, distributed memory fashion.
+
+649
+00:48:19,290 --> 00:48:19,830
+Keep the time.
+
+650
+00:48:20,450 --> 00:48:20,910
+Okay, cool.
+
+651
+00:48:25,490 --> 00:48:28,530
+Anyway, it looks like we've got a couple of different things.
+
+652
+00:48:28,670 --> 00:48:32,590
+We've got the efficiency, speed-up, and time,
+
+653
+00:48:32,770 --> 00:48:34,570
+just for the math part of it.
+
+654
+00:48:35,090 --> 00:48:38,710
+And then an efficiency, speed-up, and time for the whole thing.
+
+655
+00:48:39,010 --> 00:48:40,210
+Because think about this.
+
+656
+00:48:40,310 --> 00:48:42,110
+What does this matrix multiplication thing do?
+
+657
+00:48:42,930 --> 00:48:47,630
+It has to read in the matrix from a file.
+
+658
+00:48:47,930 --> 00:48:50,270
+It has to read in the vector from a file.
+
+659
+00:48:50,610 --> 00:48:53,310
+Then it has to multiply the matrix times the vector.
+
+660
+00:48:53,550 --> 00:48:56,030
+Then it has to write that vector to a file.
+
+661
+00:48:56,550 --> 00:48:59,750
+So there's file IO and there's math stuff going on.
+
+662
+00:49:00,090 --> 00:49:01,730
+Now, the part we're parallelizing is what?
+
+663
+00:49:02,370 --> 00:49:02,890
+The whole thing?
+
+664
+00:49:04,350 --> 00:49:04,870
+No.
+
+665
+00:49:05,570 --> 00:49:07,910
+And in the book, it's only parallelizing
+
+666
+00:49:07,910 --> 00:49:10,730
+that outer loop of the doubly nested for loop.
+
+667
+00:49:11,130 --> 00:49:13,190
+That means we're not parallelizing the IO at all.
+
+668
+00:49:14,090 --> 00:49:15,670
+So, that's like saying,
+
+669
+00:49:16,930 --> 00:49:19,830
+if you take how long it runs on one processor,
+
+670
+00:49:23,790 --> 00:49:24,330
+the T1,
+
+671
+00:49:25,470 --> 00:49:27,330
+even like the sequential version of the program,
+
+672
+00:49:28,150 --> 00:49:30,690
+it's like, read the matrix,
+
+673
+00:49:31,510 --> 00:49:32,990
+read the vector,
+
+674
+00:49:34,630 --> 00:49:35,750
+multiply the matrices,
+
+675
+00:49:37,990 --> 00:49:39,050
+write the vector.
+
+676
+00:49:40,290 --> 00:49:43,150
+So this is like, read matrix,
+
+677
+00:49:44,010 --> 00:49:45,250
+read the vector,
+
+678
+00:49:45,910 --> 00:49:48,330
+multiply matrix vector,
+
+679
+00:49:48,570 --> 00:49:51,610
+and this is write the vector back out to the file.
+
+680
+00:49:52,410 --> 00:49:53,590
+Those all take time.
+
+681
+00:49:54,430 --> 00:49:55,350
+The two biggest things is,
+
+682
+00:49:55,370 --> 00:49:57,190
+reading the matrix and multiplying the matrix.
+
+683
+00:49:57,730 --> 00:49:58,550
+Because this thing is,
+
+684
+00:49:58,830 --> 00:50:00,910
+the memory in this is order-inspired
+
+685
+00:50:01,010 --> 00:50:03,130
+and the compute in this is order-in-square.
+
+686
+00:50:04,170 --> 00:50:08,270
+So, let's think about just this part.
+
+687
+00:50:09,730 --> 00:50:11,350
+That's the part we can parallelize.
+
+688
+00:50:12,570 --> 00:50:14,710
+And these are the parts that we're not parallelizing.
+
+689
+00:50:14,770 --> 00:50:17,690
+Let's say that this is 80% of the execution of the program.
+
+690
+00:50:18,230 --> 00:50:22,310
+So we would have 20% of the execution of the program
+
+691
+00:50:22,310 --> 00:50:23,330
+we can't do anything about.
+
+692
+00:50:24,390 --> 00:50:26,090
+80% that we can do about.
+
+693
+00:50:26,550 --> 00:50:28,590
+So now this is back to animals again, right?
+
+694
+00:50:28,730 --> 00:50:31,430
+Now, if I just looked at the entire damn program,
+
+695
+00:50:32,230 --> 00:50:33,810
+it's an extent error with this thing.
+
+696
+00:50:34,130 --> 00:50:36,390
+But the total speedup is a function of like,
+
+697
+00:50:36,450 --> 00:50:38,150
+I'm still paying for this.
+
+698
+00:50:38,430 --> 00:50:42,790
+Well now, that doesn't really tell us how well we parallelize just the math part
+
+699
+00:50:42,790 --> 00:50:44,490
+because we're measuring the whole thing.
+
+700
+00:50:44,650 --> 00:50:46,570
+No, no, no, this thing says, no, no, don't do that.
+
+701
+00:50:47,710 --> 00:50:49,630
+Just look at the time it took to do this
+
+702
+00:50:49,630 --> 00:50:54,730
+and then compare that and look at the efficiency speedup as time for that.
+
+703
+00:50:55,070 --> 00:50:58,950
+Because that doesn't tell us how well the parallelization worked, right?
+
+704
+00:50:59,050 --> 00:51:00,250
+Because you're not parallelizing the whole thing.
+
+705
+00:51:00,570 --> 00:51:03,670
+And then you've got how well did it work with respect to the whole thing.
+
+706
+00:51:03,710 --> 00:51:07,930
+Because the end user, they don't really care about it or where the problem is at, right?
+
+707
+00:51:07,970 --> 00:51:09,150
+They just see it from a total time.
+
+708
+00:51:09,390 --> 00:51:10,890
+So that's what's going on right here.
+
+709
+00:51:11,470 --> 00:51:13,170
+That's why there are six plots here.
+
+710
+00:51:14,270 --> 00:51:18,110
+There's time, speedup, and efficiency for the whole thing.
+
+711
+00:51:18,550 --> 00:51:21,190
+Time, speedup, and efficiency for just the matrix multiplication.
+
+712
+00:51:22,010 --> 00:51:22,690
+Does that make sense?
+
+713
+00:51:22,790 --> 00:51:28,250
+So like, for example, if we look at the speedup for the whole thing,
+
+714
+00:51:28,650 --> 00:51:32,050
+this doesn't look very good.
+
+715
+00:51:33,630 --> 00:51:36,990
+Like, once you get to six, I mean, hell, at six, we're only two times faster.
+
+716
+00:51:38,290 --> 00:51:39,190
+And then it shoots down.
+
+717
+00:51:39,510 --> 00:51:40,670
+That's the whole program.
+
+718
+00:51:41,030 --> 00:51:44,070
+But now, what about the part we just parallelized?
+
+719
+00:51:44,310 --> 00:51:48,790
+Well, that's that part.
+
+720
+00:51:49,810 --> 00:51:53,230
+Of the part that was doing the math on 12 processes,
+
+721
+00:51:53,230 --> 00:51:55,130
+we were doing almost 10 times as fast.
+
+722
+00:51:55,650 --> 00:51:57,030
+But now that's just on the matrix vector.
+
+723
+00:51:57,330 --> 00:52:01,490
+What about if we were in a program where the matrix and the vector were already in RAM
+
+724
+00:52:01,490 --> 00:52:05,530
+because it was the output of a previous program that's still in RAM?
+
+725
+00:52:06,230 --> 00:52:10,190
+It was the output of a query to a database that's sitting there in RAM.
+
+726
+00:52:10,790 --> 00:52:14,490
+Then there'd be no overhead of working with that data because it's already in RAM.
+
+727
+00:52:16,450 --> 00:52:21,670
+Would you ever have one program that all it did is one matrix vector multiply?
+
+728
+00:52:22,350 --> 00:52:23,330
+Probably not.
+
+729
+00:52:24,250 --> 00:52:25,970
+That's probably going to be inside of another loop.
+
+730
+00:52:26,110 --> 00:52:29,970
+It does hundreds or thousands of matrix vector multiplies
+
+731
+00:52:29,970 --> 00:52:33,830
+where the output of one thing is the input to the next thing or something like that.
+
+732
+00:52:34,210 --> 00:52:37,750
+If that's the case, you're only paying for that reading the very first time.
+
+733
+00:52:37,890 --> 00:52:40,290
+You're only paying for that writing the very last time.
+
+734
+00:52:40,790 --> 00:52:46,210
+But the rest of the time, you're getting this kind of thing going on, hand waving, ideally.
+
+735
+00:52:46,490 --> 00:52:47,310
+Does that make sense?
+
+736
+00:52:48,170 --> 00:52:49,670
+That's why we want to compare both.
+
+737
+00:52:51,290 --> 00:52:52,750
+That's why this thing is doing both.
+
+738
+00:52:53,030 --> 00:52:55,690
+I'm trying to explain to you why it's doing what it's doing right now.
+
+739
+00:52:55,810 --> 00:52:57,190
+That's so we can measure both of those things.
+
+740
+00:52:58,190 --> 00:52:58,470
+So it's cool.
+
+741
+00:52:58,590 --> 00:53:00,110
+The part we work on worked pretty damn well.
+
+742
+00:53:00,350 --> 00:53:02,710
+But the cost of the fact that the reading and writing took so long,
+
+743
+00:53:03,090 --> 00:53:04,570
+actually the speedup would really get in.
+
+744
+00:53:04,810 --> 00:53:05,230
+Isn't that great?
+
+745
+00:53:06,130 --> 00:53:07,950
+Because we're not speedup or stuff.
+
+746
+00:53:08,050 --> 00:53:09,250
+But we will talk about it later.
+
+747
+00:53:09,690 --> 00:53:12,910
+How could we speed up the reading and writing through a couple of different things?
+
+748
+00:53:14,930 --> 00:53:17,370
+Actually, now would be a good time to talk about one of those things.
+
+749
+00:53:18,110 --> 00:53:19,030
+It's not complicated.
+
+750
+00:53:19,230 --> 00:53:20,030
+It's not programmatic.
+
+751
+00:53:20,170 --> 00:53:20,610
+It's not something.
+
+752
+00:53:21,550 --> 00:53:24,770
+Where are these files being read and written to and from on this thing?
+
+753
+00:53:25,210 --> 00:53:28,850
+When you run this thing, like when Mike ran that command in his directory,
+
+754
+00:53:29,610 --> 00:53:30,950
+where the hell did it actually write?
+
+755
+00:53:31,050 --> 00:53:36,570
+What physical device was it being stored to?
+
+756
+00:53:37,930 --> 00:53:39,490
+Now on my computer, when I read and write,
+
+757
+00:53:39,830 --> 00:53:42,830
+where is the disk that it's writing to?
+
+758
+00:53:45,370 --> 00:53:45,710
+Where?
+
+759
+00:53:46,690 --> 00:53:47,370
+It's in here.
+
+760
+00:53:47,390 --> 00:53:48,370
+Isn't it?
+
+761
+00:53:48,690 --> 00:53:50,870
+Where is the RAM where that data was at?
+
+762
+00:53:51,630 --> 00:53:51,850
+In here.
+
+763
+00:53:54,050 --> 00:53:55,490
+Where is it on expense?
+
+764
+00:53:56,770 --> 00:54:00,250
+You think the disk that you're writing to is in the node you're on?
+
+765
+00:54:01,990 --> 00:54:02,690
+Nope.
+
+766
+00:54:05,680 --> 00:54:06,240
+Let's go see.
+
+767
+00:54:06,540 --> 00:54:07,080
+We can prove that.
+
+768
+00:54:09,830 --> 00:54:14,850
+Because you know how in here I talk about benchmarks,
+
+769
+00:54:15,790 --> 00:54:16,570
+speeding analysis.
+
+770
+00:54:17,110 --> 00:54:19,450
+What would I even expect?
+
+771
+00:54:19,930 --> 00:54:22,710
+You know, what would I expect it to be?
+
+772
+00:54:23,890 --> 00:54:25,610
+So let's go back over here to our portal.
+
+773
+00:54:26,210 --> 00:54:28,110
+We're going to log in.
+
+774
+00:54:30,790 --> 00:54:32,150
+And I'm going to do a print working directory.
+
+775
+00:54:32,810 --> 00:54:34,790
+So I'm currently at home wdumps.
+
+776
+00:54:35,650 --> 00:54:35,930
+Sweet.
+
+777
+00:54:36,710 --> 00:54:37,530
+Where is that?
+
+778
+00:54:38,510 --> 00:54:41,130
+Is that inside this computer?
+
+779
+00:54:42,810 --> 00:54:44,010
+Well, there's a way we can tell.
+
+780
+00:54:45,290 --> 00:54:47,870
+How do you mean you have done enough stuff with Linux
+
+781
+00:54:47,870 --> 00:54:49,830
+so that you know that we're on a Linux server
+
+782
+00:54:49,830 --> 00:54:52,830
+and we can issue a command that would tell us where that is?
+
+783
+00:54:56,090 --> 00:54:58,010
+Well, let's take this, df-h.
+
+784
+00:55:01,620 --> 00:55:01,780
+All right?
+
+785
+00:55:02,200 --> 00:55:03,140
+And let's do this.
+
+786
+00:55:07,570 --> 00:55:17,860
+If I'm on Linux, what command can I use to figure out
+
+787
+00:55:17,860 --> 00:55:28,590
+where its storage devices are, like locally or somewhere else?
+
+788
+00:55:32,820 --> 00:55:33,700
+Let's keep that working.
+
+789
+00:55:33,940 --> 00:55:34,860
+We're going back over here.
+
+790
+00:55:35,500 --> 00:55:37,400
+Now, let's make this a little bit smaller,
+
+791
+00:55:37,440 --> 00:55:40,440
+because we got the things coming out of there.
+
+792
+00:55:40,940 --> 00:55:41,440
+OK, cool.
+
+793
+00:55:41,920 --> 00:55:42,680
+All right, here we go.
+
+794
+00:55:44,280 --> 00:55:46,360
+User wjones, home directory.
+
+795
+00:55:52,780 --> 00:55:54,260
+Where is that mapped back to?
+
+796
+00:55:55,060 --> 00:55:58,300
+That's mapped back to a folder called pool2
+
+797
+00:55:58,300 --> 00:56:00,440
+that's at this IP address.
+
+798
+00:56:04,800 --> 00:56:06,160
+That could be my home.
+
+799
+00:56:06,320 --> 00:56:09,020
+That could be the IP address of this machine, possibly.
+
+800
+00:56:10,800 --> 00:56:11,320
+Look at this.
+
+801
+00:56:12,140 --> 00:56:13,360
+Pool1 is .1.
+
+802
+00:56:13,520 --> 00:56:15,500
+Pool2 is .2.
+
+803
+00:56:15,500 --> 00:56:16,860
+Three, you know.
+
+804
+00:56:17,700 --> 00:56:19,420
+What in the hell is going on?
+
+805
+00:56:20,460 --> 00:56:22,520
+Well, these are network-mounted drives.
+
+806
+00:56:23,000 --> 00:56:27,100
+That's like when you're on your laptop and over here at Finder
+
+807
+00:56:27,100 --> 00:56:30,680
+and it says, hey, your OneDrive thing is over here.
+
+808
+00:56:30,980 --> 00:56:33,960
+But that OneDrive stuff, that's not on your computer.
+
+809
+00:56:34,160 --> 00:56:35,720
+Now, yeah, you're going to be synchronized and pulled down,
+
+810
+00:56:35,740 --> 00:56:37,280
+but that's some cloud storage place.
+
+811
+00:56:38,780 --> 00:56:40,100
+Imagine how much you think about this.
+
+812
+00:56:40,640 --> 00:56:43,280
+This server doesn't have to have any disks in it.
+
+813
+00:56:43,280 --> 00:56:44,640
+You could just be sitting there.
+
+814
+00:56:45,080 --> 00:56:46,720
+You know what, if you didn't have disks, how'd they boot it up?
+
+815
+00:56:47,340 --> 00:56:48,560
+They could boot it up across the network.
+
+816
+00:56:50,200 --> 00:56:52,040
+It doesn't need to boot off the device inside of it.
+
+817
+00:56:52,100 --> 00:56:52,960
+It could boot across the network.
+
+818
+00:56:53,880 --> 00:56:55,580
+That's actually simpler.
+
+819
+00:56:56,400 --> 00:56:58,420
+You don't ever have to install the machine you're on.
+
+820
+00:56:58,480 --> 00:57:01,300
+You just have to boot directly from some place off the network.
+
+821
+00:57:02,000 --> 00:57:03,860
+I mean, you've been able to do that since the early 90s.
+
+822
+00:57:05,200 --> 00:57:05,720
+That's old school.
+
+823
+00:57:07,880 --> 00:57:09,420
+Yeah, they got cooler stuff for it now.
+
+824
+00:57:09,420 --> 00:57:11,540
+A little more better, a little faster, whatever, buddy.
+
+825
+00:57:12,160 --> 00:57:14,020
+That makes it really easy because that way when you boot,
+
+826
+00:57:14,700 --> 00:57:17,160
+you don't have to change that one image over there for all the machines.
+
+827
+00:57:17,300 --> 00:57:19,740
+You don't have to reinstall anything because they're all going to be used to tell everybody,
+
+828
+00:57:19,840 --> 00:57:23,000
+reboot, and then they reboot, and they're all the right thing.
+
+829
+00:57:23,140 --> 00:57:27,040
+So I mean, this is basic Linux-like system administration stuff.
+
+830
+00:57:27,700 --> 00:57:29,740
+Now, we don't know how they did it.
+
+831
+00:57:29,880 --> 00:57:31,100
+That's what we're trying to figure out.
+
+832
+00:57:32,400 --> 00:57:37,980
+But I would intend to do that this directory is not on the computer
+
+833
+00:57:37,980 --> 00:57:39,620
+that I am logged into right now.
+
+834
+00:57:39,680 --> 00:57:44,340
+It is across the network, hopefully not far away, hops-wise, but it's over there.
+
+835
+00:57:46,520 --> 00:57:50,300
+So do you expect to be able to read and write to that IP address
+
+836
+00:57:50,300 --> 00:57:54,660
+as fast as you can read and write to a solid-state disk inside that computer?
+
+837
+00:57:58,240 --> 00:58:00,740
+Because it's not cloud.
+
+838
+00:58:00,960 --> 00:58:02,120
+It's network-attached storage.
+
+839
+00:58:03,080 --> 00:58:06,340
+But I would imply that it's actually across the internet, like outside the domain of this place.
+
+840
+00:58:06,600 --> 00:58:09,100
+Hell, it might be, but I doubt it.
+
+841
+00:58:09,620 --> 00:58:12,460
+It's probably inside the same building wherever this thing is.
+
+842
+00:58:12,760 --> 00:58:13,080
+I'm guessing.
+
+843
+00:58:15,980 --> 00:58:17,500
+All right, let's see what SatChat2T said.
+
+844
+00:58:17,620 --> 00:58:21,820
+Another thing we could type is these volumes that are attached.
+
+845
+00:58:22,040 --> 00:58:27,320
+You know, like in Windows, like C colon, D colon, the drive letter colon, and all that kind of mess.
+
+846
+00:58:27,760 --> 00:58:30,860
+On Linux, those are called mounted things.
+
+847
+00:58:30,980 --> 00:58:31,960
+They have mount points.
+
+848
+00:58:32,200 --> 00:58:33,120
+There's no drive letter.
+
+849
+00:58:33,820 --> 00:58:39,060
+So there's literally like a folder that is the folder that's attached to the device that it's mounted to.
+
+850
+00:58:39,060 --> 00:58:41,080
+And how can you get a list of all the things that are mounted?
+
+851
+00:58:41,980 --> 00:58:42,680
+You can type a word, mounted.
+
+852
+00:58:45,160 --> 00:58:46,240
+Man, there's a bunch of stuff mounted.
+
+853
+00:58:46,640 --> 00:58:46,980
+Well, let's see.
+
+854
+00:58:47,300 --> 00:58:49,280
+Now, I want to look for just the thing that's associated with me.
+
+855
+00:58:49,480 --> 00:58:52,260
+So I'm going to type to grep, which means filter, for wmjones.
+
+856
+00:58:53,480 --> 00:58:54,100
+Cool.
+
+857
+00:58:55,000 --> 00:59:01,820
+So it says that wmjones is mounted to a volume that's being served on a network-attached storage device
+
+858
+00:59:01,820 --> 00:59:02,840
+without an IP address.
+
+859
+00:59:02,980 --> 00:59:06,680
+And the type of this file system is network file system.
+
+860
+00:59:06,680 --> 00:59:10,260
+It's an NFS that's been around since before I was in college.
+
+861
+00:59:11,680 --> 00:59:13,980
+It is the de facto way to do this.
+
+862
+00:59:14,120 --> 00:59:14,800
+It's free, easy.
+
+863
+00:59:15,220 --> 00:59:15,940
+Is it fast enough?
+
+864
+00:59:16,080 --> 00:59:17,000
+No, not necessarily.
+
+865
+00:59:18,020 --> 00:59:26,660
+But it allows you to attach a storage device across a network that will allow you to read and write from it,
+
+866
+00:59:26,780 --> 00:59:30,460
+as if you're reading and writing from your actual computer.
+
+867
+00:59:31,000 --> 00:59:32,240
+Your computer doesn't know any difference.
+
+868
+00:59:32,500 --> 00:59:36,500
+Like, when I do F read and F write, it has no idea that I'm actually writing to something
+
+869
+00:59:36,500 --> 00:59:37,340
+that's somewhere else.
+
+870
+00:59:37,700 --> 00:59:38,120
+Does that make sense?
+
+871
+00:59:38,760 --> 00:59:41,220
+So that tells us how we could do this.
+
+872
+00:59:41,840 --> 00:59:44,840
+Now, let's go see what it says here.
+
+873
+00:59:49,120 --> 00:59:49,380
+Okay.
+
+874
+00:59:49,540 --> 00:59:53,080
+You could listen to block devices, and you could see whether they're mounted to devices
+
+875
+00:59:53,080 --> 00:59:54,000
+that are on the computer.
+
+876
+00:59:54,160 --> 00:59:58,000
+Because if they're actually on the computer, they'll have the slash, the device file.
+
+877
+00:59:58,520 --> 01:00:02,920
+Like, that's also where your video card would be, and other things would be a slash dev,
+
+878
+01:00:04,120 --> 01:00:06,100
+or device, that you call mount points.
+
+879
+01:00:07,180 --> 01:00:09,120
+Apparently, there's all these other source stuff.
+
+880
+01:00:09,840 --> 01:00:11,400
+But I typically use this one.
+
+881
+01:00:11,940 --> 01:00:14,180
+Because that shows you the things that are mounted.
+
+882
+01:00:14,900 --> 01:00:18,280
+And if they weren't mounted, then we'd be looking at some of the kind of things,
+
+883
+01:00:18,440 --> 01:00:24,320
+looking at the, you could say, like, LSPC, I show you everything that's attached to the PCI bus
+
+884
+01:00:24,320 --> 01:00:27,040
+of this computer, and then grab from storage devices.
+
+885
+01:00:28,680 --> 01:00:31,240
+You can also look at the things that are attached via USB, for example.
+
+886
+01:00:31,460 --> 01:00:33,220
+You can list the LSPC connect device.
+
+887
+01:00:33,220 --> 01:00:38,540
+Now, some of these things you might not want to type, because if you try to do something
+
+888
+01:00:38,540 --> 01:00:41,640
+that changes the state of something, that would be like a violation.
+
+889
+01:00:42,060 --> 01:00:44,220
+That would be like you need super user access to do that.
+
+890
+01:00:44,500 --> 01:00:48,480
+But if you're just looking at some of this basic stuff, you could do it.
+
+891
+01:00:51,060 --> 01:00:53,140
+Yeah, see how they did mount, and they piped it.
+
+892
+01:00:53,300 --> 01:01:00,720
+And it said, let me look for an NFS, or a lesser file system, or GDFS, or SEP, or something.
+
+893
+01:01:00,720 --> 01:01:02,500
+I don't know what this one is. I'm not familiar with that one.
+
+894
+01:01:03,860 --> 01:01:05,420
+I don't know what kind of file system that is.
+
+895
+01:01:05,520 --> 01:01:06,840
+But that tells you all your devices.
+
+896
+01:01:07,140 --> 01:01:09,280
+So, if it's on your computer, it'll be slash F.
+
+897
+01:01:09,640 --> 01:01:12,520
+If it's a mount, it'll have an IP address over there.
+
+898
+01:01:12,960 --> 01:01:14,140
+Okay? Does that make sense?
+
+899
+01:01:14,940 --> 01:01:22,340
+Now, is there any way on Expanse that I could run it so it's not in my home directory?
+
+900
+01:01:23,300 --> 01:01:24,020
+Where could I put it?
+
+901
+01:01:24,560 --> 01:01:29,760
+Because my home directory, first of all, if you make really big files,
+
+902
+01:01:30,840 --> 01:01:33,680
+you can't do that in your home directory because you don't have enough quota space.
+
+903
+01:01:35,420 --> 01:01:36,700
+But what about if you wanted to make that?
+
+904
+01:01:37,560 --> 01:01:39,940
+Well, you can. Let's go over there and look at how you would do this.
+
+905
+01:01:41,840 --> 01:01:47,460
+Plus, if it's on NFS, it's going to be slower than an SSD-attached storage device on the node.
+
+906
+01:01:48,180 --> 01:01:49,580
+So, how do you actually do that?
+
+907
+01:01:50,700 --> 01:01:52,720
+Okay. Well, here's how you do it, all right?
+
+908
+01:01:53,460 --> 01:01:55,680
+Actually, you can look at the guide, but I'm just going to show you.
+
+909
+01:01:56,400 --> 01:01:59,580
+All right. So, they were right here.
+
+910
+01:02:08,520 --> 01:02:11,420
+History. I want to look at my command, so I don't have to retype it.
+
+911
+01:02:12,120 --> 01:02:15,460
+And it looks like I was getting a compute node here.
+
+912
+01:02:15,800 --> 01:02:23,500
+I don't really want to do that. I'll get a debug node because I don't need to use all the cores right now.
+
+913
+01:02:25,770 --> 01:02:27,090
+Hell, why not? Let's do that.
+
+914
+01:02:28,450 --> 01:02:29,830
+So, debug partition.
+
+915
+01:02:30,770 --> 01:02:32,370
+Assuming I can get it in there, I don't want to see.
+
+916
+01:02:32,610 --> 01:02:33,710
+If not, we'll go to the compute.
+
+917
+01:02:34,790 --> 01:02:38,430
+This thing right here, this job ID, is going to be important right here.
+
+918
+01:02:39,430 --> 01:02:41,130
+Okay. So, we're going to want to copy that.
+
+919
+01:02:47,110 --> 01:02:52,800
+All right. Let me also try to get into a compute node.
+
+920
+01:02:55,520 --> 01:02:56,000
+There we go.
+
+921
+01:02:56,940 --> 01:02:59,420
+Looks like I got into a compute node before I got into this one.
+
+922
+01:02:59,500 --> 01:03:00,480
+So, I'm going to hit control C.
+
+923
+01:03:03,960 --> 01:03:05,060
+Okay. I'm not going to worry about that one.
+
+924
+01:03:05,880 --> 01:03:09,040
+So, now, notice how I was on the login node.
+
+925
+01:03:09,140 --> 01:03:10,460
+I'm now on this node.
+
+926
+01:03:10,480 --> 01:03:12,540
+And my job ID is this.
+
+927
+01:03:12,740 --> 01:03:17,960
+And that would be unique for every single person that runs every job, a new job.
+
+928
+01:03:18,340 --> 01:03:19,280
+So, I'm going to copy that.
+
+929
+01:03:20,180 --> 01:03:22,780
+Now, let's do this here.
+
+930
+01:03:24,160 --> 01:03:26,480
+Let's go to slash device.
+
+931
+01:03:29,600 --> 01:03:31,380
+Is that where it is? Actually, hold on. Hold on.
+
+932
+01:03:40,930 --> 01:03:42,630
+It's in the scratch file system.
+
+933
+01:03:42,950 --> 01:03:43,590
+I'm trying to see if I remember.
+
+934
+01:03:43,890 --> 01:03:47,110
+I'm really going to have to look it up in the device here.
+
+935
+01:03:47,510 --> 01:03:48,830
+Probably going to have to look it up over here.
+
+936
+01:03:48,890 --> 01:03:51,070
+I'm going to go back to the user guide because I don't remember.
+
+937
+01:03:57,110 --> 01:03:59,450
+So, I'm going to do control F, scratch space.
+
+938
+01:04:02,250 --> 01:04:02,690
+Okay.
+
+939
+01:04:03,670 --> 01:04:04,790
+Now, the scratch space,
+
+940
+01:04:06,290 --> 01:04:09,730
+scratch means space that you can write stuff to,
+
+941
+01:04:09,910 --> 01:04:12,730
+but that you can't be guaranteed that it'll be backed up.
+
+942
+01:04:13,290 --> 01:04:15,350
+It's scratch. It's like a scratch piece of paper.
+
+943
+01:04:15,490 --> 01:04:16,850
+You put the error, you use it all you want.
+
+944
+01:04:17,510 --> 01:04:18,230
+It might go away.
+
+945
+01:04:19,250 --> 01:04:21,630
+Keeping some in your home directory is going to be backed up.
+
+946
+01:04:21,770 --> 01:04:23,190
+It's not going to go away. That's the idea.
+
+947
+01:04:23,190 --> 01:04:29,150
+But now, this thing says that it's a scratch space on the luster file system.
+
+948
+01:04:29,370 --> 01:04:32,550
+That's probably not where, like, that's just another file system.
+
+949
+01:04:32,750 --> 01:04:35,010
+In that case now, that's a parallel file system.
+
+950
+01:04:35,890 --> 01:04:37,010
+That's better than NFS.
+
+951
+01:04:37,290 --> 01:04:38,630
+NFS is not a parallel file system.
+
+952
+01:04:39,630 --> 01:04:41,610
+But if we go down here and look underneath there,
+
+953
+01:04:41,850 --> 01:04:44,190
+there's actually a local scratch disk.
+
+954
+01:04:44,590 --> 01:04:46,050
+That's an SSD device.
+
+955
+01:04:47,030 --> 01:04:49,050
+Flash storage. One terabyte SSD.
+
+956
+01:04:50,410 --> 01:04:50,830
+Okay.
+
+957
+01:04:50,890 --> 01:04:53,390
+And it says that you can access it by going to
+
+958
+01:04:53,390 --> 01:04:56,870
+slash scratch slash your user ID
+
+959
+01:04:56,870 --> 01:04:59,170
+slash the job ID.
+
+960
+01:04:59,290 --> 01:04:59,850
+You see that?
+
+961
+01:05:01,250 --> 01:05:02,970
+So, where can I write it to?
+
+962
+01:05:03,210 --> 01:05:05,630
+I can write my input and output files to that directory.
+
+963
+01:05:06,290 --> 01:05:07,810
+So, let's go over there and find that.
+
+964
+01:05:09,470 --> 01:05:10,910
+As I said, it was in slash scratch.
+
+965
+01:05:16,310 --> 01:05:18,030
+No, I'm not going to log in, though. That ain't going to work.
+
+966
+01:05:18,590 --> 01:05:19,290
+I'm going to go over here.
+
+967
+01:05:19,370 --> 01:05:21,450
+I was freaking out. I was like, oh, God, that's not there.
+
+968
+01:05:21,610 --> 01:05:23,830
+Alright. So, cd slash scratch.
+
+969
+01:05:25,350 --> 01:05:27,270
+Now, there's a bunch of people's directories in here.
+
+970
+01:05:27,630 --> 01:05:29,010
+But I'm not going to be able to go into theirs.
+
+971
+01:05:29,250 --> 01:05:30,210
+I'm going to be able to go into mine.
+
+972
+01:05:30,570 --> 01:05:32,250
+So, cd wmjones.
+
+973
+01:05:33,870 --> 01:05:34,810
+And look at that.
+
+974
+01:05:35,110 --> 01:05:37,630
+There's only one directory in there I can really write to.
+
+975
+01:05:37,870 --> 01:05:38,590
+And it's that one.
+
+976
+01:05:38,710 --> 01:05:41,530
+Because that's associated with this job I just started.
+
+977
+01:05:43,110 --> 01:05:44,590
+And when my job ends,
+
+978
+01:05:44,890 --> 01:05:47,210
+that directory won't necessarily be there again.
+
+979
+01:05:47,390 --> 01:05:49,110
+They're probably going to wipe it out, if my guess.
+
+980
+01:05:49,310 --> 01:05:50,250
+I don't know. Because it's scratch.
+
+981
+01:05:50,630 --> 01:05:51,390
+Think about it.
+
+982
+01:05:51,570 --> 01:05:52,970
+If everybody was using this SSD,
+
+983
+01:05:53,470 --> 01:05:54,610
+every time they logged out,
+
+984
+01:05:54,950 --> 01:05:56,770
+you know what I mean?
+
+985
+01:05:56,890 --> 01:05:58,290
+Like, if you've got exclusive access nodes,
+
+986
+01:05:58,470 --> 01:06:00,510
+shouldn't you be able to write the entire disk if you wanted to?
+
+987
+01:06:00,990 --> 01:06:02,690
+So, we're going to go over here.
+
+988
+01:06:03,830 --> 01:06:04,370
+We're in here.
+
+989
+01:06:04,470 --> 01:06:05,670
+So, we can write a file there.
+
+990
+01:06:13,260 --> 01:06:14,500
+There's a file right there.
+
+991
+01:06:17,090 --> 01:06:19,510
+Now, what about in du dash h,
+
+992
+01:06:19,750 --> 01:06:27,390
+so disk usage for that directory?
+
+993
+01:06:30,510 --> 01:06:35,070
+I wonder if it will let me ask that question on slash scratch.
+
+994
+01:06:36,370 --> 01:06:37,350
+Probably not, yeah.
+
+995
+01:06:37,550 --> 01:06:39,690
+So, not a whole lot has been used right there.
+
+996
+01:06:39,750 --> 01:06:42,530
+We could probably come over here and make a really big file.
+
+997
+01:06:43,250 --> 01:06:46,910
+Like, say you just want to make a really big file,
+
+998
+01:06:46,970 --> 01:06:48,350
+just all of a sudden, just to see what happens.
+
+999
+01:06:49,770 --> 01:06:51,230
+So, let's come over here and say,
+
+1000
+01:06:51,370 --> 01:07:10,840
+there's a blast of a bunch of files out there.
+
+1001
+01:07:14,320 --> 01:07:15,500
+So, let's copy this.
+
+1002
+01:07:18,770 --> 01:07:22,350
+So, this would give me a one gigabyte file full of zeroes.
+
+1003
+01:07:25,820 --> 01:07:27,680
+Let's try that. Let's see if that works.
+
+1004
+01:07:28,520 --> 01:07:31,560
+Because it's actually writing the data,
+
+1005
+01:07:32,020 --> 01:07:34,220
+and if I timed that,
+
+1006
+01:07:34,420 --> 01:07:38,020
+I could tell how fast it took to write that out.
+
+1007
+01:07:39,540 --> 01:07:47,600
+So, let's try that pretty damn fast.
+
+1008
+01:07:48,040 --> 01:07:53,860
+So, what about, let's do 4096.
+
+1009
+01:08:04,080 --> 01:08:08,120
+So, 1.9 gigabytes a second, this was only 62.
+
+1010
+01:08:09,960 --> 01:08:11,200
+Why would that be?
+
+1011
+01:08:12,500 --> 01:08:16,080
+Well, there's other kind of stuff going on here inside this disk
+
+1012
+01:08:16,080 --> 01:08:18,180
+that I want you to think about, like,
+
+1013
+01:08:19,020 --> 01:08:23,420
+imagine this disk has some kind of local cache.
+
+1014
+01:08:29,360 --> 01:08:30,820
+What is the next 8192?
+
+1015
+01:08:37,700 --> 01:08:39,400
+Now, this is like a sequential write.
+
+1016
+01:08:39,400 --> 01:08:42,640
+It's writing bytes one after another into a file.
+
+1017
+01:08:42,780 --> 01:08:44,140
+Now, those aren't random writes.
+
+1018
+01:08:44,560 --> 01:08:47,080
+Random writes would be slower, normally, a little bit.
+
+1019
+01:08:47,840 --> 01:08:49,260
+So, it looks like we're getting about
+
+1020
+01:08:49,260 --> 01:08:54,040
+670 megabytes a second of write speed to this thing
+
+1021
+01:08:54,040 --> 01:08:57,740
+when we just generated an 8.6 gigabyte file.
+
+1022
+01:08:58,720 --> 01:09:01,280
+Okay, well, like, how about we want to benchmark, like,
+
+1023
+01:09:01,400 --> 01:09:05,200
+what if, let's see, what if I want to benchmark,
+
+1024
+01:09:12,880 --> 01:09:21,110
+sequential read and write speed of an SSD device.
+
+1025
+01:09:29,770 --> 01:09:31,710
+That's my type of spelling, it's horrible.
+
+1026
+01:09:36,830 --> 01:09:45,840
+Sequential read, some gotchas that could be caching.
+
+1027
+01:09:46,020 --> 01:09:47,040
+If you do something too small,
+
+1028
+01:09:47,040 --> 01:09:49,340
+you can get answers that are affected by caching.
+
+1029
+01:09:53,560 --> 01:09:58,400
+Oh, the file FIO, that's a benchmark suite itself
+
+1030
+01:09:58,440 --> 01:10:00,740
+that can be used to look at read and write speed.
+
+1031
+01:10:00,940 --> 01:10:03,760
+So, like, for example, you could benchmark
+
+1032
+01:10:03,760 --> 01:10:05,620
+how fast the actual device is,
+
+1033
+01:10:06,240 --> 01:10:08,740
+and then you could measure how long it took you to read
+
+1034
+01:10:08,740 --> 01:10:10,480
+and write a matrix in front of a file,
+
+1035
+01:10:11,280 --> 01:10:14,760
+work backwards, and see, like, is your program actually
+
+1036
+01:10:14,760 --> 01:10:16,600
+getting the same read and write speed
+
+1037
+01:10:16,600 --> 01:10:18,980
+as the device is supposed to get?
+
+1038
+01:10:19,380 --> 01:10:21,680
+Because, you know, like, when you measure how fast something is
+
+1039
+01:10:21,680 --> 01:10:24,160
+that you've designed in the program,
+
+1040
+01:10:24,960 --> 01:10:27,980
+the ultimate question is, well, what's the fastest it can be?
+
+1041
+01:10:28,040 --> 01:10:30,340
+Well, it can't be any faster than the device.
+
+1042
+01:10:30,920 --> 01:10:32,720
+That gives you some upper bound to say,
+
+1043
+01:10:33,160 --> 01:10:36,380
+the read and write speed say this is only, you know,
+
+1044
+01:10:36,500 --> 01:10:37,380
+one gigabyte a second.
+
+1045
+01:10:37,940 --> 01:10:40,300
+So, you're never going to give anything more than that
+
+1046
+01:10:40,300 --> 01:10:43,460
+with a sequential read and write on one drive.
+
+1047
+01:10:44,580 --> 01:10:45,540
+Now, why don't there are two drives?
+
+1048
+01:10:46,960 --> 01:10:48,880
+And you write both of them at the same time,
+
+1049
+01:10:49,580 --> 01:10:50,300
+and it's parallel.
+
+1050
+01:10:51,620 --> 01:10:53,780
+Now, you need to get a write speed that's faster,
+
+1051
+01:10:54,520 --> 01:10:55,820
+which you use twice a minute.
+
+1052
+01:10:57,600 --> 01:10:59,860
+So, we're going to talk about parallel I-O later.
+
+1053
+01:10:59,860 --> 01:11:01,460
+Right now, we're talking about parallel computation.
+
+1054
+01:11:02,400 --> 01:11:03,820
+The other thing is parallel I-O.
+
+1055
+01:11:05,520 --> 01:11:08,260
+And unfortunately, I-O is the thing that, like,
+
+1056
+01:11:08,340 --> 01:11:10,420
+a lot of people don't think about when they look at parallel systems.
+
+1057
+01:11:10,600 --> 01:11:12,480
+Everybody thinks it's cool to look at the computation.
+
+1058
+01:11:13,060 --> 01:11:13,920
+Keep you accelerated.
+
+1059
+01:11:14,440 --> 01:11:15,380
+Wow, that's awesome.
+
+1060
+01:11:15,980 --> 01:11:17,560
+Yeah, but where did all this data come from?
+
+1061
+01:11:18,700 --> 01:11:21,260
+Well, let's assume you already have it in RAM.
+
+1062
+01:11:21,540 --> 01:11:23,040
+Cool, but the very first time, it ain't in RAM.
+
+1063
+01:11:23,480 --> 01:11:24,440
+It's coming from somewhere.
+
+1064
+01:11:27,550 --> 01:11:30,390
+So, I just want to point out that, like, parallel fossils
+
+1065
+01:11:30,390 --> 01:11:32,430
+are a big thing on these things.
+
+1066
+01:11:32,710 --> 01:11:36,110
+So, you know, I asked in this report, I want benchmarks done.
+
+1067
+01:11:36,270 --> 01:11:38,730
+I want to know what the speeds of these things are.
+
+1068
+01:11:39,490 --> 01:11:41,250
+So, look around and see what you can do.
+
+1069
+01:11:41,710 --> 01:11:43,350
+Is it going to be perfect? Probably not.
+
+1070
+01:11:43,970 --> 01:11:47,830
+But it'll be some kind of thing that you did to try to see.
+
+1071
+01:11:47,970 --> 01:11:53,110
+And then what about if you read and wrote your data file
+
+1072
+01:11:53,110 --> 01:11:56,490
+to and from that thing over there,
+
+1073
+01:11:56,490 --> 01:11:59,670
+the matrix and vector, and you're getting a speed that's faster
+
+1074
+01:11:59,670 --> 01:12:01,070
+than what we got on this thing?
+
+1075
+01:12:01,750 --> 01:12:03,570
+Well, what could be going on?
+
+1076
+01:12:04,850 --> 01:12:06,370
+Well, maybe the matrix is not big enough,
+
+1077
+01:12:06,490 --> 01:12:07,890
+so it's being done by caching.
+
+1078
+01:12:08,130 --> 01:12:10,490
+So, what about if you benchmarked it for a number of bytes
+
+1079
+01:12:10,490 --> 01:12:13,470
+equal to the size of the matrix, then you'd take the caching into effect?
+
+1080
+01:12:14,830 --> 01:12:16,010
+What about if it was something else?
+
+1081
+01:12:16,190 --> 01:12:17,990
+What about if the way F-read and F-write works,
+
+1082
+01:12:18,170 --> 01:12:21,290
+does it wait for the whole thing to actually be written to the disk?
+
+1083
+01:12:24,850 --> 01:12:25,630
+Let me ask you a question.
+
+1084
+01:12:25,750 --> 01:12:30,730
+Let's suppose you said write was one gigabyte file out to F-write.
+
+1085
+01:12:31,590 --> 01:12:32,810
+F-wrote it out.
+
+1086
+01:12:33,230 --> 01:12:36,010
+And F-write returns to the next line in the program.
+
+1087
+01:12:36,250 --> 01:12:42,370
+Does that mean that that file is actually on that device
+
+1088
+01:12:42,370 --> 01:12:43,930
+when that function returns?
+
+1089
+01:12:47,690 --> 01:12:52,570
+It could just be in a copied place in memory that is protected
+
+1090
+01:12:52,570 --> 01:12:53,830
+so it puts it in a buffer.
+
+1091
+01:12:54,030 --> 01:12:56,230
+It's like, hey, you want to write this data to a file?
+
+1092
+01:12:56,450 --> 01:12:56,890
+Cool.
+
+1093
+01:12:57,170 --> 01:13:00,630
+It makes a copy of it right there and it returns to your program
+
+1094
+01:13:00,630 --> 01:13:04,850
+and then a DDMA control, a direct memory access control,
+
+1095
+01:13:04,950 --> 01:13:08,910
+is writing this thing to the file while your computer goes on a desktop.
+
+1096
+01:13:11,230 --> 01:13:13,090
+What about if you did one?
+
+1097
+01:13:13,490 --> 01:13:16,970
+You might say, oh my god, it's like 10 terabytes a second.
+
+1098
+01:13:17,310 --> 01:13:20,410
+It's like, yeah, that's how much it was to copy it from one place in memory
+
+1099
+01:13:20,410 --> 01:13:21,570
+to another place in memory.
+
+1100
+01:13:22,050 --> 01:13:25,190
+It's not how long it took to go from memory to the disk
+
+1101
+01:13:25,210 --> 01:13:28,290
+because you're not actually measuring the thing that you think you're measuring.
+
+1102
+01:13:29,430 --> 01:13:31,130
+So benchmarking is an entire thing,
+
+1103
+01:13:31,370 --> 01:13:33,490
+so if you don't even really know what you're measuring,
+
+1104
+01:13:34,350 --> 01:13:36,630
+you have to, you say, I know what I'm measuring
+
+1105
+01:13:36,630 --> 01:13:38,610
+is the time it went from this line to this line in the program.
+
+1106
+01:13:38,830 --> 01:13:41,270
+Yeah, but what does that actually mean that really took place on the computer?
+
+1107
+01:13:42,630 --> 01:13:44,230
+And it is the thing that took place on the computer,
+
+1108
+01:13:44,350 --> 01:13:45,350
+the thing you're trying to measure.
+
+1109
+01:13:46,510 --> 01:13:49,130
+All these things that all come into play here.
+
+1110
+01:13:50,090 --> 01:13:53,470
+So any questions about this design, what kind of questions do you have about it?
+
+1111
+01:14:02,040 --> 01:14:04,000
+How many of you have started on this assignment?
+
+1112
+01:14:13,260 --> 01:14:16,280
+It's okay, but I changed the code so I can always describe it.
+
+1113
+01:14:19,240 --> 01:14:21,020
+On your laptop you mean?
+
+1114
+01:14:21,240 --> 01:14:22,080
+Yes, on my laptop.
+
+1115
+01:14:22,580 --> 01:14:23,980
+All right, so that's a great question.
+
+1116
+01:14:24,180 --> 01:14:25,280
+I'm glad we're asking that.
+
+1117
+01:14:25,540 --> 01:14:25,720
+All right.
+
+1118
+01:14:28,020 --> 01:14:29,100
+And I'll work to the answer.
+
+1119
+01:14:29,140 --> 01:14:30,700
+So the answer is, I know, don't do that.
+
+1120
+01:14:31,000 --> 01:14:32,380
+Let me explain why, all right?
+
+1121
+01:14:34,300 --> 01:14:39,300
+Notice how in my code here, when he ran it on Expanse,
+
+1122
+01:14:39,520 --> 01:14:42,740
+he went from 1 to 128 because that's what was available.
+
+1123
+01:14:43,060 --> 01:14:44,280
+That's not how many cores it has.
+
+1124
+01:14:44,880 --> 01:14:47,620
+But when he ran it on his own machine, he only went from 0 to 8
+
+1125
+01:14:47,620 --> 01:14:49,480
+because that's the only number of cores he has.
+
+1126
+01:14:50,660 --> 01:14:55,140
+So you could run it oversubscribed up to 128 probably.
+
+1127
+01:14:56,880 --> 01:15:03,320
+But let's suppose that you had some way of doing hyperthreading on those 8
+
+1128
+01:15:03,320 --> 01:15:05,880
+and you had it core locked that the threads were doing whatever
+
+1129
+01:15:06,340 --> 01:15:08,880
+and you weren't using full weight processes and stuff,
+
+1130
+01:15:09,240 --> 01:15:11,560
+you could probably benefit up to some point.
+
+1131
+01:15:11,720 --> 01:15:13,960
+But after about 16, I mean, all the other stuff,
+
+1132
+01:15:14,120 --> 01:15:15,580
+you're just spawning up a bunch of processes.
+
+1133
+01:15:15,940 --> 01:15:16,500
+What are they doing?
+
+1134
+01:15:17,080 --> 01:15:17,540
+They're doing this.
+
+1135
+01:15:17,680 --> 01:15:21,060
+There's 128 processes running, 128 of them.
+
+1136
+01:15:22,420 --> 01:15:25,920
+And only these 8 are running at the same time.
+
+1137
+01:15:26,880 --> 01:15:29,160
+And then those 8 are running and these 8 are running.
+
+1138
+01:15:29,960 --> 01:15:33,700
+And you're spending a bunch of time going around between these things.
+
+1139
+01:15:33,980 --> 01:15:35,140
+That's from 356, right?
+
+1140
+01:15:36,760 --> 01:15:40,360
+Process management, the waiting queue, the running queue, the blocked queue.
+
+1141
+01:15:40,920 --> 01:15:42,300
+Is there any reason to have all these queues?
+
+1142
+01:15:43,360 --> 01:15:44,080
+Yeah, I need the queues.
+
+1143
+01:15:44,220 --> 01:15:46,740
+Is there any reason to fill up with a bunch of processes?
+
+1144
+01:15:46,980 --> 01:15:47,520
+Probably not.
+
+1145
+01:15:48,320 --> 01:15:49,260
+No, it is cool to do it.
+
+1146
+01:15:49,340 --> 01:15:49,840
+Let's see what happens.
+
+1147
+01:15:50,160 --> 01:15:52,000
+What you'll probably see is this complete crap.
+
+1148
+01:15:53,080 --> 01:15:54,920
+Did you try it more than 8?
+
+1149
+01:15:55,540 --> 01:15:55,820
+No.
+
+1150
+01:15:57,120 --> 01:15:59,860
+Well, you probably see that if you oversubscribed it,
+
+1151
+01:15:59,940 --> 01:16:02,600
+it would totally suck after 8 or maybe after 10 or 12.
+
+1152
+01:16:02,600 --> 01:16:06,380
+Somewhere in there it would just, the speed would go like this,
+
+1153
+01:16:06,740 --> 01:16:09,400
+the time would go like that, and the efficiency would go like that.
+
+1154
+01:16:09,520 --> 01:16:10,740
+I mean, that's all we have.
+
+1155
+01:16:10,940 --> 01:16:12,240
+Because you don't have that in any course.
+
+1156
+01:16:12,540 --> 01:16:15,780
+So don't worry about on your own computer
+
+1157
+01:16:15,780 --> 01:16:20,200
+testing out a number of processes that exceeds the number of cores that you have.
+
+1158
+01:16:21,560 --> 01:16:22,440
+That's a good question.
+
+1159
+01:16:22,800 --> 01:16:24,420
+I see that.
+
+1160
+01:16:25,140 --> 01:16:28,360
+I think, I think I've been there a long time,
+
+1161
+01:16:29,400 --> 01:16:32,180
+when the mom and the child sorted a little.
+
+1162
+01:16:32,440 --> 01:16:32,880
+Okay.
+
+1163
+01:16:36,000 --> 01:16:36,040
+Wait.
+
+1164
+01:16:38,870 --> 01:16:39,350
+I gotcha.
+
+1165
+01:16:40,510 --> 01:16:44,270
+But moving forward, like, on your own computer, you only need to go up to,
+
+1166
+01:16:44,370 --> 01:16:45,210
+you can do that.
+
+1167
+01:16:45,990 --> 01:16:49,490
+But the only thing that's really important is from 1 to the number of cores that you have.
+
+1168
+01:16:49,730 --> 01:16:54,050
+And other stuff, you can gather that data, but it doesn't really mean much.
+
+1169
+01:16:54,210 --> 01:16:58,030
+In fact, you should, the only, the most meaningful thing about it is to see that,
+
+1170
+01:16:58,250 --> 01:16:59,110
+that's not a good idea.
+
+1171
+01:16:59,350 --> 01:17:01,310
+And then you're like, cool, that's why you don't do that.
+
+1172
+01:17:03,090 --> 01:17:05,190
+I think somebody else was raising their hand before that.
+
+1173
+01:17:05,850 --> 01:17:08,970
+I thought you were raising your hand, but I got you, you're probably stretching.
+
+1174
+01:17:10,150 --> 01:17:11,030
+Other questions?
+
+1175
+01:17:15,560 --> 01:17:16,360
+Didn't you question about anything?
+
+1176
+01:17:18,180 --> 01:17:19,120
+This assignment or otherwise?
+
+1177
+01:17:23,300 --> 01:17:23,620
+All right.
+
+1178
+01:17:23,700 --> 01:17:25,140
+Well, I hope everybody has a great day.
+
+1179
+01:17:26,020 --> 01:17:28,920
+If you want any of these flyers about open positions,
+
+1180
+01:17:29,020 --> 01:17:34,000
+click now, and we'll talk with you guys later.
+
+1181
+01:17:34,180 --> 01:17:35,700
+Have a great weekend also, all right?
+
+1182
+01:17:46,520 --> 01:17:47,020
+Yeah.
+
+1183
+01:17:47,560 --> 01:17:48,360
+It's not really done.
+
+1184
+01:17:48,660 --> 01:17:48,780
+Yeah.
+
+1185
+01:17:49,240 --> 01:17:49,260
+Okay.
+
+1186
+01:17:49,800 --> 01:17:55,600
+But I wanted to see if you had an idea of what you might want to talk about,
+
+1187
+01:17:55,700 --> 01:18:04,160
+just because I want to go to a discussion in DC and it's from the 8th to the 10th.
+
+1188
+01:18:05,320 --> 01:18:06,260
+So, I think the final?
+
+1189
+01:18:08,700 --> 01:18:12,500
+So, send me an email to remind, I don't know when it is, but like my plan was that
+
+1190
+01:18:12,500 --> 01:18:14,240
+it was going to be whenever the university said it was.
+
+1191
+01:18:14,380 --> 01:18:16,080
+Have you checked to see when that's supposed to be?
+
+1192
+01:18:16,900 --> 01:18:20,280
+I looked a little bit back and I've seen any of you.
+
+1193
+01:18:20,340 --> 01:18:24,520
+So, let me, send me an email and I'll send you back where the university has this grid
+
+1194
+01:18:24,520 --> 01:18:27,720
+and it says, you know, every class, when that exam is.
+
+1195
+01:18:29,040 --> 01:18:33,640
+If when the exam is interferes with your trip, then let's take that one step at a time
+
+1196
+01:18:33,640 --> 01:18:37,920
+and we'll see, but like what that probably would be is, it would be like, okay, well
+
+1197
+01:18:37,920 --> 01:18:39,340
+then you got to take it ahead of time.
+
+1198
+01:18:39,680 --> 01:18:39,760
+Yeah.
+
+1199
+01:18:39,940 --> 01:18:40,420
+That's the kind of thing.
+
+1200
+01:18:40,560 --> 01:18:45,960
+But let's, that's supposed to be the kind of thing that I have to get approval from
+
+1201
+01:18:45,960 --> 01:18:51,320
+the dean's office because technically I'm supposed to give everybody the final exam
+
+1202
+01:18:51,320 --> 01:18:52,100
+at the same time.
+
+1203
+01:18:53,000 --> 01:18:55,260
+So, let's see.
+
+1204
+01:18:55,360 --> 01:18:58,980
+I'm skipping out on the first stage because I do have another exam.
+
+1205
+01:18:59,520 --> 01:19:01,820
+So, like I have an exam on the 8th.
+
+1206
+01:19:01,820 --> 01:19:07,380
+So, I'll only be probably for those last two days of confidence.
+
+1207
+01:19:07,780 --> 01:19:10,560
+But, I mean, I'm happy to work with you about the case.
+
+1208
+01:19:10,760 --> 01:19:13,640
+It's just, let's figure out when it's supposed to be and then see what the deal would have to be.
+
+1209
+01:19:13,740 --> 01:19:18,480
+Then let me, you write up a thing, then I kind of give that to the chair, the dean and say,
+
+1210
+01:19:18,640 --> 01:19:25,520
+hey, my plan is to give this student eggs the, you know, the exam ahead of time because
+
+1211
+01:19:25,520 --> 01:19:29,000
+of the fact that she wants you to do the same and blah, blah, blah.
+
+1212
+01:19:29,240 --> 01:19:29,980
+Make sure it's okay.
+
+1213
+01:19:30,940 --> 01:19:33,200
+One time, like I, yeah, please, yeah.
+
+1214
+01:19:33,260 --> 01:19:39,240
+One time I gave an exam a long time ago and even all the students agreed to it.
+
+1215
+01:19:39,360 --> 01:19:43,140
+Like, they were like, yeah, we'll all take it on this day, which was earlier because they wanted to go.
+
+1216
+01:19:44,360 --> 01:19:46,400
+The university's like, that's not your call to make.
+
+1217
+01:19:46,660 --> 01:19:47,860
+You know, you can't decide that.
+
+1218
+01:19:48,080 --> 01:19:49,020
+Like, that's our chance.
+
+1219
+01:19:49,180 --> 01:19:52,180
+They're like, well, it's probably about if one of those students who said yes, then they
+
+1220
+01:19:52,180 --> 01:19:53,920
+changed their mind once they saw the exam.
+
+1221
+01:19:54,260 --> 01:19:56,640
+And they were like, they didn't give me the entire time to study.
+
+1222
+01:19:57,340 --> 01:20:00,180
+So I just don't want to make sure they don't come and say, well, hey, if you would say you
+
+1223
+01:20:00,180 --> 01:20:03,460
+wound up doing that on the exam, then you say, you made me take it early.
+
+1224
+01:20:03,600 --> 01:20:04,340
+And I'm like, well, hold on.
+
+1225
+01:20:04,420 --> 01:20:05,320
+I didn't make you take it early.
+
+1226
+01:20:05,520 --> 01:20:06,340
+You know, you chose to do it.
+
+1227
+01:20:06,540 --> 01:20:07,940
+Like, well, I'm happy to work through it.
+
+1228
+01:20:08,000 --> 01:20:10,340
+I just need to, it's been a while since that's happened.
+
+1229
+01:20:10,620 --> 01:20:14,680
+So let me, let me just, I don't know what the current policies are.
+
+1230
+01:20:14,760 --> 01:20:15,440
+So we'll figure it out.
+
+1231
+01:20:15,560 --> 01:20:15,820
+All right.
+
+1232
+01:20:16,360 --> 01:20:16,980
+Thank you.
+
+1233
+01:20:17,060 --> 01:20:17,580
+Yeah, absolutely.
+
+1234
+01:20:18,580 --> 01:20:19,160
+Yes, sir.
+
+1235
+01:20:20,400 --> 01:20:23,860
+So I might end up sending you an email some time later.
+
+1236
+01:20:24,280 --> 01:20:24,420
+Okay.
+
+1237
+01:20:24,620 --> 01:20:26,020
+I'm not sure if I'll be here today.
+
+1238
+01:20:26,460 --> 01:20:28,080
+But it's just me.
+
+1239
+01:20:32,770 --> 01:20:33,210
+Yeah.
+
+1240
+01:20:33,830 --> 01:20:34,190
+Okay.
+
+1241
+01:20:34,930 --> 01:20:36,010
+I mean, yeah, whatever.
+
+1242
+01:20:36,310 --> 01:20:37,510
+It would be like a private information.
+
+1243
+01:20:37,770 --> 01:20:38,270
+I don't know.
+
+1244
+01:20:38,910 --> 01:20:42,160
+I don't know if I've seen you pay for it.
+
+1245
+01:20:42,380 --> 01:20:48,000
+So I might just send you an email.
+
+1246
+01:20:48,300 --> 01:20:52,700
+So my thought would be like, what do you want to achieve?
+
+1247
+01:20:52,940 --> 01:20:53,480
+What are the masteries?
+
+1248
+01:20:53,700 --> 01:20:55,940
+What are the things you want to get out of that experience?
+
+1249
+01:20:56,500 --> 01:20:58,460
+And what is your main interest area?
+
+1250
+01:21:02,150 --> 01:21:04,190
+I still don't need to look forward to that.
+
+1251
+01:21:04,410 --> 01:21:07,730
+Because the reason I'm thinking is, like, if your interest is the kind of stuff
+
+1252
+01:21:07,730 --> 01:21:09,290
+that that degree is about, that's cool.
+
+1253
+01:21:09,430 --> 01:21:14,350
+But if it's kind of like, if it's not a great match, you don't, well, there's a
+
+1254
+01:21:14,350 --> 01:21:14,790
+couple of things.
+
+1255
+01:21:14,950 --> 01:21:17,650
+Like, I don't think there's going to be a lot of opportunity for it to be paid
+
+1256
+01:21:17,650 --> 01:21:22,590
+for in the way it is at other universities when you go physically there and you,
+
+1257
+01:21:22,590 --> 01:21:28,250
+you do jobs, like you teach classes or you teach labs or whatever.
+
+1258
+01:21:28,250 --> 01:21:29,870
+And the university pays you.
+
+1259
+01:21:30,030 --> 01:21:31,470
+And on top of that, they waive your tuition.
+
+1260
+01:21:32,610 --> 01:21:35,690
+Now, I mean, I don't believe Coastal does that for this online degree program
+
+1261
+01:21:35,690 --> 01:21:36,490
+because it's online.
+
+1262
+01:21:37,610 --> 01:21:39,350
+How do you teach something not here?
+
+1263
+01:21:40,050 --> 01:21:43,990
+So I don't know about, and there was this discussion about that recently.
+
+1264
+01:21:44,610 --> 01:21:46,090
+So send me an email about it.
+
+1265
+01:21:46,890 --> 01:21:51,830
+And I will ask if there's, because there is supposed to be, you know,
+
+1266
+01:21:51,870 --> 01:21:53,610
+because they endowed that thing with a million dollars.
+
+1267
+01:21:53,610 --> 01:21:55,590
+But they can't sell, they can't use the principal.
+
+1268
+01:21:55,810 --> 01:21:56,790
+They can only use the interest.
+
+1269
+01:21:57,330 --> 01:22:00,730
+But even a 4% interest on a million dollars is $40,000 a year.
+
+1270
+01:22:01,190 --> 01:22:03,050
+So one might argue, well, then you could have enough.
+
+1271
+01:22:04,330 --> 01:22:06,250
+You could have, you could waive the tuition for a student.
+
+1272
+01:22:06,630 --> 01:22:08,110
+And that was like your top student.
+
+1273
+01:22:08,650 --> 01:22:09,230
+And you could do that.
+
+1274
+01:22:09,410 --> 01:22:11,050
+So like, that's kind of stuff being discussed.
+
+1275
+01:22:11,310 --> 01:22:13,030
+I just, I don't know like what the full deal is.
+
+1276
+01:22:13,270 --> 01:22:15,230
+But send me the thing and I'll find out.
+
+1277
+01:22:15,330 --> 01:22:18,490
+But the other thing I'd say is, aside from that, depending on what your interest
+
+1278
+01:22:18,490 --> 01:22:21,470
+areas are, as well as like, you didn't have loads from a school that has like a
+
+1279
+01:22:21,470 --> 01:22:25,110
+more traditional in-person brick and mortar masters during computer science.
+
+1280
+01:22:25,110 --> 01:22:27,870
+Like, you might find that those places would definitely pay for it.
+
+1281
+01:22:28,130 --> 01:22:33,490
+Because in a lot of places, like the graduate students are foreign nationals.
+
+1282
+01:22:33,790 --> 01:22:38,530
+And foreign nationals have to pass like a, the reading and the writing tests
+
+1283
+01:22:38,530 --> 01:22:41,110
+and speaking tests, first of all, be accepted to that school.
+
+1284
+01:22:41,570 --> 01:22:45,250
+But in a lot of places, there'll be a preferential treatment to say,
+
+1285
+01:22:45,490 --> 01:22:49,610
+if you're a native speaker of English, then this university is probably going to
+
+1286
+01:22:49,610 --> 01:22:52,610
+push you in a place where you're interacting with people in the classroom.
+
+1287
+01:22:52,990 --> 01:22:56,730
+And it might do that less frequently with people that don't speak English as well
+
+1288
+01:22:56,730 --> 01:22:59,750
+because they don't want their students to not be able to understand what's going on.
+

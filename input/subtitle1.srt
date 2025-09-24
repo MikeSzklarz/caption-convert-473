@@ -1,0 +1,7975 @@
+1
+00:00:00,300 --> 00:00:02,920
+And the way you can tell
+is that if either one of
+
+2
+00:00:02,920 --> 00:00:06,120
+these is a one, but not
+either nor both, then it's overflow.
+
+3
+00:00:06,300 --> 00:00:09,620
+So you just take this wire,
+run it here, run it here,
+
+4
+00:00:09,680 --> 00:00:13,300
+run this into an exclusive or
+gate, and that is the overflow circuit.
+
+5
+00:00:14,240 --> 00:00:16,420
+So like that's, you
+know, it'll come out later
+
+6
+00:00:16,420 --> 00:00:18,500
+in the class, you
+know, that sort of thing.
+
+7
+00:00:19,040 --> 00:00:19,540
+It's pretty cool.
+
+8
+00:00:20,520 --> 00:00:20,860
+Cool.
+
+9
+00:00:22,300 --> 00:00:24,480
+I need to grab some water
+here, so I'll be right back.
+
+10
+00:00:25,180 --> 00:00:27,200
+Is the vending machine
+up here actually working yet?
+
+11
+00:00:27,300 --> 00:00:27,940
+Is it still broken?
+
+12
+00:00:29,220 --> 00:00:29,960
+There's one down.
+
+13
+00:00:30,520 --> 00:00:31,520
+I don't want to go downstairs.
+
+14
+00:00:32,440 --> 00:00:34,160
+I don't think the second floor one is.
+
+15
+00:00:35,520 --> 00:00:38,300
+Let's just get some water I guess.
+
+16
+00:00:44,910 --> 00:00:45,090
+Okay.
+
+17
+00:00:47,350 --> 00:00:47,410
+Okay.
+
+18
+00:00:47,410 --> 00:00:47,610
+Of course.
+
+19
+00:00:50,020 --> 00:00:54,100
+No, I'm just kidding.
+
+20
+00:00:58,600 --> 00:01:00,320
+No, I'm just, I'm just auditing.
+
+21
+00:01:00,320 --> 00:01:26,680
+Okay.
+
+22
+00:02:47,000 --> 00:02:47,360
+Yes.
+
+23
+00:01:41,420 --> 00:02:49,340
+They're not going to believe me when I try
+to tell them that
+
+24
+00:02:49,340 --> 00:02:50,300
+there's something wrong with this.
+
+25
+00:02:50,480 --> 00:02:52,280
+I'm going to record it.
+
+26
+00:02:55,380 --> 00:02:58,920
+Is it allowed by other people
+in it trying to use it?
+
+27
+00:02:59,840 --> 00:03:00,260
+Nope.
+
+28
+00:03:03,020 --> 00:03:05,580
+Hit on or off any of these buttons.
+
+29
+00:03:05,960 --> 00:03:07,500
+Nothing's doing anything.
+
+30
+00:03:15,990 --> 00:03:20,430
+Okay.
+
+31
+00:03:20,710 --> 00:03:22,690
+I think it's not proof
+that there's something wrong with it.
+
+32
+00:03:39,900 --> 00:03:41,820
+At least that works
+and that's not working.
+
+33
+00:03:50,740 --> 00:03:51,180
+Okay.
+
+34
+00:03:48,280 --> 00:03:51,900
+All right.
+
+35
+00:03:52,060 --> 00:03:55,340
+Looks like class has started,
+so let's go ahead and...
+
+36
+00:03:55,340 --> 00:03:56,300
+So this is the syllabus.
+
+37
+00:03:57,180 --> 00:03:58,780
+Kind of pass it around a bit or whatever.
+
+38
+00:04:10,530 --> 00:04:11,310
+Pass it around.
+
+39
+00:04:11,450 --> 00:04:14,430
+There's probably a lot more
+than we actually need, but...
+
+40
+00:04:35,460 --> 00:04:42,150
+So if you're in Moodle
+and you go to our class,
+
+41
+00:04:46,340 --> 00:04:48,880
+the syllabus is there both for the people
+that are taking it
+
+42
+00:04:48,880 --> 00:04:50,060
+for honors credit as well
+
+43
+00:04:50,060 --> 00:04:51,340
+as there's just a regular credit.
+
+44
+00:04:51,900 --> 00:04:54,020
+And if you look at it, it's really...
+
+45
+00:04:54,020 --> 00:04:55,500
+There's only one
+small difference between the
+
+46
+00:04:55,500 --> 00:04:57,320
+two with the way the grades are calculated
+
+47
+00:04:57,320 --> 00:04:59,560
+and the project part of the class.
+
+48
+00:04:59,680 --> 00:05:00,540
+Anybody take it for honors?
+
+49
+00:05:01,440 --> 00:05:01,600
+Okay.
+
+50
+00:05:01,720 --> 00:05:03,280
+So we can talk separately about it.
+
+51
+00:05:04,200 --> 00:05:04,600
+Lydia Morgan?
+
+52
+00:05:05,120 --> 00:05:05,560
+Yes, sir.
+
+53
+00:05:06,380 --> 00:05:07,180
+I wrote you an email.
+
+54
+00:05:08,020 --> 00:05:08,480
+Are you good?
+
+55
+00:05:08,680 --> 00:05:08,900
+Yeah.
+
+56
+00:05:10,200 --> 00:05:11,280
+I think I got it.
+
+57
+00:05:11,460 --> 00:05:15,120
+I'm offering you an opportunity
+to interview for a position.
+
+58
+00:05:15,760 --> 00:05:17,300
+Oh, that's...
+
+59
+00:05:19,320 --> 00:05:20,120
+That's okay, dude.
+
+60
+00:05:21,780 --> 00:05:22,520
+Let's see.
+
+61
+00:05:23,100 --> 00:05:26,600
+So let's take a look here.
+
+62
+00:05:32,400 --> 00:05:37,900
+So this is our cap song course, right?
+
+63
+00:05:41,000 --> 00:05:43,680
+It requires all these things.
+
+64
+00:05:44,720 --> 00:05:49,380
+210 networking, software engineering,
+operating systems, count, chart one,
+
+65
+00:05:50,680 --> 00:05:53,020
+and implicitly all the
+programming classes and everything else.
+
+66
+00:05:53,160 --> 00:05:54,980
+So it's kind of like
+the end of the line, right?
+
+67
+00:05:54,980 --> 00:05:56,980
+I mean, people are
+here graduating this semester.
+
+68
+00:05:58,020 --> 00:05:59,660
+What about next semester?
+
+69
+00:06:00,480 --> 00:06:02,140
+What about some semester beyond that?
+
+70
+00:06:04,340 --> 00:06:05,760
+So anyway, yeah.
+
+71
+00:06:05,880 --> 00:06:07,740
+So we're near the end, right?
+
+72
+00:06:09,460 --> 00:06:10,740
+So let's take a look.
+
+73
+00:06:11,720 --> 00:06:15,320
+There's only one required textbook
+for the class, this first one.
+
+74
+00:06:15,900 --> 00:06:18,260
+It's called the introduction
+to the parallel programming.
+
+75
+00:06:19,980 --> 00:06:24,080
+It's really kind of a simple
+book if you look at it.
+
+76
+00:06:24,080 --> 00:06:26,600
+A lot of universities use it for
+sophomores that are
+
+77
+00:06:26,600 --> 00:06:27,600
+learning about parallel computing.
+
+78
+00:06:28,360 --> 00:06:29,740
+So it's not high level.
+
+79
+00:06:29,920 --> 00:06:33,720
+It's not super intense, but it also won't
+be the only place we do stuff from.
+
+80
+00:06:33,820 --> 00:06:39,800
+But I think it's cool because you find the
+following when you try
+
+81
+00:06:39,800 --> 00:06:41,060
+to find any other parallel
+
+82
+00:06:41,060 --> 00:06:41,900
+computing text.
+
+83
+00:06:42,800 --> 00:06:44,860
+It's either written like some sort
+of graduate textbook
+
+84
+00:06:44,860 --> 00:06:46,220
+that's impossible to understand,
+
+85
+00:06:46,740 --> 00:06:51,880
+or it's only about one small aspect
+of parallel computing, like
+
+86
+00:06:51,880 --> 00:06:53,780
+only about shared memory,
+
+87
+00:06:53,920 --> 00:06:58,220
+only about MPI, only
+about vector, only about GPUs.
+
+88
+00:06:58,560 --> 00:07:00,600
+And it's like, no, we need to kind
+of have an older
+
+89
+00:07:00,600 --> 00:07:01,760
+view of those things, right?
+
+90
+00:07:02,300 --> 00:07:05,960
+So this is the closest that you can kind
+of come to that
+
+91
+00:07:05,960 --> 00:07:08,420
+combined with this book here,
+
+92
+00:07:08,600 --> 00:07:09,360
+which is out of print.
+
+93
+00:07:09,980 --> 00:07:10,980
+You can't get it anymore.
+
+94
+00:07:11,820 --> 00:07:14,880
+But you can definitely find
+the PDF for it online.
+
+95
+00:07:15,020 --> 00:07:17,180
+It was written a long time ago, 2003.
+
+96
+00:07:17,980 --> 00:07:23,640
+And the ideas about how parallelism works
+is the same now as it was then,
+
+97
+00:07:23,640 --> 00:07:25,660
+and there's different
+accelerators and stuff
+
+98
+00:07:25,660 --> 00:07:28,080
+now, but the issues, race conditions,
+
+99
+00:07:28,380 --> 00:07:32,560
+concurrency, throughput, all of these
+things are all the same concept.
+
+100
+00:07:32,720 --> 00:07:33,460
+This book was great.
+
+101
+00:07:34,320 --> 00:07:37,840
+Michael J. Clinton, who's
+a Stanford professor, whatever,
+
+102
+00:07:38,000 --> 00:07:39,140
+your science has done all of a sudden
+
+103
+00:07:39,140 --> 00:07:40,060
+inside of his life.
+
+104
+00:07:40,180 --> 00:07:41,260
+I was like, I'm
+going to be a photographer.
+
+105
+00:07:42,020 --> 00:07:43,420
+So I guess they couldn't publish it.
+
+106
+00:07:43,900 --> 00:07:47,620
+But anyway, he wrote a really
+good book, and I like it.
+
+107
+00:07:48,680 --> 00:07:52,140
+And we're going to have slides for this,
+as well as other
+
+108
+00:07:52,140 --> 00:07:53,540
+materials will be in Moodle.
+
+109
+00:07:55,060 --> 00:07:58,260
+There's student resources that
+are available online for it.
+
+110
+00:08:00,600 --> 00:08:03,200
+In this thing here, there'll be slides and
+some stuff that I'll
+
+111
+00:08:03,200 --> 00:08:04,740
+provide for it as well,
+
+112
+00:08:05,300 --> 00:08:08,580
+and can point you to
+places where it can be acquired.
+
+113
+00:08:10,060 --> 00:08:13,660
+And I'm only saying that
+because our bookstore can't offer it.
+
+114
+00:08:13,760 --> 00:08:17,240
+So my thought is I've tried the official
+route to offer it,
+
+115
+00:08:17,280 --> 00:08:18,280
+and they can't offer it.
+
+116
+00:08:18,280 --> 00:08:20,140
+So now it's the
+official route saying you can
+
+117
+00:08:20,140 --> 00:08:22,680
+get it in various
+ways at these various places.
+
+118
+00:08:23,100 --> 00:08:23,280
+All right.
+
+119
+00:08:24,000 --> 00:08:28,140
+Now, this one, this is just, hey, if you
+find yourself, you'd love
+
+120
+00:08:28,140 --> 00:08:29,040
+in this class, and you're
+
+121
+00:08:29,040 --> 00:08:31,080
+like, I just love this material.
+
+122
+00:08:31,940 --> 00:08:37,780
+This book, which is a lot of, you
+know, it's not more recent than this book.
+
+123
+00:08:38,080 --> 00:08:38,500
+Yeah, it is.
+
+124
+00:08:38,760 --> 00:08:39,340
+Probably more recent.
+
+125
+00:08:39,560 --> 00:08:40,380
+I don't know about the second edition.
+
+126
+00:08:40,980 --> 00:08:42,440
+I don't think the
+second edition really improved
+
+127
+00:08:42,440 --> 00:08:44,500
+it enough to make
+it totally like, say, that
+
+128
+00:08:44,500 --> 00:08:44,840
+it was new.
+
+129
+00:08:44,840 --> 00:08:49,560
+But this one is really sophisticated, but
+it's long, so 100 and some pages.
+
+130
+00:08:50,380 --> 00:08:52,080
+It's a really cool
+book, and it was written
+
+131
+00:08:52,080 --> 00:08:55,860
+by a person that
+is both a parallel computing
+
+132
+00:08:55,860 --> 00:08:57,600
+expert and also a physicist.
+
+133
+00:08:58,200 --> 00:09:01,160
+And so as you're going to find out in
+here, a lot of parallel
+
+134
+00:09:01,160 --> 00:09:03,260
+computing is done for high
+
+135
+00:09:03,260 --> 00:09:05,380
+performance reasons that come into play
+when you're talking
+
+136
+00:09:05,380 --> 00:09:07,460
+about science, modeling, and
+
+137
+00:09:07,460 --> 00:09:09,140
+prediction, and these kind of things.
+
+138
+00:09:09,300 --> 00:09:10,540
+And so it's a cool book.
+
+139
+00:09:12,560 --> 00:09:13,040
+Let's see.
+
+140
+00:09:13,220 --> 00:09:14,900
+It's a standard rating scale in here.
+
+141
+00:09:15,020 --> 00:09:17,340
+The pluses are where
+the pluses are normally at.
+
+142
+00:09:18,300 --> 00:09:20,240
+Let's take a look at this.
+
+143
+00:09:20,440 --> 00:09:22,540
+It's midterm, 30%.
+
+144
+00:09:22,540 --> 00:09:25,100
+That's a lot.
+
+145
+00:09:28,000 --> 00:09:29,060
+That's going to be individual.
+
+146
+00:09:30,680 --> 00:09:34,420
+No computer, no nothing.
+
+147
+00:09:34,720 --> 00:09:36,520
+It's going to be a
+pencil and paper sitting right here.
+
+148
+00:09:37,340 --> 00:09:38,780
+Everything's OA.
+
+149
+00:09:38,980 --> 00:09:40,140
+It's whatever comes out of your head.
+
+150
+00:09:41,400 --> 00:09:43,000
+And it's 30% of your grade.
+
+151
+00:09:43,000 --> 00:09:44,160
+It's 75 minutes.
+
+152
+00:09:46,320 --> 00:09:46,920
+So it's serious.
+
+153
+00:09:49,440 --> 00:09:50,920
+Now assignments of projects.
+
+154
+00:09:52,000 --> 00:09:54,140
+Pretty much that
+includes everything that's
+
+155
+00:09:54,140 --> 00:09:55,620
+not one of these other three things.
+
+156
+00:09:56,500 --> 00:09:59,180
+Like, for example, say we
+have a quiz one day.
+
+157
+00:09:59,780 --> 00:10:01,100
+I don't say quizzes on here.
+
+158
+00:10:01,540 --> 00:10:02,520
+But I say assignments of projects.
+
+159
+00:10:02,660 --> 00:10:04,340
+We'll just call it an in-class project.
+
+160
+00:10:04,940 --> 00:10:06,520
+It's due in five minutes.
+
+161
+00:10:08,180 --> 00:10:10,720
+And it'll be broken down and moved away.
+
+162
+00:10:11,700 --> 00:10:14,600
+The actual assignments of that 30%,
+
+163
+00:10:14,600 --> 00:10:17,500
+70% is in this category.
+
+164
+00:10:17,920 --> 00:10:19,080
+15% is in this.
+
+165
+00:10:19,320 --> 00:10:22,460
+That's all going to be combined
+into a single number that is then
+
+166
+00:10:22,460 --> 00:10:24,420
+30% of your final grade.
+
+167
+00:10:24,500 --> 00:10:25,460
+That'll be how that works.
+
+168
+00:10:27,760 --> 00:10:28,980
+Team project.
+
+169
+00:10:30,020 --> 00:10:32,540
+And by the way, I'm going to encourage,
+
+170
+00:10:33,120 --> 00:10:34,500
+in the class that's being recorded,
+
+171
+00:10:34,740 --> 00:10:36,820
+I'm going to get those things
+available for you
+
+172
+00:10:36,820 --> 00:10:37,820
+through Moodle or whatever.
+
+173
+00:10:39,020 --> 00:10:42,060
+You know, these projects and assignments,
+
+174
+00:10:42,260 --> 00:10:44,780
+I'm going to encourage you to make
+use of whatever
+
+175
+00:10:44,780 --> 00:10:46,480
+technology is currently available.
+
+176
+00:10:47,280 --> 00:10:47,300
+Okay?
+
+177
+00:10:49,540 --> 00:10:52,020
+I think it's like sitting
+your head in the ground.
+
+178
+00:10:52,380 --> 00:10:54,760
+If we pretend like that after graduation,
+
+179
+00:10:54,760 --> 00:10:56,880
+you're not going to
+use every resource available.
+
+180
+00:10:57,100 --> 00:11:00,240
+You can try to do whatever your
+employer is trying to get you to do.
+
+181
+00:11:01,300 --> 00:11:04,680
+So the caveat is the following.
+
+182
+00:11:07,200 --> 00:11:09,380
+That test, that's 30%.
+
+183
+00:11:09,380 --> 00:11:11,780
+This final exam is 30%.
+
+184
+00:11:11,780 --> 00:11:12,980
+That's 60% of your grade.
+
+185
+00:11:13,120 --> 00:11:15,960
+And that's going to be
+75 minutes of pencil and paper
+
+186
+00:11:15,960 --> 00:11:18,020
+and 120 minutes of pencil and paper
+
+187
+00:11:18,020 --> 00:11:21,080
+of all the same concepts that are required
+
+188
+00:11:21,080 --> 00:11:24,380
+in order to understand
+how to do those assignments
+
+189
+00:11:24,380 --> 00:11:27,520
+that you're going to be using
+chat, GPT, and call, and so forth.
+
+190
+00:11:28,120 --> 00:11:31,840
+So what I'm trying to say
+is when you use those materials,
+
+191
+00:11:31,840 --> 00:11:35,320
+what I'm saying here,
+when you use those things,
+
+192
+00:11:35,840 --> 00:11:40,260
+you better understand what
+the **** is going on
+
+193
+00:11:40,260 --> 00:11:44,620
+because you will not be
+able to pass this class
+
+194
+00:11:44,620 --> 00:11:49,580
+just based on those assignments
+that get turned into 30%.
+
+195
+00:11:49,580 --> 00:11:50,820
+It doesn't matter if that's 100.
+
+196
+00:11:51,800 --> 00:11:52,980
+You're not going to pass the class.
+
+197
+00:11:54,140 --> 00:11:56,440
+So we've all used the material.
+
+198
+00:11:56,640 --> 00:11:57,520
+I use it every day.
+
+199
+00:11:57,820 --> 00:12:00,560
+And I use it multiple times
+if they try to solve stuff
+
+200
+00:12:00,560 --> 00:12:01,400
+that I need solved.
+
+201
+00:12:02,760 --> 00:12:05,340
+But if there's something I'm
+going to be accountable for,
+
+202
+00:12:05,520 --> 00:12:07,220
+I use it to try to learn the thing.
+
+203
+00:12:07,820 --> 00:12:09,040
+Can you explain this to me?
+
+204
+00:12:09,500 --> 00:12:10,720
+Can you show me what the piece is?
+
+205
+00:12:10,860 --> 00:12:12,640
+Or why is this the way it is?
+
+206
+00:12:13,000 --> 00:12:15,120
+Because those things do a
+pretty good job with that stuff.
+
+207
+00:12:15,300 --> 00:12:17,360
+And better yet, you can test it out
+
+208
+00:12:17,360 --> 00:12:18,880
+and see how it works on your own computer.
+
+209
+00:12:18,960 --> 00:12:19,700
+You can test it out.
+
+210
+00:12:19,800 --> 00:12:20,700
+You can evaluate it.
+
+211
+00:12:20,820 --> 00:12:23,000
+You can do performance analysis on it.
+
+212
+00:12:23,060 --> 00:12:24,400
+You can do all these sort of things
+
+213
+00:12:24,980 --> 00:12:27,440
+to make sure it's
+actually achieving the goal
+
+214
+00:12:27,440 --> 00:12:29,700
+that the program is
+supposed to achieve, right?
+
+215
+00:12:31,140 --> 00:12:32,100
+Does that make sense?
+
+216
+00:12:32,800 --> 00:12:35,440
+So I'm going to hold you accountable
+
+217
+00:12:35,440 --> 00:12:38,960
+that whatever amount of stuff
+you're doing outside of class
+
+218
+00:12:38,960 --> 00:12:40,920
+would be tools that you learned from it.
+
+219
+00:12:41,220 --> 00:12:43,060
+Otherwise, you're not going to do well.
+
+220
+00:12:44,300 --> 00:12:47,660
+And I'm not going to have
+any sympathy for that at all.
+
+221
+00:12:48,660 --> 00:12:49,660
+I'm just not.
+
+222
+00:12:51,100 --> 00:12:53,280
+If you've got access
+to the most powerful tools
+
+223
+00:12:53,280 --> 00:12:54,180
+that the world has ever known,
+
+224
+00:12:54,340 --> 00:12:56,040
+you should benefit from them in a way
+
+225
+00:12:56,040 --> 00:12:58,480
+that actually is more
+than just regurgitating a thing
+
+226
+00:12:58,480 --> 00:13:00,360
+into an assignment that you turn around
+
+227
+00:13:00,360 --> 00:13:04,520
+and copy and paste it
+into the assignment thing, right?
+
+228
+00:13:05,260 --> 00:13:08,860
+I mean, I think that's the kind of deal.
+
+229
+00:13:09,160 --> 00:13:10,500
+So I'm not saying this to be like,
+
+230
+00:13:11,200 --> 00:13:13,060
+I encourage you to use it.
+
+231
+00:13:13,160 --> 00:13:14,440
+I want you to use it.
+
+232
+00:13:15,300 --> 00:13:16,140
+I want you to.
+
+233
+00:13:17,820 --> 00:13:20,240
+Because I don't want
+you to be stuck forever
+
+234
+00:13:20,240 --> 00:13:22,300
+on some kind of particular thing.
+
+235
+00:13:23,200 --> 00:13:25,400
+But I want you to learn from
+the thing that got you on stuff.
+
+236
+00:13:28,580 --> 00:13:30,060
+All right.
+
+237
+00:13:30,620 --> 00:13:32,940
+There won't be any
+kind of curving in here.
+
+238
+00:13:33,080 --> 00:13:35,040
+There won't be any kind
+of extra credit in here.
+
+239
+00:13:35,540 --> 00:13:37,420
+The tendency is required, but
+I'm not going to take it.
+
+240
+00:13:37,960 --> 00:13:39,180
+If you happen to not be here,
+
+241
+00:13:39,240 --> 00:13:41,020
+you don't have a
+valid excuse that's recognized
+
+242
+00:13:41,020 --> 00:13:44,160
+under the attendance policy of
+Coastal that it has to zero.
+
+243
+00:13:44,540 --> 00:13:45,260
+Homework turned to delay.
+
+244
+00:13:45,680 --> 00:13:47,040
+It doesn't matter what
+the reason is to zero.
+
+245
+00:13:47,720 --> 00:13:49,080
+So that's the deal.
+
+246
+00:13:53,460 --> 00:13:55,540
+Please use email communication as the way
+
+247
+00:13:55,540 --> 00:13:56,540
+to communicate with me.
+
+248
+00:13:57,240 --> 00:14:00,800
+Or use Microsoft Teams to
+ping me with the question
+
+249
+00:14:00,800 --> 00:14:01,700
+or something in there.
+
+250
+00:14:03,420 --> 00:14:04,280
+Maybe do both.
+
+251
+00:14:05,540 --> 00:14:08,020
+Sometimes notifications are
+silenced on the phone
+
+252
+00:14:08,020 --> 00:14:08,740
+or on the thing.
+
+253
+00:14:08,900 --> 00:14:10,140
+I might not see the thing in Teams.
+
+254
+00:14:10,420 --> 00:14:12,860
+But my email, I'm
+constantly looking at the email.
+
+255
+00:14:13,680 --> 00:14:16,360
+Or if you say, hey, I
+sent you a thing in Teams,
+
+256
+00:14:16,520 --> 00:14:19,260
+can you go look at it
+because you've used it to upload things
+
+257
+00:14:19,260 --> 00:14:20,680
+and do it screenshots or whatever.
+
+258
+00:14:21,020 --> 00:14:22,960
+If you think that it's
+probably more convenient than email,
+
+259
+00:14:23,400 --> 00:14:24,100
+then use that.
+
+260
+00:14:28,540 --> 00:14:29,700
+Academic integrity.
+
+261
+00:14:29,860 --> 00:14:31,640
+Academic integrity is only
+going to be included
+
+262
+00:14:31,640 --> 00:14:33,120
+on the things that you're doing in here.
+
+263
+00:14:33,300 --> 00:14:34,840
+Pencil, paper, clothes,
+books, clothes, notes.
+
+264
+00:14:36,140 --> 00:14:37,980
+The stuff that you're
+doing outside of class,
+
+265
+00:14:38,160 --> 00:14:40,460
+I'm not going to be trying to figure out
+
+266
+00:14:40,460 --> 00:14:41,780
+if things match or whatever.
+
+267
+00:14:42,160 --> 00:14:43,260
+That's an impossible task.
+
+268
+00:14:43,420 --> 00:14:46,300
+It's a stupid fool's errand to
+try to figure out any of that.
+
+269
+00:14:46,420 --> 00:14:47,280
+I think we're past that.
+
+270
+00:14:48,800 --> 00:14:51,500
+My opinion on the university
+has realized that yet or not.
+
+271
+00:14:51,780 --> 00:14:55,000
+But I had realized it a
+long time ago, about late 2022.
+
+272
+00:14:56,240 --> 00:14:59,060
+So I'm only concerned about
+what you can produce in class
+
+273
+00:14:59,060 --> 00:15:01,140
+on paper for the vast majority of it.
+
+274
+00:15:01,500 --> 00:15:03,100
+But am I going to
+grade you out of class things?
+
+275
+00:15:03,240 --> 00:15:04,800
+Yeah, I'm definitely going to grade them.
+
+276
+00:15:05,800 --> 00:15:08,520
+But I'm just saying that they're
+likely to be very good grades,
+
+277
+00:15:08,680 --> 00:15:09,160
+wouldn't you say?
+
+278
+00:15:11,320 --> 00:15:11,700
+Interesting.
+
+279
+00:15:11,920 --> 00:15:13,200
+I don't know if
+that's not always the case.
+
+280
+00:15:15,340 --> 00:15:16,280
+Anyway, all right, cool.
+
+281
+00:15:18,540 --> 00:15:20,140
+Any questions about any of this stuff?
+
+282
+00:15:22,780 --> 00:15:23,520
+Let's get started.
+
+283
+00:15:26,040 --> 00:15:27,280
+So parallel computing.
+
+284
+00:15:28,960 --> 00:15:29,800
+Let's take a look at it.
+
+285
+00:15:29,940 --> 00:15:31,760
+Actually, in the syllabus itself,
+
+286
+00:15:31,940 --> 00:15:33,760
+there's some graphs in that thing, right?
+
+287
+00:15:38,400 --> 00:15:39,440
+There's these little things.
+
+288
+00:15:39,540 --> 00:15:40,260
+Let's take a look at that.
+
+289
+00:15:40,620 --> 00:15:43,120
+It's kind of an interesting little thing
+
+290
+00:15:43,120 --> 00:15:55,880
+to look at on the
+first day, this thing right here.
+
+291
+00:15:57,260 --> 00:16:00,860
+See, you know, as a function,
+a number of processes and parallelism.
+
+292
+00:16:01,860 --> 00:16:03,720
+How many people took three 10 with me?
+
+293
+00:16:03,860 --> 00:16:04,020
+Anybody?
+
+294
+00:16:07,860 --> 00:16:08,480
+That's a good thing.
+
+295
+00:16:08,640 --> 00:16:10,560
+So we don't have this
+weird scenario that we're doing something
+
+296
+00:16:10,560 --> 00:16:12,540
+that some people have
+done and some people haven't.
+
+297
+00:16:12,640 --> 00:16:13,060
+So that's good.
+
+298
+00:16:15,020 --> 00:16:18,300
+Did you work again in
+the summer in Savannah River?
+
+299
+00:16:19,100 --> 00:16:19,980
+How did that go?
+
+300
+00:16:20,940 --> 00:16:21,300
+Awesome.
+
+301
+00:16:21,480 --> 00:16:21,860
+That's cool.
+
+302
+00:16:24,780 --> 00:16:27,720
+I was just thinking
+of that because we're trying
+
+303
+00:16:28,860 --> 00:16:32,180
+to work with them on
+having a better student pipeline,
+
+304
+00:16:32,300 --> 00:16:34,560
+having it be more like the
+kind of thing that, you know,
+
+305
+00:16:34,560 --> 00:16:38,040
+they would come here and
+visit like during the recruiting days
+
+306
+00:16:38,040 --> 00:16:40,180
+and all this sort of stuff,
+as well as like some stuff
+
+307
+00:16:40,180 --> 00:16:42,860
+on some DOE research
+things that have come up.
+
+308
+00:16:44,600 --> 00:16:45,040
+All right, cool.
+
+309
+00:16:45,240 --> 00:16:48,040
+So let's just talk about this idea.
+
+310
+00:16:48,200 --> 00:16:50,800
+I'm going to try to motivate
+it with like a simple problem.
+
+311
+00:16:51,500 --> 00:16:53,860
+What about if you
+were on a computer, right?
+
+312
+00:16:53,960 --> 00:17:01,740
+You're on some sort of
+computer and let's say this is
+
+313
+00:17:01,740 --> 00:17:02,880
+random memory right here.
+
+314
+00:17:03,080 --> 00:17:03,760
+It's pretty big.
+
+315
+00:17:04,220 --> 00:17:10,580
+Let's say you got 256
+gigs of RAM and, you know,
+
+316
+00:17:11,160 --> 00:17:15,640
+most of it is full
+of some data that you're processing.
+
+317
+00:17:17,200 --> 00:17:18,440
+And for the sake of some simplicity,
+
+318
+00:17:18,440 --> 00:17:21,140
+let's just assume that
+it's a one-dimensional array
+
+319
+00:17:21,140 --> 00:17:24,080
+that just has a bunch of
+numbers that you need to add up.
+
+320
+00:17:24,080 --> 00:17:26,120
+That's all you got to do, okay?
+
+321
+00:17:27,020 --> 00:17:30,880
+So we're saying, you know,
+about 220 gigs of data
+
+322
+00:17:30,880 --> 00:17:31,980
+that needs to be added.
+
+323
+00:17:33,200 --> 00:17:34,360
+So it's just in a big array.
+
+324
+00:17:35,020 --> 00:17:36,420
+That's what the real problem is.
+
+325
+00:17:36,600 --> 00:17:38,740
+But for the point of simplicity,
+let's just draw a little tiny
+
+326
+00:17:38,740 --> 00:17:41,220
+around on the board to look at it.
+
+327
+00:17:41,420 --> 00:17:42,400
+What about a random array?
+
+328
+00:17:42,660 --> 00:17:43,940
+It's a one-dimensional thing.
+
+329
+00:17:44,420 --> 00:17:46,900
+It has some numbers like
+let's just make some small numbers
+
+330
+00:17:46,900 --> 00:17:49,040
+of one to two.
+
+331
+00:17:49,800 --> 00:17:53,060
+But let's just do it
+three, four, five, six, seven, eight,
+
+332
+00:17:53,060 --> 00:17:53,840
+nine, ten.
+
+333
+00:17:54,080 --> 00:17:54,940
+Let's just add those numbers.
+
+334
+00:17:55,980 --> 00:17:57,920
+Now, you know that
+it wouldn't necessarily be stored.
+
+335
+00:17:58,120 --> 00:17:59,540
+It would just be an arbitrary data.
+
+336
+00:17:59,560 --> 00:18:03,380
+We just need to calculate
+the sum of that data.
+
+337
+00:18:04,500 --> 00:18:07,180
+Now, what sort of structure
+could we do in our...
+
+338
+00:18:07,180 --> 00:18:09,760
+I'm not talking about C
+or Python or this or this.
+
+339
+00:18:09,840 --> 00:18:11,360
+I'm just saying just the basic idea.
+
+340
+00:18:11,560 --> 00:18:13,280
+What would you do to add a...
+
+341
+00:18:13,280 --> 00:18:16,500
+But I'm not saying usability
+and function called sum, okay?
+
+342
+00:18:16,620 --> 00:18:17,880
+I'm just saying, like,
+how would you do this?
+
+343
+00:18:18,800 --> 00:18:19,600
+What would you simply do?
+
+344
+00:18:24,060 --> 00:18:24,880
+What would you do?
+
+345
+00:18:25,520 --> 00:18:27,260
+You have an array A sub I.
+
+346
+00:18:27,880 --> 00:18:29,040
+There's an array A.
+
+347
+00:18:29,080 --> 00:18:31,540
+It's defined with all this stuff in it.
+
+348
+00:18:31,760 --> 00:18:33,300
+You want to...
+
+349
+00:18:33,300 --> 00:18:34,840
+So that's what I'm calling him here.
+
+350
+00:18:35,720 --> 00:18:39,220
+What function that adds these
+index into one area of one?
+
+351
+00:18:39,360 --> 00:18:40,560
+Okay, and how would you do that?
+
+352
+00:18:40,920 --> 00:18:43,720
+Like, what sort of control structure
+would you use to do that?
+
+353
+00:18:46,840 --> 00:18:47,160
+Four of them.
+
+354
+00:18:47,360 --> 00:18:48,100
+Okay, cool, yeah.
+
+355
+00:18:48,280 --> 00:18:50,720
+So you might do something
+like, all right, so four.
+
+356
+00:18:51,760 --> 00:18:56,520
+I equals zero, I less than ten
+or nine or whatever it is here.
+
+357
+00:18:58,000 --> 00:18:59,460
+You know, I plus plus.
+
+358
+00:19:00,320 --> 00:19:03,200
+Maybe you say, like, sum equals zero,
+
+359
+00:19:03,580 --> 00:19:04,680
+and then you come in here and you say,
+
+360
+00:19:04,700 --> 00:19:08,580
+sum plus equals A sub I.
+
+361
+00:19:08,700 --> 00:19:09,340
+Something like that.
+
+362
+00:19:09,380 --> 00:19:10,520
+Is that what you were thinking?
+
+363
+00:19:10,720 --> 00:19:11,180
+Something like that?
+
+364
+00:19:12,080 --> 00:19:12,260
+Oh, yeah.
+
+365
+00:19:13,940 --> 00:19:15,320
+Hey, Chris, was that
+what you were also thinking?
+
+366
+00:19:15,500 --> 00:19:15,980
+Something like that?
+
+367
+00:19:16,220 --> 00:19:16,320
+Yeah.
+
+368
+00:19:16,900 --> 00:19:17,780
+I understand it.
+
+369
+00:19:17,900 --> 00:19:19,520
+It could be a dual or a while ago.
+
+370
+00:19:19,760 --> 00:19:20,660
+I don't care about that.
+
+371
+00:19:20,720 --> 00:19:21,360
+It's just a loop.
+
+372
+00:19:23,520 --> 00:19:24,080
+It's a loop.
+
+373
+00:19:26,240 --> 00:19:29,780
+And it is literally traversing
+the array one at a time
+
+374
+00:19:29,780 --> 00:19:31,560
+to add the numbers up.
+
+375
+00:19:32,120 --> 00:19:34,140
+Like, that's how you and I would
+have to do it by hand, right?
+
+376
+00:19:34,200 --> 00:19:36,040
+You got to have any fancier
+way to do that by hand
+
+377
+00:19:36,040 --> 00:19:39,540
+than to literally go number
+by number and to do it.
+
+378
+00:19:41,440 --> 00:19:44,780
+But suppose that you and your friend
+could only add two numbers at a time.
+
+379
+00:19:45,480 --> 00:19:48,040
+I don't see any other
+way to do this, do you?
+
+380
+00:19:49,680 --> 00:19:51,880
+Now, you might say, oh, I'm
+going to write a list of numbers.
+
+381
+00:19:51,880 --> 00:19:53,820
+There's a computer that's going
+to do the list of numbers.
+
+382
+00:19:54,640 --> 00:19:56,320
+So let's just say that
+adding two things at a time.
+
+383
+00:19:57,640 --> 00:20:00,240
+Now, we know that there are
+things the computer is doing on that.
+
+384
+00:20:00,620 --> 00:20:03,160
+But I'm saying that we haven't
+discussed any of that stuff before.
+
+385
+00:20:03,620 --> 00:20:05,460
+But whenever you use one
+of these functions in Python,
+
+386
+00:20:05,740 --> 00:20:08,320
+you probably don't talk about what
+is actually happening under the hood
+
+387
+00:20:08,320 --> 00:20:08,880
+to make it happen.
+
+388
+00:20:09,320 --> 00:20:11,120
+That's what we're trying to
+talk about in this class
+
+389
+00:20:11,120 --> 00:20:15,360
+and build our ways up
+to understanding what the issue is
+
+390
+00:20:15,360 --> 00:20:17,100
+with actually running some
+of this sort of stuff.
+
+391
+00:20:18,980 --> 00:20:22,740
+So let me ask you a
+question from Dr. Reichert's 220 class
+
+392
+00:20:22,740 --> 00:20:26,820
+or when she's not going
+to teach us it now, right?
+
+393
+00:20:27,900 --> 00:20:29,140
+Mr. Hickland also teaches it, right?
+
+394
+00:20:29,320 --> 00:20:31,760
+So whoever taught it, let's just say 220.
+
+395
+00:20:33,780 --> 00:20:39,660
+What is the time order
+complexity of that strategy, Chris?
+
+396
+00:20:41,060 --> 00:20:41,760
+Big O of N.
+
+397
+00:20:45,200 --> 00:20:48,260
+OK, so as N gets larger, then
+so does the amount of time it takes
+
+398
+00:20:48,260 --> 00:20:49,400
+to do this thing, right?
+
+399
+00:20:50,780 --> 00:20:58,570
+Cool. I mean, this is time,
+and this is N, and, you know,
+
+400
+00:20:58,950 --> 00:21:03,110
+time is proportional to
+this, so it grows linearly.
+
+401
+00:21:03,310 --> 00:21:04,370
+OK, cool. That makes sense.
+
+402
+00:21:04,470 --> 00:21:08,170
+So if you got a jack-ton of numbers,
+it's going to take a long time, right?
+
+403
+00:21:08,710 --> 00:21:11,850
+OK, cool. So, all right.
+
+404
+00:21:13,350 --> 00:21:16,230
+So let's, you know, I'm
+just making something up here, OK?
+
+405
+00:21:16,390 --> 00:21:20,310
+What about if it took the computer
+one second every time it added a number?
+
+406
+00:21:21,190 --> 00:21:23,490
+How many seconds would it take to
+add this thing up, more or less?
+
+407
+00:21:26,030 --> 00:21:27,270
+Ten. I mean, yeah, we will.
+
+408
+00:21:27,690 --> 00:21:30,210
+The first one didn't have to have, so
+I actually wanted to do a nine addition,
+
+409
+00:21:30,310 --> 00:21:32,590
+so I don't care about
+that, because N is big.
+
+410
+00:21:33,670 --> 00:21:35,330
+If plus or minus one, it doesn't matter.
+
+411
+00:21:35,510 --> 00:21:37,350
+It's just a billion things you're adding.
+
+412
+00:21:37,490 --> 00:21:41,570
+Does it matter if
+it's $999, $999, $999, $999?
+
+413
+00:21:41,990 --> 00:21:42,710
+That doesn't matter.
+
+414
+00:21:43,290 --> 00:21:45,090
+So it wasn't a trick
+question like, is it nine?
+
+415
+00:21:45,090 --> 00:21:45,510
+Is it 10?
+
+416
+00:21:45,790 --> 00:21:46,670
+What if?
+
+417
+00:21:47,030 --> 00:21:47,750
+That's not what it was.
+
+418
+00:21:47,850 --> 00:21:48,750
+It was like, it was just 10.
+
+419
+00:21:48,890 --> 00:21:50,090
+It was 10, OK?
+
+420
+00:21:51,750 --> 00:21:52,350
+All right.
+
+421
+00:21:54,750 --> 00:21:58,830
+But your computer doesn't
+have just one processor,
+
+422
+00:21:59,150 --> 00:22:00,230
+and it has a bunch of them.
+
+423
+00:22:00,290 --> 00:22:01,210
+Your phone does, too.
+
+424
+00:22:03,150 --> 00:22:05,650
+There's more than one core in there.
+
+425
+00:22:05,950 --> 00:22:07,230
+I mean, you know, right?
+
+426
+00:22:07,330 --> 00:22:10,330
+I mean, I'm assuming nobody
+in here is not a device
+
+427
+00:22:10,330 --> 00:22:13,570
+that doesn't have at least four
+or eight cores in it, right?
+
+428
+00:22:13,710 --> 00:22:15,310
+I mean, it might have
+a lot more than that,
+
+429
+00:22:15,310 --> 00:22:16,110
+but it got at least.
+
+430
+00:22:17,250 --> 00:22:22,610
+Well, of course, that means that each one
+of those cores could be doing this work.
+
+431
+00:22:23,170 --> 00:22:24,670
+I mean, why is it that I would give one?
+
+432
+00:22:24,970 --> 00:22:26,730
+That's like saying, all right, cool, guys.
+
+433
+00:22:27,050 --> 00:22:28,130
+I'm working at a restaurant.
+
+434
+00:22:31,190 --> 00:22:34,250
+There's a bunch of servers that
+could be carrying food out the tables,
+
+435
+00:22:35,330 --> 00:22:37,710
+but only one person's going to be
+carrying anything to the
+
+436
+00:22:37,710 --> 00:22:38,490
+table any one time.
+
+437
+00:22:38,630 --> 00:22:40,370
+There might be a bunch of ****
+plates that need to go out there,
+
+438
+00:22:40,510 --> 00:22:41,750
+but one person's going to be doing it.
+
+439
+00:22:41,790 --> 00:22:43,410
+That's stupid, right?
+
+440
+00:22:43,530 --> 00:22:46,170
+Wouldn't you want to use all
+the servers to try to do it?
+
+441
+00:22:46,810 --> 00:22:48,890
+Because then that's going to
+decrease the amount of time
+
+442
+00:22:48,890 --> 00:22:50,970
+it takes to get all
+the plates out to the table.
+
+443
+00:22:51,530 --> 00:22:52,770
+That's the same thing in your computer.
+
+444
+00:22:52,910 --> 00:22:55,010
+You wouldn't want to do
+a for loop like this.
+
+445
+00:22:55,050 --> 00:22:56,130
+This is ridiculous.
+
+446
+00:22:56,790 --> 00:23:00,950
+Because nothing in this for loop is
+telling the computer how to do this,
+
+447
+00:23:00,970 --> 00:23:03,890
+except for one core is
+going to do that one thing.
+
+448
+00:23:04,670 --> 00:23:05,990
+That's all it's going to do.
+
+449
+00:23:07,430 --> 00:23:09,010
+It doesn't matter whether
+you write this in
+
+450
+00:23:09,010 --> 00:23:11,850
+Python or Java or C or whatever else.
+
+451
+00:23:11,850 --> 00:23:13,670
+Those might be slightly
+different times or whatever,
+
+452
+00:23:13,670 --> 00:23:17,090
+but on average for
+really large values of N,
+
+453
+00:23:17,310 --> 00:23:18,590
+it's not going to make any difference.
+
+454
+00:23:18,790 --> 00:23:21,830
+They're going to take a long time
+at that computer there that, you know,
+
+455
+00:23:22,710 --> 00:23:25,190
+one, two, three,
+four thousand dollar laptop
+
+456
+00:23:25,190 --> 00:23:27,650
+or five, ten,
+fifteen thousand dollar server
+
+457
+00:23:27,650 --> 00:23:30,050
+with 128 cores in it.
+
+458
+00:23:30,070 --> 00:23:31,370
+You know what somebody
+handed it on anything?
+
+459
+00:23:32,130 --> 00:23:32,290
+Nothing.
+
+460
+00:23:32,750 --> 00:23:36,150
+One core will be doing something, and
+the other one won't be doing anything.
+
+461
+00:23:36,630 --> 00:23:39,510
+And that's not good because
+a thirty thousand dollar computer
+
+462
+00:23:39,510 --> 00:23:42,810
+should be sitting there being used
+more than one percent utilization, right?
+
+463
+00:23:44,250 --> 00:23:48,590
+But you might say, well, now hey now,
+I know that I could go put this thing
+
+464
+00:23:48,590 --> 00:23:51,550
+in a search structure with NumPy
+and I could say some on it,
+
+465
+00:23:51,650 --> 00:23:53,690
+and it does it better
+than I thought it would.
+
+466
+00:23:54,330 --> 00:23:55,190
+Yeah, you could.
+
+467
+00:23:55,710 --> 00:23:56,750
+How does it do that?
+
+468
+00:23:58,090 --> 00:23:58,990
+I don't know what it's called.
+
+469
+00:23:59,530 --> 00:24:00,810
+That's cool, and that's cool.
+
+470
+00:24:01,690 --> 00:24:03,850
+I mean, there's always a little
+way out of stretch like that.
+
+471
+00:24:03,930 --> 00:24:04,790
+There are things I play with.
+
+472
+00:24:04,910 --> 00:24:05,550
+I don't know how they work.
+
+473
+00:24:06,430 --> 00:24:07,730
+I don't even know how they work.
+
+474
+00:24:07,730 --> 00:24:10,130
+The man in this
+class is parallel computing.
+
+475
+00:24:10,950 --> 00:24:12,670
+So we need to know how that works.
+
+476
+00:24:12,810 --> 00:24:13,870
+That's the purpose of this thing now.
+
+477
+00:24:14,190 --> 00:24:16,610
+Does that mean you're going to
+reinvent wheel every time you do so?
+
+478
+00:24:16,890 --> 00:24:17,130
+No.
+
+479
+00:24:20,490 --> 00:24:24,270
+I would look like you need to be
+able to understand the
+
+480
+00:24:24,270 --> 00:24:25,510
+technology that you're wielding.
+
+481
+00:24:26,270 --> 00:24:28,390
+And that's what we're going
+to try to understand in here.
+
+482
+00:24:28,490 --> 00:24:31,650
+So what about if we had two cores?
+
+483
+00:24:33,130 --> 00:24:34,090
+So there's two cores.
+
+484
+00:24:34,570 --> 00:24:36,970
+They're both attached to the system of us,
+
+485
+00:24:37,750 --> 00:24:40,210
+which is then attached to the main memory,
+
+486
+00:24:40,330 --> 00:24:43,910
+which then has this
+10-element array in it.
+
+487
+00:24:44,250 --> 00:24:45,010
+What could I do?
+
+488
+00:24:45,170 --> 00:24:48,410
+Like, if I was going to try to
+divide this work up, what could I do?
+
+489
+00:24:52,510 --> 00:24:52,890
+Okay.
+
+490
+00:24:53,410 --> 00:24:54,590
+So we divide it up.
+
+491
+00:24:55,310 --> 00:24:58,130
+We have this core add those numbers up.
+
+492
+00:24:58,230 --> 00:25:00,770
+We have this core add those numbers up.
+
+493
+00:25:01,190 --> 00:25:01,330
+Cool.
+
+494
+00:25:02,590 --> 00:25:04,850
+Now, when that happens, let's
+just say I get two numbers.
+
+495
+00:25:04,950 --> 00:25:09,990
+I'm not going to worry about
+what these actually add up to.
+
+496
+00:25:12,030 --> 00:25:12,630
+That's cool.
+
+497
+00:25:12,830 --> 00:25:13,490
+So we did that.
+
+498
+00:25:13,590 --> 00:25:14,530
+It won't have to happen after that.
+
+499
+00:25:15,010 --> 00:25:17,630
+All right.
+
+500
+00:25:17,710 --> 00:25:18,430
+Who's going to do that?
+
+501
+00:25:21,520 --> 00:25:22,280
+Because it's like two cores.
+
+502
+00:25:22,420 --> 00:25:23,660
+Which one do you want to pick to do that?
+
+503
+00:25:26,090 --> 00:25:26,510
+First one?
+
+504
+00:25:26,750 --> 00:25:26,850
+Perfect.
+
+505
+00:25:27,190 --> 00:25:27,470
+All right.
+
+506
+00:25:27,870 --> 00:25:28,290
+So cool.
+
+507
+00:25:28,490 --> 00:25:32,910
+So let me draw a con
+diagram of core one and core two.
+
+508
+00:25:33,350 --> 00:25:34,470
+Core two starts at zero.
+
+509
+00:25:34,670 --> 00:25:37,110
+So let's just say core zero and core one.
+
+510
+00:25:37,770 --> 00:25:43,130
+So over time, right, core
+zero is adding up his map,
+
+511
+00:25:43,890 --> 00:25:46,150
+and core one is adding up his map.
+
+512
+00:25:48,740 --> 00:25:49,960
+And then core one stops.
+
+513
+00:25:51,320 --> 00:25:53,540
+And I'm going to exaggerate this.
+
+514
+00:25:54,440 --> 00:25:57,920
+Core zero is going to
+then add the two partial sums.
+
+515
+00:25:58,740 --> 00:25:59,440
+And we have an answer.
+
+516
+00:26:02,180 --> 00:26:05,340
+Now, there is some amount of
+time here that's taking the core.
+
+517
+00:26:05,820 --> 00:26:08,660
+Zero is doing stuff that
+core one is not doing.
+
+518
+00:26:09,520 --> 00:26:10,860
+Now, if you get enough of that happening,
+
+519
+00:26:11,340 --> 00:26:12,620
+you're back to the same problem.
+
+520
+00:26:12,620 --> 00:26:14,980
+A bunch of things sitting
+idle that are not cool.
+
+521
+00:26:16,180 --> 00:26:20,120
+But in general, yeah, that seems
+like a reasonable thing to do.
+
+522
+00:26:20,460 --> 00:26:20,880
+All right.
+
+523
+00:26:22,040 --> 00:26:23,200
+How do you do that with a toilet?
+
+524
+00:26:27,070 --> 00:26:29,510
+This hard coded example, what might we do?
+
+525
+00:26:35,160 --> 00:26:35,520
+I don't know.
+
+526
+00:26:35,680 --> 00:26:36,260
+Can you tell me?
+
+527
+00:26:36,520 --> 00:26:38,480
+I mean, how would you
+actually know how to do it?
+
+528
+00:26:38,580 --> 00:26:40,300
+And have you ever done
+anything like that with threads
+
+529
+00:26:40,300 --> 00:26:42,060
+or processes or whatever in your programs
+
+530
+00:26:42,060 --> 00:26:44,240
+where you actually divide
+the work of the non-cores?
+
+531
+00:26:47,550 --> 00:26:49,050
+So that's what we'd have to do here.
+
+532
+00:26:49,050 --> 00:26:52,470
+So we'd have to have it
+so that we'd need to have it.
+
+533
+00:26:52,690 --> 00:26:57,170
+So the code itself, this
+code was running over here.
+
+534
+00:26:57,390 --> 00:26:59,610
+While it's the same code
+as the one this is,
+
+535
+00:26:59,950 --> 00:27:01,230
+it's been parameterizing.
+
+536
+00:27:01,470 --> 00:27:04,470
+It's starting and stopping in
+different places in the for loop.
+
+537
+00:27:05,290 --> 00:27:09,750
+So core zero needs to go
+from zero to less than five, right?
+
+538
+00:27:11,770 --> 00:27:14,550
+And the other one's going to need
+to go from five to less than nine.
+
+539
+00:27:15,830 --> 00:27:17,310
+They need to make sure they don't overlap.
+
+540
+00:27:18,390 --> 00:27:24,390
+Well, what about if it was an
+even number of things to add up?
+
+541
+00:27:24,910 --> 00:27:27,390
+Somebody would have to
+be a person out, right?
+
+542
+00:27:27,750 --> 00:27:28,870
+Did we add more of it?
+
+543
+00:27:29,990 --> 00:27:33,470
+So then you might say, yeah, okay.
+
+544
+00:27:33,710 --> 00:27:34,570
+I mean, that's just arithmetic.
+
+545
+00:27:34,890 --> 00:27:37,250
+I'm going to divide it up, and
+I'll round up or down or whatever.
+
+546
+00:27:37,370 --> 00:27:39,390
+It takes four functions, and
+I'll do something up here.
+
+547
+00:27:39,650 --> 00:27:40,050
+Yeah, that's true.
+
+548
+00:27:40,990 --> 00:27:41,350
+That's cool.
+
+549
+00:27:41,390 --> 00:27:45,250
+What about if there's p
+processors that are all doing it?
+
+550
+00:27:46,190 --> 00:27:47,890
+What about if p exceeds n?
+
+551
+00:27:50,420 --> 00:27:52,840
+What's the right number
+of processors to use?
+
+552
+00:27:53,020 --> 00:27:53,920
+There should be a sweet spot.
+
+553
+00:27:54,440 --> 00:27:57,180
+One is not good using all of them,
+and that isn't going to be good either
+
+554
+00:27:57,180 --> 00:27:59,740
+because there's a bunch of other phenomena
+that we're going to see this inside.
+
+555
+00:27:59,860 --> 00:28:03,580
+So there's a lot, too, trying to do this.
+
+556
+00:28:07,450 --> 00:28:11,890
+So we're going to talk about mainly
+three ways of doing this in here.
+
+557
+00:28:11,890 --> 00:28:24,930
+Like threads, processes, which
+these things can take place
+
+558
+00:28:24,930 --> 00:28:27,050
+inside of what's
+called your shared memory.
+
+559
+00:28:28,170 --> 00:28:30,790
+Now, one computer with a bunch of cores,
+
+560
+00:28:31,370 --> 00:28:35,150
+but this core can
+see this entire memory, right?
+
+561
+00:28:35,350 --> 00:28:39,270
+I mean, like, literally, like, you
+know, over in the server room,
+
+562
+00:28:40,030 --> 00:28:46,290
+there's the rack, there's
+a 2U blade in here,
+
+563
+00:28:46,510 --> 00:28:50,170
+and inside of there,
+there's, you know, another board,
+
+564
+00:28:50,470 --> 00:28:54,850
+and on that motherboard, you
+know, maybe there's, you know,
+
+565
+00:28:55,270 --> 00:28:56,970
+two processors plugged in here.
+
+566
+00:28:57,450 --> 00:28:58,790
+There's much RAM over there.
+
+567
+00:29:00,110 --> 00:29:02,650
+Now, this RAM is
+physically connected to this stuff.
+
+568
+00:29:03,150 --> 00:29:05,990
+Like, all the little cores
+over here can see this RAM.
+
+569
+00:29:06,130 --> 00:29:07,850
+All these little cores can see that RAM,
+
+570
+00:29:07,950 --> 00:29:11,130
+and they can't see
+it equally well, though, necessarily.
+
+571
+00:29:12,110 --> 00:29:15,110
+Sometimes there's issues where it's not
+all the stuff is equally fast.
+
+572
+00:29:17,150 --> 00:29:19,130
+But then this other computer over here,
+
+573
+00:29:19,270 --> 00:29:21,250
+what about if you owned this entire rack?
+
+574
+00:29:21,490 --> 00:29:23,030
+That's your company's rack right there.
+
+575
+00:29:26,520 --> 00:29:29,380
+And you wanted to add
+all of these numbers together.
+
+576
+00:29:31,020 --> 00:29:34,560
+Well, we started out here assuming that
+this thing was in memory over here.
+
+577
+00:29:34,880 --> 00:29:36,240
+How did they get in memory of the input?
+
+578
+00:29:37,960 --> 00:29:39,880
+And that would only be
+in one of the people's memories.
+
+579
+00:29:40,380 --> 00:29:41,700
+It'd be like over here.
+
+580
+00:29:42,400 --> 00:29:43,880
+How would you get it
+over there in those memories?
+
+581
+00:29:44,400 --> 00:29:47,260
+And how would they communicate
+back and forth in here?
+
+582
+00:29:47,840 --> 00:29:51,600
+Because these things are most likely
+connected to some kind of switch
+
+583
+00:29:51,600 --> 00:29:55,680
+with network connections that
+are going over here, right?
+
+584
+00:29:56,080 --> 00:29:59,360
+And there might even be something
+fancier than that nowadays, you know,
+
+585
+00:29:59,700 --> 00:30:02,860
+like where, you know, Nvidia has come
+out with some kind of thing where,
+
+586
+00:30:03,420 --> 00:30:05,180
+even though these things
+are in separate racks,
+
+587
+00:30:05,600 --> 00:30:08,140
+this network makes it
+possible from this computer
+
+588
+00:30:08,140 --> 00:30:10,960
+to see all of the RAM
+of that computer at the same time
+
+589
+00:30:10,960 --> 00:30:15,560
+through this high-speed,
+extremely expensive network, okay?
+
+590
+00:30:15,700 --> 00:30:17,420
+Like there's all that kind of stuff.
+
+591
+00:30:17,880 --> 00:30:21,360
+So what we're going to do is
+we're going to start off this class
+
+592
+00:30:21,360 --> 00:30:23,680
+just playing with shared memory.
+
+593
+00:30:24,260 --> 00:30:29,140
+We got one computer with lots of
+cores that can all see the same RAM.
+
+594
+00:30:29,340 --> 00:30:32,280
+And by the time we get to the
+end of it, class, we're going to be like,
+
+595
+00:30:32,280 --> 00:30:35,460
+no, we got lots of computers
+that can't see each other's RAM.
+
+596
+00:30:35,820 --> 00:30:36,700
+How do we do this?
+
+597
+00:30:37,320 --> 00:30:43,860
+Okay, so let's talk about kind of getting
+started on it a little bit, all right?
+
+598
+00:30:46,420 --> 00:30:47,580
+Let's go in here.
+
+599
+00:30:50,990 --> 00:30:55,550
+Let's try to take a
+look at, let's see, 473.
+
+600
+00:30:56,530 --> 00:30:59,130
+And I copied that folder over
+and I copied it over again.
+
+601
+00:30:59,390 --> 00:31:01,890
+We got materials, we got slides.
+
+602
+00:31:02,770 --> 00:31:06,390
+Now, chapter one of our
+book, I mean, you know,
+
+603
+00:31:06,610 --> 00:31:09,370
+I prefer to do stuff on pencil
+and paper on the board, you know,
+
+604
+00:31:09,510 --> 00:31:11,650
+like looking through a
+huge number of slides.
+
+605
+00:31:12,370 --> 00:31:15,170
+There are going to be some things
+in here that slides have a good,
+
+606
+00:31:15,210 --> 00:31:18,910
+cool drawing already or animations
+or whatever the case may be.
+
+607
+00:31:20,010 --> 00:31:23,590
+So let's see what the, this
+is the chain code text, right?
+
+608
+00:31:23,710 --> 00:31:26,370
+We want to choose for sophomores
+at USC and Clemson, for example,
+
+609
+00:31:26,450 --> 00:31:28,690
+to learn how to do parallel computing.
+
+610
+00:31:29,830 --> 00:31:34,970
+So it's not too bad, you know, so
+why would we want to do, you know,
+
+611
+00:31:34,970 --> 00:31:36,170
+what's the whole purpose?
+
+612
+00:31:41,780 --> 00:31:43,120
+We need things done faster.
+
+613
+00:31:45,640 --> 00:31:49,300
+Now, have you ever, like, a real
+program, maybe not when
+
+614
+00:31:49,300 --> 00:31:49,960
+you're doing a job,
+
+615
+00:31:50,280 --> 00:31:51,860
+but like one that you did here at Coastal,
+
+616
+00:31:52,640 --> 00:31:55,860
+what is the longest you've ever had to
+wait for one of your programs to run?
+
+617
+00:31:56,860 --> 00:31:59,140
+And I don't mean one where
+it has to interact with people
+
+618
+00:31:59,140 --> 00:32:01,200
+because it's just sitting
+there waiting for user input.
+
+619
+00:32:01,340 --> 00:32:03,360
+I'm talking about an actual
+program that's going to go do
+
+620
+00:32:03,360 --> 00:32:05,360
+a bunch of data
+processing and get finished.
+
+621
+00:32:05,480 --> 00:32:06,400
+How long have you had to wait?
+
+622
+00:32:10,690 --> 00:32:10,410
+12 hours.
+
+623
+00:32:11,490 --> 00:32:12,030
+Eight hours.
+
+624
+00:32:15,690 --> 00:32:16,810
+That's a long time.
+
+625
+00:32:17,750 --> 00:32:20,670
+Now, 12 seconds, that's
+not too bad depending
+
+626
+00:32:20,670 --> 00:32:22,170
+on what it is you're trying to do.
+
+627
+00:32:22,230 --> 00:32:25,170
+That's certainly not good if
+you need it to be human-interactive.
+
+628
+00:32:26,010 --> 00:32:27,170
+You know, one second's too long to wait.
+
+629
+00:32:27,870 --> 00:32:30,010
+It'll be like a third of
+a second and it starts getting,
+
+630
+00:32:30,250 --> 00:32:33,010
+you start getting agitated after
+that, you have to wait, right?
+
+631
+00:32:33,850 --> 00:32:37,330
+We're not talking about where
+we're trying to provide real time
+
+632
+00:32:37,330 --> 00:32:39,590
+back and forth with individual users
+
+633
+00:32:39,850 --> 00:32:42,850
+because it needs to be responsive
+to you in the mouse or around
+
+634
+00:32:42,850 --> 00:32:45,450
+or touching some device
+or whatever, you know.
+
+635
+00:32:45,850 --> 00:32:47,330
+That is certainly a concern.
+
+636
+00:32:47,630 --> 00:32:49,210
+And that's why I'm
+like, for example, in 356,
+
+637
+00:32:49,850 --> 00:32:52,890
+they talk about how do
+you, you know, maintain response
+
+638
+00:32:52,890 --> 00:32:56,570
+to the mobile processing sharing machine
+and how do they do it?
+
+639
+00:32:56,810 --> 00:32:58,570
+They round robin with all the processes,
+
+640
+00:32:58,850 --> 00:33:00,570
+so everybody gets a
+little chunk of the processor
+
+641
+00:33:00,570 --> 00:33:03,930
+and that way there's this
+illusion that there's
+
+642
+00:33:03,930 --> 00:33:04,850
+concurrency going on.
+
+643
+00:33:05,230 --> 00:33:06,590
+We're going to do that same thing too,
+
+644
+00:33:06,590 --> 00:33:09,950
+but they do it to make
+the machine kind of usable, right?
+
+645
+00:33:10,190 --> 00:33:11,550
+Because when you run
+something on the computer,
+
+646
+00:33:11,690 --> 00:33:14,510
+you can't have it just freeze
+up doing one thing while it's waiting
+
+647
+00:33:14,510 --> 00:33:16,490
+for something else because
+your computer's running hundreds
+
+648
+00:33:16,490 --> 00:33:18,530
+or maybe thousands of processes, right,
+
+649
+00:33:18,570 --> 00:33:20,490
+each of which need a little bit of stuff.
+
+650
+00:33:20,810 --> 00:33:22,810
+That's not what we're
+talking about right now.
+
+651
+00:33:22,950 --> 00:33:25,790
+We're talking about, hey, this
+whole computer I've got is dedicated
+
+652
+00:33:25,790 --> 00:33:27,790
+to doing the one thing
+that I need to get done.
+
+653
+00:33:29,270 --> 00:33:31,930
+All right, and
+human-interloop's not a problem.
+
+654
+00:33:32,110 --> 00:33:34,670
+It's a problem that the
+complexity of whatever I'm running
+
+655
+00:33:34,850 --> 00:33:36,890
+takes 10 hours, takes 12 hours.
+
+656
+00:33:37,290 --> 00:33:38,510
+10, 12 hours, like, is not bad.
+
+657
+00:33:39,070 --> 00:33:40,530
+Some of the people that I work with,
+
+658
+00:33:40,550 --> 00:33:43,370
+we're talking about if the
+computer started running it today,
+
+659
+00:33:43,530 --> 00:33:45,550
+it might take three months
+for it to run uninterrupted.
+
+660
+00:33:47,030 --> 00:33:49,390
+Okay, so three months
+is a long time, right?
+
+661
+00:33:49,530 --> 00:33:54,350
+I mean, that's, you know,
+and that's in parallel, you know.
+
+662
+00:33:54,750 --> 00:34:01,270
+So we need the performance of our stuff
+that we're trying to do to increase these.
+
+663
+00:34:01,270 --> 00:34:04,610
+Well, yeah, but the
+computers themselves have been increasing.
+
+664
+00:34:04,970 --> 00:34:07,630
+So, like, if it was
+able to do it last year
+
+665
+00:34:07,630 --> 00:34:10,250
+and stuff's even faster this
+year, why is it that way?
+
+666
+00:34:10,670 --> 00:34:13,470
+Wouldn't we get kind
+of an increase in performance
+
+667
+00:34:13,470 --> 00:34:15,750
+just because we got newer
+graph this year than before?
+
+668
+00:34:16,050 --> 00:34:17,170
+You would, to some extent.
+
+669
+00:34:18,450 --> 00:34:20,690
+But you're not getting
+it because what everybody expects
+
+670
+00:34:20,690 --> 00:34:23,950
+the computer to do is more this
+year than it was last year, right?
+
+671
+00:34:24,270 --> 00:34:26,050
+So every time you
+fix some kind of problem,
+
+672
+00:34:26,150 --> 00:34:30,290
+users want something better,
+cooler, faster, more complicated,
+
+673
+00:34:31,450 --> 00:34:33,550
+more realistic, more fine-grained.
+
+674
+00:34:33,970 --> 00:34:37,310
+So the size of the
+data went from kilobytes to megabytes
+
+675
+00:34:37,310 --> 00:34:41,590
+to gigabytes to terabytes to
+people that I work with,
+
+676
+00:34:41,690 --> 00:34:43,170
+it's just petabytes of data.
+
+677
+00:34:43,930 --> 00:34:49,150
+Okay, well, that would have been
+inconceivable even ten years ago, right?
+
+678
+00:34:49,770 --> 00:34:52,070
+So they were happy
+with whatever they had then.
+
+679
+00:34:52,190 --> 00:34:54,990
+All they needed to do is
+just get from gigabytes to terabytes
+
+680
+00:34:54,990 --> 00:34:56,030
+and it was going to be okay.
+
+681
+00:34:56,870 --> 00:34:58,770
+And then terabytes came along,
+but actually it's not okay.
+
+682
+00:34:58,830 --> 00:34:59,910
+We need something else.
+
+683
+00:34:59,910 --> 00:35:01,570
+So, you know, it's just a human condition.
+
+684
+00:35:01,570 --> 00:35:03,050
+We want this sort of stuff.
+
+685
+00:35:03,150 --> 00:35:06,050
+Like, for example, right now with
+this hurricane that's going on out there,
+
+686
+00:35:06,710 --> 00:35:08,630
+you saw the little
+spaghetti models that are showing
+
+687
+00:35:08,630 --> 00:35:10,090
+like what the weather
+people think are running.
+
+688
+00:35:10,270 --> 00:35:12,050
+What kind of computer do
+you think those things run on
+
+689
+00:35:12,050 --> 00:35:14,230
+when they try to predict
+the future path of the hurricane?
+
+690
+00:35:14,970 --> 00:35:17,250
+They're running on big
+supercomputer kind of things.
+
+691
+00:35:18,090 --> 00:35:20,910
+Now, let's suppose you could
+get a very accurate idea
+
+692
+00:35:20,910 --> 00:35:24,510
+of where Hurricane
+Aaron would be tomorrow.
+
+693
+00:35:25,510 --> 00:35:29,590
+It'd be perfect, but it took
+six months to get that answer.
+
+694
+00:35:30,290 --> 00:35:30,710
+Is that useful?
+
+695
+00:35:31,750 --> 00:35:34,370
+Oh, because everybody's already
+dead and it moved on.
+
+696
+00:35:34,630 --> 00:35:35,170
+It doesn't matter.
+
+697
+00:35:35,690 --> 00:35:37,590
+So what can you get in the time you go?
+
+698
+00:35:37,690 --> 00:35:40,590
+That means you cannot run
+the calculations you want to run
+
+699
+00:35:40,590 --> 00:35:42,090
+because it takes too long.
+
+700
+00:35:42,190 --> 00:35:43,350
+You've got to run fewer calculations.
+
+701
+00:35:44,090 --> 00:35:45,670
+That means the models aren't as precise.
+
+702
+00:35:46,050 --> 00:35:47,710
+That means that there's
+a lot more uncertainty.
+
+703
+00:35:48,350 --> 00:35:50,290
+Oh, instead of using like a, you know,
+
+704
+00:35:50,670 --> 00:35:53,350
+say a one kilometer
+resolution of the Earth's surface,
+
+705
+00:35:53,730 --> 00:35:54,650
+think about that.
+
+706
+00:35:55,210 --> 00:35:57,390
+I mean, square kilometers there
+are of the Earth's surface.
+
+707
+00:35:57,570 --> 00:35:59,190
+I'm trying to model all
+that with all this physics.
+
+708
+00:35:59,550 --> 00:36:00,130
+I can't do that.
+
+709
+00:36:00,210 --> 00:36:01,750
+I've got to use 10 kilometer things.
+
+710
+00:36:02,270 --> 00:36:03,590
+I've got to use 50 kilometer things.
+
+711
+00:36:04,010 --> 00:36:05,250
+It makes the computing go a lot faster,
+
+712
+00:36:05,290 --> 00:36:08,210
+but it also makes the
+models predictivity be a lot less
+
+713
+00:36:08,210 --> 00:36:08,970
+predictive, right?
+
+714
+00:36:09,070 --> 00:36:10,090
+I mean, that's part of the issue.
+
+715
+00:36:10,950 --> 00:36:14,610
+So, you know, that's
+some of the issue here.
+
+716
+00:36:14,990 --> 00:36:18,630
+So we try to
+like write these parallel systems
+
+717
+00:36:18,630 --> 00:36:20,690
+so that we can make things happen faster.
+
+718
+00:36:20,790 --> 00:36:23,910
+The other little aspect of it is sometimes
+
+719
+00:36:23,910 --> 00:36:26,910
+it's not even about how fast it is.
+
+720
+00:36:27,450 --> 00:36:29,630
+Let's suppose that if
+you actually have enough RAM
+
+721
+00:36:29,630 --> 00:36:32,010
+on one computer, you could
+do it on one computer.
+
+722
+00:36:32,430 --> 00:36:36,090
+But the amount of RAM
+it needs is 800 terabytes.
+
+723
+00:36:37,670 --> 00:36:41,150
+There aren't any machines
+today that one can have
+
+724
+00:36:41,150 --> 00:36:43,530
+that has 800 terabytes on one computer.
+
+725
+00:36:43,870 --> 00:36:45,710
+There might be one day,
+but that's not the case.
+
+726
+00:36:46,290 --> 00:36:48,190
+So you have to actually split it up
+
+727
+00:36:48,190 --> 00:36:49,970
+just because the data is too big.
+
+728
+00:36:52,010 --> 00:36:54,730
+Maybe also commensurately, the
+computation is a long time
+
+729
+00:36:54,730 --> 00:36:56,990
+because there is a lot
+of data, but maybe it's not.
+
+730
+00:36:57,170 --> 00:36:58,850
+Maybe really the bottleneck is
+you just have to have
+
+731
+00:36:58,850 --> 00:37:00,450
+a lot of computers so
+that you've got enough RAM.
+
+732
+00:37:00,690 --> 00:37:03,530
+Each one, let's say, has 256 gig RAM,
+
+733
+00:37:03,730 --> 00:37:05,850
+but I've got to have 10,000
+of them to get the total
+
+734
+00:37:05,850 --> 00:37:08,710
+amount of RAM that I
+need to actually run the problem.
+
+735
+00:37:09,450 --> 00:37:10,790
+So that's also a concern.
+
+736
+00:37:10,950 --> 00:37:12,910
+And then sometimes it's,
+oh, you need the speed
+
+737
+00:37:12,910 --> 00:37:14,810
+and the space, so to speak.
+
+738
+00:37:18,390 --> 00:37:21,350
+And blah, blah, blah, you
+know, for a long time,
+
+739
+00:37:21,350 --> 00:37:27,070
+you know, everything was
+increasing like 50% per year.
+
+740
+00:37:27,070 --> 00:37:28,810
+You know, it was called Moore's Law.
+
+741
+00:37:29,930 --> 00:37:32,290
+You know, when I was growing
+up, that was certainly the case.
+
+742
+00:37:33,330 --> 00:37:36,770
+If your computer was
+1 megahertz this year,
+
+743
+00:37:37,010 --> 00:37:38,970
+then next year it was
+going to be 2 megahertz,
+
+744
+00:37:39,050 --> 00:37:40,390
+and then it was going to be 4 megahertz.
+
+745
+00:37:40,490 --> 00:37:42,010
+And it was just going up like that.
+
+746
+00:37:42,110 --> 00:37:44,790
+I mean, in the same exact
+program as 2 RAM last year,
+
+747
+00:37:44,790 --> 00:37:46,950
+that took five minutes,
+it takes one minute now.
+
+748
+00:37:47,230 --> 00:37:48,170
+So you go, oh, that's sweet.
+
+749
+00:37:48,250 --> 00:37:48,790
+I didn't do anything.
+
+750
+00:37:49,010 --> 00:37:50,010
+I didn't reprogram anything.
+
+751
+00:37:50,490 --> 00:37:51,670
+There's no new algorithms or anything.
+
+752
+00:37:51,790 --> 00:37:53,470
+It's just that the
+**** processor got faster.
+
+753
+00:37:54,210 --> 00:37:54,850
+It just was faster.
+
+754
+00:37:56,630 --> 00:37:59,990
+But then somewhere like around,
+as it says, 2002 here,
+
+755
+00:38:00,150 --> 00:38:02,110
+I would argue probably more like 2004,
+
+756
+00:38:03,030 --> 00:38:06,950
+they could not make
+individual processors any faster.
+
+757
+00:38:08,970 --> 00:38:11,030
+But there's a lot of reasons for that.
+
+758
+00:38:14,250 --> 00:38:15,530
+Let's talk about some of those reasons.
+
+759
+00:38:17,250 --> 00:38:20,450
+One of the reasons is
+that the amount of power
+
+760
+00:38:20,450 --> 00:38:24,550
+that a computer uses is
+proportional to the voltage squared
+
+761
+00:38:24,550 --> 00:38:27,350
+multiplied by the clock frequency.
+
+762
+00:38:30,550 --> 00:38:34,810
+So like here in my lifetime,
+when I had my first computer,
+
+763
+00:38:35,130 --> 00:38:36,870
+the processor was running at 12 volts,
+
+764
+00:38:37,750 --> 00:38:41,990
+and then it was 5 volts,
+and then it was 1 volt.
+
+765
+00:38:42,270 --> 00:38:45,550
+And then now today some of these
+things are running at like 0.7 volts.
+
+766
+00:38:46,730 --> 00:38:49,050
+Because this is quadratic
+with respect to voltage,
+
+767
+00:38:49,310 --> 00:38:51,670
+that was fantastic, and
+that really helped a lot
+
+768
+00:38:51,670 --> 00:38:53,350
+because the power went down.
+
+769
+00:38:53,670 --> 00:38:56,830
+But my entire life, my
+very first computer I got
+
+770
+00:38:56,830 --> 00:38:58,990
+was 4.7 megahertz.
+
+771
+00:39:01,150 --> 00:39:04,150
+And then the last
+computer I bought in here
+
+772
+00:39:04,150 --> 00:39:08,510
+that only had one core
+in it was 2.4 gigahertz.
+
+773
+00:39:09,190 --> 00:39:10,870
+Now how many gigahertz are we at today?
+
+774
+00:39:13,110 --> 00:39:14,410
+What's a gigahertz of your computer?
+
+775
+00:39:16,760 --> 00:39:18,900
+It might not even be 2.4 gigahertz.
+
+776
+00:39:21,180 --> 00:39:23,140
+I would be very, very
+surprised if you have access
+
+777
+00:39:23,140 --> 00:39:24,740
+to your computer that's
+more than 4 gigahertz.
+
+778
+00:39:26,560 --> 00:39:29,040
+Well now, we're talking
+about in my lifetime,
+
+779
+00:39:29,600 --> 00:39:32,420
+between when I was in middle
+school and whenever I was in college,
+
+780
+00:39:32,700 --> 00:39:34,480
+it went up by a factor of 500.
+
+781
+00:39:35,920 --> 00:39:38,660
+But we're saying that between now
+and back when I was in college
+
+782
+00:39:38,660 --> 00:39:41,120
+and I'm 48 years old, it's hardly moving.
+
+783
+00:39:42,260 --> 00:39:47,140
+That means that this performance
+increase that you used to get
+
+784
+00:39:47,140 --> 00:39:49,320
+by having the multiplicative factor
+
+785
+00:39:49,320 --> 00:39:51,300
+of having the clock frequency go up.
+
+786
+00:39:51,580 --> 00:39:53,160
+Because every time the
+clock frequency went up,
+
+787
+00:39:53,280 --> 00:39:55,280
+the amount of time it took
+to run your program went down,
+
+788
+00:39:55,500 --> 00:39:57,420
+well the clock
+frequency didn't keep increasing.
+
+789
+00:39:57,840 --> 00:39:58,180
+What happened?
+
+790
+00:39:59,380 --> 00:40:02,280
+What happened is
+there's physical limitations
+
+791
+00:40:02,280 --> 00:40:03,220
+on what you can do.
+
+792
+00:40:04,860 --> 00:40:06,800
+Because this thing gets too hot.
+
+793
+00:40:07,380 --> 00:40:08,480
+During that same period of time,
+
+794
+00:40:08,560 --> 00:40:10,460
+processors may have went
+in from like this side
+
+795
+00:40:10,800 --> 00:40:14,140
+I'm not talking about the
+package now that it's sitting in.
+
+796
+00:40:14,680 --> 00:40:15,760
+Because that thing that's in there,
+
+797
+00:40:15,880 --> 00:40:17,060
+there's all kinds of mess in there.
+
+798
+00:40:17,080 --> 00:40:19,560
+That's not really the whole
+thing about actually the processor.
+
+799
+00:40:19,840 --> 00:40:21,060
+It's very tiny in there.
+
+800
+00:40:21,580 --> 00:40:23,540
+So don't you imagine
+something that's like the size
+
+801
+00:40:23,540 --> 00:40:26,580
+of a little postage,
+little tiny postage stamp
+
+802
+00:40:26,580 --> 00:40:28,820
+that is running at 1,000 watts.
+
+803
+00:40:32,080 --> 00:40:35,580
+That is a super amount of
+heat in a very small area.
+
+804
+00:40:37,080 --> 00:40:38,800
+You know, like if you've
+got to play to hot food
+
+805
+00:40:38,800 --> 00:40:41,600
+and you want to cool it
+down, if you spread it out,
+
+806
+00:40:41,600 --> 00:40:44,020
+it has more surface area on
+it and you blow across it,
+
+807
+00:40:44,140 --> 00:40:46,340
+it cools down faster and you've
+lived in a big pile, right?
+
+808
+00:40:46,420 --> 00:40:47,560
+That's just thermodynamics.
+
+809
+00:40:47,860 --> 00:40:50,860
+But when you've got a
+little tiny thing that over time,
+
+810
+00:40:51,360 --> 00:40:53,300
+everybody's been trying to
+make these things smaller,
+
+811
+00:40:53,680 --> 00:40:54,120
+taller, smaller.
+
+812
+00:40:54,320 --> 00:40:57,020
+That means you're using
+the same power maybe
+
+813
+00:40:57,020 --> 00:40:59,200
+because this number was going down
+
+814
+00:40:59,200 --> 00:41:00,700
+and that number was going up.
+
+815
+00:41:02,280 --> 00:41:04,800
+And this has stopped going up
+
+816
+00:41:04,800 --> 00:41:06,480
+and this has also stopped going down.
+
+817
+00:41:06,580 --> 00:41:09,320
+So that power
+has remained relatively constant
+
+818
+00:41:09,800 --> 00:41:11,620
+inside of these individual cores.
+
+819
+00:41:12,100 --> 00:41:14,160
+And each one of us is
+tiny and there's produced so a sheet,
+
+820
+00:41:14,780 --> 00:41:15,720
+it'll burn up.
+
+821
+00:41:16,380 --> 00:41:18,620
+Like if you think about it
+from a thermodynamics point of view
+
+822
+00:41:18,620 --> 00:41:21,280
+or maybe even like just water,
+if you've got a cup of water
+
+823
+00:41:21,280 --> 00:41:22,880
+and you start pouring water into it,
+
+824
+00:41:23,100 --> 00:41:25,300
+eventually it'll pour over
+to the side, all right?
+
+825
+00:41:25,760 --> 00:41:28,460
+Water's got to pour out of
+it at a rate in general
+
+826
+00:41:28,460 --> 00:41:31,780
+greater than or equal to the
+rate the water's going into it.
+
+827
+00:41:31,880 --> 00:41:32,960
+Otherwise, the water will overflow.
+
+828
+00:41:33,560 --> 00:41:36,280
+And the same thing
+is true for a processor.
+
+829
+00:41:36,920 --> 00:41:38,680
+The heat that's being generated in it
+
+830
+00:41:38,680 --> 00:41:40,380
+has to be dissipated out of it
+
+831
+00:41:40,380 --> 00:41:42,180
+and removed from inside the thing
+
+832
+00:41:42,180 --> 00:41:44,400
+at a rate that's
+faster than it's heating up.
+
+833
+00:41:44,580 --> 00:41:47,460
+Otherwise, the processor will
+burn up and die, okay?
+
+834
+00:41:47,780 --> 00:41:49,980
+How do you get heat out
+of something really tiny like that?
+
+835
+00:41:50,320 --> 00:41:55,880
+You can't spread it out like
+a bowl of soup that's hot.
+
+836
+00:41:56,520 --> 00:41:58,200
+Well, you do all kinds of fancy things
+
+837
+00:41:58,200 --> 00:42:00,300
+and try to like bring
+the heat pipes out of this
+
+838
+00:42:00,300 --> 00:42:01,820
+and you start doing water cooling
+
+839
+00:42:01,820 --> 00:42:03,240
+and you start doing all this other stuff.
+
+840
+00:42:03,240 --> 00:42:07,280
+But at some point, you just can't
+have so much power in one place, right?
+
+841
+00:42:08,760 --> 00:42:12,180
+The other issue was is that
+since they couldn't make this any faster,
+
+842
+00:42:12,220 --> 00:42:13,420
+they said, cool, you know what?
+
+843
+00:42:14,100 --> 00:42:15,780
+Then inside this little thing here,
+
+844
+00:42:16,100 --> 00:42:18,100
+I'm going to blow this
+up and make it bigger now,
+
+845
+00:42:18,320 --> 00:42:21,880
+cool, I'm going to have
+80 cores in it, all right?
+
+846
+00:42:21,940 --> 00:42:26,780
+So I'm going to be like, all right,
+you know, I have maybe 16 cores in it.
+
+847
+00:42:27,500 --> 00:42:30,040
+So I won't have any one core
+
+848
+00:42:30,040 --> 00:42:32,680
+that's actually any better than
+the **** more or less.
+
+849
+00:42:32,680 --> 00:42:33,540
+That's not totally true.
+
+850
+00:42:33,640 --> 00:42:34,660
+There have been
+really other cool advances.
+
+851
+00:42:35,560 --> 00:42:38,160
+But from kind
+of a qualitative perspective,
+
+852
+00:42:38,640 --> 00:42:41,180
+this thing really is not a lot
+much better than anything that I had
+
+853
+00:42:41,180 --> 00:42:42,220
+when I was in college.
+
+854
+00:42:43,700 --> 00:42:46,300
+It's just a lot more of them, okay?
+
+855
+00:42:46,480 --> 00:42:47,180
+A lot more of them.
+
+856
+00:42:47,300 --> 00:42:50,220
+And then that's just one
+processor, but on the other board,
+
+857
+00:42:50,340 --> 00:42:52,660
+you can have typically two
+or four of those on here
+
+858
+00:42:52,660 --> 00:42:54,820
+and then you can have thousands
+of those in a data center.
+
+859
+00:42:54,960 --> 00:42:57,440
+So the scale of it is gigantic, right?
+
+860
+00:42:58,680 --> 00:43:02,520
+So that's why you
+ceased getting
+
+861
+00:43:02,520 --> 00:43:04,300
+single processor performance,
+
+862
+00:43:04,480 --> 00:43:07,240
+and now the multi-processor,
+if its performance was greater,
+
+863
+00:43:07,460 --> 00:43:10,480
+simply because they were more
+of a pack-in to that space.
+
+864
+00:43:11,140 --> 00:43:12,820
+But the programming, you
+and I all learned,
+
+865
+00:43:13,020 --> 00:43:14,860
+like when we were
+in our first programming classes,
+
+866
+00:43:15,260 --> 00:43:17,480
+was like the way programs
+work is you do this,
+
+867
+00:43:17,980 --> 00:43:20,960
+and then you do this,
+and then you do this,
+
+868
+00:43:21,280 --> 00:43:23,280
+and then you do this,
+and you do it sequentially.
+
+869
+00:43:23,800 --> 00:43:25,640
+And that's how we were all taught, right?
+
+870
+00:43:25,640 --> 00:43:30,620
+I mean, we were all like, yeah,
+you got to do it in order.
+
+871
+00:43:31,100 --> 00:43:33,540
+You know, you got to have, I
+mean, that's the way code is written out,
+
+872
+00:43:33,660 --> 00:43:34,320
+for God's sakes.
+
+873
+00:43:34,500 --> 00:43:37,120
+It's like a line of code, a line of code,
+
+874
+00:43:37,380 --> 00:43:38,160
+a line of code, a line of code.
+
+875
+00:43:38,260 --> 00:43:40,140
+Well, wait a minute now.
+
+876
+00:43:42,380 --> 00:43:44,240
+Does that line even depend on this line?
+
+877
+00:43:44,620 --> 00:43:47,160
+If it doesn't, why do you
+have to do that after this one?
+
+878
+00:43:47,280 --> 00:43:49,140
+Couldn't you do it at
+the same time as this one?
+
+879
+00:43:51,200 --> 00:43:55,100
+Yeah, but now what about if
+this statement depends on this statement?
+
+880
+00:43:55,580 --> 00:43:57,440
+You can't do those at
+the same time, can you?
+
+881
+00:43:58,000 --> 00:43:59,600
+So there's a few issues here,
+
+882
+00:43:59,740 --> 00:44:01,780
+but if you've got
+a lot of independent calculations
+
+883
+00:44:01,780 --> 00:44:03,900
+that could be performed at
+the same time, think about it.
+
+884
+00:44:04,680 --> 00:44:07,880
+If I had 10, if I had five cores here,
+
+885
+00:44:08,260 --> 00:44:10,020
+I could have one of
+them add these two numbers,
+
+886
+00:44:10,180 --> 00:44:12,760
+one of them add these two numbers,
+one of them add these two numbers,
+
+887
+00:44:12,840 --> 00:44:14,460
+one add these two, one add these two,
+
+888
+00:44:14,500 --> 00:44:17,960
+and then of those
+five, two could add this,
+
+889
+00:44:18,520 --> 00:44:20,580
+or one could add that, one could add this,
+
+890
+00:44:20,660 --> 00:44:21,960
+we've got this thing left over.
+
+891
+00:44:22,180 --> 00:44:26,060
+These two things, say, add together
+here on the next time step,
+
+892
+00:44:26,400 --> 00:44:27,760
+and then that gets added there,
+
+893
+00:44:27,860 --> 00:44:29,760
+and then we get something
+that looks like a binary tree
+
+894
+00:44:29,760 --> 00:44:31,440
+of adding the stuff up.
+
+895
+00:44:32,000 --> 00:44:36,500
+And we know now that the big O
+of this thing is log in of this thing.
+
+896
+00:44:36,600 --> 00:44:37,480
+It's not in.
+
+897
+00:44:37,880 --> 00:44:42,420
+So now we've taken this thing, well, that
+is not the right way to say it.
+
+898
+00:44:43,840 --> 00:44:46,980
+The height of the tree
+is the order of that.
+
+899
+00:44:47,140 --> 00:44:49,800
+The total number of time
+steps still really depends on
+
+900
+00:44:49,960 --> 00:44:52,060
+the number of processors,
+because here's the thing.
+
+901
+00:44:52,680 --> 00:44:54,900
+If you've got a problem that's big O of N,
+
+902
+00:44:55,620 --> 00:44:58,780
+that's the algorithm. That's just
+the nature of what it is.
+
+903
+00:44:58,920 --> 00:45:00,940
+Now, you might be able
+to do it faster by saying,
+
+904
+00:45:00,960 --> 00:45:04,760
+I will get it done, and
+I'll divide the problem by P processors,
+
+905
+00:45:04,940 --> 00:45:08,360
+and now it'll be faster,
+because it's being divided by P.
+
+906
+00:45:08,780 --> 00:45:11,800
+P is not a function of
+N, so therefore that's like a coefficient.
+
+907
+00:45:12,020 --> 00:45:15,140
+That's just like saying, it's
+one P, big O of N.
+
+908
+00:45:15,200 --> 00:45:17,540
+You're not going to change
+the tower complexity of the algorithm,
+
+909
+00:45:18,860 --> 00:45:21,620
+but that factor, you know,
+like that you learned about 220,
+
+910
+00:45:21,920 --> 00:45:23,140
+how they'll say,
+well, sometimes that matters.
+
+911
+00:45:23,280 --> 00:45:24,680
+That factor's really tiny.
+
+912
+00:45:25,520 --> 00:45:27,760
+For the size problem you're worried about,
+
+913
+00:45:29,320 --> 00:45:30,660
+they can be a lot faster.
+
+914
+00:45:30,820 --> 00:45:31,540
+I don't know what
+you're thinking about it.
+
+915
+00:45:31,640 --> 00:45:32,420
+They should have it in that class.
+
+916
+00:45:32,920 --> 00:45:33,860
+They always do stuff like this.
+
+917
+00:45:33,980 --> 00:45:34,780
+They say, okay, cool, man.
+
+918
+00:45:34,940 --> 00:45:35,320
+All right.
+
+919
+00:45:35,740 --> 00:45:38,740
+One of them's quadratic, so they
+go and do like, all right.
+
+920
+00:45:39,700 --> 00:45:45,390
+And one of them's linear, you
+know, and then another one is like,
+
+921
+00:45:45,390 --> 00:45:47,010
+I don't know, some
+sort of logarithmic thing,
+
+922
+00:45:47,010 --> 00:45:49,690
+and it comes out here, and it
+goes out here, and it goes here.
+
+923
+00:45:49,870 --> 00:45:51,830
+So like, when we get
+out past this point here,
+
+924
+00:45:52,150 --> 00:45:54,850
+it's like, that's the best,
+and that's the next best,
+
+925
+00:45:54,990 --> 00:45:55,850
+and that's the worst.
+
+926
+00:45:57,130 --> 00:45:57,410
+Cool.
+
+927
+00:45:57,870 --> 00:45:58,830
+Well, what about right over here?
+
+928
+00:45:59,350 --> 00:46:00,450
+That's the best right there.
+
+929
+00:46:01,470 --> 00:46:02,110
+Yeah, yeah, yeah.
+
+930
+00:46:02,430 --> 00:46:06,170
+But in my class it says, that's true,
+but that's only for N like in here.
+
+931
+00:46:06,330 --> 00:46:07,490
+N just keeps going to infinity.
+
+932
+00:46:07,770 --> 00:46:08,930
+N's not going to infinity.
+
+933
+00:46:09,530 --> 00:46:12,030
+Have you ever seen a computer
+that has some infinite amount of memory?
+
+934
+00:46:13,010 --> 00:46:13,470
+No.
+
+935
+00:46:14,510 --> 00:46:16,130
+It's going to be whatever it is.
+
+936
+00:46:16,130 --> 00:46:17,330
+Now, that might be a big number.
+
+937
+00:46:17,530 --> 00:46:18,290
+It might be a true.
+
+938
+00:46:18,570 --> 00:46:22,570
+The question is, for N
+equals a trillion, which one's better?
+
+939
+00:46:24,230 --> 00:46:26,350
+It's one thing to say that if the
+limit is in goes
+
+940
+00:46:26,350 --> 00:46:27,450
+to infinity, this is better,
+
+941
+00:46:27,510 --> 00:46:29,890
+and that's cool from
+a mathematical, theoretical perspective,
+
+942
+00:46:30,210 --> 00:46:34,010
+but it's the truth on the ground,
+which one of these things is better?
+
+943
+00:46:35,130 --> 00:46:37,390
+And also, what you
+find on parallel computing is,
+
+944
+00:46:37,450 --> 00:46:40,530
+is that algorithms that
+are really crappy sequentially
+
+945
+00:46:40,530 --> 00:46:43,270
+are also trivial to parallelize.
+
+946
+00:46:44,470 --> 00:46:44,830
+Okay?
+
+947
+00:46:45,050 --> 00:46:48,490
+And these ones that are
+really, really sophisticated
+
+948
+00:46:48,490 --> 00:46:49,850
+can't be paralyzed.
+
+949
+00:46:51,130 --> 00:46:53,830
+So for a given size
+system, it might actually be better
+
+950
+00:46:53,830 --> 00:46:55,910
+to do it the crappy way in parallel.
+
+951
+00:46:56,270 --> 00:46:57,170
+Do you get what I'm saying?
+
+952
+00:46:57,990 --> 00:46:59,590
+You get hit with that,
+because sometimes you'll see something,
+
+953
+00:46:59,750 --> 00:47:01,490
+you're going, I know this is
+not the fastest
+
+954
+00:47:01,490 --> 00:47:03,130
+theoretical sequential algorithm.
+
+955
+00:47:03,230 --> 00:47:03,510
+That's right.
+
+956
+00:47:03,590 --> 00:47:04,470
+We're not doing this sequentially.
+
+957
+00:47:04,670 --> 00:47:06,650
+We're doing it in parallel, and
+that's why we're not doing that algorithm,
+
+958
+00:47:06,690 --> 00:47:10,190
+because while a pencil paper is
+the best, in practice it is not.
+
+959
+00:47:10,810 --> 00:47:14,390
+In that little book I told
+you about that physics student, Brody,
+
+960
+00:47:14,930 --> 00:47:16,070
+his book's all about that.
+
+961
+00:47:16,150 --> 00:47:18,830
+It's like, cool theory says this,
+practice says this and other things.
+
+962
+00:47:19,350 --> 00:47:21,730
+And it just hits it over
+and over again in that book.
+
+963
+00:47:21,870 --> 00:47:22,570
+It's really kind of cool.
+
+964
+00:47:24,890 --> 00:47:26,910
+But either way, aside from all that,
+
+965
+00:47:27,170 --> 00:47:29,310
+we've been taught the wrong
+way to think about problems
+
+966
+00:47:29,310 --> 00:47:31,330
+all along in computing
+since the very beginning,
+
+967
+00:47:31,710 --> 00:47:33,670
+that you've got to do this,
+and we've got to do this,
+
+968
+00:47:33,670 --> 00:47:35,050
+because that is not the case.
+
+969
+00:47:36,130 --> 00:47:38,170
+You need to figure out what
+can be done at the same time.
+
+970
+00:47:38,450 --> 00:47:41,250
+All of these numbers can be
+added together at the same time
+
+971
+00:47:41,250 --> 00:47:43,170
+and independent of each other.
+
+972
+00:47:43,670 --> 00:47:47,350
+But then they have to be
+reduced down to a single number.
+
+973
+00:47:48,090 --> 00:47:51,010
+But now what about if this
+thing literally was trillions of numbers?
+
+974
+00:47:51,250 --> 00:47:51,450
+Well, cool.
+
+975
+00:47:53,050 --> 00:47:55,970
+Each one of them was order one, you
+know, let's say those
+
+976
+00:47:55,970 --> 00:47:57,290
+one, two, three, four processes.
+
+977
+00:47:57,590 --> 00:47:59,330
+One-fourth of a trillion,
+one-fourth of a trillion,
+
+978
+00:47:59,430 --> 00:48:01,130
+one-fourth of a trillion,
+one-fourth of a trillion, cool.
+
+979
+00:48:01,330 --> 00:48:04,950
+But at that point, it's just
+take this subtotal and this subtotal
+
+980
+00:48:04,950 --> 00:48:07,250
+and add it together and take those two
+subtotal and add it
+
+981
+00:48:07,250 --> 00:48:08,070
+together, and you're done.
+
+982
+00:48:09,270 --> 00:48:12,670
+So still, quote, big O
+of one-fourth of a trillion.
+
+983
+00:48:14,050 --> 00:48:18,290
+But then they've got some tree-like
+structure to add this stuff together.
+
+984
+00:48:18,450 --> 00:48:19,730
+Now, I want you to think about something.
+
+985
+00:48:21,230 --> 00:48:24,270
+This assumes that I can
+get this array in this memory.
+
+986
+00:48:24,650 --> 00:48:25,370
+Let's say we've got that.
+
+987
+00:48:26,030 --> 00:48:30,590
+It assumes that we can divide the loop
+up to make it so that each core,
+
+988
+00:48:30,690 --> 00:48:32,770
+which reversed, is part of the array.
+
+989
+00:48:33,250 --> 00:48:34,210
+That's not too bad.
+
+990
+00:48:34,930 --> 00:48:36,930
+The odds are right here.
+
+991
+00:48:37,070 --> 00:48:37,730
+Here's how you can do it.
+
+992
+00:48:37,890 --> 00:48:40,710
+If the queen of people is like,
+here's a little civic code you can use.
+
+993
+00:48:40,870 --> 00:48:41,530
+It's just going to work.
+
+994
+00:48:42,010 --> 00:48:43,630
+You can play through
+the arithmetic and say, yeah,
+
+995
+00:48:43,770 --> 00:48:45,150
+because it thinks of all the corner cases.
+
+996
+00:48:45,750 --> 00:48:48,290
+It's like, well, you and I could
+do a good job just sitting down and,
+
+997
+00:48:48,290 --> 00:48:49,490
+all right, we just
+don't divide it by this.
+
+998
+00:48:49,630 --> 00:48:50,450
+Oh, but I've got to shift it over.
+
+999
+00:48:50,630 --> 00:48:51,470
+Oh, it's a plus one.
+
+1000
+00:48:51,590 --> 00:48:52,190
+What if I was odd?
+
+1001
+00:48:53,030 --> 00:48:53,710
+Yeah, okay.
+
+1002
+00:48:53,930 --> 00:48:55,810
+But this little line will help us divide,
+
+1003
+00:48:55,970 --> 00:48:58,110
+figure out the indices for the
+core loop to make it work.
+
+1004
+00:48:58,710 --> 00:49:01,190
+But then we've got to have
+a second thing that adds these up.
+
+1005
+00:49:01,190 --> 00:49:01,590
+Wait a minute.
+
+1006
+00:49:01,750 --> 00:49:02,770
+Now, who's adding what?
+
+1007
+00:49:03,350 --> 00:49:05,190
+Because there's only two,
+like in this case,
+
+1008
+00:49:06,710 --> 00:49:08,550
+who adds these two together?
+
+1009
+00:49:08,810 --> 00:49:11,650
+So is this processor going to sit idle,
+
+1010
+00:49:11,810 --> 00:49:15,150
+and this guy is the one
+that adds his subtotal to this one?
+
+1011
+00:49:15,710 --> 00:49:17,270
+Well, this person sits idle.
+
+1012
+00:49:17,430 --> 00:49:18,010
+This one works.
+
+1013
+00:49:18,190 --> 00:49:18,950
+It has this subtotal.
+
+1014
+00:49:19,130 --> 00:49:20,890
+Which one is sitting idle the other times?
+
+1015
+00:49:21,430 --> 00:49:23,170
+So you have to have some
+way to program out of it
+
+1016
+00:49:23,170 --> 00:49:24,710
+to make it so that you
+don't have some sort of deadline.
+
+1017
+00:49:25,790 --> 00:49:28,070
+It's not like I'm trying
+to grab something from you,
+
+1018
+00:49:28,070 --> 00:49:30,390
+but you never release it
+because you're expecting to communicate
+
+1019
+00:49:30,390 --> 00:49:30,990
+with somebody else.
+
+1020
+00:49:31,090 --> 00:49:33,150
+So all that stuff in
+356, it comes back up,
+
+1021
+00:49:33,490 --> 00:49:35,630
+raise a condition,
+deadlock avoidance and detection,
+
+1022
+00:49:35,810 --> 00:49:38,290
+all of this sort of stuff that's in there,
+
+1023
+00:49:38,350 --> 00:49:39,750
+which is why it's
+one of the three references.
+
+1024
+00:49:42,610 --> 00:49:45,610
+So yeah, so things kind of
+got better out of here over time.
+
+1025
+00:49:46,590 --> 00:49:50,150
+You know, hardware people were like,
+
+1026
+00:49:50,150 --> 00:49:51,530
+this is the deal, you know,
+
+1027
+00:49:51,730 --> 00:49:53,550
+the programmers are going to
+have to go write code.
+
+1028
+00:49:53,690 --> 00:49:55,130
+And then what happened over time?
+
+1029
+00:49:56,230 --> 00:49:58,750
+Well, people developed
+libraries so that programmers
+
+1030
+00:49:58,750 --> 00:50:01,490
+should use those libraries so that
+they didn't have to think about
+
+1031
+00:50:01,490 --> 00:50:04,210
+the nuances of
+actually paralyzing individual things,
+
+1032
+00:50:04,610 --> 00:50:05,530
+which they should do.
+
+1033
+00:50:05,690 --> 00:50:06,610
+I'm not arguing they should.
+
+1034
+00:50:07,110 --> 00:50:11,410
+I wouldn't want to write my
+actual real parallel code from scratch
+
+1035
+00:50:11,410 --> 00:50:12,910
+if there's already an exam.
+
+1036
+00:50:13,250 --> 00:50:14,790
+This is a standard.
+
+1037
+00:50:15,090 --> 00:50:16,430
+Everybody's already figured it out.
+
+1038
+00:50:16,750 --> 00:50:17,330
+This works.
+
+1039
+00:50:17,890 --> 00:50:20,630
+But we should know, what
+are the limitations of that thing?
+
+1040
+00:50:20,890 --> 00:50:22,270
+How is it likely that it works?
+
+1041
+00:50:22,430 --> 00:50:23,750
+That's what we're trying to do.
+
+1042
+00:50:23,830 --> 00:50:25,350
+We're going to do some stuff on our own,
+
+1043
+00:50:26,110 --> 00:50:29,050
+and then we'll use somebody else's
+code to move the next thing.
+
+1044
+00:50:29,230 --> 00:50:30,470
+We've got to do it our own,
+
+1045
+00:50:30,870 --> 00:50:33,610
+but then use somebody else's
+to get the perfect ideal performance
+
+1046
+00:50:33,610 --> 00:50:34,390
+for the next thing.
+
+1047
+00:50:34,490 --> 00:50:35,390
+That kind of makes sense.
+
+1048
+00:50:36,770 --> 00:50:37,030
+All right.
+
+1049
+00:50:37,770 --> 00:50:41,930
+So I always have the same way
+I forget what time it is in here.
+
+1050
+00:50:42,090 --> 00:50:44,330
+So let me just switch
+the class over at 12.05, right?
+
+1051
+00:50:50,380 --> 00:50:50,920
+12.05.
+
+1052
+00:50:53,180 --> 00:50:53,800
+Climate modeling.
+
+1053
+00:50:54,120 --> 00:50:56,420
+So yeah, that's a
+classic example everybody can understand,
+
+1054
+00:50:56,620 --> 00:50:57,960
+you know, because we all understand that.
+
+1055
+00:50:58,480 --> 00:51:03,100
+Well, they're probably talking
+about a climate model
+
+1056
+00:51:03,100 --> 00:51:05,700
+in terms of, like, climate change here.
+
+1057
+00:51:08,020 --> 00:51:09,520
+But there's that.
+
+1058
+00:51:09,640 --> 00:51:11,620
+There's also literally trying to
+predict the weather for tomorrow.
+
+1059
+00:51:11,900 --> 00:51:12,380
+That's important.
+
+1060
+00:51:13,600 --> 00:51:16,520
+Protein folding in terms of what
+I do in, like, pharmaceutical research,
+
+1061
+00:51:16,540 --> 00:51:16,840
+you know?
+
+1062
+00:51:17,620 --> 00:51:19,520
+You know, back in the
+day, right, what would people do?
+
+1063
+00:51:19,760 --> 00:51:21,200
+I think this medicine will do something.
+
+1064
+00:51:21,380 --> 00:51:21,540
+I don't know.
+
+1065
+00:51:21,680 --> 00:51:23,920
+I grounded up in it
+with a mortar and pestle,
+
+1066
+00:51:24,200 --> 00:51:26,900
+and I gave it to people, and they died.
+
+1067
+00:51:26,900 --> 00:51:27,240
+Okay.
+
+1068
+00:51:27,240 --> 00:51:27,940
+Well, that's not good.
+
+1069
+00:51:27,980 --> 00:51:29,400
+We use animals when they died.
+
+1070
+00:51:30,060 --> 00:51:32,960
+So animals cause a certain
+amount of breed and all this,
+
+1071
+00:51:33,100 --> 00:51:35,100
+plus all the ethical issues out of
+it and all this sort of stuff.
+
+1072
+00:51:35,240 --> 00:51:36,720
+So what will we be better off doing?
+
+1073
+00:51:36,900 --> 00:51:38,700
+Well, what about if we can
+actually model the
+
+1074
+00:51:38,700 --> 00:51:39,780
+chemicals in the computer?
+
+1075
+00:51:40,120 --> 00:51:42,580
+We can model your biology in the computer.
+
+1076
+00:51:43,040 --> 00:51:45,320
+Then part of that
+scientific method of, like,
+
+1077
+00:51:45,400 --> 00:51:47,700
+always having to
+do some physical experiment.
+
+1078
+00:51:47,920 --> 00:51:49,020
+You don't need to do that.
+
+1079
+00:51:49,140 --> 00:51:52,340
+You can do the experiment, at least
+some of it, on the computer, right?
+
+1080
+00:51:52,680 --> 00:51:55,680
+You can say, hey, of
+these thousand different drug molecules,
+
+1081
+00:51:55,680 --> 00:51:58,940
+we think that these ten
+are the most likely to succeed
+
+1082
+00:51:58,940 --> 00:52:01,460
+because of the results we
+got out of the computer program.
+
+1083
+00:52:01,980 --> 00:52:03,820
+And then we go into, say, animal trials,
+
+1084
+00:52:03,920 --> 00:52:06,000
+and then into human trials
+and all this sort of stuff.
+
+1085
+00:52:06,820 --> 00:52:07,800
+That's kind of the idea.
+
+1086
+00:52:08,040 --> 00:52:10,160
+It's like a lot of the
+stuff can be simulated in the computer,
+
+1087
+00:52:10,260 --> 00:52:12,500
+whether that be drugs,
+or whether it's weather,
+
+1088
+00:52:12,780 --> 00:52:14,600
+or whether it's this or whether it's that.
+
+1089
+00:52:15,040 --> 00:52:16,420
+There's all this sort of stuff.
+
+1090
+00:52:17,320 --> 00:52:19,460
+So, yes, drug discovery, you know,
+
+1091
+00:52:20,660 --> 00:52:23,620
+a lot of people are trying to work
+very, very hard to
+
+1092
+00:52:23,620 --> 00:52:24,920
+try to get fusion working.
+
+1093
+00:52:24,920 --> 00:52:28,040
+You know, in a way that
+it actually produces a lot more energy
+
+1094
+00:52:28,040 --> 00:52:29,540
+that comes out that went in.
+
+1095
+00:52:30,180 --> 00:52:32,820
+I mean, when I was a child, I'm 48
+now, when I was
+
+1096
+00:52:32,820 --> 00:52:34,540
+a kid in elementary school,
+
+1097
+00:52:35,240 --> 00:52:40,020
+they were like, fusion, it's
+only about five, ten years away.
+
+1098
+00:52:40,940 --> 00:52:45,120
+It's always my entire life that it
+has only been five or ten years away.
+
+1099
+00:52:45,280 --> 00:52:49,000
+So I guess it's been
+a bit longer than that.
+
+1100
+00:52:50,300 --> 00:52:51,620
+Just a little bit.
+
+1101
+00:52:52,220 --> 00:52:56,500
+I feel like they might
+be getting closer with some stuff,
+
+1102
+00:52:56,620 --> 00:52:58,080
+but that's still way off.
+
+1103
+00:52:59,540 --> 00:53:00,900
+So this is a big problem right here.
+
+1104
+00:53:00,980 --> 00:53:03,720
+Do you know why this is more
+of a problem now than it's ever been?
+
+1105
+00:53:04,960 --> 00:53:05,240
+Climate change.
+
+1106
+00:53:05,840 --> 00:53:07,040
+So climate change is a problem?
+
+1107
+00:53:08,420 --> 00:53:08,440
+Yeah?
+
+1108
+00:53:08,820 --> 00:53:11,360
+The computer demands it's
+like AI and algorithms.
+
+1109
+00:53:12,260 --> 00:53:12,720
+That's right.
+
+1110
+00:53:12,960 --> 00:53:15,620
+If you look at the percentage
+of the total amount of energy
+
+1111
+00:53:15,620 --> 00:53:18,480
+that the United States consumed,
+
+1112
+00:53:19,240 --> 00:53:23,840
+it used to be a
+few years ago that computers represented
+
+1113
+00:53:23,840 --> 00:53:26,080
+like less than one-tenth of one percent.
+
+1114
+00:53:27,140 --> 00:53:29,120
+Now it might represent two percent.
+
+1115
+00:53:30,580 --> 00:53:32,280
+That's a gigantic increase.
+
+1116
+00:53:33,820 --> 00:53:38,820
+Does that mean the United States is
+using less energy to cool their houses?
+
+1117
+00:53:39,760 --> 00:53:39,940
+No.
+
+1118
+00:53:40,460 --> 00:53:42,700
+It just means that
+we're using more energy altogether
+
+1119
+00:53:42,700 --> 00:53:45,840
+and that fraction of it
+from computing is going up.
+
+1120
+00:53:46,200 --> 00:53:51,700
+These AI models, these computers here
+that do these things right here,
+
+1121
+00:53:51,700 --> 00:53:55,660
+like a computer that was bought
+about two or three years ago
+
+1122
+00:53:55,660 --> 00:53:57,600
+at the place that I did some arguments on,
+
+1123
+00:53:58,200 --> 00:54:00,980
+bought a supercomputer that
+had the highest thing,
+
+1124
+00:54:01,300 --> 00:54:04,080
+the most expensive thing that
+Nvidia had at the time.
+
+1125
+00:54:05,880 --> 00:54:10,100
+And one rack, just
+one rack, uses 500,000 watts.
+
+1126
+00:54:14,220 --> 00:54:13,720
+500,000.
+
+1127
+00:54:15,100 --> 00:54:16,780
+Now I want you to think
+of it, and by the way,
+
+1128
+00:54:16,820 --> 00:54:21,520
+you don't build a $200
+million computer to not use it.
+
+1129
+00:54:22,100 --> 00:54:23,500
+You better download the using it,
+
+1130
+00:54:23,500 --> 00:54:28,180
+which means you're paying that
+bill all the time, right?
+
+1131
+00:54:28,860 --> 00:54:31,700
+You wouldn't buy a
+Lamborghini and never drive it.
+
+1132
+00:54:32,100 --> 00:54:34,260
+I mean, you might be scared to damage it,
+
+1133
+00:54:34,280 --> 00:54:37,360
+but you're going to use it, right,
+because the people that
+
+1134
+00:54:37,360 --> 00:54:38,060
+spent the money are
+
+1135
+00:54:38,060 --> 00:54:40,160
+going to expect you to use the thing.
+
+1136
+00:54:40,300 --> 00:54:41,620
+Otherwise, why did you buy it, right?
+
+1137
+00:54:42,660 --> 00:54:46,960
+So 500,000 is something that's
+not the size of a refrigerator
+
+1138
+00:54:46,960 --> 00:54:49,080
+or a little bit
+taller than a regular refrigerator,
+
+1139
+00:54:49,200 --> 00:54:51,440
+but let's say one and a
+half times the size of a refrigerator.
+
+1140
+00:54:53,320 --> 00:54:56,640
+Do you have any concept of
+how much 500,000 watts really is?
+
+1141
+00:54:57,240 --> 00:55:01,120
+Do you have any idea
+how much watts it would be
+
+1142
+00:55:01,120 --> 00:55:03,260
+if you turned on every
+single thing in your house,
+
+1143
+00:55:04,280 --> 00:55:05,820
+the heating and the air conditioning,
+
+1144
+00:55:05,820 --> 00:55:07,340
+let's say you turn it on at the same time,
+
+1145
+00:55:07,640 --> 00:55:10,000
+every element in the
+stove, the dryer is on.
+
+1146
+00:55:10,100 --> 00:55:12,720
+Let's say nothing's using
+gas. It's all there is.
+
+1147
+00:55:13,020 --> 00:55:14,380
+How would you figure that piece out?
+
+1148
+00:55:14,840 --> 00:55:18,260
+Now let's assume you
+don't have an electric car.
+
+1149
+00:55:18,800 --> 00:55:21,560
+Let's just assume that you're saying
+that it's just your standard stuff.
+
+1150
+00:55:22,220 --> 00:55:22,540
+What do you figure?
+
+1151
+00:55:26,100 --> 00:55:32,470
+If I put a kilowatt little
+above, but it's not far off,
+
+1152
+00:55:32,750 --> 00:55:34,970
+it's my off by order of magnitude,
+
+1153
+00:55:35,330 --> 00:55:37,430
+you certainly don't use
+50 kilowatts at home.
+
+1154
+00:55:37,470 --> 00:55:40,730
+I guarantee you that
+unless you're sharing your transformer
+
+1155
+00:55:40,730 --> 00:55:42,290
+outside with other
+people in the community,
+
+1156
+00:55:42,550 --> 00:55:46,510
+the biggest transformer they would put
+outside of your house is 25 kilowatts.
+
+1157
+00:55:48,110 --> 00:55:50,890
+And that's rated at that maximum
+
+1158
+00:55:50,890 --> 00:55:54,510
+assuming you're not running
+25 kilowatts all the time.
+
+1159
+00:55:54,670 --> 00:55:56,330
+If you were at 25 kilowatts all
+the time, the thing
+
+1160
+00:55:56,330 --> 00:55:57,270
+would start getting hot.
+
+1161
+00:55:57,670 --> 00:55:59,590
+It's probably assuming you're
+about 80% of that.
+
+1162
+00:55:59,850 --> 00:56:02,450
+So if you look
+at these whole home generators,
+
+1163
+00:56:03,810 --> 00:56:06,310
+how much would you
+need from your whole home?
+
+1164
+00:56:06,470 --> 00:56:09,230
+Well the whole home means
+you can turn everything on.
+
+1165
+00:56:09,870 --> 00:56:11,510
+It's probably 15KW.
+
+1166
+00:56:12,270 --> 00:56:16,010
+15,000 watts versus 500,000 watts.
+
+1167
+00:56:16,870 --> 00:56:17,910
+How many homes is that?
+
+1168
+00:56:18,250 --> 00:56:20,250
+Let's just say it was 10 kilowatts.
+
+1169
+00:56:21,070 --> 00:56:23,890
+50 divided by 500 divided
+by 10, that's 50 homes.
+
+1170
+00:56:24,890 --> 00:56:26,170
+But it's probably more like 100 homes
+
+1171
+00:56:26,170 --> 00:56:30,230
+because we're talking about you
+maxing out, which never happens.
+
+1172
+00:56:30,990 --> 00:56:35,230
+You're normally at like maybe
+1 to 5 to 6 kilowatts.
+
+1173
+00:56:35,730 --> 00:56:40,690
+Hopefully not between the hours of
+3 and 6 here at least anymore.
+
+1174
+00:56:41,630 --> 00:56:45,490
+But the thing is, I don't think
+you quite understand how much that is.
+
+1175
+00:56:46,110 --> 00:56:50,290
+So the ex-facility where
+he built the ex-facility,
+
+1176
+00:56:50,970 --> 00:56:52,230
+I think it's in Texas or somewhere,
+
+1177
+00:56:52,810 --> 00:56:55,230
+they have these tractor trailers with
+generators on the back of it
+
+1178
+00:56:55,230 --> 00:56:58,650
+because the power company can't
+provide the electricity to the company.
+
+1179
+00:56:58,870 --> 00:57:03,290
+That's the thing specced
+out at 500 megawatts.
+
+1180
+00:57:05,070 --> 00:57:08,230
+So 500 million watts for a computer
+
+1181
+00:57:08,230 --> 00:57:14,950
+that can serve better ads to
+you and can do some AI stuff.
+
+1182
+00:57:15,170 --> 00:57:17,970
+I mean it's really cold
+stuff, it's a huge power thing.
+
+1183
+00:57:18,470 --> 00:57:20,670
+You know how many watts
+equivalent your brain basically is?
+
+1184
+00:57:21,910 --> 00:57:23,610
+I don't know, I
+think it's around 12 watts.
+
+1185
+00:57:25,270 --> 00:57:28,310
+So from a performance perspective, we've
+got a long way to go.
+
+1186
+00:57:28,310 --> 00:57:30,110
+Stuff might be real fast.
+
+1187
+00:57:30,550 --> 00:57:34,450
+It uses us as 12 watts to do
+a lot more than the computer to do.
+
+1188
+00:57:34,950 --> 00:57:39,450
+There's a lot more connection in your
+head than there are in the computer,
+
+1189
+00:57:39,630 --> 00:57:41,550
+but that's the way it is.
+
+1190
+00:57:41,950 --> 00:57:44,910
+And of course that then trickles
+down to the climate change problem
+
+1191
+00:57:44,910 --> 00:57:47,970
+of like how the **** are we
+providing all this
+
+1192
+00:57:47,970 --> 00:57:48,830
+energy to these computers?
+
+1193
+00:57:50,050 --> 00:57:52,630
+When I was growing up, nobody
+cared how much did the computer use
+
+1194
+00:57:52,630 --> 00:57:53,930
+because it was not a big deal.
+
+1195
+00:57:54,650 --> 00:57:57,230
+The computer used less than a
+single light bulb at that time.
+
+1196
+00:57:57,330 --> 00:57:59,730
+The computer might have
+been 50 watts, 100 watts.
+
+1197
+00:58:00,450 --> 00:58:04,250
+They weren't any, fluorescent lights
+were just a new thing.
+
+1198
+00:58:04,370 --> 00:58:06,730
+Everybody had an incandescent light bulb
+that was two to three hundred watts
+
+1199
+00:58:06,730 --> 00:58:07,730
+spread all over the kitchen.
+
+1200
+00:58:08,390 --> 00:58:09,870
+That's a lot more than your computer.
+
+1201
+00:58:10,170 --> 00:58:10,550
+Never worry about it.
+
+1202
+00:58:10,710 --> 00:58:12,070
+Don't turn the computer
+on, you don't need to.
+
+1203
+00:58:14,210 --> 00:58:17,670
+So anyway, data analysis, looking
+at what your company's doing,
+
+1204
+00:58:17,750 --> 00:58:21,670
+trying to understand what's going on,
+trends, how to maximize the profit,
+
+1205
+00:58:21,910 --> 00:58:23,690
+minimize extensives, all
+this kind of stuff.
+
+1206
+00:58:25,850 --> 00:58:28,090
+So yeah, this is that
+thing we were talking about.
+
+1207
+00:58:28,230 --> 00:58:30,930
+You know, these
+smaller transistors they built,
+
+1208
+00:58:31,270 --> 00:58:34,790
+meant that you could raise the clock rate
+
+1209
+00:58:34,790 --> 00:58:38,710
+and that you could put more of
+them in the same amount of space.
+
+1210
+00:58:39,470 --> 00:58:40,350
+So you could pack more in.
+
+1211
+00:58:41,390 --> 00:58:43,690
+But then faster process
+meant there was more power.
+
+1212
+00:58:43,970 --> 00:58:45,790
+And an increased power
+meant there was more heat.
+
+1213
+00:58:46,730 --> 00:58:49,050
+More heat meant that if you
+can't take the heat out of it,
+
+1214
+00:58:49,170 --> 00:58:49,830
+they become unreliable.
+
+1215
+00:58:50,290 --> 00:58:52,670
+Like if you overclock your machine
+and you can't keep the heat out,
+
+1216
+00:58:52,990 --> 00:58:54,310
+then it won't work right.
+
+1217
+00:58:54,770 --> 00:58:58,390
+It'll even burn up or it'll
+crash because it'll eventually lock up
+
+1218
+00:58:58,390 --> 00:58:59,310
+and something happens.
+
+1219
+00:59:00,410 --> 00:59:03,410
+So they went into
+using these various cores.
+
+1220
+00:59:04,050 --> 00:59:05,510
+So we need to be
+able to leverage these cores.
+
+1221
+00:59:05,650 --> 00:59:08,030
+We need to figure out how
+to write parallel programs to do it.
+
+1222
+00:59:08,130 --> 00:59:10,550
+But we've always been
+taught to do everything sequentially,
+
+1223
+00:59:10,550 --> 00:59:11,750
+one step at a time.
+
+1224
+00:59:11,870 --> 00:59:14,030
+We've got to unlearn that way of thinking.
+
+1225
+00:59:14,170 --> 00:59:17,870
+You need to be starting to think
+about how, what about the real problem,
+
+1226
+00:59:18,010 --> 00:59:21,610
+the big picture in the problem, actually
+has to be done one after another
+
+1227
+00:59:21,610 --> 00:59:23,890
+and what can actually be
+done at the same time.
+
+1228
+00:59:24,630 --> 00:59:26,790
+And then how do I
+write a program to capture that?
+
+1229
+00:59:30,550 --> 00:59:32,670
+So, you know, this is the highest saying,
+
+1230
+00:59:32,850 --> 00:59:34,490
+yep, you've got to
+tighten the nested for loop.
+
+1231
+00:59:34,810 --> 00:59:37,410
+There's something you've got to
+do, like compute the next value.
+
+1232
+00:59:37,930 --> 00:59:39,390
+Maybe you don't even have that.
+
+1233
+00:59:39,530 --> 00:59:42,990
+You're literally just doing like some bus
+equals the thing out of an array.
+
+1234
+00:59:43,410 --> 00:59:45,090
+Imagine this was the problem
+I was just giving you,
+
+1235
+00:59:45,130 --> 00:59:46,410
+but this was just out of the array.
+
+1236
+00:59:47,470 --> 00:59:49,070
+So there's a single loop like this,
+
+1237
+00:59:49,330 --> 00:59:52,630
+but, you know, we could do the
+thing that we were talking about in here,
+
+1238
+00:59:52,890 --> 00:59:54,190
+which is, and let's see.
+
+1239
+00:59:56,730 --> 00:59:58,590
+We can say, hey, all right.
+
+1240
+00:59:58,970 --> 01:00:01,070
+If I'm core number, you know, I,
+
+1241
+01:00:01,570 --> 01:00:04,330
+then I need to figure out what
+my first element of the array is,
+
+1242
+01:00:04,470 --> 01:00:06,330
+what my last element of the array is,
+
+1243
+01:00:06,350 --> 01:00:10,330
+so that like, for example, if there
+were two, let's say you use three cores,
+
+1244
+01:00:11,010 --> 01:00:13,290
+you know, and this was index zero to two,
+
+1245
+01:00:13,450 --> 01:00:15,570
+and this went from three to seven,
+
+1246
+01:00:15,750 --> 01:00:17,610
+and then this one
+went from eight to eleven,
+
+1247
+01:00:17,610 --> 01:00:19,610
+and maybe decided to
+divide it up that way,
+
+1248
+01:00:19,710 --> 01:00:21,890
+so that means that
+core zero is doing this,
+
+1249
+01:00:22,150 --> 01:00:25,230
+core one is doing this,
+core two is doing this.
+
+1250
+01:00:25,670 --> 01:00:27,830
+That means that the for
+loop has to be parameterized
+
+1251
+01:00:27,830 --> 01:00:32,250
+so that the ith core will start on
+the correct place inside
+
+1252
+01:00:32,250 --> 01:00:33,190
+of this loop, right?
+
+1253
+01:00:33,810 --> 01:00:34,390
+Does that make sense?
+
+1254
+01:00:34,770 --> 01:00:35,570
+You kind of get that, right?
+
+1255
+01:00:35,850 --> 01:00:38,210
+How do you calculate your
+first and your last elements?
+
+1256
+01:00:38,530 --> 01:00:40,510
+It's just some sort of arithmetic, right,
+
+1257
+01:00:40,590 --> 01:00:44,190
+but essentially it's doing
+that division for you, right?
+
+1258
+01:00:46,560 --> 01:00:50,780
+So they kind of go through the same
+kind of example that I just gave you,
+
+1259
+01:00:50,780 --> 01:00:53,100
+so I'm not going to
+worry about talking about that.
+
+1260
+01:00:58,460 --> 01:01:00,920
+You know how we said after
+the things were
+
+1261
+01:01:00,920 --> 01:01:03,380
+finished calculating their subtotals,
+
+1262
+01:01:03,780 --> 01:01:05,480
+somebody was going to have to add up?
+
+1263
+01:01:06,860 --> 01:01:07,680
+That's what it is.
+
+1264
+01:01:08,040 --> 01:01:10,040
+It says, cool, you did
+all that stuff we just said.
+
+1265
+01:01:10,300 --> 01:01:15,860
+Now, let's suppose that you had
+the three cores we just mentioned,
+
+1266
+01:01:17,560 --> 01:01:20,060
+and this core got
+his subtotal down to two,
+
+1267
+01:01:20,440 --> 01:01:23,080
+this one got it down to three,
+this one got it down to four.
+
+1268
+01:01:23,260 --> 01:01:28,300
+Now, let's say that this is
+core zero, core one, core two.
+
+1269
+01:01:28,860 --> 01:01:31,380
+They say, cool, who's going to
+be responsible for
+
+1270
+01:01:31,380 --> 01:01:32,700
+adding these subtotals up?
+
+1271
+01:01:32,900 --> 01:01:35,920
+In this setting, they're using
+the word the master core.
+
+1272
+01:01:36,060 --> 01:01:38,200
+I think that's kind of
+an old type of language,
+
+1273
+01:01:38,300 --> 01:01:42,400
+but let's just say that it's
+like the head core, all right?
+
+1274
+01:01:42,460 --> 01:01:44,320
+So the head core here is like, cool.
+
+1275
+01:01:44,860 --> 01:01:48,260
+If I know where these
+other cores put their subtotals,
+
+1276
+01:01:48,660 --> 01:01:50,340
+I could just go look
+at memory and be like,
+
+1277
+01:01:50,340 --> 01:01:54,160
+plus equals three, plus equals
+four, and I've got the answer.
+
+1278
+01:01:54,660 --> 01:01:55,240
+You know what I mean?
+
+1279
+01:01:55,540 --> 01:01:56,560
+Like I said, that's cool.
+
+1280
+01:01:56,660 --> 01:02:02,400
+So it's like, hey, everyone
+else, if I'm the main guy,
+
+1281
+01:02:02,600 --> 01:02:06,100
+if I'm this guy up here,
+then I do my own work,
+
+1282
+01:02:06,540 --> 01:02:10,800
+and if the other
+people are doing their work,
+
+1283
+01:02:10,900 --> 01:02:13,080
+and when they get
+finished doing their work,
+
+1284
+01:02:13,120 --> 01:02:15,960
+they send their information
+back to this guy.
+
+1285
+01:02:16,860 --> 01:02:19,700
+You know, so it's like
+they're both all doing work,
+
+1286
+01:02:20,720 --> 01:02:24,040
+and then this one sends
+his information back to that guy,
+
+1287
+01:02:24,040 --> 01:02:25,740
+and the way this code's written,
+
+1288
+01:02:26,420 --> 01:02:29,480
+they both try to send their information
+back to this guy at the same time.
+
+1289
+01:02:29,700 --> 01:02:31,680
+Now, let's suppose that we were
+using some kind
+
+1290
+01:02:31,680 --> 01:02:32,880
+of interprocess communication
+
+1291
+01:02:32,880 --> 01:02:34,720
+like that you learned about in 356.
+
+1292
+01:02:35,840 --> 01:02:38,500
+There would be something there that
+would keep and hold the buffers,
+
+1293
+01:02:38,660 --> 01:02:40,300
+and something would deal with all this,
+
+1294
+01:02:40,340 --> 01:02:43,540
+but, you know, you can
+kind of essentially see that
+
+1295
+01:02:43,540 --> 01:02:47,660
+this first core would be
+engaged for some period of time
+
+1296
+01:02:47,660 --> 01:02:50,320
+a little bit beyond when the
+other people were engaged, all right?
+
+1297
+01:02:50,360 --> 01:02:52,600
+They were doing their work, so a
+lot of them were doing work here,
+
+1298
+01:02:53,000 --> 01:02:55,800
+and then at the end,
+sending one item, sending one item,
+
+1299
+01:02:55,940 --> 01:02:57,640
+waiting for those things to be received,
+
+1300
+01:02:58,160 --> 01:03:00,260
+add up the other two
+subtotals to get an answer.
+
+1301
+01:03:00,480 --> 01:03:01,200
+Does that make sense?
+
+1302
+01:03:02,680 --> 01:03:06,120
+You don't really need to send
+anything to anybody in a computer
+
+1303
+01:03:06,120 --> 01:03:08,960
+that's in a single computer
+that has to share memory,
+
+1304
+01:03:09,380 --> 01:03:11,440
+because you didn't see it in RAM.
+
+1305
+01:03:12,260 --> 01:03:14,360
+Now, as we learned about it in 356,
+
+1306
+01:03:15,320 --> 01:03:18,340
+we have a virtual
+memory manager that makes it
+
+1307
+01:03:18,340 --> 01:03:20,680
+so it seems like everybody's
+got their own RAM, right?
+
+1308
+01:03:21,900 --> 01:03:23,760
+But there's things called shared memory.
+
+1309
+01:03:23,880 --> 01:03:27,260
+You can make it so your
+processes can share the same memory space.
+
+1310
+01:03:27,460 --> 01:03:32,720
+In fact, what is the
+simplest way to have multiple processes
+
+1311
+01:03:32,720 --> 01:03:36,520
+– I'm using that because it's
+not a process I'm thinking about –
+
+1312
+01:03:36,520 --> 01:03:40,000
+all be able to see the
+same RAM at the same time.
+
+1313
+01:03:40,420 --> 01:03:45,900
+What did you learn about in
+356 that on a single computer
+
+1314
+01:03:45,900 --> 01:03:50,900
+lets all of those things
+see the same memory space?
+
+1315
+01:03:51,480 --> 01:03:55,040
+It was a thread, right?
+
+1316
+01:03:55,580 --> 01:03:58,380
+But if you have a single
+process with multiple threads in it,
+
+1317
+01:03:58,680 --> 01:04:02,420
+those threads can all be
+executing things at the same time,
+
+1318
+01:04:02,440 --> 01:04:06,620
+and they can all see the entire
+memory of all of the other threads.
+
+1319
+01:04:08,200 --> 01:04:11,540
+Now, individual processes could
+not see each other's RAM,
+
+1320
+01:04:11,660 --> 01:04:16,400
+which is why you guys probably
+did things like sockets and pipes
+
+1321
+01:04:16,400 --> 01:04:19,160
+and other things to send
+stuff from one process to another
+
+1322
+01:04:19,160 --> 01:04:21,100
+because they couldn't
+see each other's RAM.
+
+1323
+01:04:21,720 --> 01:04:25,000
+And that is certainly what we're going
+to do when we're in this situation,
+
+1324
+01:04:25,000 --> 01:04:27,560
+because if this guy
+can't see this guy's RAM,
+
+1325
+01:04:27,940 --> 01:04:30,800
+the only way to do it
+is to send and receive messages
+
+1326
+01:04:30,800 --> 01:04:35,500
+or pay an astronomical amount
+to have a fancy network
+
+1327
+01:04:35,580 --> 01:04:39,340
+that makes that not necessary,
+but still, at scale, eventually,
+
+1328
+01:04:39,960 --> 01:04:42,800
+maybe everything in this rack
+can see each other's memory,
+
+1329
+01:04:43,060 --> 01:04:45,000
+but these two racks
+next to each other can't.
+
+1330
+01:04:45,020 --> 01:04:47,120
+There's always going to be a scale problem
+
+1331
+01:04:47,120 --> 01:04:50,600
+that not every processor
+can see every other processor.
+
+1332
+01:04:51,180 --> 01:04:52,760
+And you know why that
+is? You can think about it.
+
+1333
+01:04:52,880 --> 01:04:56,320
+If there's a billion cores,
+they can't all be sending
+
+1334
+01:04:56,320 --> 01:04:58,540
+or receiving billions
+of things simultaneously,
+
+1335
+01:04:59,120 --> 01:05:01,600
+trying to get things from
+everybody's memory at the same time
+
+1336
+01:05:01,600 --> 01:05:03,100
+because that's going
+to slow everything down.
+
+1337
+01:05:03,100 --> 01:05:05,380
+There has to be some kind of coordination.
+
+1338
+01:05:05,980 --> 01:05:07,920
+There's going to be some
+bottleneck that will happen, right?
+
+1339
+01:05:08,260 --> 01:05:12,220
+So where is that bottleneck?
+It depends. It changes over time.
+
+1340
+01:05:12,800 --> 01:05:16,600
+It's like the little things that
+pop up at the amusement park.
+
+1341
+01:05:16,680 --> 01:05:18,400
+You try to hit this thing down,
+some other thing comes
+
+1342
+01:05:18,400 --> 01:05:19,320
+up over here, right?
+
+1343
+01:05:19,460 --> 01:05:21,040
+And that's the way bottlenecks are.
+
+1344
+01:05:21,840 --> 01:05:24,100
+You never get rid of
+the bottleneck, by the way.
+
+1345
+01:05:25,240 --> 01:05:28,040
+You just fix this bottleneck and
+then something else
+
+1346
+01:05:28,040 --> 01:05:29,540
+becomes the new bottleneck
+
+1347
+01:05:29,540 --> 01:05:32,020
+because the bottleneck
+is the weakest place.
+
+1348
+01:05:32,020 --> 01:05:34,280
+There's always going to be
+a place that's not quite right.
+
+1349
+01:05:34,440 --> 01:05:37,340
+It's not quite balanced, right? So
+that's what you're trying to do.
+
+1350
+01:05:37,520 --> 01:05:40,080
+So they're just kind of saying, hey,
+even if you get
+
+1351
+01:05:40,080 --> 01:05:41,660
+the partial answers computed,
+
+1352
+01:05:41,980 --> 01:05:43,900
+somebody's going to have to
+get the answers back together.
+
+1353
+01:05:44,040 --> 01:05:46,560
+And if it was something stupid
+like adding numbers up, guess what?
+
+1354
+01:05:46,700 --> 01:05:48,180
+Most of the time it's
+not something stupid like that.
+
+1355
+01:05:48,220 --> 01:05:50,340
+But they're using that
+as a motivating factor
+
+1356
+01:05:50,340 --> 01:05:52,000
+here just to kind of talk to you.
+
+1357
+01:05:52,960 --> 01:05:55,740
+You're going to have to
+orchestrate after the main problem's over
+
+1358
+01:05:55,740 --> 01:05:59,180
+how do people actually decide
+who's doing the last little pieces?
+
+1359
+01:05:59,400 --> 01:06:00,540
+I mean, that's a concern.
+
+1360
+01:06:01,180 --> 01:06:04,580
+So they've got to go
+through a global sum thing here
+
+1361
+01:06:04,580 --> 01:06:09,440
+and imagine that like we've been
+doing, we've got like, say, eight decors
+
+1362
+01:06:09,440 --> 01:06:13,520
+and they've all computed their
+partial sums here, all right?
+
+1363
+01:06:13,820 --> 01:06:17,140
+And we know that the global sum
+is the sum of all the partial sums.
+
+1364
+01:06:17,560 --> 01:06:20,220
+And they're kind of saying, how
+do we go about doing that?
+
+1365
+01:06:20,440 --> 01:06:24,860
+We want that when we're all done,
+you know, we want the, in this case,
+
+1366
+01:06:25,100 --> 01:06:26,820
+maybe the head of the core
+is identified as the core zero,
+
+1367
+01:06:27,040 --> 01:06:29,280
+we want them to
+have the final answer here.
+
+1368
+01:06:30,080 --> 01:06:32,880
+Now, you might want everybody to
+know what the final answer is.
+
+1369
+01:06:33,440 --> 01:06:34,720
+That's also a possibility.
+
+1370
+01:06:35,060 --> 01:06:37,120
+Say, whatever the next
+step in the program,
+
+1371
+01:06:37,440 --> 01:06:40,400
+everyone needs to know what
+the previous total sum was.
+
+1372
+01:06:40,860 --> 01:06:44,460
+Well, then, after this is computed, maybe
+they need to go then send this out
+
+1373
+01:06:44,460 --> 01:06:45,120
+to everybody else.
+
+1374
+01:06:45,240 --> 01:06:47,000
+But you can see that
+this would kind of get problematic.
+
+1375
+01:06:47,620 --> 01:06:51,640
+Say there's a thousand threads,
+you know, a thousand processes.
+
+1376
+01:06:52,020 --> 01:06:53,860
+I mean, how do you get some issues?
+
+1377
+01:06:54,360 --> 01:06:56,600
+How do you start getting
+into how the shared catch becomes?
+
+1378
+01:06:57,100 --> 01:06:58,440
+That becomes a big problem.
+
+1379
+01:06:58,440 --> 01:07:03,700
+And it also becomes a big problem of,
+like, a lot of different things, you know.
+
+1380
+01:07:03,940 --> 01:07:07,380
+So, we're just trying to start out, right?
+
+1381
+01:07:07,420 --> 01:07:09,260
+We're just trying to
+understand what's going on.
+
+1382
+01:07:09,600 --> 01:07:12,600
+So, say, hey, you know,
+don't let one core have
+
+1383
+01:07:12,600 --> 01:07:14,460
+to do all that work at the end, you know.
+
+1384
+01:07:14,860 --> 01:07:18,700
+How we could share that extra
+work by doing it like this.
+
+1385
+01:07:18,760 --> 01:07:19,720
+So, they do something like this.
+
+1386
+01:07:19,860 --> 01:07:22,100
+They say, like, what we said
+a minute ago, which isn't cool.
+
+1387
+01:07:23,480 --> 01:07:25,960
+Core one sends this stuff to core zero.
+
+1388
+01:07:26,000 --> 01:07:28,940
+And they add that partial
+sum at the same time now.
+
+1389
+01:07:29,080 --> 01:07:31,140
+So, this all happens at the same time.
+
+1390
+01:07:31,280 --> 01:07:34,800
+Everybody computes their partial
+sum at the same time.
+
+1391
+01:07:35,240 --> 01:07:36,560
+So, I want you to think about it.
+
+1392
+01:07:36,800 --> 01:07:39,660
+This takes some T1 amount of time to do.
+
+1393
+01:07:40,500 --> 01:07:44,040
+And then this little, this one
+is sending from here to here.
+
+1394
+01:07:44,380 --> 01:07:45,260
+This one is sending over here.
+
+1395
+01:07:45,360 --> 01:07:45,920
+So, they add it.
+
+1396
+01:07:46,040 --> 01:07:46,980
+This one is sending over here.
+
+1397
+01:07:47,020 --> 01:07:50,380
+He doesn't have to send anywhere
+because they already have their own answer
+
+1398
+01:07:50,380 --> 01:07:51,140
+from the previous thing.
+
+1399
+01:07:51,280 --> 01:07:53,380
+So, one value
+is being sent simultaneously.
+
+1400
+01:07:53,480 --> 01:07:56,440
+And notice, when you
+divide the problem like this,
+
+1401
+01:07:57,300 --> 01:08:00,720
+no one is sending to the
+same people at the same time.
+
+1402
+01:08:00,960 --> 01:08:01,460
+You see that?
+
+1403
+01:08:02,640 --> 01:08:05,740
+This, in this case, this is
+the sender and he's a receiver.
+
+1404
+01:08:06,560 --> 01:08:07,560
+Sender, receiver.
+
+1405
+01:08:08,380 --> 01:08:09,220
+Sender, receiver.
+
+1406
+01:08:09,740 --> 01:08:10,700
+And they don't overlap.
+
+1407
+01:08:12,240 --> 01:08:14,500
+Now, that thing that
+the previous guy were like,
+
+1408
+01:08:14,540 --> 01:08:15,600
+everybody sent that back to the master.
+
+1409
+01:08:15,700 --> 01:08:17,320
+That would cause, if
+there were a thousand processes,
+
+1410
+01:08:18,000 --> 01:08:20,680
+the master processes would have to be
+like trying to receive all this stuff.
+
+1411
+01:08:20,860 --> 01:08:22,240
+That would be congestion, right?
+
+1412
+01:08:22,240 --> 01:08:23,580
+But right there, a hundred thousand.
+
+1413
+01:08:25,080 --> 01:08:29,820
+So, but anyway, this,
+this helps with that problem.
+
+1414
+01:08:29,980 --> 01:08:31,400
+So, then this takes some amount of time.
+
+1415
+01:08:31,520 --> 01:08:32,240
+Let's call it T2.
+
+1416
+01:08:32,960 --> 01:08:35,860
+This takes some amount of time, T3.
+
+1417
+01:08:36,220 --> 01:08:37,660
+And then finally, T4.
+
+1418
+01:08:38,300 --> 01:08:41,740
+So, you know, if there
+were n things over here,
+
+1419
+01:08:42,120 --> 01:08:44,400
+the amount of time it
+took to do T1, you know,
+
+1420
+01:08:44,420 --> 01:08:47,040
+is probably something on the
+order of whatever n is
+
+1421
+01:08:47,040 --> 01:08:48,900
+divided by the number
+of processes that there are.
+
+1422
+01:08:49,400 --> 01:08:50,940
+But now, this is constant.
+
+1423
+01:08:51,540 --> 01:08:52,880
+That is constant.
+
+1424
+01:08:53,500 --> 01:08:56,400
+This is constant, but the
+depth of this is not constant.
+
+1425
+01:08:56,740 --> 01:08:58,820
+The depth of this thing is
+some sort of tree thing, right?
+
+1426
+01:08:59,760 --> 01:09:01,800
+So, that, what's the depth of that?
+
+1427
+01:09:03,240 --> 01:09:06,400
+Now, that's based on the
+log of the number of processes
+
+1428
+01:09:06,400 --> 01:09:09,420
+that there are, probably the
+ceiling function of it here.
+
+1429
+01:09:10,000 --> 01:09:14,100
+So, the total time it took
+is n over p plus this.
+
+1430
+01:09:14,500 --> 01:09:18,040
+See, computation, communication.
+
+1431
+01:09:18,560 --> 01:09:19,380
+Now, you may say, wait a minute.
+
+1432
+01:09:19,380 --> 01:09:21,040
+Now, that's not fair
+to call that communication,
+
+1433
+01:09:21,300 --> 01:09:24,180
+because they were sending and adding.
+
+1434
+01:09:24,580 --> 01:09:25,260
+Well, guess what?
+
+1435
+01:09:25,980 --> 01:09:27,820
+What do you think
+takes longer in a computer,
+
+1436
+01:09:27,920 --> 01:09:29,760
+to add two numbers or to send something
+
+1437
+01:09:29,760 --> 01:09:31,080
+from one place to another?
+
+1438
+01:09:32,060 --> 01:09:33,400
+Sending is way worse.
+
+1439
+01:09:34,540 --> 01:09:37,040
+Communication is always
+worse than computation.
+
+1440
+01:09:38,060 --> 01:09:41,820
+So, yes, it's log p plus one addition.
+
+1441
+01:09:42,820 --> 01:09:44,960
+But the community, that just changes
+
+1442
+01:09:44,960 --> 01:09:46,060
+this coefficient over here.
+
+1443
+01:09:46,200 --> 01:09:47,900
+So, did you kind of see how that is?
+
+1444
+01:09:47,900 --> 01:09:50,140
+It says there's going to be computation,
+
+1445
+01:09:50,940 --> 01:09:52,340
+there's going to be communication,
+
+1446
+01:09:52,760 --> 01:09:54,320
+and they're both going to have costs.
+
+1447
+01:09:55,120 --> 01:09:56,480
+But it's going to
+have their own strategies
+
+1448
+01:09:56,480 --> 01:09:58,040
+for how to do that, right?
+
+1449
+01:09:59,280 --> 01:09:59,540
+All right.
+
+1450
+01:10:00,620 --> 01:10:02,520
+So, when you start
+getting that whole board latency
+
+1451
+01:10:02,520 --> 01:10:05,040
+becomes a major deal
+in that form of computer.
+
+1452
+01:10:05,660 --> 01:10:07,500
+Yeah, I mean, you guys took 270, right?
+
+1453
+01:10:07,640 --> 01:10:09,420
+So, in 270, in networking,
+
+1454
+01:10:09,720 --> 01:10:11,160
+you guys have an equation that says,
+
+1455
+01:10:11,600 --> 01:10:13,920
+what is the time it takes to send a file?
+
+1456
+01:10:15,040 --> 01:10:15,380
+All right.
+
+1457
+01:10:15,760 --> 01:10:18,720
+Well, so it's whatever
+its size is in megabytes,
+
+1458
+01:10:19,340 --> 01:10:22,300
+say, divided by the
+bandwidth in megabytes per second,
+
+1459
+01:10:22,540 --> 01:10:25,080
+plus whatever the latency
+is in the network.
+
+1460
+01:10:26,100 --> 01:10:29,180
+Well, this could be extremely fast,
+
+1461
+01:10:29,440 --> 01:10:31,960
+and this could even be small.
+
+1462
+01:10:32,860 --> 01:10:34,480
+But every time you do a communication,
+
+1463
+01:10:34,800 --> 01:10:36,820
+you have to pay a
+fixed penalty for this latency.
+
+1464
+01:10:37,360 --> 01:10:38,000
+It adds up.
+
+1465
+01:10:38,620 --> 01:10:39,320
+Just adds up.
+
+1466
+01:10:39,820 --> 01:10:41,400
+You know, so, yeah,
+
+1467
+01:10:41,700 --> 01:10:43,620
+these networks I'm
+talking about over here,
+
+1468
+01:10:43,620 --> 01:10:45,620
+you need to be ultra-high bandwidth,
+
+1469
+01:10:46,140 --> 01:10:48,240
+so you need that number
+to be as big as possible.
+
+1470
+01:10:48,460 --> 01:10:50,420
+You need this number to
+be as small as possible,
+
+1471
+01:10:50,420 --> 01:10:52,440
+so that when you add them together,
+
+1472
+01:10:52,720 --> 01:10:55,360
+the time is the smallest
+possible thing that it could be.
+
+1473
+01:10:55,960 --> 01:10:57,880
+So, latency and bandwidth are
+going to come up a lot
+
+1474
+01:10:57,880 --> 01:10:59,380
+over and over again in here.
+
+1475
+01:11:00,220 --> 01:11:02,580
+And the difference
+between latency and bandwidth,
+
+1476
+01:11:02,740 --> 01:11:04,740
+something could be 100 megabytes a second,
+
+1477
+01:11:04,840 --> 01:11:07,660
+but what about if there
+are 100 gigabytes a second?
+
+1478
+01:11:07,780 --> 01:11:09,720
+But let's say the latency was 10 minutes.
+
+1479
+01:11:11,640 --> 01:11:12,300
+Like this.
+
+1480
+01:11:13,320 --> 01:11:13,560
+Less opposed.
+
+1481
+01:11:13,960 --> 01:11:16,480
+So I was driving a 12 passenger van,
+
+1482
+01:11:16,620 --> 01:11:17,880
+and you guys were going
+to go to the beach.
+
+1483
+01:11:19,500 --> 01:11:21,920
+That's a lot better
+than somebody riding a motorcycle
+
+1484
+01:11:21,920 --> 01:11:23,180
+over to the beach to get over there.
+
+1485
+01:11:23,580 --> 01:11:26,160
+The bandwidth in the motorcycle
+was one, maybe two people.
+
+1486
+01:11:28,520 --> 01:11:30,460
+A 12 passenger van has
+got a lot of people.
+
+1487
+01:11:30,900 --> 01:11:32,340
+But how long has it
+taken to drive to the beach?
+
+1488
+01:11:32,540 --> 01:11:33,440
+Well, if it's in the middle of the day,
+
+1489
+01:11:33,500 --> 01:11:34,560
+like it's been recently for me,
+
+1490
+01:11:34,680 --> 01:11:36,240
+it takes a long time to get there.
+
+1491
+01:11:36,380 --> 01:11:38,240
+That latency, it doesn't matter how
+many people are in the car.
+
+1492
+01:11:38,320 --> 01:11:39,380
+Sure, they all get over there,
+
+1493
+01:11:39,380 --> 01:11:42,280
+but it took a long time
+to get there once they sawed it.
+
+1494
+01:11:42,780 --> 01:11:43,960
+So same thing.
+
+1495
+01:11:44,160 --> 01:11:46,520
+Things like Ethernet that
+we're all commonly using,
+
+1496
+01:11:47,420 --> 01:11:47,780
+it's a latency.
+
+1497
+01:11:48,000 --> 01:11:48,420
+It's awful.
+
+1498
+01:11:49,000 --> 01:11:50,200
+It's god-awful.
+
+1499
+01:11:50,660 --> 01:11:52,120
+So you don't ever see real computers
+
+1500
+01:11:52,120 --> 01:11:53,300
+connected together with Ethernet.
+
+1501
+01:11:54,640 --> 01:11:56,040
+And obviously not wireless.
+
+1502
+01:11:57,460 --> 01:12:00,480
+Wireless is awful
+with respect to throughput.
+
+1503
+01:12:00,680 --> 01:12:01,680
+It's usually fiber-optic.
+
+1504
+01:12:02,440 --> 01:12:05,200
+Well, so fiber-optic refers
+to the physical media.
+
+1505
+01:12:06,020 --> 01:12:07,580
+So for example, you can have Ethernet
+
+1506
+01:12:07,580 --> 01:12:10,660
+that runs over fiber-optic cables.
+
+1507
+01:12:11,840 --> 01:12:14,780
+So the media, whether it's fiber-optics,
+
+1508
+01:12:14,900 --> 01:12:17,400
+whether it's copper wires,
+
+1509
+01:12:18,120 --> 01:12:19,780
+that has to do with the physical layer.
+
+1510
+01:12:20,740 --> 01:12:22,520
+But a lot of this also
+has to do with the combination
+
+1511
+01:12:22,520 --> 01:12:25,740
+of physical layer and
+the protocol layer and stuff.
+
+1512
+01:12:26,500 --> 01:12:27,420
+You know how they...
+
+1513
+01:12:27,420 --> 01:12:28,000
+What do they call that?
+
+1514
+01:12:28,080 --> 01:12:30,600
+The OSI network layer, the seven layer,
+
+1515
+01:12:30,820 --> 01:12:31,340
+blah, blah, blah, blah.
+
+1516
+01:12:31,840 --> 01:12:34,100
+I'm not a big networking person,
+
+1517
+01:12:34,400 --> 01:12:36,640
+but I know that those
+kind of things factor in there.
+
+1518
+01:12:36,920 --> 01:12:39,480
+So anyway, what do you
+need to do right now,
+
+1519
+01:12:39,660 --> 01:12:40,840
+between now and the next time?
+
+1520
+01:12:41,620 --> 01:12:44,300
+You need to get the book.
+
+1521
+01:12:45,180 --> 01:12:46,920
+Okay, whatever that first book was,
+
+1522
+01:12:46,960 --> 01:12:49,280
+this one right here,
+if you got listed there,
+
+1523
+01:12:49,820 --> 01:12:50,940
+you need to find it.
+
+1524
+01:12:54,800 --> 01:12:57,020
+And it was listed as like the book
+
+1525
+01:13:01,270 --> 01:13:02,890
+that we're supposed to
+be using for the class.
+
+1526
+01:13:03,230 --> 01:13:06,310
+So I see that it's
+with my bookstore or whatever.
+
+1527
+01:13:06,410 --> 01:13:07,210
+It's all in there.
+
+1528
+01:13:08,610 --> 01:13:09,630
+But definitely get that book.
+
+1529
+01:13:10,850 --> 01:13:12,550
+Definitely get the Pachinko text.
+
+1530
+01:13:16,410 --> 01:13:18,630
+Whether it's electronic, physical,
+
+1531
+01:13:18,870 --> 01:13:22,050
+grip-ball from the internet,
+whatever it is, get it.
+
+1532
+01:13:23,610 --> 01:13:25,250
+It's not like xi-books, you know,
+
+1533
+01:13:25,270 --> 01:13:26,910
+where you have to have xi-books, right?
+
+1534
+01:13:27,210 --> 01:13:28,930
+Because I want to
+have silence in xi-books.
+
+1535
+01:13:29,390 --> 01:13:31,410
+There's not going to
+be any assignments in Pachinko
+
+1536
+01:13:31,410 --> 01:13:33,530
+like where it's going
+to be integrated into Moodle.
+
+1537
+01:13:33,710 --> 01:13:35,090
+There might be an assignment out of it,
+
+1538
+01:13:35,090 --> 01:13:36,970
+but it doesn't matter whether
+you have a picture copy
+
+1539
+01:13:36,970 --> 01:13:38,830
+or electronic copy or this or that.
+
+1540
+01:13:39,370 --> 01:13:41,130
+You get what I'm
+saying, where it's like xi-books,
+
+1541
+01:13:41,130 --> 01:13:42,450
+like you wouldn't matter if
+you had a paper book,
+
+1542
+01:13:42,570 --> 01:13:43,050
+it'd be irrelevant.
+
+1543
+01:13:43,230 --> 01:13:44,970
+You'd have to have
+the electronic version of it.
+
+1544
+01:13:45,370 --> 01:13:46,650
+That's kind of what I'm trying to say.
+
+1545
+01:13:46,750 --> 01:13:48,130
+Get it however you think is the best
+
+1546
+01:13:48,130 --> 01:13:49,730
+versus the cost or whatever.
+
+1547
+01:13:50,570 --> 01:13:51,590
+What's the other thing?
+
+1548
+01:13:52,770 --> 01:13:56,170
+Hopefully, Trump's network will improve
+as the day goes on.
+
+1549
+01:13:57,330 --> 01:13:59,490
+And I'll be able to
+get the 200-megabyte zip file
+
+1550
+01:13:59,490 --> 01:14:02,090
+that has all of our slides and code
+
+1551
+01:14:02,090 --> 01:14:04,490
+and all that stuff in it.
+
+1552
+01:14:05,710 --> 01:14:08,550
+But I also want you to go ahead,
+
+1553
+01:14:08,550 --> 01:14:10,890
+and if you don't
+already have a CI account,
+
+1554
+01:14:11,470 --> 01:14:14,070
+you need to have one of these accounts.
+
+1555
+01:14:14,290 --> 01:14:16,170
+And we're not going to be using the CI...
+
+1556
+01:14:16,170 --> 01:14:17,750
+How many of you are
+familiar with the CI project here?
+
+1557
+01:14:17,970 --> 01:14:19,250
+Like ci.coastal.edu?
+
+1558
+01:14:19,490 --> 01:14:19,590
+Cool.
+
+1559
+01:14:19,790 --> 01:14:21,150
+That's most people.
+
+1560
+01:14:22,310 --> 01:14:24,030
+You need to be able to access that thing.
+
+1561
+01:14:24,090 --> 01:14:25,550
+Do you guys not
+know, don't have an account,
+
+1562
+01:14:25,670 --> 01:14:26,750
+don't know how to get into it?
+
+1563
+01:14:28,590 --> 01:14:28,810
+Good.
+
+1564
+01:14:29,070 --> 01:14:29,750
+Well, I'm not saying this.
+
+1565
+01:14:30,030 --> 01:14:31,610
+Make sure you can log in, all right?
+
+1566
+01:14:31,710 --> 01:14:35,150
+Because the Git repo that
+I use for the class
+
+1567
+01:14:35,390 --> 01:14:37,590
+is at code.coastal.edu,
+
+1568
+01:14:37,790 --> 01:14:41,090
+which uses the same
+authentication as the CI project,
+
+1569
+01:14:41,150 --> 01:14:43,790
+which is not
+necessarily your coastal stuff
+
+1570
+01:14:43,790 --> 01:14:46,030
+unless you have with a
+set of passwords the same way.
+
+1571
+01:14:48,130 --> 01:14:50,410
+So we won't really be using that really
+
+1572
+01:14:50,410 --> 01:14:52,910
+for actual or actual parallel programs,
+
+1573
+01:14:52,910 --> 01:14:56,270
+because we're going to be using our laptop
+
+1574
+01:14:56,270 --> 01:14:57,330
+and do a little bit of it.
+
+1575
+01:14:57,450 --> 01:14:59,010
+And then we're going
+to be using a supercomputer
+
+1576
+01:14:59,010 --> 01:15:00,590
+that we have in California.
+
+1577
+01:15:00,870 --> 01:15:05,130
+We have like a billion
+processor hours or something on it.
+
+1578
+01:15:07,750 --> 01:15:09,350
+So we're going to start next time
+
+1579
+01:15:09,350 --> 01:15:13,050
+with the programming stuff
+from this potential book
+
+1580
+01:15:13,050 --> 01:15:16,490
+that shows how to use the threads
+
+1581
+01:15:16,490 --> 01:15:19,190
+to do this global sum problem.
+
+1582
+01:15:19,470 --> 01:15:20,550
+We're going to actually run it.
+
+1583
+01:15:20,630 --> 01:15:21,510
+We're going to talk about it.
+
+1584
+01:15:22,010 --> 01:15:23,550
+And the thing that
+you'll see about this book
+
+1585
+01:15:23,550 --> 01:15:25,310
+that's kind of cool is
+the author will do like this.
+
+1586
+01:15:25,670 --> 01:15:28,770
+Hey, here's a draft one of
+how you expect to maybe do this.
+
+1587
+01:15:29,830 --> 01:15:30,850
+And you run it.
+
+1588
+01:15:31,150 --> 01:15:32,330
+It may or may not even work.
+
+1589
+01:15:32,810 --> 01:15:34,310
+If it doesn't work, you're like, why?
+
+1590
+01:15:34,870 --> 01:15:38,310
+If it works, then it'll say,
+cool, like, how long did it take?
+
+1591
+01:15:39,090 --> 01:15:40,810
+Do you see any problems with this thing?
+
+1592
+01:15:41,390 --> 01:15:42,770
+And then it'll be like,
+okay, now here's version two.
+
+1593
+01:15:42,950 --> 01:15:43,530
+It's slightly better.
+
+1594
+01:15:43,690 --> 01:15:44,470
+Here's version three.
+
+1595
+01:15:44,610 --> 01:15:45,230
+It's slightly better.
+
+1596
+01:15:45,690 --> 01:15:48,090
+Please kind of make sure
+that you grab the stuff
+
+1597
+01:15:48,090 --> 01:15:49,450
+so that we're going over it.
+
+1598
+01:15:49,970 --> 01:15:51,290
+You know, you have the stuff.
+
+1599
+01:15:51,450 --> 01:15:53,050
+If you want to be looking
+at it while you're in here,
+
+1600
+01:15:53,110 --> 01:15:54,190
+you can actually see the code.
+
+1601
+01:15:54,330 --> 01:15:55,590
+You can run it while we're in here.
+
+1602
+01:15:56,570 --> 01:15:58,490
+There's not going to be
+any requirement that you have that.
+
+1603
+01:15:58,610 --> 01:16:00,270
+If your battery doesn't
+last on your computer,
+
+1604
+01:16:00,590 --> 01:16:01,150
+it doesn't matter.
+
+1605
+01:16:01,350 --> 01:16:02,210
+We won't have to do that.
+
+1606
+01:16:02,210 --> 01:16:05,250
+But if you wanted to have that
+stuff, you could play with it live
+
+1607
+01:16:05,250 --> 01:16:06,930
+and ask questions or something.
+
+1608
+01:16:07,810 --> 01:16:09,550
+And assuming that this
+video is recording correctly,
+
+1609
+01:16:09,630 --> 01:16:11,990
+you can expect these to
+all be in Moodle, also accessible.
+
+1610
+01:16:12,670 --> 01:16:15,770
+And I'll generally put like a
+summary of what we discussed each day
+
+1611
+01:16:15,770 --> 01:16:18,810
+with each video so that you can go
+back and remember what was in each video.
+
+1612
+01:16:19,690 --> 01:16:22,470
+I shouldn't have to do that
+because I assume it's audio captioning
+
+1613
+01:16:22,470 --> 01:16:24,130
+and then I'll be able to say,
+take all those captions
+
+1614
+01:16:24,130 --> 01:16:24,810
+and write a summary.
+
+1615
+01:16:25,410 --> 01:16:26,830
+But I don't know who
+else does that or not.
+
+1616
+01:16:27,250 --> 01:16:29,990
+Anyway, take care, have a good
+one, and I'll see you next time.
+
+1617
+01:16:41,370 --> 01:16:43,330
+And if there are
+any of these extra syllabus,
+
+1618
+01:16:43,510 --> 01:16:46,430
+bring them up here and I'll
+throw them in on a book site.
+
+1619
+01:16:47,110 --> 01:16:47,910
+Sorry, I missed your email.
+
+1620
+01:16:48,430 --> 01:16:49,070
+Oh, dude, it's okay.
+
+1621
+01:16:49,270 --> 01:16:51,990
+I thought it was kind
+of like a global thing.
+
+1622
+01:16:52,170 --> 01:16:52,790
+Like you sent it to everybody?
+
+1623
+01:16:53,330 --> 01:16:55,250
+No, I only sent it
+to like a handful of people.
+
+1624
+01:16:55,510 --> 01:16:58,310
+Like I asked for
+recommendations from faculty and staff
+
+1625
+01:16:58,310 --> 01:16:59,750
+and math and computer science and said,
+
+1626
+01:16:59,870 --> 01:17:00,510
+who do you recommend?
+
+1627
+01:17:00,890 --> 01:17:02,030
+Would you do the look at this stuff?
+
+1628
+01:17:02,150 --> 01:17:03,110
+And your name was in there.
+
+1629
+01:17:03,450 --> 01:17:06,710
+So I sent out like an
+email to like maybe eight people.
+
+1630
+01:17:07,250 --> 01:17:07,410
+Right.
+
+1631
+01:17:07,950 --> 01:17:08,330
+That's too expensive.
+
+1632
+01:17:08,330 --> 01:17:09,730
+And two people showed up.
+
+1633
+01:17:11,830 --> 01:17:14,150
+I'm not opposed to whatever.
+
+1634
+01:17:14,530 --> 01:17:16,910
+I'm like, there's
+no interviews that happen.
+
+1635
+01:17:17,090 --> 01:17:18,790
+There's no job or thing.
+
+1636
+01:17:18,950 --> 01:17:21,250
+But I went and had an information
+session where I described
+
+1637
+01:17:21,250 --> 01:17:23,750
+what the job was.
+
+1638
+01:17:24,330 --> 01:17:27,770
+So the job is probably something like 10,
+15 hours a week and 90 dollars an hour.
+
+1639
+01:17:28,030 --> 01:17:30,210
+Only one meeting
+a week, virtually synchronously,
+
+1640
+01:17:30,270 --> 01:17:32,610
+where we have to know
+all the people in the silos.
+
+1641
+01:17:33,550 --> 01:17:36,010
+The press is where you get it done.
+
+1642
+01:17:36,010 --> 01:17:40,410
+We saw a problem that has to do with
+looking at how file system
+
+1643
+01:17:40,410 --> 01:17:42,050
+trees are changing over time.
+
+1644
+01:17:42,210 --> 01:17:42,850
+And it was a metric.
+
+1645
+01:17:43,410 --> 01:17:46,770
+And a bunch of like automatically
+generated trees to
+
+1646
+01:17:46,770 --> 01:17:48,310
+create patterns and metrics
+
+1647
+01:17:48,310 --> 01:17:52,070
+that you could then train, machine
+learning around to do some stuff.
+
+1648
+01:17:52,530 --> 01:17:53,470
+So that's what it was about.
+
+1649
+01:17:53,830 --> 01:17:55,550
+Was it over the summer type of thing?
+
+1650
+01:17:56,090 --> 01:17:56,510
+No, it was lit.
+
+1651
+01:17:56,870 --> 01:17:56,910
+Sorry.
+
+1652
+01:17:57,370 --> 01:18:01,430
+I did the information session Tuesday.
+
+1653
+01:18:02,210 --> 01:18:03,830
+And I'm hoping it will
+come the next week or so.
+
+1654
+01:18:03,830 --> 01:18:06,730
+I'm going to hire somebody to
+start working on orders for this semester.
+
+1655
+01:18:07,910 --> 01:18:11,090
+Possibly both semesters if things go well.
+
+1656
+01:18:11,830 --> 01:18:13,970
+I'll take a look at it and see.
+
+1657
+01:18:14,410 --> 01:18:15,010
+Yes, please.
+
+1658
+01:18:15,510 --> 01:18:16,370
+Take a look at it and see what you think.
+
+1659
+01:18:16,590 --> 01:18:19,330
+There's an English description in
+there about what the job is.
+
+1660
+01:18:20,190 --> 01:18:24,150
+I want to tell you,
+I can't see the syllabus.
+
+1661
+01:18:24,670 --> 01:18:27,970
+It might be like
+a separate honors Google page.
+
+1662
+01:18:29,670 --> 01:18:30,250
+That's a good one.
+
+1663
+01:18:31,830 --> 01:18:33,570
+Yep, that's exactly what it is.
+
+1664
+01:18:33,670 --> 01:18:34,210
+Send me an email.
+
+1665
+01:18:34,410 --> 01:18:36,690
+Remind me and I'll get
+them charged for two sections together.
+
+1666
+01:18:36,930 --> 01:18:37,290
+Oh, okay.
+
+1667
+01:18:38,370 --> 01:18:38,830
+Sounds good.
+
+1668
+01:18:38,910 --> 01:18:39,430
+Sir, how do you do?
+
+1669
+01:18:39,690 --> 01:18:41,850
+Sir, just add some items
+to track the level of course.
+
+1670
+01:18:42,370 --> 01:18:43,070
+And it's the first day.
+
+1671
+01:18:43,410 --> 01:18:45,310
+Is that going to be helpful?
+
+1672
+01:18:46,050 --> 01:18:47,570
+I already have links on the level.
+
+1673
+01:18:48,350 --> 01:18:49,270
+Yeah, it is good.
+
+1674
+01:18:50,330 --> 01:18:51,650
+How many minutes on there will be good?
+
+1675
+01:18:51,790 --> 01:18:52,710
+How many quarters do you have?
+
+1676
+01:18:53,690 --> 01:18:55,470
+It's an older one, so it's got a paper.
+
+1677
+01:18:56,250 --> 01:18:57,410
+That's good.
+
+1678
+01:18:57,410 --> 01:19:00,810
+That's good enough for just playing around
+and then making sure your code works.
+
+1679
+01:19:01,050 --> 01:19:04,550
+And then we can copy it up to the server
+and run it at a
+
+1680
+01:19:04,550 --> 01:19:06,230
+scale there, like 128 threads
+
+1681
+01:19:06,230 --> 01:19:08,230
+or whatever it is, that sort of thing.
+
+1682
+01:19:08,770 --> 01:19:10,370
+Probably still getting
+more accuracy at home
+
+1683
+01:19:10,370 --> 01:19:13,050
+because the processor on
+my computer at home
+
+1684
+01:19:13,050 --> 01:19:13,570
+is 60.
+
+1685
+01:19:13,950 --> 01:19:15,150
+I remember you were talking about that.
+
+1686
+01:19:15,750 --> 01:19:17,710
+Hopefully it's not that accurate.
+
+1687
+01:19:18,210 --> 01:19:20,550
+Hopefully we get the
+same answer either way.
+
+1688
+01:19:21,310 --> 01:19:23,750
+I mean, I have any processors
+that probably would be better accuracy.
+
+1689
+01:19:24,390 --> 01:19:27,290
+Well, when I think of accuracy, I
+think of like the sum of those numbers,
+
+1690
+01:19:27,430 --> 01:19:29,930
+they'd better be the same size
+of the computer I'm running on.
+
+1691
+01:19:30,490 --> 01:19:30,850
+Oh, yeah.
+
+1692
+01:19:31,710 --> 01:19:32,710
+Anyway, have a good one, man.
+
+1693
+01:19:33,010 --> 01:19:35,430
+Chris, what's going on?
+
+1694
+01:19:35,970 --> 01:19:36,570
+Not much.
+
+1695
+01:19:36,990 --> 01:19:40,850
+Definitely interesting to kind of take
+a look at the trade-off between like
+
+1696
+01:19:40,850 --> 01:19:47,270
+how you can balance
+the decreased effects on performance
+
+1697
+01:19:48,830 --> 01:19:51,710
+negatively of memory transfers and then
+the speed-up given
+
+1698
+01:19:51,710 --> 01:19:53,010
+more experimental errors.
+
+1699
+01:19:53,610 --> 01:19:54,710
+I mean, think about it.
+
+1700
+01:19:54,910 --> 01:19:58,610
+Like if you've only got one
+RAM memory bank on the computer,
+
+1701
+01:19:58,790 --> 01:20:01,150
+and if there's more cores, that means
+they're all trying to read and write
+
+1702
+01:20:01,150 --> 01:20:02,290
+for memory at the same time.
+
+1703
+01:20:03,510 --> 01:20:06,270
+So, yeah, you might.
+
+1704
+01:20:06,490 --> 01:20:08,050
+I mean, there will be
+a limit to how many threads.
+
+1705
+01:20:08,250 --> 01:20:10,750
+I mean, how many cores you
+can even have on your computer,
+
+1706
+01:20:10,910 --> 01:20:16,210
+not because of making the processors,
+but literally because they can't build
+
+1707
+01:20:16,370 --> 01:20:18,510
+a memory infrastructure that
+you can interact with.
+
+1708
+01:20:18,850 --> 01:20:20,610
+Because your cores are over here, right?
+
+1709
+01:20:21,410 --> 01:20:21,430
+Yeah.
+
+1710
+01:20:21,430 --> 01:20:22,510
+And your RAM is over here.
+
+1711
+01:20:22,730 --> 01:20:25,930
+You know, just that physical existence
+of light stuff is a problem.
+
+1712
+01:20:26,170 --> 01:20:30,630
+Now, that's why we're also building chips
+where the entire RAM is something right
+
+1713
+01:20:30,630 --> 01:20:31,350
+on top of this.
+
+1714
+01:20:31,350 --> 01:20:31,770
+Yeah, yeah.
+
+1715
+01:20:31,770 --> 01:20:32,130
+Oh, I see.
+
+1716
+01:20:32,610 --> 01:20:32,730
+Yeah.
+
+1717
+01:20:33,230 --> 01:20:34,310
+So-called hot-down memory.
+
+1718
+01:20:34,890 --> 01:20:35,730
+But guess what?
+
+1719
+01:20:35,830 --> 01:20:38,970
+If you look at that, it's not as
+big as the RAM that gets in there.
+
+1720
+01:20:39,430 --> 01:20:44,270
+And also, sometimes it suffers from other
+kinds of problems like failures and stuff.
+
+1721
+01:20:44,610 --> 01:20:45,370
+Because think about it.
+
+1722
+01:20:45,410 --> 01:20:46,550
+If your RAM fails, maybe you do.
+
+1723
+01:20:46,670 --> 01:20:48,090
+You just pop one out
+and put another one in.
+
+1724
+01:20:48,170 --> 01:20:52,470
+If your CPU fails, that's a lot more
+of an expensive thing
+
+1725
+01:20:52,470 --> 01:20:53,590
+than typically RAM is,
+
+1726
+01:20:53,630 --> 01:20:53,830
+right?
+
+1727
+01:20:54,170 --> 01:20:54,290
+Right.
+
+1728
+01:20:54,490 --> 01:20:56,210
+Because it's physically
+connected to the board.
+
+1729
+01:20:56,650 --> 01:20:59,010
+Yeah, like this RAM
+fan just messes up here.
+
+1730
+01:20:59,110 --> 01:21:00,130
+Well, that whole thing is garbage.
+
+1731
+01:21:00,650 --> 01:21:05,150
+Whereas one of these 16 DIMMs goes bad.
+
+1732
+01:21:05,490 --> 01:21:06,250
+That's not a big deal.
+
+1733
+01:21:07,770 --> 01:21:10,590
+But imagine like, let's suppose
+that once every five years,
+
+1734
+01:21:11,510 --> 01:21:12,950
+one DIMM goes bad, man.
+
+1735
+01:21:14,910 --> 01:21:17,350
+You've got a couple of thousand weathers.
+
+1736
+01:21:17,710 --> 01:21:22,030
+100,000 DIMMs spread out
+all over the data center.
+
+1737
+01:21:22,510 --> 01:21:24,610
+On average, how many
+DIMMs are breaking per day?
+
+1738
+01:21:26,130 --> 01:21:26,530
+Just think about it.
+
+1739
+01:21:27,430 --> 01:21:30,230
+If one has a failure
+rate of less than five years,
+
+1740
+01:21:30,650 --> 01:21:32,750
+what does the whole data
+center have a failure rate of?
+
+1741
+01:21:38,250 --> 01:21:41,130
+So imagine like how many people you'd
+have to have walking around in there,
+
+1742
+01:21:41,570 --> 01:21:43,530
+trying to just replace the DIMMs.
+
+1743
+01:21:44,530 --> 01:21:45,890
+Or you just don't worry about it.
+
+1744
+01:21:47,370 --> 01:21:48,910
+Maybe it's not even
+worth trying to replace.
+
+1745
+01:21:49,570 --> 01:21:52,870
+If you're a Google and this thing
+right here is some kind of modding thing
+
+1746
+01:21:52,870 --> 01:21:54,290
+because it's like $200 bucks,
+
+1747
+01:21:55,290 --> 01:21:57,150
+at some point you're
+like, all right, through it.
+
+1748
+01:21:57,310 --> 01:22:00,290
+I'm just going to throw this
+out, plug it up in there.
+
+1749
+01:22:00,290 --> 01:22:02,130
+I mean, I'm serious.
+
+1750
+01:22:02,310 --> 01:22:05,290
+Like, sometimes they run
+their data centers hot.
+
+1751
+01:22:05,470 --> 01:22:06,550
+Like, they don't care if stuff fails.
+
+1752
+01:22:06,970 --> 01:22:10,430
+Because they've written their stuff in
+a way that it's got immediate failover.
+
+1753
+01:22:10,970 --> 01:22:12,250
+It's like it's...
+
+1754
+01:22:12,250 --> 01:22:13,970
+That's just easy to over this.
+
+1755
+01:22:15,170 --> 01:22:18,110
+Like, whereas that would be a
+problem if one of the computers failed
+
+1756
+01:22:18,110 --> 01:22:20,290
+while the node was running a job,
+
+1757
+01:22:21,210 --> 01:22:23,090
+did that job now and totally jacked up.
+
+1758
+01:22:23,250 --> 01:22:26,110
+But if one of Google's servers fails
+
+1759
+01:22:26,110 --> 01:22:29,090
+while one person happens to
+be doing a Google search,
+
+1760
+01:22:29,090 --> 01:22:30,910
+it just doesn't page them.
+
+1761
+01:22:31,430 --> 01:22:34,110
+They just hit load,
+and then they're not there.
+
+1762
+01:22:34,530 --> 01:22:37,330
+Load distribution thing just moves it
+to a certain number of deals.
+
+1763
+01:22:37,850 --> 01:22:38,870
+Or if you try to get your email,
+
+1764
+01:22:39,510 --> 01:22:42,050
+it's not a big deal.
+
+1765
+01:22:43,290 --> 01:22:47,430
+If you have a job that's,
+for example, maybe it's not parallelizable
+
+1766
+01:22:47,430 --> 01:22:49,030
+because it's like a physics simulation,
+
+1767
+01:22:49,450 --> 01:22:50,750
+it has to run from something.
+
+1768
+01:22:51,450 --> 01:22:54,030
+If your node creates a
+stream, it will run from something.
+
+1769
+01:22:54,650 --> 01:22:58,350
+And it's running from, which is
+why they check to get around it.
+
+1770
+01:22:58,350 --> 01:22:59,750
+Yeah, I think we talked
+about check one, all right?
+
